@@ -9,7 +9,7 @@ author_profile: true
 
 <style>
 img {
-  width: 10em;
+  width: 8em;
 }
 </style>
 
