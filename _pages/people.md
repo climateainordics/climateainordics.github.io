@@ -29,13 +29,17 @@ We're a [network of researchers](https://ccai.cc/people/) who work on problems r
 <br break="all" />
 
 
-<span title="Listo Zec defended his MSc in engineering mathematics at Chalmers University of Technology in 2017. Researcher and PhD candidate at RISE Research Institutes of Sweden. Afiliated with RISE and Royal Institute of Technology."><strong>Edvin Listo Zec, MSc</strong></span>
+<span title="Listo Zec defended his MSc in engineering mathematics at Chalmers University of Technology in 2017. Researcher and PhD candidate at RISE Research Institutes of Sweden. Afiliated with RISE and Royal Institute of Technology."><strong>Edvin Listo Zec, MSc</strong></span>**
 
 [More info (researcher profile)](https://edvinli.github.io) * [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=Ft52aSsAAAAJ) * [https://dl-group.se](RISE Deep Learning Research Group)
 
 <br break="all" />
 
 
-<img style="float: right; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/mogren.png" />
-<img style="float: right; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/pirinen.jpg" />
-<img style="float: right; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/listozec.jpg" />
+<!--<img style="float: right; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/mogren.png" />//-->
+<!--<img style="float: right; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/pirinen.jpg" />//-->
+<!--<img style="float: right; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/listozec.jpg" />//-->
+
+![](/images/people/mogren.png)
+![](/images/people/pirinen.jpg)
+![](/images/people/listozec.jpg)
