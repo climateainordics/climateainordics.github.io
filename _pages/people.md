@@ -20,9 +20,7 @@ Senior researcher, head of the [https://dl-group.se](RISE Deep Learning Research
 
 Olof develops and investigates machine learning based solutions to problems related to the environment and climate change. This includes stream flow forecasting, soundscape analysis for biodiversity monitoring, and AI for circular business models. 
 
-* [More info (researcher profile)](https://mogren.one/)
-* [Publications (scholar)](https://scholar.google.se/citations?user=m_n28oAAAAAJ)
-* [https://dl-group.se](RISE Deep Learning Research Group)
+[More info (researcher profile)](https://mogren.one/) * [Publications (scholar)](https://scholar.google.se/citations?user=m_n28oAAAAAJ) * [https://dl-group.se](RISE Deep Learning Research Group)
 
 <br break="all" />
 
@@ -36,8 +34,13 @@ Senior researcher at RISE Research Institutes of Sweden.
 
 Aleksis' main research interest is to develop machine learning methods for a broad range of environmental applications (e.g. climate adaptation and humanitarian aid causes).
 
-* [More info (researcher profile)](https://aleksispi.github.io)
-* [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=paBGTgsAAAAJ)
+[More info (researcher profile)](https://aleksispi.github.io) * [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=paBGTgsAAAAJ) * [https://dl-group.se](RISE Deep Learning Research Group)
+
+<br break="all" />
+
+<span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations."><strong>Smita Chakraborty, PhD, RISE</strong></span>
+
+[Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=paBGTgsAAAAJ)
 
 <br break="all" />
 
@@ -51,8 +54,7 @@ Researcher and PhD candidate at RISE Research Institutes of Sweden.
 Afiliated with RISE and Royal Institute of Technology.
 
 
-* [More info (researcher profile)](https://edvinli.github.io)
-* [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=Ft52aSsAAAAJ)
+[More info (researcher profile)](https://edvinli.github.io) * [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=Ft52aSsAAAAJ) * [https://dl-group.se](RISE Deep Learning Research Group)
 
 <br break="all" />
 
