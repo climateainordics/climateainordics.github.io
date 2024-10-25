@@ -14,6 +14,8 @@ We're a [network of researchers](https://ccain.cc/people/) who work on problems 
 
 [Sign up to receive invitations to seminars and workshops, and to mark your affiliation with Climate Change AI Nordics](https://forms.gle/RJ6HgucfwR1eKFfM6)!
 
+If you prefer, feel free to instead sign up by sending your information to us by email, [ccainordics@gmail.com](mailto:ccainordics@gmail.com).
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSds9NcE7-f_6ynh_abDOzhwp-DdRoWpiof204UTVTJXcgNvxw/viewform?embedded=true" width="640" height="1505" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## [News](/news/)
