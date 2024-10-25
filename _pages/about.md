@@ -10,7 +10,7 @@ redirect_from:
 
 
 Welcome to _Climate Change AI Nordics_.
-We're a [network of researchers](https://ccai.cc/people/) who work on problems related to tackling climate change using AI and machine learning. We also host seminars and workshops, and send an occasional email.
+We're a [network of researchers](https://ccain.cc/people/) who work on problems related to tackling climate change using AI and machine learning. We also host seminars and workshops, and send an occasional email.
 
 [Sign up to receive invitations to seminars and workshops, and to mark your affiliation with Climate Change AI Nordics](https://forms.gle/RJ6HgucfwR1eKFfM6)!
 
