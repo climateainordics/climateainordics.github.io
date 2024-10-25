@@ -7,6 +7,12 @@ author_profile: true
 {% endif %}
 {% include base_path %}
 
+<style>
+img {
+  width: 10em;
+}
+</style>
+
 Welcome to _Climate Change AI Nordics_.
 We're a [network of researchers](https://ccai.cc/people/) who work on problems related to tackling climate change using AI and machine learning. We also host seminars and workshops, and send an occational email.
 
