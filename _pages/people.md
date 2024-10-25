@@ -26,6 +26,22 @@ Olof develops and investigates machine learning based solutions to problems rela
 
 <br break="all" />
 
+**Aleksis Pirinen, PhD**
+
+<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/pirinen.jpg" />
+
+Defended his PhD in computer vision at Lund University in 2021
+with the thesis [Reinforcement Learning for Active Visual Perception](https://lup.lub.lu.se/search/publication/6065e35e-b97b-44b8-97b0-a04fe3862a13).
+Senior researcher at RISE Research Institutes of Sweden.
+
+Aleksis' main research interest is to develop machine learning methods for a broad range of environmental applications (e.g. climate adaptation and humanitarian aid causes).
+
+* [More info (researcher profile)](https://aleksispi.github.io)
+* [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=paBGTgsAAAAJ)
+
+<br break="all" />
+
+
 **Edvin Listo Zec, MSc**
 
 <img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/listozec.jpg" />
