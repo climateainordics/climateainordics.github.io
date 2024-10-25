@@ -10,7 +10,7 @@ author_profile: true
 Welcome to _Climate Change AI Nordics_.
 We're a [network of researchers](https://ccai.cc/people/) who work on problems related to tackling climate change using AI and machine learning. We also host seminars and workshops, and send an occational email.
 
-<span title="Mogren defended his PhD in computer science at Chalmers University of Technology in 2018 with the thesis Representation Learning for Natural Language. Senior researcher, head of the https://dl-group.se, and responsible for deep learning research at RISE Research Institutes of Sweden. Olof develops and investigates machine learning based solutions to problems related to the environment and climate change. This includes stream flow forecasting, soundscape analysis for biodiversity monitoring, and AI for circular business models."><strong>Olof Mogren, PhD, RISE Research Institutes of Sweden</strong></span>
+<span title="Mogren defended his PhD in computer science at Chalmers University of Technology in 2018 with the thesis Representation Learning for Natural Language. Senior researcher, head of the https://dl-group.se, and responsible for deep learning research at RISE Research Institutes of Sweden. Olof develops and investigates machine learning based solutions to problems related to the environment and climate change. This includes stream flow forecasting, soundscape analysis for biodiversity monitoring, and AI for circular business models."><strong>Olof Mogren, PhD</strong></span>
 <br />
 [More info (researcher profile)](https://mogren.one/) * [Publications (scholar)](https://scholar.google.se/citations?user=m_n28oAAAAAJ) * [https://dl-group.se](RISE Deep Learning Research Group)
 
@@ -18,7 +18,7 @@ We're a [network of researchers](https://ccai.cc/people/) who work on problems r
 <br />
 [More info (researcher profile)](https://aleksispi.github.io) * [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=paBGTgsAAAAJ) * [https://dl-group.se](RISE Deep Learning Research Group)
 
-<span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations."><strong>Smita Chakraborty, PhD, RISE</strong></span>
+<span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations."><strong>Smita Chakraborty, PhD</strong></span>
 <br />
 [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=paBGTgsAAAAJ)
 
