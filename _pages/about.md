@@ -23,8 +23,3 @@ We're a [network of researchers](https://ccai.cc/people/) who work on problems r
 {% endfor %}
 
 
-## [People](/people/)
-
-* [Olof Mogren, PhD, RISE Research Institutes of Sweden](https://mogren.one/)
-
-

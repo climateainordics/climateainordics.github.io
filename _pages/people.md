@@ -26,3 +26,17 @@ Olof develops and investigates machine learning based solutions to problems rela
 
 <br break="all" />
 
+**Edvin Listo Zec, MSc**
+
+<img style="float: left; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/listozec.jpg" />
+
+Listo Zec defended his MSc in engineering mathematics at Chalmers University of Technology in 2017.
+Researcher and PhD candidate at RISE Research Institutes of Sweden.
+Afiliated with RISE and Royal Institute of Technology.
+
+
+* [More info (researcher profile)](https://edvinli.github.io)
+* [Publications (scholar)](https://scholar.google.se/citations?hl=sv&user=Ft52aSsAAAAJ)
+
+<br break="all" />
+
