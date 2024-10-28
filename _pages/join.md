@@ -1,11 +1,8 @@
 ---
-permalink: /
 title: "Join Climate Change AI Nordics"
 excerpt: "Join Climate Change AI Nordics"
 author_profile: true
-redirect_from: 
-  - /join/
-  - /join.html
+permalink: /join/
 ---
 
 
