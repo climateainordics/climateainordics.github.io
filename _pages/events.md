@@ -1,7 +1,6 @@
 ---
-title: News
+title: Events
 permalink: /events/
-author_profile: true
 ---
 {% if author.googlescholar %}
 {% endif %}

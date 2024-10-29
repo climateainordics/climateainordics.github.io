@@ -1,7 +1,6 @@
 ---
 title: News
 permalink: /news/
-author_profile: true
 ---
 {% if author.googlescholar %}
 {% endif %}
