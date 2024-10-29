@@ -18,7 +18,7 @@ We're a [network of researchers](https://ccai.cc/people/) who work on problems r
 
 <span title="Mogren defended his PhD in computer science at Chalmers University of Technology in 2018 with the thesis Representation Learning for Natural Language. Senior researcher, head of the https://dl-group.se, and responsible for deep learning research at RISE Research Institutes of Sweden. Olof develops and investigates machine learning based solutions to problems related to the environment and climate change. This includes stream flow forecasting, soundscape analysis for biodiversity monitoring, and AI for circular business models."><strong>Olof Mogren, RISE</strong></span>
 <br />
-[More info (researcher profile)](https://mogren.one/) * [Publications (scholar)](https://scholar.google.se/citations?user=m_n28oAAAAAJ) * [RISE Deep Learning Research Group](https://dl-group.se)
+[More info (researcher profile)](https://mogren.one/) * [Publications (scholar)](https://scholar.google.se/citations?user=m_n28oAAAAAJ) * [RISE Deep Learning Research Group](https://dl-group.se) * [ORCID](https://orcid.org/0000-0002-9567-2218)
 
 <span title="Professor in Computational linguistics. Uppsala University."><strong>Joakim Nivre, Uppsala University</strong></span>
 <br />
