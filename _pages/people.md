@@ -40,7 +40,7 @@ We're a [network of researchers](https://ccai.cc/people/) who work on problems r
 <br />
 [Publications (scholar)](https://scholar.google.com/citations?user=6kgSitUAAAAJ&hl=en) * [ORCID](https://orcid.org/0000-0002-2218-431X)
 
-<span title="Listo Zec defended his MSc in engineering mathematics at Chalmers University of Technology in 2017. Researcher and PhD candidate at RISE Research Institutes of Sweden. Afiliated with RISE and Royal Institute of Technology."><strong>Edvin Listo Zec, MSc</strong></span>
+<span title="Listo Zec defended his MSc in engineering mathematics at Chalmers University of Technology in 2017. Researcher and PhD candidate at RISE Research Institutes of Sweden. Afiliated with RISE and Royal Institute of Technology."><strong>Edvin Listo Zec, RISE</strong></span>
 <br />
 [More info (researcher profile)](https://edvinli.github.io) * [Publications (scholar)](https://scholar.google.se/citations?user=Ft52aSsAAAAJ) * [RISE Deep Learning Research Group](https://dl-group.se)
 
