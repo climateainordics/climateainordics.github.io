@@ -31,3 +31,10 @@ We hope that the collaborative nature of CCAIN will accelerate progress in this 
 {% endfor %}
 
 
+## [Events](/events/)
+
+{% for p in site.categories.events limit: 5 %}
+* {{p.date | date: '%Y-%m-%d'}}: {{ p.title }} [(Read more)]({{ p.url }})
+{% endfor %}
+
+
