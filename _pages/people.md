@@ -57,5 +57,5 @@ We're a [network of researchers](https://ccai.cc/people/) who work on problems r
 <!--<img style="float: right; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/pirinen.jpg" />//-->
 <!--<img style="float: right; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/listozec.jpg" />//-->
 
-![](/images/people/mogren.png)
-![](/images/people/pirinen.jpg)
+<!--![](/images/people/mogren.png)//-->
+<!--![](/images/people/pirinen.jpg)//-->
