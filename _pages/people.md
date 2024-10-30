@@ -59,4 +59,3 @@ We're a [network of researchers](https://ccai.cc/people/) who work on problems r
 
 ![](/images/people/mogren.png)
 ![](/images/people/pirinen.jpg)
-![](/images/people/listozec.jpg)
