@@ -3,8 +3,6 @@ title: People
 permalink: /people/
 author_profile: true
 ---
-{% if author.googlescholar %}
-{% endif %}
 {% include base_path %}
 
 <style>
