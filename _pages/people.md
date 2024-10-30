@@ -26,7 +26,7 @@ We're a [network of researchers](https://ccai.cc/people/) who work on problems r
 
 <span title="Professor in Computational linguistics. Uppsala University."><strong>Joakim Nivre, Uppsala University</strong></span>
 <br />
-[Publications (scholar)](https://scholar.google.se/citations?user=lLBHtFUAAAAJ)
+[Publications (scholar)](https://scholar.google.se/citations?user=lLBHtFUAAAAJ) * [ORCID](https://orcid.org/0000-0002-7873-3971)
 
 <span title="Research focus: Computer Vision & Machine Learning. University of Copenhagen / Pioneer Centre for AI."><strong>Serge Belongie, University of Copenhagen / Pioneer Centre for AI</strong></span>
 <br />
