@@ -14,6 +14,8 @@ Join us for The 2025 Nordic Workshop on AI for Tackling Climate Change, the firs
 
 *Oisin Mac Aodha is a Reader (aka Associate Professor) in Machine Learning in the School of Informatics at the University of Edinburgh (UoE). He was a Turing Fellow from 2021 to 2024, currently an ELLIS Scholar, and a founder of the Turing interest group on biodiversity monitoring and forecasting. Oisin's current research interests are in the areas of computer vision and machine learning, with a specific emphasis on 3D understanding, human-in-the-loop methods, and computational challenges in biodiversity monitoring.*
 
+More speakers will be added soon.
+
 The workshop is organized by [CLIMES, The Swedish Centre for Impacts of Climate Extremes](https://climes.se/) in collaboration with [RISE](https://ri.se/) and [Climate Change AI Nordics, CCAIN](https://ccain.cc/). The day will end with a poster session and dinner.
 
 The first 80 participants will register for free, while further attendees will have to cover the cost for their seat.
