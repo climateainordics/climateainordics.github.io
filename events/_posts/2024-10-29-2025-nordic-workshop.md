@@ -16,6 +16,9 @@ Join us for The 2025 Nordic Workshop on AI for Tackling Climate Change, the firs
 
 More speakers will be added soon.
 
+**Date and time:** 2025-05-13, 09:00-18:00 + Social dinner until late
+**Place:** Gothenburg, Sweden
+
 The workshop is organized by [CLIMES, The Swedish Centre for Impacts of Climate Extremes](https://climes.se/) in collaboration with [RISE](https://ri.se/) and [Climate Change AI Nordics, CCAIN](https://ccain.cc/). The day will end with a poster session and dinner.
 
 The first 80 participants will register for free, while further attendees will have to cover the cost for their seat.
