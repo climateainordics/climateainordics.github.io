@@ -50,6 +50,10 @@ We're a [network of researchers](https://ccai.cc/people/) who work on problems r
 <br />
 [More info (researcher profile)](https://edvinli.github.io) * [Publications (scholar)](https://scholar.google.se/citations?user=Ft52aSsAAAAJ) * [Research Group](https://dl-group.se)
 
+<span title=""><strong>John Martinsson, RISE</strong></span>
+<br />
+[More info (researcher profile)](https://johnmartinsson.github.io) * [Publications (scholar)](https://scholar.google.com/citations?user=sAMIwlMAAAAJ&hl=sv&oi=ao) * [Research Group](https://dl-group.se)* [ORCID](https://orcid.org/0000-0002-5032-4367)
+
 
 <!--<img style="float: right; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/mogren.png" />//-->
 <!--<img style="float: right; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/pirinen.jpg" />//-->
