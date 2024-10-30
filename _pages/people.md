@@ -52,7 +52,7 @@ We're a [network of researchers](https://ccai.cc/people/) who work on problems r
 
 <span title="Defended his MSc in computer science at Chalmers University of Technology in 2017. Researcher and PhD candidate at RISE Research Institutes of Sweden. Also afiliated with Lund University."><strong>John Martinsson, RISE, Lund University</strong></span>
 <br />
-[More info (researcher profile)](https://johnmartinsson.github.io) * [Publications (scholar)](https://scholar.google.com/citations?user=sAMIwlMAAAAJ&hl=sv&oi=ao) * [Research Group](https://dl-group.se)* [ORCID](https://orcid.org/0000-0002-5032-4367)
+[More info (researcher profile)](https://johnmartinsson.github.io) * [Publications (scholar)](https://scholar.google.com/citations?user=sAMIwlMAAAAJ&hl=sv&oi=ao) * [Research Group](https://dl-group.se) * [ORCID](https://orcid.org/0000-0002-5032-4367)
 
 
 <!--<img style="float: right; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/mogren.png" />//-->
