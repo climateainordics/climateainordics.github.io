@@ -14,5 +14,9 @@ By joining CCAIN, you will receive invitations to seminars and workshops, and yo
 
 If you prefer, feel free to instead sign up by sending your information to us by email, [ccainordics@gmail.com](mailto:ccainordics@gmail.com).
 
+If you or your organization want to support our work through sponsorship, send us an email: [ccainordics@gmail.com](mailto:ccainordics@gmail.com).
+
+If you have news or events relevant to AI for Climate Change in the Nordic region, feel free to inform us about this.
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSds9NcE7-f_6ynh_abDOzhwp-DdRoWpiof204UTVTJXcgNvxw/viewform?embedded=true" width="640" height="1505" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
