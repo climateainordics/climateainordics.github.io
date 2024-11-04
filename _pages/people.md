@@ -30,6 +30,10 @@ We're a [network of researchers](https://ccai.cc/people/) who work on problems r
 <br />
 [More info (researcher profile)](https://sergebelongie.github.io) * [Publications (scholar)](https://scholar.google.com/citations?user=chD5XxkAAAAJ) * [Research Group](https://www.belongielab.org) * [ORCID](https://orcid.org/0000-0002-0388-5217)
 
+<span title="Gabriele's main research interests are physical drivers of extreme weather and extreme weather impacts. He uses a range of approaches, including dynamical systems theory, machine learning and other statistical analyses. Other research interests include meridional energy transport in the atmosphere and large-scale atmospheric dynamics."><strong>Gabriele Messori, Uppsala University</strong></span>
+<br />
+[More info (researcher profile)](https://gmessori.eu/) * [Publications (scholar)](https://scholar.google.com/citations?user=-WBcShwAAAAJ) * [ORCID](https://orcid.org/0000-0002-2032-5211)
+
 <span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. RISE Research Institutes of Sweden."><strong>Smita Chakraborty, RISE</strong></span>
 <br />
 [Publications (scholar)](https://scholar.google.se/citations?user=jNjW5kIAAAAJ)
@@ -54,6 +58,13 @@ We're a [network of researchers](https://ccai.cc/people/) who work on problems r
 <br />
 [More info (researcher profile)](https://johnmartinsson.github.io) * [Publications (scholar)](https://scholar.google.com/citations?user=sAMIwlMAAAAJ&hl=sv&oi=ao) * [Research Group](https://dl-group.se) * [ORCID](https://orcid.org/0000-0002-5032-4367)
 
+
+<!--
+<span title=""><strong>Name, Affiliation</strong></span>
+<br />
+[More info (researcher profile)]() * [Publications (scholar)]() * [Research Group]() * [ORCID]()
+
+//-->
 
 <!--<img style="float: right; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/mogren.png" />//-->
 <!--<img style="float: right; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/pirinen.jpg" />//-->
