@@ -1,6 +1,6 @@
 ---
 title: Frontiers in machine learning for weather forecasting
-shortversion: "RISE Learning Machines seminars. <br /> <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rSKuWHuA_CU?si=xwWcYTa_3Af5byFi\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> [Read more!](/events/2024-11-07-frontiers-in)"
+shortversion: "RISE Learning Machines seminars. Webinar with Joel Oskarsson, Linköping University. [Read more!](/events/2024-11-07-frontiers-in)"
 people:
 - Olof Mogren
 permalink: /events/2024-11-07-frontiers-in
