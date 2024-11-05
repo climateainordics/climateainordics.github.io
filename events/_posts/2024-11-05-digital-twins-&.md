@@ -1,0 +1,41 @@
+---
+title: Digital Twins & observation systems for monitoring marine biodiversity and change
+shortversion: "RISE Learning Machines seminars. Webinar with Matthias Obst, University of Gothenburg. [Read more!](/events/2024-11-05-digital-twins-&)"
+people:
+- Olof Mogren
+permalink: /events/2024-11-05-digital-twins-&
+--- 
+Welcome to this week's Learning Machines seminar.
+
+**Title:** Digital Twins & observation systems for monitoring marine biodiversity and change
+
+**Speaker:** Matthias Obst, University of Gothenburg
+
+**Abstract:** Biological monitoring needs to improve radically to serve our understanding of marine ecosystems and biodiversity under long-term global change and multiple stressors. Over the last decade many new monitoring technologies including genomics and image-based surveillance have become available to marine biologists. However, the transformation to such new high-throughput methods is not trivial as they produce enormous volumes of data. The Digital Twin of the Ocean (DTO) program of the European Commission will answer to these challenges and develop an analytical environment that brings together data, models, and algorithms to support effective monitoring, restoration, and management of marine ecosystems by 2030. Sweden plays an active role in the DTO program, and this talk will introduce some examples of new monitoring methods, tools and analytical services developed by Swedish partners, including the Genetic Biodiversity Observatory Networks and the Swedish platform for subsea image analysis (SUBSIM).
+
+**About the speaker:** Matthias Obst has 17 years of experience as academic researcher, infrastructure developer, project manager and entrepreneur in the marine environmental sector. His scientific expertise is in the area of marine evolution, benthic ecology and biodiversity monitoring. In his research, he establishes and tests harmonized and automated observation systems for biological diversity in the sea, spanning from genetic sensors to citizen observatories. He is also developing methods and infrastructure to capture and integrate such data to enable inter-disciplinary research for the protection and management of marine life.        ,
+,
+He is the consortium chair of the Swedish Biodiversity Data Infrastructure (www.biodiversitydata.se) and responsible for user support and research on the infrastructure. As part of this assignment he is in the organising committee for the upcoming a conference on “Data-driven Ecology” https://biodiversitydata.se/event/sbdi-days-2024-towards-data-driven-ecology/. He developed one of the leading eDNA labs in the country (SweDNA lab), also including a commercial branch (www.seanalytics.se) for DNA-based monitoring. Their tools and services are used in both in evolutionary biology as well as conservation research.
+
+**Location:** Lindholmsallén 10, Gothenburg, or online using Zoom.
+
+**Date:** 2024-10-17 15:00
+
+
+
+
+This seminar will have an in-person presence at RISE office in Gothenburg located at [Lindholmsallén 10](https://maps.app.goo.gl/wt4QAqnbSHF8i7Fu5), third floor. Make sure that you arrive in good time and ring the bell at the door.
+
+
+**Upcoming seminars:**
+
+* 2024-10-24: Ankit Kariryaa, University of Copenhagen, **digital and physical: Scheelevägen 17, Lund**
+* 2024-11-07: Joel Oskarsson, Linköping University
+* 2024-11-14: Abdulhakim Abdi, Lund University, **digital and physical: Scheelevägen 17, Lund**
+* 2024-11-21: Alp Kucukelbir, Columbia University
+* All seminars are 15:00 CET.
+
+More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
+
+-- The Learning Machines Team
+
