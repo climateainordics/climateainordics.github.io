@@ -6,3 +6,7 @@
 <br />
 
 
+<span title="nan"><strong>Alireza Taheri Dehkordi, Lund University</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?hl=en&user=_ux1Jn0AAAAJ&view_op=list_works&sortby=pubdate)
+
