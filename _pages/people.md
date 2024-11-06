@@ -34,6 +34,10 @@ We're a [network of researchers](https://ccai.cc/people/) who work on problems r
 <br />
 [More info (researcher profile)](https://gmessori.eu/) * [Publications (scholar)](https://scholar.google.com/citations?user=-WBcShwAAAAJ) * [ORCID](https://orcid.org/0000-0002-2032-5211)
 
+<span title="Associate Professor, Karlstad University"><strong>Stefanos Georganos, Karlstad University</strong></span>
+<br />
+[Publications (scholar)](https://scholar.google.com/citations?user=OLTr-XYAAAAJ) * [Research Group]() * [ORCID](https://orcid.org/0000-0002-0001-2058)
+
 <span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. RISE Research Institutes of Sweden."><strong>Smita Chakraborty, RISE</strong></span>
 <br />
 [Publications (scholar)](https://scholar.google.se/citations?user=jNjW5kIAAAAJ)
