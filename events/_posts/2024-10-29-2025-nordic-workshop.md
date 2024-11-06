@@ -20,13 +20,13 @@ Join us for The 2025 Nordic Workshop on AI for Tackling Climate Change, the firs
 
 **Oisin Mac Aodha**, University of Edinburgh
 
-![](macaodha.jpg)
+![](/events/2025-nordic-workshop/macaodha.jpg)
 
 *Oisin Mac Aodha is a Reader (aka Associate Professor) in Machine Learning in the School of Informatics at the University of Edinburgh (UoE). He was a Turing Fellow from 2021 to 2024, currently an ELLIS Scholar, and a founder of the Turing interest group on biodiversity monitoring and forecasting. Oisin's current research interests are in the areas of computer vision and machine learning, with a specific emphasis on 3D understanding, human-in-the-loop methods, and computational challenges in biodiversity monitoring.*
 
 **Stefanos Georganos**, Karlstad University
 
-![](georganos.jpg)
+![](/events/2025-nordic-workshop/georganos.jpg)
 
 *Stefanos is an Associate Professor in Geomatics at Karlstad University. He does research in quantitative human geography, remote sensing, spatial epidemiology, demography and machine learning. He is particularly interested in the use of geo-information for helping address the UN Sustainable Development Goals, with a geographical interest in sub-Saharan African cities. His latest research unravels the potential of machine and deep learnning and Earth Observation to detect, measure and characterize socio-economic inequalities in deprived urban areas in support of the most vulnerable populations. Stefanos is the co-Chair of the European's Assosciation of Remote Sensing Laboratories Special Interest Group on Developing Countries. He has coordinated and managed large international consortia such as REACT (https://react.ulb.be/).*
 
