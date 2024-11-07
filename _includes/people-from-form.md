@@ -22,7 +22,3 @@ Computer vision *  Machine learning *  Deep learning *  Fluid dynamics *  meteor
 <br />
 Earth observation *  Climate modeling *  Sustainable transport *  Machine learning *  Deep learning *  Extreme weather * [More info (researcher profile)](https://joeloskarsson.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=YQaxGpkAAAAJ) * [ORCID](https://orcid.org/0000-0002-8201-0282)
 
-<span title="nan"><strong>Stefanos Georganos, Karlstad University</strong></span>
-<br />
-Geomatics *  Earth observation * [Publications (Scholar)](https://scholar.google.com/citations?user=OLTr-XYAAAAJ) * [ORCID](https://orcid.org/0000-0002-0001-2058)
-
