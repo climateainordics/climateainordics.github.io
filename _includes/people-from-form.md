@@ -2,19 +2,19 @@
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=D864NLwAAAAJ) * [ORCID](https://orcid.org/0009-0005-5507-4829)
 
-<span title="nan"><strong>Kévin Dubois, Uppsala University</strong></span>
+<span title=""><strong>Kévin Dubois, Uppsala University</strong></span>
 <br />
 
 
-<span title="nan"><strong>Jie Zhang, Uppsala University</strong></span>
+<span title=""><strong>Jie Zhang, Uppsala University</strong></span>
 <br />
 
 
-<span title="nan"><strong>Alireza Taheri Dehkordi, Lund University</strong></span>
+<span title=""><strong>Alireza Taheri Dehkordi, Lund University</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?hl=en&user=_ux1Jn0AAAAJ&view_op=list_works&sortby=pubdate)
 
-<span title="nan"><strong>Ashwin Vishnu Mohanan, RISE Research Institutes of Sweden</strong></span>
+<span title=""><strong>Ashwin Vishnu Mohanan, RISE Research Institutes of Sweden</strong></span>
 <br />
 Computer vision *  Machine learning *  Deep learning *  Fluid dynamics *  meteorology *  HPC * [More info (researcher profile)](https://fluid.quest) * [ORCID](https://orcid.org/0000-0002-2979-6327)
 
