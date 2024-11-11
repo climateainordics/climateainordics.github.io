@@ -14,6 +14,9 @@ permalink: /events/
 {% for p in site.categories.events %}
 
 ## {{ p.title }}
+{% if p.event_date %}
+<span style="color:grey;">*{{p.event_date | date: '%Y-%m-%d'}}*</span>
+{% endif %}
 
 {% if p.image %}
 <img src="{{ p.image }}" style="float: right; width: 25%;" />
