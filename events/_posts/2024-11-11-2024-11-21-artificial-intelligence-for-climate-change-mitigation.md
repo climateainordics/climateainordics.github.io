@@ -4,6 +4,7 @@ shortversion: "RISE Learning Machines seminars. Webinar with Alp Kucukelbir, Col
 people:
 - Olof Mogren
 permalink: /events/2024-11-11-2024-11-21-artificial-intelligence-for-climate-change-mitigation
+event_date: 2024-11-21
 --- 
 Welcome to this week's Learning Machines seminar.
 

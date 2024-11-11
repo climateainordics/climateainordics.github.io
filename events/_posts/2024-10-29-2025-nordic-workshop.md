@@ -4,6 +4,7 @@ shortversion: "2025 Nordic Workshop on AI for Tackling Climate Change will take 
 people:
 - Olof Mogren
 permalink: /events/2025-nordic-workshop
+event_date: 2025-05-13
 ---
 
 <style>

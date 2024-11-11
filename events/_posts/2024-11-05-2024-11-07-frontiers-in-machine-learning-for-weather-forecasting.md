@@ -4,6 +4,7 @@ shortversion: "RISE Learning Machines seminars. Webinar with Joel Oskarsson, Lin
 people:
 - Olof Mogren
 permalink: /events/2024-11-05-2024-11-07-frontiers-in-machine-learning-for-weather-forecasting
+event_date: 2024-11-07
 --- 
 Welcome to this week's Learning Machines seminar.
 
