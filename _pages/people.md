@@ -38,6 +38,10 @@ We're a [network of researchers](https://ccai.cc/people/) who work on problems r
 <br />
 [Publications (scholar)](https://scholar.google.com/citations?user=OLTr-XYAAAAJ) * [Research Group]() * [ORCID](https://orcid.org/0000-0002-0001-2058)
 
+<span title="Lecturer in ecology, working on ML applications for observing animals in the wild, mainly seabirds. "><strong>Jonas Hentati Sundberg, Swedish University of Agricultural Sciences</strong></span>
+<br />
+Biodiversity *  Marine ecology *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.slu.se/cv/jonas-hentati-sundberg/) * [Publications (Scholar)](https://scholar.google.com/citations?user=dHsj2swAAAAJ&hl=en) * [ORCID](https://orcid.org/0000-0002-3201-9262)
+
 <span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. RISE Research Institutes of Sweden."><strong>Smita Chakraborty, RISE</strong></span>
 <br />
 [Publications (scholar)](https://scholar.google.se/citations?user=jNjW5kIAAAAJ)
