@@ -30,3 +30,7 @@ Earth observation *  Climate modeling *  Sustainable production *  Efficient or 
 <br />
 Earth observation *  Climate modeling *  Efficient or sustainable AI *  NLP *  Computer vision *  Machine learning *  Deep learning * [Publications (Scholar)](https://scholar.google.com/citations?user=R2vPpCUAAAAJ&hl=en&oi=ao)
 
+<span title="Lecturer in ecology, working on ML applications for observing animals in the wild, mainly seabirds. "><strong>Jonas Hentati Sundberg, Swedish University of Agricultural Sciences</strong></span>
+<br />
+Biodiversity *  Marine ecology *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.slu.se/cv/jonas-hentati-sundberg/) * [Publications (Scholar)](https://scholar.google.com/citations?user=dHsj2swAAAAJ&hl=en) * [ORCID](https://orcid.org/0000-0002-3201-9262)
+
