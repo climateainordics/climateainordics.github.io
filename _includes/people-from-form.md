@@ -30,3 +30,7 @@ Earth observation *  Climate modeling *  Sustainable production *  Efficient or 
 <br />
 Earth observation *  Climate modeling *  Efficient or sustainable AI *  NLP *  Computer vision *  Machine learning *  Deep learning * [Publications (Scholar)](https://scholar.google.com/citations?user=R2vPpCUAAAAJ&hl=en&oi=ao)
 
+<span title="PhD student at Karlstad University working at the intersection of AI and Energy. Co-founder of AfriClimate AI (https://www.africlimate.ai) and co-chair of the Deep Learning Indaba (https://deeplearningindaba.com/2024/)."><strong>Amal Nammouchi, Karlstad University</strong></span>
+<br />
+Sustainable cities *  Sustainable production *  Efficient or sustainable AI *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.kau.se/en/researchers/amal-nammouchi) * [Research group](https://www.uu.se/forskning/solve#:~:text=SOLVE%20är%20ett%20konsortium%20av,solenergi%20i%20det%20svenska%20elnätet.) * [Publications (Scholar)](https://scholar.google.se/citations?user=CALEjIEAAAAJ&hl=en)
+
