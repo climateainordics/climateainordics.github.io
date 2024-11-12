@@ -43,7 +43,7 @@ With over a decade of experience in community building and international develop
 
 ![](/events/2025-nordic-workshop/thulke.jpg)
 
-*David Thulke is a PhD student within the Human Language Technology Group at the Chair of Computer Science 6 of the RWTH Aachen University supervised by Prof. Dr.-Ing. Hermann Ney. He also works as a language processing scientist at AppTek.*
+*David Thulke is a PhD student within the Human Language Technology Group at the Chair of Computer Science 6 of the RWTH Aachen University supervised by Prof. Dr.-Ing. Hermann Ney. In addition to numerous other works on language models and retrieval augmented generation, he is the first author of ClimateGPT, a model family of domain-specific large language models that synthesize interdisciplinary research on climate change. He also works as a language processing scientist at AppTek.*
 
 More speakers will be added soon.
 
