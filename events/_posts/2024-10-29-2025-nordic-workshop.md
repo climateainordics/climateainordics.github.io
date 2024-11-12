@@ -31,6 +31,14 @@ Join us for The 2025 Nordic Workshop on AI for Tackling Climate Change, the firs
 
 *Stefanos Georganos is an Associate Professor in Geomatics at Karlstad University. He does research in quantitative human geography, remote sensing, spatial epidemiology, demography and machine learning. He is particularly interested in the use of geo-information for helping address the UN Sustainable Development Goals, with a geographical interest in sub-Saharan African cities. His latest research unravels the potential of machine and deep learnning and Earth Observation to detect, measure and characterize socio-economic inequalities in deprived urban areas in support of the most vulnerable populations.*
 
+**Amal Nammouchi**, Karlstad University and AfriClimate AI
+
+![](/events/2025-nordic-workshop/nammouchi.jpg)
+
+*Amal is a PhD candidate at Karlstad University, focusing on robust optimization and control models for renewable energy communities under uncertainty.
+She is a co-founder of AfriClimate AI, a community-driven non-profit organization that brings AI-powered solutions to climate challenges across Africa through capacity building, research, and innovation.
+With over a decade of experience in community building and international development, Amal has held numerous leadership roles, including Vice President of JCI El Alia (twice), Chairwoman of IEEE SUPCOM SB, General chair of the IndabaX Tunisia 2019, and Committee Chair at the Deep Learning Indaba 2024, helping foster the next generation of AI talent in Africa.*
+
 More speakers will be added soon.
 
 **Date and time:** 2025-05-13, 09:00-18:00 + Social dinner until late
