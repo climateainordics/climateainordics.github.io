@@ -30,6 +30,10 @@ layout: default
         {% if page.event_date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Event date:</strong> {{page.event_date | date: '%Y-%m-%d'}}</time></p>
         {% endif %}
+        {% if page.event_location %}
+          <p class="page__date"><strong><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>Event location:</strong> {{page.event_location}}</time></p>
+        {% endif %}
+
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
