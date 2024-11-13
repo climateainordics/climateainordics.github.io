@@ -31,6 +31,12 @@ Join us for The 2025 Nordic Workshop on AI for Tackling Climate Change, the firs
 
 *Stefanos Georganos is an Associate Professor in Geomatics at Karlstad University. He does research in quantitative human geography, remote sensing, spatial epidemiology, demography and machine learning. He is particularly interested in the use of geo-information for helping address the UN Sustainable Development Goals, with a geographical interest in sub-Saharan African cities. His latest research unravels the potential of machine and deep learnning and Earth Observation to detect, measure and characterize socio-economic inequalities in deprived urban areas in support of the most vulnerable populations.*
 
+**Edmond Sacre**, Swedish University of Agricultural Sciences
+
+![](/events/2025-nordic-workshop/sacre.jpg)
+
+*E. Sacre is a researcher at the Swedish University of Agricultural Sciences (SLU) within the Department of Aquatic Resources (SLU Aqua). He obtained his PhD in 2019 at James Cook University, Australia, within the Australian Research Council Centre of Excellence for Coral Studies. At SLU Aqua, Edmond works within the Unit for Conservation and Marine Spatial Planning where he has been employed since 2019. He is involved in a variety of national and international projects focused on species distribution modeling, spatial conservation planning, cumulative impact assessment, and connectivity modeling. These projects include Protect Baltic (EU-Horizon), Western Indian Ocean Symphony (Swedish Agency for Marine and Water Management), and other national mapping projects.*
+
 **Amal Nammouchi**, Karlstad University and AfriClimate AI
 
 ![](/events/2025-nordic-workshop/nammouchi.jpg)
