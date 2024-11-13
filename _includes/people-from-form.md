@@ -34,3 +34,7 @@ Earth observation *  Climate modeling *  Efficient or sustainable AI *  NLP *  C
 <br />
 Sustainable cities *  Sustainable production *  Efficient or sustainable AI *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.kau.se/en/researchers/amal-nammouchi) * [Research group](https://www.uu.se/forskning/solve#:~:text=SOLVE%20är%20ett%20konsortium%20av,solenergi%20i%20det%20svenska%20elnätet.) * [Publications (Scholar)](https://scholar.google.se/citations?user=CALEjIEAAAAJ&hl=en)
 
+<span title=""><strong>Nina Lepola, Uppsala University</strong></span>
+<br />
+
+
