@@ -16,7 +16,23 @@ img {
 </style>
 
 
-Join us for The 2025 Nordic Workshop on AI for Tackling Climate Change, the first but hopefully not the last of workshops on the topic where we gather researchers from the Nordics. This one-day, in-person workshop, will take place in Gothenburg, Sweden, May 13th 2025. The workshop will feature a mix of keynotes, oral presentations, and posters around the topics of AI for climate change, including AI for biodiversity and the green transition. The workshop will be a meeting point for a wide range of researchers from (primarily) around the Nordic countries, but other interested people will be welcome too.
+Extreme events following climate change are getting ever more frequent. Humanity needs to tackle the new reality on a changing planet on many fronts. Many of the approaches which are in use or under development can be strengthened using advanced analytics tools and optimization techniques. The 2025 Nordic Workshop on AI for Tackling Climate Change will gather researchers from the Nordics. This one-day, in-person workshop, will take place in Gothenburg, Sweden, May 13th 2025. The workshop will feature a mix of keynotes, oral presentations, and posters around the topics of AI for climate change, including AI for biodiversity and the green transition. The workshop will be a meeting point for a wide range of researchers from (primarily) around the Nordic countries, but other interested people will be welcome too.
+
+Together, we will help the Nordic AI community to find the most impactful directions of future research in the field.
+
+**Topics of interest:**
+
+The workshop will feature presentations about Earth observation, computer vision, soundscape analysis, natural language processing, geometric machine learning, optimization, applications in green infrastructure, species distribution modeling, biodiversity monitoring.
+
+We invite **poster presentations**. In addition to the topics mentioned above, we also encourage presentations about the following topics.
+
+* The role of policy change
+* The use of AI to tackle climate change within
+    - built environments
+    - transport
+    - material
+    - product development
+* AI method developments that benefits AI applications
 
 **Speakers:**
 
