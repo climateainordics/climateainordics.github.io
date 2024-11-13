@@ -45,9 +45,16 @@ Join us for The 2025 Nordic Workshop on AI for Tackling Climate Change, the firs
 She is a co-founder of AfriClimate AI, a community-driven non-profit organization that brings AI-powered solutions to climate challenges across Africa through capacity building, research, and innovation.
 With over a decade of experience in community building and international development, Amal has held numerous leadership roles, including Vice President of JCI El Alia (twice), Chairwoman of IEEE SUPCOM SB, General chair of the IndabaX Tunisia 2019, and Committee Chair at the Deep Learning Indaba 2024, helping foster the next generation of AI talent in Africa.*
 
+**David Thulke**, RWTH Aachen University
+
+![](/events/2025-nordic-workshop/thulke.jpg)
+
+*David Thulke is a PhD student within the Human Language Technology Group at the Chair of Computer Science 6 of the RWTH Aachen University supervised by Prof. Dr.-Ing. Hermann Ney. In addition to numerous other works on language models and retrieval augmented generation, he is the first author of ClimateGPT, a model family of domain-specific large language models that synthesize interdisciplinary research on climate change. He also works as a language processing scientist at AppTek.*
+
 More speakers will be added soon.
 
 **Date and time:** 2025-05-13, 09:00-18:00 + Social dinner until late
+
 **Place:** Gothenburg, Sweden
 
 The workshop is organized by [CLIMES, The Swedish Centre for Impacts of Climate Extremes](https://climes.se/) in collaboration with [RISE](https://ri.se/) and [Climate Change AI Nordics](https://ccainordics.com/). The day will end with a poster session and dinner.
