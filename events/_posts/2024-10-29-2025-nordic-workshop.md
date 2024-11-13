@@ -74,7 +74,7 @@ More speakers will be added soon.
 
 **Place:** Gothenburg, Sweden
 
-The workshop is organized by [CLIMES, The Swedish Centre for Impacts of Climate Extremes](https://climes.se/) in collaboration with [RISE](https://ri.se/) and [Climate Change AI Nordics](https://ccainordics.com/). The day will end with a poster session and dinner.
+The workshop is organized by [CLIMES, The Swedish Centre for Impacts of Climate Extremes](https://climes.se/) in collaboration with [Climate Change AI Nordics](https://ccainordics.com/). The day will end with a poster session and dinner.
 
 The first 80 participants will register for free, while further attendees will have to cover the cost for their seat.
 
