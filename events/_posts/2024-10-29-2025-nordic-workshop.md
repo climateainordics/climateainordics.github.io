@@ -5,6 +5,7 @@ people:
 - Olof Mogren
 permalink: /events/2025-nordic-workshop
 event_date: 2025-05-13
+event_location: Gothenburg, Sweden
 ---
 
 <style>
