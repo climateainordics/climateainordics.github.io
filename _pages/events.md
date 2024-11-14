@@ -26,7 +26,7 @@ permalink: /events/
 
 *{% if p.people %}{{ p.people | join: ", " }}{% endif %}*
 
-**[p.permalink](Read more!)**
+**[Read more!]({{ p.permalink }})**
 
 {% endfor %}
 
