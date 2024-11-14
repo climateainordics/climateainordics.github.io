@@ -15,7 +15,7 @@ permalink: /events/
 
 ## {{ p.title }}
 {% if p.event_date %}
-<span style="color:grey;">*{{p.event_date | date: '%Y-%m-%d'}}*</span>
+<span style="color:grey;">**Event date:** *{{p.event_date | date: '%Y-%m-%d'}}*</span>
 {% endif %}
 
 {% if p.image %}
@@ -25,6 +25,8 @@ permalink: /events/
 {% if p.shortversion %}{{ p.shortversion }}{% endif %}
 
 *{% if p.people %}{{ p.people | join: ", " }}{% endif %}*
+
+**[p.permalink](Read more!)**
 
 {% endfor %}
 
