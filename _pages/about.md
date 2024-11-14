@@ -27,14 +27,16 @@ We hope that the collaborative nature of CCAI Nordics will accelerate progress i
 ## [News](/news/)
 
 {% for p in site.categories.news limit: 5 %}
-* {{p.date | date: '%Y-%m-%d'}}: {{ p.title }} [(Read more)]({{ p.url }})
+* {{p.date | date: '%Y-%m-%d'}}: {{ p.title }}\
+[(Read more)]({{ p.url }})
 {% endfor %}
 
 
 ## [Events](/events/)
 
 {% for p in site.categories.events limit: 5 %}
-* {{p.date | date: '%Y-%m-%d'}}: {{ p.title }} [(Read more)]({{ p.url }})
+* {{p.date | date: '%Y-%m-%d'}}: {{ p.title }}\
+[(Read more)]({{ p.url }})
 {% endfor %}
 
 
