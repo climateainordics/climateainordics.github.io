@@ -68,6 +68,12 @@ With over a decade of experience in community building and international develop
 
 *David Thulke is a PhD student within the Human Language Technology Group at the Chair of Computer Science 6 of the RWTH Aachen University supervised by Prof. Dr.-Ing. Hermann Ney. In addition to numerous other works on language models and retrieval augmented generation, he is the first author of ClimateGPT, a model family of domain-specific large language models for information retrieval and generation. He also works as a language processing scientist at AppTek.*
 
+**Shorouq Zahra**, RISE Research Institutes of Sweden
+
+![](/events/2025-nordic-workshop/zahra.jpg)
+
+*Shorouq Zahra a research engineer and developer at RISE Research Institutes of Sweden, with a focus on NLP, conversational AI, and MLOps. She has been engaged in the work "Using LLMs to Build a Database of Climate Extreme Impacts", presented at ClimateNLP 2024.*
+
 More speakers will be added soon.
 
 **Date and time:** 2025-05-13, 09:00-18:00 + Social dinner until late
