@@ -32,7 +32,7 @@ We invite **poster presentations**. In addition to the topics mentioned above, w
     - transport
     - material
     - product development
-* AI method developments that benefits AI applications
+* AI method developments that benefits AI applications within climate change mitigation and adaptation
 
 **Speakers:**
 
