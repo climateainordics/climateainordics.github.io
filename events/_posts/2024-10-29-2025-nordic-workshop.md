@@ -20,7 +20,7 @@ Extreme events following climate change are getting ever more frequent. Humanity
 
 Together, we will help the Nordic AI community to find the most impactful directions of future research in the field.
 
-**Topics of interest:**
+**Topics:**
 
 The workshop will feature presentations about Earth observation, computer vision, soundscape analysis, natural language processing, geometric machine learning, optimization, natural language processing, and multimodal modeling for climate related applications. Applications in green infrastructure, species distribution modeling, biodiversity monitoring.
 
