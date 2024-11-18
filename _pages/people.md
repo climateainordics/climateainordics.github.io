@@ -26,46 +26,6 @@ We're a [network of researchers](https://ccai.cc/people/) who work on problems r
 <br />
 [Publications (scholar)](https://scholar.google.se/citations?user=lLBHtFUAAAAJ) * [ORCID](https://orcid.org/0000-0002-7873-3971)
 
-<span title="Research focus: Computer Vision & Machine Learning. University of Copenhagen / Pioneer Centre for AI."><strong>Serge Belongie, University of Copenhagen / Pioneer Centre for AI</strong></span>
-<br />
-[More info (researcher profile)](https://sergebelongie.github.io) * [Publications (scholar)](https://scholar.google.com/citations?user=chD5XxkAAAAJ) * [Research Group](https://www.belongielab.org) * [ORCID](https://orcid.org/0000-0002-0388-5217)
-
-<span title="Gabriele's main research interests are physical drivers of extreme weather and extreme weather impacts. He uses a range of approaches, including dynamical systems theory, machine learning and other statistical analyses. Other research interests include meridional energy transport in the atmosphere and large-scale atmospheric dynamics."><strong>Gabriele Messori, Uppsala University</strong></span>
-<br />
-[More info (researcher profile)](https://gmessori.eu/) * [Publications (scholar)](https://scholar.google.com/citations?user=-WBcShwAAAAJ) * [ORCID](https://orcid.org/0000-0002-2032-5211)
-
-<span title="Associate Professor, Karlstad University"><strong>Stefanos Georganos, Karlstad University</strong></span>
-<br />
-[Publications (scholar)](https://scholar.google.com/citations?user=OLTr-XYAAAAJ) * [Research Group]() * [ORCID](https://orcid.org/0000-0002-0001-2058)
-
-<span title="Lecturer in ecology, working on ML applications for observing animals in the wild, mainly seabirds. "><strong>Jonas Hentati Sundberg, Swedish University of Agricultural Sciences</strong></span>
-<br />
-Biodiversity *  Marine ecology *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.slu.se/cv/jonas-hentati-sundberg/) * [Publications (Scholar)](https://scholar.google.com/citations?user=dHsj2swAAAAJ&hl=en) * [ORCID](https://orcid.org/0000-0002-3201-9262)
-
-<span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. RISE Research Institutes of Sweden."><strong>Smita Chakraborty, RISE</strong></span>
-<br />
-[Publications (scholar)](https://scholar.google.se/citations?user=jNjW5kIAAAAJ)
-
-<span title="AI researcher with expertise in audio signals. RISE Research Institutes of Sweden."><strong>Delia Fano, RISE</strong></span>
-<br />
-[Publications (scholar)](https://scholar.google.se/citations?user=fUp2rucAAAAJ)
-
-<span title="Interested in spatial modeling, conservation, species distribution modeling, connectivity. Swedish University of Agricultural Sciences (SLU)."><strong>Edmond Sacre, Swedish University of Agricultural Sciences</strong></span>
-<br />
-[Publications (scholar)](https://scholar.google.com/citations?user=6kgSitUAAAAJ&hl=en) * [ORCID](https://orcid.org/0000-0002-2218-431X)
-
-<span title="I am a computational linguist, working as a researcher at RISE and CLIMES project. RISE Research Institutes of Sweden."><strong>Murathan Kurfalı, RISE</strong></span>
-<br />
-[Publications (scholar)](https://scholar.google.com/citations?user=NK6-M_gAAAAJ) * [Research Group](https://www.climes.se/) * [ORCID](https://orcid.org/0000-0002-7020-8275)
-
-<span title="Listo Zec defended his MSc in engineering mathematics at Chalmers University of Technology in 2017. Researcher and PhD candidate at RISE Research Institutes of Sweden. Afiliated with RISE and Royal Institute of Technology."><strong>Edvin Listo Zec, RISE / KTH Royal Institute of Technology</strong></span>
-<br />
-[More info (researcher profile)](https://edvinli.github.io) * [Publications (scholar)](https://scholar.google.se/citations?user=Ft52aSsAAAAJ) * [Research Group](https://dl-group.se)
-
-<span title="Defended his MSc in computer science at Chalmers University of Technology in 2017. Researcher and PhD candidate at RISE Research Institutes of Sweden. Also afiliated with Lund University."><strong>John Martinsson, RISE / Lund University</strong></span>
-<br />
-[More info (researcher profile)](https://johnmartinsson.github.io) * [Publications (scholar)](https://scholar.google.com/citations?user=sAMIwlMAAAAJ&hl=sv&oi=ao) * [Research Group](https://dl-group.se) * [ORCID](https://orcid.org/0000-0002-5032-4367)
-
 
 {% include people-from-form.md %}
 
