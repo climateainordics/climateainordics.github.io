@@ -74,6 +74,12 @@ With over a decade of experience in community building and international develop
 
 *Shorouq Zahra a research engineer and developer at RISE Research Institutes of Sweden, with a focus on NLP, conversational AI, and MLOps. She has been engaged in the work "Using LLMs to Build a Database of Climate Extreme Impacts", presented at ClimateNLP 2024.*
 
+**Alouette van Hove**, University of Oslo
+
+![](/events/2025-nordic-workshop/van-hove.jpg)
+
+*Alouette van Hove is a PhD candidate at the University of Oslo. Her research interests includes the development of a novel framework to estimate land surface fluxes at a regional scale. The framework makes use of sensor measurements from drones, data assimilation, atmospheric fluid dynamics modeling, and reinforcement learning techniques. The goal is to deliver high-resolution surface maps of greenhouse gas fluxes in northern landscapes for validation of climate models.*
+
 More speakers will be added soon.
 
 **Date and time:** 2025-05-13, 09:00-18:00 + Social dinner until late
