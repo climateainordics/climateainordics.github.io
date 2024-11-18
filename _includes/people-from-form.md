@@ -1,3 +1,27 @@
+<span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. Researcher (with a PhD), RISE Research Institutes of Sweden."><strong>Smita Chakraborty, RISE Research Institutes of Sweden</strong></span>
+<br />
+
+
+<span title="AI researcher with expertise in audio signals. Researcher (with a PhD), RISE Research Institutes of Sweden."><strong>Delia Fano, RISE Research Institutes of Sweden</strong></span>
+<br />
+
+
+<span title="Professor, Uppsala University and RISE."><strong>Joakim Nivre, Uppsala University and RISE</strong></span>
+<br />
+
+
+<span title="Interested in spatial modeling, conservation, species distribution modeling, connectivity. Researcher (with a PhD), Swedish University of Agricultural Sciences."><strong>Edmond Sacre, Swedish University of Agricultural Sciences</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=6kgSitUAAAAJ&hl=en) * [ORCID](https://orcid.org/0000-0002-2218-431X)
+
+<span title="I am a computational linguist, working as a researcher at RISE and CLIMES project.  Researcher (with a PhD), RISE Research Institutes of Sweden."><strong>Murathan Kurfalı, RISE Research Institutes of Sweden</strong></span>
+<br />
+[Research group](https://www.climes.se/) * [Publications (Scholar)](https://scholar.google.com/citations?user=NK6-M_gAAAAJ&hl=sv) * [ORCID](https://orcid.org/0000-0002-7020-8275)
+
+<span title="Research focus: Computer Vision & Machine Learning. Professor, U. Copenhagen / Pioneer Centre for AI."><strong>Serge Belongie, U. Copenhagen / Pioneer Centre for AI</strong></span>
+<br />
+[More info (researcher profile)](https://sergebelongie.github.io) * [Research group](https://www.belongielab.org) * [Publications (Scholar)](https://scholar.google.com/citations?user=chD5XxkAAAAJ) * [ORCID](https://orcid.org/0000-0002-0388-5217)
+
 <span title="Researcher (with a PhD), Uppsala University."><strong>Jie Zhang, Uppsala University</strong></span>
 <br />
 
@@ -10,9 +34,25 @@ Computer vision *  Machine learning *  Deep learning *  Fluid dynamics *  meteor
 <br />
 Earth observation *  Climate modeling *  Efficient or sustainable AI *  NLP *  Computer vision *  Machine learning *  Deep learning * [Publications (Scholar)](https://scholar.google.com/citations?user=R2vPpCUAAAAJ&hl=en&oi=ao)
 
+<span title="Lecturer in ecology, working on ML applications for observing animals in the wild, mainly seabirds.  Associate Professor, Swedish University of Agricultural Sciences."><strong>Jonas Hentati Sundberg, Swedish University of Agricultural Sciences</strong></span>
+<br />
+Biodiversity *  Marine ecology *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.slu.se/cv/jonas-hentati-sundberg/) * [Publications (Scholar)](https://scholar.google.com/citations?user=dHsj2swAAAAJ&hl=en) * [ORCID](https://orcid.org/0000-0002-3201-9262)
+
 <span title="I lead a research group at the intersection of medicine, environmental science and data science. We develop tools for text and image analysis and knowledge integration and apply them to research questions in medicine and environmental science. I also lead the computational research school COMPUTE and the &quot;AI in Medicine and Life Science&quot; focus area in AI Lund. Besides this, I am very engaged in open science and public outreach. Researcher (with a PhD), Lund University, Dept. of Experimental Medical Science, Cell Death, Lysosomes and Artificial Intelligence Group."><strong>Sonja Aits, Lund University, Dept. of Experimental Medical Science, Cell Death, Lysosomes and Artificial Intelligence Group</strong></span>
 <br />
 Biodiversity *  Marine ecology *  Efficient or sustainable AI *  NLP *  Computer vision *  Deep learning *  Knowledge graphs *  Impact on climate change on health * [More info (researcher profile)](https://portal.research.lu.se/en/persons/sonja-aits) * [Research group](https://aitslab.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=KTS-NNAAAAAJ) * [ORCID](https://orcid.org/0000-0002-1321-0678)
+
+<span title="Gabriele's main research interests are physical drivers of extreme weather and extreme weather impacts. He uses a range of approaches, including dynamical systems theory, machine learning and other statistical analyses. Other research interests include meridional energy transport in the atmosphere and large-scale atmospheric dynamics. Professor, Uppsala University."><strong>Gabriele Messori, Uppsala University</strong></span>
+<br />
+[More info (researcher profile)](https://gmessori.eu/) * [Publications (Scholar)](https://scholar.google.com/citations?user=-WBcShwAAAAJ) * [ORCID](https://orcid.org/0000-0002-2032-5211)
+
+<span title="Associate Professor, Karlstad University."><strong>Stefanos Georganos, Karlstad University</strong></span>
+<br />
+Geomatics *  Earth observation * [Publications (Scholar)](https://scholar.google.com/citations?user=OLTr-XYAAAAJ) * [ORCID](https://orcid.org/0000-0002-0001-2058)
+
+<span title="i'm edvin. PhD Student, RISE Research Institutes of Sweden."><strong>Edvin Listo Zec, RISE Research Institutes of Sweden</strong></span>
+<br />
+[More info (researcher profile)](https://edvinli.github.io)
 
 <span title="I'm a PhD student at the Center for Mathematical Sciences focusing on anomaly detection and machine learning in earth observations and remote sensing. PhD Student, Lund University."><strong>Oskar Åström, Lund University</strong></span>
 <br />
@@ -37,6 +77,10 @@ Earth observation *  Climate modeling *  Sustainable production *  Efficient or 
 <span title="PhD student at Karlstad University working at the intersection of AI and Energy. Co-founder of AfriClimate AI (https://www.africlimate.ai) and co-chair of the Deep Learning Indaba (https://deeplearningindaba.com/2024/). PhD Student, Karlstad University."><strong>Amal Nammouchi, Karlstad University</strong></span>
 <br />
 Sustainable cities *  Sustainable production *  Efficient or sustainable AI *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.kau.se/en/researchers/amal-nammouchi) * [Research group](https://www.uu.se/forskning/solve#:~:text=SOLVE%20är%20ett%20konsortium%20av,solenergi%20i%20det%20svenska%20elnätet.) * [Publications (Scholar)](https://scholar.google.se/citations?user=CALEjIEAAAAJ&hl=en)
+
+<span title="PhD Student, RISE Research Institutes of Sweden."><strong>John Martinsson, RISE Research Institutes of Sweden</strong></span>
+<br />
+[More info (researcher profile)](https://johnmartinsson.github.io/) * [Research group](https://dl-group.se/) * [Publications (Scholar)](https://scholar.google.com/citations?user=sAMIwlMAAAAJ&hl=sv&oi=ao) * [ORCID](https://orcid.org/0000-0002-5032-4367)
 
 <span title="Project Coordinator, Uppsala University."><strong>Nina Lepola, Uppsala University</strong></span>
 <br />
