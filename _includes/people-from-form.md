@@ -46,7 +46,7 @@ Computer vision *  Machine learning *  Deep learning *  Fluid dynamics *  meteor
 <br />
 Earth observation *  Climate modeling *  Efficient or sustainable AI *  NLP *  Computer vision *  Machine learning *  Deep learning * [Publications (Scholar)](https://scholar.google.com/citations?user=R2vPpCUAAAAJ&hl=en&oi=ao)
 
-<span title="I lead a research group at the intersection of medicine, environmental science and data science. We develop tools for text and image analysis and knowledge integration and apply them to research questions in medicine and environmental science. I also lead the computational research school COMPUTE and the &quot;AI in Medicine and Life Science&quot; focus area in AI Lund. Besides this, I am very engaged in open science and public outreach. Researcher (with a PhD), Lund University, Dept. of Experimental Medical Science, Cell Death, Lysosomes and Artificial Intelligence Group."><strong>Sonja Aits, Lund University, Dept. of Experimental Medical Science, Cell Death, Lysosomes and Artificial Intelligence Group</strong></span>
+<span title="Sonja leads a research group at the intersection of medicine, environmental science and data science at the Dept. of Experimental Medical Science, Cell Death, Lysosomes. They develop tools for text and image analysis and knowledge integration and apply them to research questions in medicine and environmental science. She also leads the computational research school COMPUTE and the &quot;AI in Medicine and Life Science&quot; focus area in AI Lund. Besides this, she is very engaged in open science and public outreach. Researcher (with a PhD), Lund University."><strong>Sonja Aits, Lund University</strong></span>
 <br />
 Biodiversity *  Marine ecology *  Efficient or sustainable AI *  NLP *  Computer vision *  Deep learning *  Knowledge graphs *  Impact on climate change on health * [More info (researcher profile)](https://portal.research.lu.se/en/persons/sonja-aits) * [Research group](https://aitslab.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=KTS-NNAAAAAJ) * [ORCID](https://orcid.org/0000-0002-1321-0678)
 
@@ -78,6 +78,10 @@ Earth observation *  Climate modeling *  Sustainable production *  Efficient or 
 <br />
 Sustainable cities *  Sustainable production *  Efficient or sustainable AI *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.kau.se/en/researchers/amal-nammouchi) * [Research group](https://www.uu.se/forskning/solve#:~:text=SOLVE%20är%20ett%20konsortium%20av,solenergi%20i%20det%20svenska%20elnätet.) * [Publications (Scholar)](https://scholar.google.se/citations?user=CALEjIEAAAAJ&hl=en)
 
+<span title="Machine Learning, Graph Neural Networks, Algorithmic ML, Optimization, Deep Learning . Researcher (non-PhD), RISE & KTH."><strong>Daniel F. Perez-Ramirez, RISE & KTH</strong></span>
+<br />
+Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities *  Sustainable production *  Marine ecology *  Efficient or sustainable AI *  NLP *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.linkedin.com/in/danfperam) * [Research group](https://www.ri.se/en/person/daniel-perez) * [Publications (Scholar)](https://scholar.google.com/citations?user=uwMPsjsAAAAJ&hl=en) * [ORCID](https://orcid.org/0000-0002-1322-4367)
+
 <span title="PhD Student, RISE Research Institutes of Sweden."><strong>John Martinsson, RISE Research Institutes of Sweden</strong></span>
 <br />
 [More info (researcher profile)](https://johnmartinsson.github.io/) * [Research group](https://dl-group.se/) * [Publications (Scholar)](https://scholar.google.com/citations?user=sAMIwlMAAAAJ&hl=sv&oi=ao) * [ORCID](https://orcid.org/0000-0002-5032-4367)
@@ -92,4 +96,4 @@ Sustainable cities *  Sustainable production *  Efficient or sustainable AI *  M
 
 
 
-31 people from Sweden, Norway, Denmark, and Finland are currently part of the Climate Change AI Nordics network.
+In total, CCAI Nordics consists of 32 people from Sweden, Norway, Denmark, and Finland.
