@@ -50,6 +50,10 @@ Earth observation *  Climate modeling *  Efficient or sustainable AI *  NLP *  C
 <br />
 Biodiversity *  Marine ecology *  Efficient or sustainable AI *  NLP *  Computer vision *  Deep learning *  Knowledge graphs *  Impact on climate change on health * [More info (researcher profile)](https://portal.research.lu.se/en/persons/sonja-aits) * [Research group](https://aitslab.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=KTS-NNAAAAAJ) * [ORCID](https://orcid.org/0000-0002-1321-0678)
 
+<span title="I work with statistical methods with different levels of complexity to understand climate change impacts on various processes and to forecast future impacts.  Researcher (with a PhD), Swedish university of agricultural sciences (SLU)."><strong>Faranak Tootoonchi, Swedish university of agricultural sciences (SLU)</strong></span>
+<br />
+Climate modeling *  Sustainable cities *  Sustainable production *  Machine learning *  climate impacts * [Research group](https://www.slu.se/en/ew-cv/faranak-tootoonchi/) * [Publications (Scholar)](https://scholar.google.com/citations?user=5XmN8AUAAAAJ&hl=en) * [ORCID](https://orcid.org/0000-0001-5262-1712)
+
 <span title="i'm edvin. PhD Student, RISE Research Institutes of Sweden."><strong>Edvin Listo Zec, RISE Research Institutes of Sweden</strong></span>
 <br />
 [More info (researcher profile)](https://edvinli.github.io)
@@ -96,4 +100,4 @@ Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Susta
 
 
 
-In total, CCAI Nordics consists of 32 people from Sweden, Norway, Denmark, and Finland.
+In total, CCAI Nordics consists of 33 people from Sweden, Norway, Denmark, and Finland.
