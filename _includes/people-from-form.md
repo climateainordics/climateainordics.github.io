@@ -90,3 +90,6 @@ Sustainable cities *  Sustainable production *  Efficient or sustainable AI *  M
 <br />
 
 
+
+
+31 people from Sweden, Norway, Denmark, and Finland are currently part of the Climate Change AI Nordics network.
