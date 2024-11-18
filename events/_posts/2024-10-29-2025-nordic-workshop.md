@@ -1,11 +1,12 @@
 ---
 title: 2025 Nordic Workshop on AI for Tackling Climate Change
-shortversion: "2025 Nordic Workshop on AI for Tackling Climate Change will take place in Gothenburg, Sweden, May 13th 2025."
+shortversion: "The 2025 Nordic Workshop on AI for Tackling Climate Change will gather researchers from the Nordics. This one-day, in-person workshop, will take place in Gothenburg, Sweden, May 13th 2025. The workshop will feature a mix of keynotes, oral presentations, and posters around the topics of AI for climate change, including AI for biodiversity and the green transition. The workshop will be a meeting point for a wide range of researchers from (primarily) around the Nordic countries."
 people:
 - Olof Mogren
 permalink: /events/2025-nordic-workshop
 event_date: 2025-05-13
 event_location: Gothenburg, Sweden
+first_page: true
 ---
 
 <style>
