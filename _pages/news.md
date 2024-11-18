@@ -22,7 +22,5 @@ permalink: /news/
 
 {% if p.shortversion %}{{ p.shortversion }}{% endif %}
 
-*{% if p.people %}{{ p.people | join: ", " }}{% endif %}*
-
 {% endfor %}
 
