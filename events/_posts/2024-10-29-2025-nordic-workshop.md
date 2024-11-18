@@ -72,7 +72,7 @@ With over a decade of experience in community building and international develop
 
 ![](/events/2025-nordic-workshop/zahra.jpg)
 
-*Shorouq Zahra a research engineer and developer at RISE Research Institutes of Sweden, with a focus on NLP, conversational AI, and MLOps. She has been engaged in the work "Using LLMs to Build a Database of Climate Extreme Impacts", presented at ClimateNLP 2024.*
+*Shorouq Zahra a research engineer and developer at RISE Research Institutes of Sweden, with a focus on NLP, conversational AI, and MLOps. She has been engaged in the work "Using LLMs to Build a Database of Climate Extreme Impacts", presented at ClimateNLP 2024, proposing a method for building large-scale databases of climate extreme impacts from online textual sources, using LLMs for information extraction in combination with more traditional NLP techniques to improve accuracy and consistency.*
 
 **Alouette van Hove**, University of Oslo
 
