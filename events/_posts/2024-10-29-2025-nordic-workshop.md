@@ -88,7 +88,7 @@ More speakers will be added soon.
 
 The workshop is organized by [CLIMES, The Swedish Centre for Impacts of Climate Extremes](https://climes.se/) in collaboration with [Climate Change AI Nordics](https://ccainordics.com/). The day will end with a poster session and dinner.
 
-The first 80 participants will register for free, while further attendees will have to cover the cost for their seat. **A limited number of students can be reimbursed for travel and hotel for the workshop. Please provide a clear motivation for this and a calculation of the costs for your trip, and send this to olof.mogren@ri.se by end of February 2025.**
+The first 80 participants will register for free, while further attendees will have to cover the cost for their seat. **A limited number of students can be reimbursed for travel and hotel for the workshop. Please provide a clear motivation for this and a calculation of the costs for your trip, and send this to olof.mogren@ri.se by end of February 2025. Students will be chosen based on their research performance and their provided motivation.**
 
 More information will follow soon.
 
