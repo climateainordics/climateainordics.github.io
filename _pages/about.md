@@ -22,12 +22,6 @@ We are a [network of researchers](/people/) dedicated to developing and utilizin
 {% endif %}
 {% endfor %}
 
-> ## 2025 Nordic Workshop on AI for Tackling Climate Change
->
-> The 2025 Nordic Workshop on AI for Tackling Climate Change will gather researchers from the Nordics. This one-day, in-person workshop, will take place in Gothenburg, Sweden, May 13th 2025. The workshop will feature a mix of keynotes, oral presentations, and posters around the topics of AI for climate change, including AI for biodiversity and the green transition. The workshop will be a meeting point for a wide range of researchers from (primarily) around the Nordic countries, but other interested people will be welcome too.
-> 
-> **[Read more!](https://ccainordics.com/events/2025-nordic-workshop)**
-
 CCAI Nordics promotes the development of AI-based analytical tools and optimization techniques that can inform decision-making processes crucial for ensuring a sustainable future for generations to come. In particular, we recognize that technology, particularly AI-based solutions, can play a role in supporting efforts such as rewilding, rewetting, and reducing emissions and the reliance on fossil fuels.
 
 By bringing together researchers in the Nordic countries, CCAI Nordics aims to:
