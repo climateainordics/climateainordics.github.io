@@ -16,7 +16,7 @@ We are a [network of researchers](/people/) dedicated to developing and utilizin
 
 {% for p in site.posts %}
 {% if p.first_page %}
-> ## {{ p.title }}\
+> ## {{ p.title }}
 > {{ p.shortversion | replace: '\n', '\n> ' }}
 > **[(Read more)]({{ p.url }})**
 {% endif %}
