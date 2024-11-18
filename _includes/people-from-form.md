@@ -54,6 +54,10 @@ Biodiversity *  Marine ecology *  Efficient or sustainable AI *  NLP *  Computer
 <br />
 Climate modeling *  Sustainable cities *  Sustainable production *  Machine learning *  climate impacts * [Research group](https://www.slu.se/en/ew-cv/faranak-tootoonchi/) * [Publications (Scholar)](https://scholar.google.com/citations?user=5XmN8AUAAAAJ&hl=en) * [ORCID](https://orcid.org/0000-0001-5262-1712)
 
+<span title="Researcher (with a PhD), Uppsala University ."><strong>Venugopal Thallam, Uppsala University </strong></span>
+<br />
+Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities *  Sustainable production *  Marine ecology *  Efficient or sustainable AI *  NLP *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning * [Research group](https://www.uu.se/en/department/earth-sciences/research/air-water-and-landscape-science) * [Publications (Scholar)](https://scholar.google.com/citations?user=cIz45qQAAAAJ&hl=en) * [ORCID](https://orcid.org/0000-0001-7771-1693)
+
 <span title="i'm edvin. PhD Student, RISE Research Institutes of Sweden."><strong>Edvin Listo Zec, RISE Research Institutes of Sweden</strong></span>
 <br />
 [More info (researcher profile)](https://edvinli.github.io)
@@ -100,4 +104,4 @@ Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Susta
 
 
 
-In total, CCAI Nordics consists of 33 people from Sweden, Norway, Denmark, and Finland.
+In total, CCAI Nordics consists of 34 people from Sweden, Norway, Denmark, and Finland.
