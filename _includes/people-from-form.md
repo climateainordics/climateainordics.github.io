@@ -62,6 +62,12 @@ Climate modeling *  Sustainable cities *  Sustainable production *  Machine lear
 <br />
 Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities *  Sustainable production *  Marine ecology *  Efficient or sustainable AI *  NLP *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning * [Research group](https://www.uu.se/en/department/earth-sciences/research/air-water-and-landscape-science) * [Publications (Scholar)](https://scholar.google.com/citations?user=cIz45qQAAAAJ&hl=en) * [ORCID](https://orcid.org/0000-0001-7771-1693)
 
+<span title="My research consistently targets the physical mechanisms that enable climate predictability. This includes understanding how tropical dynamics influence atmospheric circulation over the Western Arctic and the North Atlantic-European sector.
+I have developed an experimental teleconnection-based seasonal prediction system at SMHI, designed to make teleconnections operationally useful for seasonal forecasting. This system exemplifies his ability to translate scientific discoveries into practical tools for climate. 
+I contribute to making a physically based application of machine learning methods to improve climate predictability, for example, designing deep convolutional neural networks (CNNs) for various applications: 1) downscaling coarse-resolution datasets, 2)detecting extreme events in large datasets, and 3) improving seasonal forecasts. I am a work package leader of two Horizon Europe projects (OptimESM and AI4PEX) in which we leverage ML-based solutions. Researcher (with a PhD), Rossby Centre, SMHI."><strong>Ramón Fuentes Franco, Rossby Centre, SMHI</strong></span>
+<br />
+Climate modeling *  Machine learning *  Deep learning * [Publications (Scholar)](https://scholar.google.com/citations?user=zjajzQEAAAAJ&hl=en) * [ORCID](https://orcid.org/0000-0002-3085-0175)
+
 <span title="i'm edvin. PhD Student, RISE Research Institutes of Sweden."><strong>Edvin Listo Zec, RISE Research Institutes of Sweden</strong></span>
 <br />
 [More info (researcher profile)](https://edvinli.github.io)
