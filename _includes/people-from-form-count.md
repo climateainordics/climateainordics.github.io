@@ -1,1 +1,1 @@
-In total, CCAI Nordics consists of 33 people from Sweden, Norway, Denmark, and Finland.
+In total, CCAI Nordics consists of 33 people from 18 different organisations in Sweden, Norway, Denmark, and Finland.
