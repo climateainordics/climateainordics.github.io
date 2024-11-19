@@ -1,12 +1,12 @@
-<span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master's Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. Professor, Uppsala University / RISE."><strong>Joakim Nivre, Uppsala University / RISE</strong></span>
+<span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. Professor, Uppsala University / RISE."><strong>Joakim Nivre, Uppsala University / RISE</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.se/citations?user=lLBHtFUAAAAJ) * [ORCID](https://orcid.org/0000-0002-7873-3971)
 
-<span title="Research focus: Computer Vision & Machine Learning. Professor, U. Copenhagen / Pioneer Centre for AI."><strong>Serge Belongie, U. Copenhagen / Pioneer Centre for AI</strong></span>
+<span title="Research focus: Computer Vision &amp; Machine Learning. Professor, U. Copenhagen / Pioneer Centre for AI."><strong>Serge Belongie, U. Copenhagen / Pioneer Centre for AI</strong></span>
 <br />
 [More info (researcher profile)](https://sergebelongie.github.io) * [Research group](https://www.belongielab.org) * [Publications (Scholar)](https://scholar.google.com/citations?user=chD5XxkAAAAJ) * [ORCID](https://orcid.org/0000-0002-0388-5217)
 
-<span title="Gabriele's main research interests are physical drivers of extreme weather and extreme weather impacts. He uses a range of approaches, including dynamical systems theory, machine learning and other statistical analyses. Other research interests include meridional energy transport in the atmosphere and large-scale atmospheric dynamics. Professor, Uppsala University."><strong>Gabriele Messori, Uppsala University</strong></span>
+<span title="Gabriele&#x27;s main research interests are physical drivers of extreme weather and extreme weather impacts. He uses a range of approaches, including dynamical systems theory, machine learning and other statistical analyses. Other research interests include meridional energy transport in the atmosphere and large-scale atmospheric dynamics. Professor, Uppsala University."><strong>Gabriele Messori, Uppsala University</strong></span>
 <br />
 [More info (researcher profile)](https://gmessori.eu/) * [Publications (Scholar)](https://scholar.google.com/citations?user=-WBcShwAAAAJ) * [ORCID](https://orcid.org/0000-0002-2032-5211)
 
@@ -22,7 +22,7 @@ Biodiversity *  Marine ecology *  Computer vision *  Machine learning *  Deep le
 <br />
 Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities *  Efficient or sustainable AI * [More info (researcher profile)](https://profiles.auckland.ac.nz/i-jayawardena) * [Publications (Scholar)](https://scholar.google.com/citations?user=j8yEd4cAAAAJ&hl=en) * [ORCID](https://orcid.org/0000-0002-5958-8668)
 
-<span title="Ali Mansourian is a Professor of Geomatics at the Department of Physical Geography and Ecosystem Science, Lund University, Sweden. He is Director of Lund University GIS Centre, and coordinator of the “GIS & RS Master Programme”. He is a member of United Nation's Global Geospatial Information Management (UN GGIM) Academic Network, and former council member of European AGILE (Association of Geographic Information Laboratories in Europe).  Mansourian has established research directions in Geospatial Artificial Intelligence (GeoAI) - which is the intersection of GISceince and Artificial Intelligence (AI)-, Spatial Data Infrastructures (SDI), and Multi-Criteria Decision Analysis (MCDA). He has also a long-standing research line in applications of Geographic Information Systems (GIS) in climate, epidemiology and heath, disaster risk management, land-use planning, and environmental management.  In his records, he has also coordination of several large international and national research and capacity building projects, evaluation of major EU/EC research grants, scientific program committee chair and/or organiser of several international conferences and workshops, supervision of PhD students and postdoc researches,  invited evaluation committee of PhD theses, and publication of scientific journal/conference papers, books/book chapters, and technical reports. Professor, Lund University."><strong>Ali Mansourian, Lund University</strong></span>
+<span title="Ali Mansourian is a Professor of Geomatics at the Department of Physical Geography and Ecosystem Science, Lund University, Sweden. He is Director of Lund University GIS Centre, and coordinator of the “GIS &amp; RS Master Programme”. He is a member of United Nation&#x27;s Global Geospatial Information Management (UN GGIM) Academic Network, and former council member of European AGILE (Association of Geographic Information Laboratories in Europe).  Mansourian has established research directions in Geospatial Artificial Intelligence (GeoAI) - which is the intersection of GISceince and Artificial Intelligence (AI)-, Spatial Data Infrastructures (SDI), and Multi-Criteria Decision Analysis (MCDA). He has also a long-standing research line in applications of Geographic Information Systems (GIS) in climate, epidemiology and heath, disaster risk management, land-use planning, and environmental management.  In his records, he has also coordination of several large international and national research and capacity building projects, evaluation of major EU/EC research grants, scientific program committee chair and/or organiser of several international conferences and workshops, supervision of PhD students and postdoc researches,  invited evaluation committee of PhD theses, and publication of scientific journal/conference papers, books/book chapters, and technical reports. Professor, Lund University."><strong>Ali Mansourian, Lund University</strong></span>
 <br />
 Urban planning *  Machine learning *  Deep learning *  Spatial Analysis *  GIS * [More info (researcher profile)](https://www.nateko.lu.se/ali-mansourian) * [Publications (Scholar)](https://scholar.google.com/citations?user=T6nSBNIAAAAJ&hl=en) * [ORCID](https://orcid.org/0000-0001-6812-4307)
 
@@ -70,7 +70,7 @@ Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Susta
 <br />
 Climate modeling *  Machine learning *  Deep learning * [Publications (Scholar)](https://scholar.google.com/citations?user=zjajzQEAAAAJ&hl=en) * [ORCID](https://orcid.org/0000-0002-3085-0175)
 
-<span title="i'm edvin. PhD Student, RISE Research Institutes of Sweden."><strong>Edvin Listo Zec, RISE Research Institutes of Sweden</strong></span>
+<span title="i&#x27;m edvin. PhD Student, RISE Research Institutes of Sweden."><strong>Edvin Listo Zec, RISE Research Institutes of Sweden</strong></span>
 <br />
 [More info (researcher profile)](https://edvinli.github.io)
 
@@ -78,7 +78,7 @@ Climate modeling *  Machine learning *  Deep learning * [Publications (Scholar)]
 <br />
 [More info (researcher profile)](https://johnmartinsson.github.io/) * [Research group](https://dl-group.se/) * [Publications (Scholar)](https://scholar.google.com/citations?user=sAMIwlMAAAAJ&hl=sv&oi=ao) * [ORCID](https://orcid.org/0000-0002-5032-4367)
 
-<span title="I'm a PhD student at the Center for Mathematical Sciences focusing on anomaly detection and machine learning in earth observations and remote sensing. PhD Student, Lund University."><strong>Oskar Åström, Lund University</strong></span>
+<span title="I&#x27;m a PhD student at the Center for Mathematical Sciences focusing on anomaly detection and machine learning in earth observations and remote sensing. PhD Student, Lund University."><strong>Oskar Åström, Lund University</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=D864NLwAAAAJ) * [ORCID](https://orcid.org/0009-0005-5507-4829)
 
