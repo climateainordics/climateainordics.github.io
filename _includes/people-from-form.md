@@ -22,6 +22,14 @@ Biodiversity *  Marine ecology *  Computer vision *  Machine learning *  Deep le
 <br />
 Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities *  Efficient or sustainable AI * [More info (researcher profile)](https://profiles.auckland.ac.nz/i-jayawardena) * [Publications (Scholar)](https://scholar.google.com/citations?user=j8yEd4cAAAAJ&hl=en) * [ORCID](https://orcid.org/0000-0002-5958-8668)
 
+<span title="Ali Mansourian is a Professor of Geomatics at the Department of Physical Geography and Ecosystem Science, Lund University, Sweden. He is Director of Lund University GIS Centre, and coordinator of the “GIS & RS Master Programme”. He is a member of United Nation's Global Geospatial Information Management (UN GGIM) Academic Network, and former council member of European AGILE (Association of Geographic Information Laboratories in Europe).
+
+Mansourian has established research directions in Geospatial Artificial Intelligence (GeoAI) - which is the intersection of GISceince and Artificial Intelligence (AI)-, Spatial Data Infrastructures (SDI), and Multi-Criteria Decision Analysis (MCDA). He has also a long-standing research line in applications of Geographic Information Systems (GIS) in climate, epidemiology and heath, disaster risk management, land-use planning, and environmental management.
+
+In his records, he has also coordination of several large international and national research and capacity building projects, evaluation of major EU/EC research grants, scientific program committee chair and/or organiser of several international conferences and workshops, supervision of PhD students and postdoc researches,  invited evaluation committee of PhD theses, and publication of scientific journal/conference papers, books/book chapters, and technical reports. Professor, Lund University."><strong>Ali Mansourian, Lund University</strong></span>
+<br />
+Urban planning *  Machine learning *  Deep learning *  Spatial Analysis *  GIS * [More info (researcher profile)](https://www.nateko.lu.se/ali-mansourian) * [Publications (Scholar)](https://scholar.google.com/citations?user=T6nSBNIAAAAJ&hl=en) * [ORCID](https://orcid.org/0000-0001-6812-4307)
+
 <span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. Researcher (with a PhD), RISE Research Institutes of Sweden."><strong>Smita Chakraborty, RISE Research Institutes of Sweden</strong></span>
 <br />
 
