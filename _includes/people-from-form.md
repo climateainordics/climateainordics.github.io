@@ -106,6 +106,3 @@ Sustainable cities *  Sustainable production *  Efficient or sustainable AI *  M
 <br />
 Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities *  Sustainable production *  Marine ecology *  Efficient or sustainable AI *  NLP *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.linkedin.com/in/danfperam) * [Research group](https://www.ri.se/en/person/daniel-perez) * [Publications (Scholar)](https://scholar.google.com/citations?user=uwMPsjsAAAAJ&hl=en) * [ORCID](https://orcid.org/0000-0002-1322-4367)
 
-
-
-In total, CCAI Nordics consists of 35 people from Sweden, Norway, Denmark, and Finland.
