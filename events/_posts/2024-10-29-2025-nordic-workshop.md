@@ -43,7 +43,7 @@ We invite **poster presentations**. In addition to the topics mentioned above, w
 
 *Oisin Mac Aodha is a Reader (aka Associate Professor) in Machine Learning in the School of Informatics at the University of Edinburgh (UoE). He was a Turing Fellow from 2021 to 2024, currently an ELLIS Scholar, and a founder of the Turing interest group on biodiversity monitoring and forecasting. Oisin's current research interests are in the areas of computer vision and machine learning, with a specific emphasis on 3D understanding, human-in-the-loop methods, and computational challenges in biodiversity monitoring.*
 
-**Stefanos Georganos**, Karlstad University
+**Stefanos Georganos**, Karlstad University: Unequal Cities in a Changing Climate: AI and Geospatial Approaches to Urban Resilience
 
 ![](/events/2025-nordic-workshop/georganos.jpg)
 
