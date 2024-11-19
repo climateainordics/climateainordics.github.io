@@ -24,10 +24,6 @@ We're a [network of researchers](https://ccai.cc/people/) who work on problems r
 <br />
 [More info (researcher profile)](https://aleksispi.github.io) * [Publications (scholar)](https://scholar.google.se/citations?user=paBGTgsAAAAJ) * [Research Group](https://dl-group.se)
 
-<span title="Professor in Computational linguistics. Uppsala University."><strong>Joakim Nivre, Uppsala University</strong></span>
-<br />
-[Publications (scholar)](https://scholar.google.se/citations?user=lLBHtFUAAAAJ) * [ORCID](https://orcid.org/0000-0002-7873-3971)
-
 
 {% include people-from-form.md %}
 
