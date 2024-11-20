@@ -130,3 +130,11 @@ Sustainable cities *  Sustainable production *  Efficient or sustainable AI *  M
 <br />
 Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities *  Sustainable production *  Marine ecology *  Efficient or sustainable AI *  NLP *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.linkedin.com/in/danfperam) * [Research group](https://www.ri.se/en/person/daniel-perez) * [Publications (Scholar)](https://scholar.google.com/citations?user=uwMPsjsAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-1322-4367)
 
+<span title="PhD Student, Karlstad University / Thermia AB."><strong>Manal Rahal, Karlstad University / Thermia AB</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=OOv1n_wAAAAJ) * [ORCID](https://orcid.org/0009-0006-7733-8298)
+
+<span title="PhD Student, Royal Meteorological institute of Belgium."><strong>Anupama Kuttikkat Xavier, Royal Meteorological institute of Belgium</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=hqNgE_8AAAAJ) * [ORCID](https://orcid.org/0000-0002-9783-8322)
+
