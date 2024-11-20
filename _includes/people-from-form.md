@@ -22,6 +22,10 @@ Biodiversity *  Marine ecology *  Computer vision *  Machine learning *  Deep le
 <br />
 Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities *  Efficient or sustainable AI * [More info (researcher profile)](https://profiles.auckland.ac.nz/i-jayawardena) * [Publications (Scholar)](https://scholar.google.com/citations?user=j8yEd4cAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-5958-8668)
 
+<span title="Alan Said is Associate Professor at University of Gothenburg. He holds a PhD from Technische Universität Berlin. Prior to joining the University of Gothenburg, Alan held positions in industry and academia. He was lecturer at University of Skövde (2016-2019), machine learning engineer 2014-2016 working on application of state of the art machine learning in a large scale production setting at Recorded Future. He was Senior Researcher (2014) working on recommender systems and evaluation in the Multimedia Computing research group at Delft University of Technology. He was awarded a Marie Curie Actions (MCA) Alain Bensoussan ERCIM Fellowship at Centrum Wiskunde &amp; Informatica (2013-2014) for work on evaluation of recommender and personalization systems. Alan&#x27;s research spans the fields of user modeling, personalization, recommender systems, evaluation, and reproducibility. He has worked in these fields in various national and international projects as researcher, leader, manager, PI, and proposal writer. He has published over 70 scientific works in top journals, conferences, workshops, and books. He has been nominated for and awarded several Best Paper and Poster awards for his research. Alan frequently serves on Program and Organization committees of top venues and journal such as ACM RecSys, WWW, ACM CIKM, ACM UMAP, ACM IUI, UMUAI, TWeb, TKDD. He is the Chair of the ACM RecSys Steering Committee (2023-2026). Associate Professor, University of Gothenburg."><strong>Alan Said, University of Gothenburg</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=j4cTzn0AAAAJ) * [ORCID](https://orcid.org/0000-0002-2929-0529)
+
 <span title="Ali Mansourian is a Professor of Geomatics at the Department of Physical Geography and Ecosystem Science, Lund University, Sweden. He is Director of Lund University GIS Centre, and coordinator of the “GIS &amp; RS Master Programme”. He is a member of United Nation&#x27;s Global Geospatial Information Management (UN GGIM) Academic Network, and former council member of European AGILE (Association of Geographic Information Laboratories in Europe).  Mansourian has established research directions in Geospatial Artificial Intelligence (GeoAI) - which is the intersection of GISceince and Artificial Intelligence (AI)-, Spatial Data Infrastructures (SDI), and Multi-Criteria Decision Analysis (MCDA). He has also a long-standing research line in applications of Geographic Information Systems (GIS) in climate, epidemiology and heath, disaster risk management, land-use planning, and environmental management.  In his records, he has also coordination of several large international and national research and capacity building projects, evaluation of major EU/EC research grants, scientific program committee chair and/or organiser of several international conferences and workshops, supervision of PhD students and postdoc researches,  invited evaluation committee of PhD theses, and publication of scientific journal/conference papers, books/book chapters, and technical reports. Professor, Lund University."><strong>Ali Mansourian, Lund University</strong></span>
 <br />
 Urban planning *  Machine learning *  Deep learning *  Spatial Analysis *  GIS * [More info (researcher profile)](https://www.nateko.lu.se/ali-mansourian) * [Publications (Scholar)](https://scholar.google.com/citations?user=T6nSBNIAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-6812-4307)
@@ -70,6 +74,10 @@ Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Susta
 <br />
 Climate modeling *  Machine learning *  Deep learning * [Publications (Scholar)](https://scholar.google.com/citations?user=zjajzQEAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-3085-0175)
 
+<span title="Senior lecturer in mathematical statistics, with many years experience of applications in medicine and technical development, both internally and externally. Linda&#x27;s research focus is applied statistics in sustainability, medicine and technical development. Researcher (with a PhD), Lund University."><strong>Linda Hartman, Lund University</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=yY55qioAAAAJ) * [ORCID](https://orcid.org/0000-0002-1122-3109)
+
 <span title="i&#x27;m edvin. PhD Student, RISE Research Institutes of Sweden."><strong>Edvin Listo Zec, RISE Research Institutes of Sweden</strong></span>
 <br />
 [More info (researcher profile)](https://edvinli.github.io)
@@ -106,9 +114,17 @@ Earth observation *  Climate modeling *  Sustainable production *  Efficient or 
 <br />
 Sustainable cities *  Sustainable production *  Efficient or sustainable AI *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.kau.se/en/researchers/amal-nammouchi) * [Research group](https://www.uu.se/forskning/solve#:~:text=SOLVE%20är%20ett%20konsortium%20av,solenergi%20i%20det%20svenska%20elnätet.) * [Publications (Scholar)](https://scholar.google.se/citations?user=CALEjIEAAAAJ&amp;hl=en)
 
+<span title="Research Engineer, RISE."><strong>Shorouq Zahra, RISE</strong></span>
+<br />
+[ORCID](https://orcid.org/0009-0007-2792-9345)
+
 <span title="Alouette van Hove is a PhD candidate at the University of Oslo. Her research interests includes the development of a novel framework to estimate land surface fluxes at a regional scale. The framework makes use of sensor measurements from drones, data assimilation, atmospheric fluid dynamics modeling, and reinforcement learning techniques. The goal is to deliver high-resolution surface maps of greenhouse gas fluxes in northern landscapes for validation of climate models. PhD Student, University of Oslo."><strong>Alouette van Hove, University of Oslo</strong></span>
 <br />
 
+
+<span title="PhD Student, RISE / Uppsala University."><strong>Maria Bånkesad, RISE / Uppsala University</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=4tKNCSkAAAAJ) * [ORCID](https://orcid.org/0009-0007-5465-7170)
 
 <span title="Machine Learning, Graph Neural Networks, Algorithmic ML, Optimization, Deep Learning . Researcher (non-PhD), RISE / KTH."><strong>Daniel F. Perez-Ramirez, RISE / KTH</strong></span>
 <br />
