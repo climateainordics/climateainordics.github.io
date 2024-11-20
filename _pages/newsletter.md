@@ -1,7 +1,6 @@
 ---
 title: "Climate Change AI Nordics Newsletter"
 excerpt: "Climate Change AI Nordics Newsletter"
-author_profile: true
 redirect_from: 
   - /newsletter/
   - /newsletter.html
