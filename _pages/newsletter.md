@@ -13,6 +13,7 @@ During the last month, *Climate Change AI Nordics* was launched! The founding te
 
 **Reply to this email address to contribute your own relevant news! We will include news on our web page, [ccainordics.com](https://ccainordics.com) and in our newsletter. Take the chance of showcasing your work or your events to the community!**
 
+Do you know researchers who works in the intersection of AI and Climate Change? Tell them about Climate Change AI Nordics! [ccainordics.com/join](https://ccainordics.com/join)
 
 {% for p in site.posts %}
 {% if p.first_page %}
