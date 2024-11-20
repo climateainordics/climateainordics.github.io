@@ -18,17 +18,19 @@ During the last month, _Climate Change AI Nordics_ was launched! The founding te
 
 {% for p in site.posts %}
 {% if p.first_page %}
-> ## {{ p.title }}
-> {{ p.shortversion | replace: '\n', '\n> ' }}
-> **[(Read more)]({{ p.url }})**
+## {{ p.title }}
+
+{{ p.shortversion }}<br />
+**[(Read more)]({{ p.url }})**
 {% endif %}
 {% endfor %}
 
 {% for p in site.posts %}
-{% if not p.first_page %}
-> ## {{ p.title }}
-> {{ p.shortversion | replace: '\n', '\n> ' }}
-> **[(Read more)]({{ p.url }})**
+{% unless p.first_page %}
+## {{ p.title }}
+
+{{ p.shortversion }}<br />
+**[(Read more)]({{ p.url }})**
 {% endif %}
 {% endfor %}
 
