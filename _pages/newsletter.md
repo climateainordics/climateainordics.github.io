@@ -2,8 +2,7 @@
 title: "Climate Change AI Nordics Newsletter"
 excerpt: "Climate Change AI Nordics Newsletter"
 redirect_from: 
-  - /newsletter
-  - /newsletter.html
+  - /newsletter-current
 ---
 
 
