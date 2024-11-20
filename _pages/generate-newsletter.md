@@ -1,7 +1,7 @@
 ---
 title: "Climate Change AI Nordics Newsletter"
 excerpt: "Climate Change AI Nordics Newsletter"
-permalink: /generate-newsletter
+permalink: /generate-newsletter/
 ---
 
 
