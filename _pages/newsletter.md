@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-Welcome to the *Climate Change AI Nordics_ Newsletter {{ "now" | date: "%B %Y" }}.
+Welcome to the *Climate Change AI Nordics* Newsletter {{ "now" | date: "%B %Y" }}.
 
-During the last month, _Climate Change AI Nordics* was launched! The founding team is very excited about the future of this network.
+During the last month, *Climate Change AI Nordics* was launched! The founding team is very excited about the future of this network.
 
 **Reply to this email address to contribute your own relevant news! We will include news on our web page, [ccainordics.com](https://ccainordics.com) and in our newsletter. Take the chance of showcasing your work or your events to the community!**
 
