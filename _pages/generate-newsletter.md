@@ -16,7 +16,7 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 {% capture previous_newsletter_time %}{{ previous_newsletter | date: '%s'}}{% endcapture %}
 
-{{ previous_newsletter_time }}
+previous newsletter time:{{ previous_newsletter_time }}
 
 {% for p in site.posts %}
 {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
