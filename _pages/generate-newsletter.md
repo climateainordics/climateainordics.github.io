@@ -2,6 +2,7 @@
 title: "Climate Change AI Nordics Newsletter"
 excerpt: "Climate Change AI Nordics Newsletter"
 permalink: /generate-newsletter/
+previous_newsletter: 2024-11-01
 ---
 
 
@@ -14,6 +15,11 @@ During the last month, *Climate Change AI Nordics* was launched! The founding te
 Do you know researchers who works in the intersection of AI and Climate Change? Tell them about Climate Change AI Nordics! [ccainordics.com/join](https://ccainordics.com/join)
 
 {% for p in site.posts %}
+{% if p.date < previous_newsletter %}
+Skipping {{ p.date }}, from previous newsletter.
+{% continue %}
+{% endif %}
+
 {% if p.first_page %}
 ## {{ p.title }}
 
@@ -23,6 +29,11 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% endfor %}
 
 {% for p in site.posts %}
+{% if p.date < previous_newsletter %}
+Skipping {{ p.date }}, from previous newsletter.
+{% continue %}
+{% endif %}
+
 {% unless p.first_page %}
 ## {{ p.title }}
 
