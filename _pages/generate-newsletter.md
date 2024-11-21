@@ -14,18 +14,18 @@ During the last month, *Climate Change AI Nordics* was launched! The founding te
 
 Do you know researchers who works in the intersection of AI and Climate Change? Tell them about Climate Change AI Nordics! [ccainordics.com/join](https://ccainordics.com/join)
 
-{% capture generationtime %}{{ 'now' | date: '%s'}}{% endcapture %}
-{% capture previouslettertime %}{{ previous_newsletter | date: '%s'}}{% endcapture %}
+{% capture previous_newsletter_time %}{{ previous_newsletter | date: '%s'}}{% endcapture %}
 
-{{ previouslettertime }}
+{{ previous_newsletter_time }}
 
 {% for p in site.posts %}
 {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
-{% if posttime < previouslettertime %}
+{% if posttime < previous_newsletter_time %}
 Skipping {{ p.date }}, from previous newsletter.
 {% continue %}
 {% endif %}
 {{ posttime }}
+{{ p.date }}
 
 {% if p.first_page %}
 ## {{ p.title }}
@@ -37,11 +37,12 @@ Skipping {{ p.date }}, from previous newsletter.
 
 {% for p in site.posts %}
 {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
-{% if posttime < previouslettertime %}
+{% if posttime < previous_newsletter_time %}
 Skipping {{ p.date }}, from previous newsletter.
 {% continue %}
 {% endif %}
 {{ posttime }}
+{{ p.date }}
 
 {% unless p.first_page %}
 ## {{ p.title }}
