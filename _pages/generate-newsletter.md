@@ -24,8 +24,7 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 Skipping {{ p.date }}, from previous newsletter.
 {% continue %}
 {% endif %}
-{{ posttime }}
-{{ p.date }}
+Posttime {{ posttime }}, p.date:{{ p.date }}, p.title: {{ p.title }}
 
 {% if p.first_page %}
 ## {{ p.title }}
@@ -41,8 +40,7 @@ Skipping {{ p.date }}, from previous newsletter.
 Skipping {{ p.date }}, from previous newsletter.
 {% continue %}
 {% endif %}
-{{ posttime }}
-{{ p.date }}
+Posttime {{ posttime }}, p.date:{{ p.date }}, p.title: {{ p.title }}
 
 {% unless p.first_page %}
 ## {{ p.title }}
