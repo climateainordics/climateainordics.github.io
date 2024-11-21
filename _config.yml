@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Climate Change AI Nordics"
-    avatar           : "ccain-logo-globeonly-2310x2310.png"
+  avatar           : "ccain-logo-globeonly-2310x2310.png"
   bio              : "Nordic network for collaborations around tackling climate change using AI and machine learning."
   location         : "Nordics"
   employer         :
