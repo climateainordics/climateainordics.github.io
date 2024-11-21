@@ -16,17 +16,11 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 {% capture previous_newsletter_time %}{{ page.previous_newsletter | date: '%s' }}{% endcapture %}
 
-previous newsletter time:{{ previous_newsletter_time }}
-previous newsletter:{{ page.previous_newsletter }}
-
-
 {% for p in site.posts %}
 {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
 {% if posttime < previous_newsletter_time %}
-Skipping {{ p.date }}, from previous newsletter.
 {% continue %}
 {% endif %}
-Posttime {{ posttime }}, p.date:{{ p.date }}, p.title: {{ p.title }}
 
 {% if p.first_page %}
 ## {{ p.title }}
@@ -39,10 +33,8 @@ Posttime {{ posttime }}, p.date:{{ p.date }}, p.title: {{ p.title }}
 {% for p in site.posts %}
 {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
 {% if posttime < previous_newsletter_time %}
-Skipping {{ p.date }}, from previous newsletter.
 {% continue %}
 {% endif %}
-Posttime {{ posttime }}, p.date:{{ p.date }}, p.title: {{ p.title }}
 
 {% unless p.first_page %}
 ## {{ p.title }}
