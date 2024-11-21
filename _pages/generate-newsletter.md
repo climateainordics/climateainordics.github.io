@@ -14,7 +14,7 @@ During the last month, *Climate Change AI Nordics* was launched! The founding te
 
 Do you know researchers who works in the intersection of AI and Climate Change? Tell them about Climate Change AI Nordics! [ccainordics.com/join](https://ccainordics.com/join)
 
-{% capture previous_newsletter_time %}{{ previous_newsletter | date: '%s' }}{% endcapture %}
+{% capture previous_newsletter_time %}{{ page.previous_newsletter | date: '%s' }}{% endcapture %}
 
 previous newsletter time:{{ previous_newsletter_time }}
 previous newsletter:{{ previous_newsletter }}
