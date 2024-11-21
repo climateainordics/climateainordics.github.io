@@ -48,7 +48,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-logo: "/images/famle-lab.jpg"
+logo: "/images/ccain-logo-601x601.jpg"
 
 # SEO Related
 google_site_verification :
@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Climate Change AI Nordics"
-  avatar           : "famle-lab.jpg"
+  avatar           : "/images/ccain-logo-601x601.jpg"
   bio              : "Nordic network for collaborations around tackling climate change using AI and machine learning."
   location         : "Nordics"
   employer         :
