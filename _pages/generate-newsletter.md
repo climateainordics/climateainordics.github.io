@@ -56,7 +56,7 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% if eventtime < nowtime %}
 {% continue %}
 {% endif %}
-{% capture printdate %}*This event will happen {{ p.event_date }}.*{% endcapture %}
+{% capture printdate %}*This event takes place {{ p.event_date }}.*{% endcapture %}
 {% else %}
 {% capture printdate %}*{{ p.date | date: '%Y-%m-%d' }}*{% endcapture %}
 {% endif %}
