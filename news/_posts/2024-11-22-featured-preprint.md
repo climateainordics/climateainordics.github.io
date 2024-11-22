@@ -5,8 +5,6 @@ people:
 - Olof Mogren
 image: /images/posts/2024-11-22-featured-preprint.png
 ---
-# Continuous Ensemble Weather Forecasting with Diffusion Models
-
 Authors: Martin Andrae, Tomas Landelius, **Joel Oskarsson**, Fredrik Lindsten
 
 Traditional numerical weather prediction (NWP) systems rely on complex physical models and extensive computational resources. Diffusion models have been proposed as a promising direction. This paper addresses some of the limitations of weather forecasting using diffusion models; they are computationally expensive and accumulate errors for high temporal resolution due to the many rollout steps. 
