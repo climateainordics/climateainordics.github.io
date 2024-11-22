@@ -14,11 +14,9 @@ permalink: /news/
 {% for p in site.categories.news %}
 
 ## {{ p.title }}
-<span style="color:grey;">*{{p.date | date: '%Y-%m-%d'}}*</span>
+{% if p.image %}<img src="{{ p.image }}" style="float: right; width: 25%;" />{% endif %}
 
-{% if p.image %}
-<img src="{{ p.image }}" style="float: right; width: 25%;" />
-{% endif %}
+<span style="color:grey;">*{{p.date | date: '%Y-%m-%d'}}*</span>
 
 {% if p.shortversion %}{{ p.shortversion }}{% endif %}
 
