@@ -3,6 +3,7 @@ title: "CCAI Nordics in Computer Sweden on how AI can help save the climate"
 shortversion: "As COP29 is convening in Azerbajdzjan, Olof Mogren, co-founder of Climate Change AI Nordics was interviewed in Computer Sweden. \"When it comes to climate change, we have to work broadly both with mitigation techniques and by adapting to the effects we are already seeing\". \"AI can be a tool to support these efforts\"."
 people:
 - Olof Mogren
+image: /images/posts/2024-11-12-ccainordics-in-computer-sweden.webp
 ---
 
 # CCAI Nordics in Computer Sweden on how AI can help save the climate
