@@ -44,7 +44,7 @@ We hope that the collaborative nature of CCAI Nordics will accelerate progress i
 ## [Events](/events/)
 
 {% for p in site.categories.events limit: 5 %}
-* {{p.date | date: '%Y-%m-%d'}}: {{ p.title }}\
+* {{p.event_date | date: '%Y-%m-%d'}}: {{ p.title }}\
 [(Read more)]({{ p.url }})
 {% endfor %}
 
