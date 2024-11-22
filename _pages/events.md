@@ -24,7 +24,7 @@ permalink: /events/
 
 {% if p.shortversion %}{{ p.shortversion }}{% endif %}
 
-**[Read more!]({{ p.url }})**
+{% if p.content  %}**[Read more!]({{ p.url }})**{% endif %}
 
 {% endfor %}
 

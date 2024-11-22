@@ -22,5 +22,7 @@ permalink: /news/
 
 {% if p.shortversion %}{{ p.shortversion }}{% endif %}
 
+{% if p.content  %}**[Read more!]({{ p.url }})**{% endif %}
+
 {% endfor %}
 
