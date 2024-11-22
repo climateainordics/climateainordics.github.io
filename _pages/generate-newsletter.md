@@ -68,7 +68,7 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 ![]({{ p.image  }})
 {% endif %}
 
-{{printdate}}{{ p.shortversion }}<br />
+{{printdate}} {{ p.shortversion }}<br />
 **[(Read more)]({{ p.url }})**
 {% endunless %}
 {% endfor %}
@@ -98,7 +98,7 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 ![]({{ p.image  }})
 {% endif %}
 
-{{ printdate }}{{ p.shortversion }}<br />
+{{ printdate }} {{ p.shortversion }}<br />
 **[(Read more)]({{ p.url }})**
 {% endunless %}
 {% endfor %}
