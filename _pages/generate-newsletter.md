@@ -43,7 +43,7 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% endif %}
 {% endfor %}
 
-{% comment %} NEXT, ITEMS THAT HAS NOT YET HAPPENED!!! {% endcomment %}
+{% comment %} NEXT, NEWS AND EVENTS THAT HAS NOT YET HAPPENED!!! {% endcomment %}
 
 {% for p in site.posts %}
 {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
@@ -88,7 +88,7 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% endif %}
 {% capture printdate %}*This event happened {{ p.event_date }}.*{% endcapture %}
 {% else %}
-{% capture printdate %}*{{ p.date | date: '%Y-%m-%d' }}*{% endcapture %}
+{% continue %}
 {% endif %}
 
 {% unless p.first_page %}
