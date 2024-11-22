@@ -38,7 +38,7 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 {% if p.event_date %}
 {% capture eventtime %}{{ p.event_date | date: '%s'}}{% endcapture %}
-{% if eventtime < nowtime %}This event has already happened. Stay tuned for more events like these!{% endif %}
+{% if eventtime < nowtime %}*This event happened {{ p.event_date }}.*{% endif %}
 {% endif %}
 
 {{ p.shortversion }}<br />
@@ -61,7 +61,7 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 {% if p.event_date %}
 {% capture eventtime %}{{ p.event_date | date: '%s'}}{% endcapture %}
-{% if eventtime < nowtime %}This event has already happened. Stay tuned for more events like these!{% endif %}
+{% if eventtime < nowtime %}*This event happened {{ p.event_date }}.*{% endif %}
 {% endif %}
 
 {{ p.shortversion }}<br />
