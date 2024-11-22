@@ -93,6 +93,7 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% else %}
 {% continue %}
 {% endif %}
+event time {{eventtime}} nowtime {{nowtime}}
 
 {% unless p.first_page %}
 ## {{ p.title }}
