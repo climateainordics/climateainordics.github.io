@@ -3,7 +3,7 @@ title: "CCAI Nordics is now present on LinkedIn"
 shortversion: "Follow Climate Change AI Nordics on LinkedIn."
 people:
 - Olof Mogren
-image: 2024-11-15-follow-us-on-linkedin.png
+image: /images/posts/2024-11-15-follow-us-on-linkedin.png
 ---
 
 # CCAI Nordics is now present on LinkedIn
