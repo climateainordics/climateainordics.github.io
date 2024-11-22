@@ -26,8 +26,8 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% comment %} FIRST, first_page ITEMS!!! {% endcomment %}
 
 {% for p in site.posts %}
-{{ p.category }}
-{% if p.category == 'newsletter' %}{% continue %}{% endif %}
+{{ p.categories }}
+{% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
 {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
 {% if posttime < previous_newsletter_time %}
 {% continue %}
@@ -48,7 +48,7 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% comment %} NEXT, NEWS AND EVENTS THAT HAS NOT YET HAPPENED!!! {% endcomment %}
 
 {% for p in site.posts %}
-{% if p.category == 'newsletter' %}{% continue %}{% endif %}
+{% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
 {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
 {% if posttime < previous_newsletter_time %}
 {% continue %}
@@ -79,7 +79,7 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% comment %} FINALLY, EVENTS THAT HAS ALREADY HAPPENED!!! {% endcomment %}
 
 {% for p in site.posts %}
-{% if p.category == 'newsletter' %}{% continue %}{% endif %}
+{% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
 {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
 {% if posttime < previous_newsletter_time %}
 {% continue %}
