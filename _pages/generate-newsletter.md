@@ -23,6 +23,8 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}
 {% capture previous_newsletter_time %}{{ page.previous_newsletter | date: '%s' }}{% endcapture %}
 
+{% comment %} FIRST, first_page ITEMS!!! {% endcomment %}
+
 {% for p in site.posts %}
 {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
 {% if posttime < previous_newsletter_time %}
@@ -36,20 +38,24 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 ![]({{ p.image  }})
 {% endif %}
 
-{% if p.event_date %}
-{% capture eventtime %}{{ p.event_date | date: '%s'}}{% endcapture %}
-{% if eventtime < nowtime %}*This event happened {{ p.event_date }}.*{% endif %}
-{% endif %}
-
 {{ p.shortversion }}<br />
 **[(Read more)]({{ p.url }})**
 {% endif %}
 {% endfor %}
 
+{% comment %} NEXT, ITEMS THAT HAS NOT YET HAPPENED!!! {% endcomment %}
+
 {% for p in site.posts %}
 {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
 {% if posttime < previous_newsletter_time %}
 {% continue %}
+{% endif %}
+
+{% if p.event_date %}
+{% capture eventtime %}{{ p.event_date | date: '%s'}}{% endcapture %}
+{% if eventtime < nowtime %}
+{% continue %}
+{% endif %}
 {% endif %}
 
 {% unless p.first_page %}
@@ -59,9 +65,31 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 ![]({{ p.image  }})
 {% endif %}
 
+{{ p.shortversion }}<br />
+**[(Read more)]({{ p.url }})**
+{% endunless %}
+{% endfor %}
+
+{% comment %} FINALLY, EVENTS THAT HAS ALREADY HAPPENED!!! {% endcomment %}
+
+{% for p in site.posts %}
+{% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
+{% if posttime < previous_newsletter_time %}
+{% continue %}
+{% endif %}
+
 {% if p.event_date %}
 {% capture eventtime %}{{ p.event_date | date: '%s'}}{% endcapture %}
-{% if eventtime < nowtime %}*This event happened {{ p.event_date }}.*{% endif %}
+{% if eventtime > nowtime %}
+{% continue %}
+{% endif %}
+{% endif %}
+
+{% unless p.first_page %}
+## {{ p.title }}
+
+{% if p.image %}
+![]({{ p.image  }})
 {% endif %}
 
 {{ p.shortversion }}<br />
