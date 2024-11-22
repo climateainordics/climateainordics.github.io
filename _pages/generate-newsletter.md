@@ -2,9 +2,15 @@
 title: "Climate Change AI Nordics Newsletter"
 excerpt: "Climate Change AI Nordics Newsletter"
 permalink: /generate-newsletter/
-previous_newsletter: 2024-11-01
+previous_newsletter: 2024-10-01
 ---
 
+<style>
+img{
+width: 8em;
+float: right;
+}
+</style>
 
 Welcome to the *Climate Change AI Nordics* Newsletter {{ "now" | date: "%B %Y" }}.
 
@@ -25,6 +31,10 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% if p.first_page %}
 ## {{ p.title }}
 
+{% if p.image %}
+![]({{ p.image  }})
+{% endif %}
+
 {{ p.shortversion }}<br />
 **[(Read more)]({{ p.url }})**
 {% endif %}
@@ -38,6 +48,10 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 {% unless p.first_page %}
 ## {{ p.title }}
+
+{% if p.image %}
+![]({{ p.image  }})
+{% endif %}
 
 {{ p.shortversion }}<br />
 **[(Read more)]({{ p.url }})**
