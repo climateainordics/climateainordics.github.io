@@ -1,4 +1,4 @@
-<span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. Professor, Uppsala University / RISE."><strong>Joakim Nivre, Uppsala University / RISE</strong></span>
+<span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. Professor, Uppsala University / RISE Research Institutes of Sweden."><strong>Joakim Nivre, Uppsala University / RISE Research Institutes of Sweden</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.se/citations?user=lLBHtFUAAAAJ) * [ORCID](https://orcid.org/0000-0002-7873-3971)
 
@@ -82,7 +82,7 @@ Climate modeling *  Machine learning *  Deep learning * [Publications (Scholar)]
 <br />
 Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep learning *  Remote sensing * [More info (researcher profile)](https://langnico.github.io/) * [Publications (Scholar)](https://scholar.google.ch/citations?user=bVZtKsQAAAAJ) * [ORCID](https://orcid.org/0000-0001-8434-027X)
 
-<span title="Marie-Sklodowska Curie Fellow at KTH. Post Doc, ROyal Institute of Technology."><strong>Francesca Larosa, ROyal Institute of Technology</strong></span>
+<span title="Marie-Sklodowska Curie Fellow at KTH. Post Doc, KTH Royal Institute of Technology."><strong>Francesca Larosa, KTH Royal Institute of Technology</strong></span>
 <br />
 Efficient or sustainable AI *  NLP *  Machine learning *  climate policy * [More info (researcher profile)](https://sites.google.com/view/francescalarosa/home-page?authuser=0) * [Publications (Scholar)](https://scholar.google.it/citations?user=89qTlnEAAAAJ&amp;hl=it)
 
@@ -122,7 +122,7 @@ Earth observation *  Climate modeling *  Sustainable production *  Efficient or 
 <br />
 Sustainable cities *  Sustainable production *  Efficient or sustainable AI *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.kau.se/en/researchers/amal-nammouchi) * [Research group](https://www.uu.se/forskning/solve#:~:text=SOLVE%20är%20ett%20konsortium%20av,solenergi%20i%20det%20svenska%20elnätet.) * [Publications (Scholar)](https://scholar.google.se/citations?user=CALEjIEAAAAJ)
 
-<span title="Research Engineer, RISE."><strong>Shorouq Zahra, RISE</strong></span>
+<span title="Research Engineer, RISE Research Institutes of Sweden."><strong>Shorouq Zahra, RISE Research Institutes of Sweden</strong></span>
 <br />
 [ORCID](https://orcid.org/0009-0007-2792-9345)
 
@@ -130,11 +130,11 @@ Sustainable cities *  Sustainable production *  Efficient or sustainable AI *  M
 <br />
 
 
-<span title="PhD Student, RISE / Uppsala University."><strong>Maria Bånkesad, RISE / Uppsala University</strong></span>
+<span title="PhD Student, RISE Research Institutes of Sweden / Uppsala University."><strong>Maria Bånkesad, RISE Research Institutes of Sweden / Uppsala University</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=4tKNCSkAAAAJ) * [ORCID](https://orcid.org/0009-0007-5465-7170)
 
-<span title="Machine Learning, Graph Neural Networks, Algorithmic ML, Optimization, Deep Learning . Researcher (non-PhD), RISE / KTH."><strong>Daniel F. Perez-Ramirez, RISE / KTH</strong></span>
+<span title="Machine Learning, Graph Neural Networks, Algorithmic ML, Optimization, Deep Learning . Researcher (non-PhD), RISE Research Institutes of Sweden / KTH Royal Institute of Technology."><strong>Daniel F. Perez-Ramirez, RISE Research Institutes of Sweden / KTH Royal Institute of Technology</strong></span>
 <br />
 Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities *  Sustainable production *  Marine ecology *  Efficient or sustainable AI *  NLP *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.linkedin.com/in/danfperam) * [Research group](https://www.ri.se/en/person/daniel-perez) * [Publications (Scholar)](https://scholar.google.com/citations?user=uwMPsjsAAAAJ) * [ORCID](https://orcid.org/0000-0002-1322-4367)
 
