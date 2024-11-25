@@ -25,6 +25,8 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 {% comment %} FIRST, first_page ITEMS!!! {% endcomment %}
 
+# News
+
 {% for p in site.posts %}
 {% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
 {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
