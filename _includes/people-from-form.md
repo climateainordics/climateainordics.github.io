@@ -78,6 +78,10 @@ Climate modeling *  Machine learning *  Deep learning * [Publications (Scholar)]
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=yY55qioAAAAJ) * [ORCID](https://orcid.org/0000-0002-1122-3109)
 
+<span title="Post Doc, University of Copenhagen."><strong>Nico Lang, University of Copenhagen</strong></span>
+<br />
+Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep learning *  Remote sensing * [More info (researcher profile)](https://langnico.github.io/) * [Publications (Scholar)](https://scholar.google.ch/citations?user=bVZtKsQAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-8434-027X)
+
 <span title="i&#x27;m edvin. PhD Student, RISE Research Institutes of Sweden."><strong>Edvin Listo Zec, RISE Research Institutes of Sweden</strong></span>
 <br />
 [More info (researcher profile)](https://edvinli.github.io)
