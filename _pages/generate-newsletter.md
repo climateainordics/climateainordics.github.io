@@ -6,7 +6,7 @@ previous_newsletter: 2024-11-22
 ---
 
 <style>
-body{font-family: arial, sans-serif;} img{ float: left; width: 8em; margin: 0.4em;} p{margin: 2em 0.2em 2em 0.2em;} h1{margin: 2em 0.2em 2em 0.2em;} h2{margin: 2em 0.2em 2em 0.2em;} h3{margin: 2em 0.2em 2em 0.2em;} h4{margin: 2em 0.2em 2em 0.2em;}
+body{font-family: arial, sans-serif;} img{ float: left; width: 8em; margin: 0.4em;} p{margin: .6em 0.2em .6em 0.2em;} h1{margin: .6em 0.2em .6em 0.2em;} h2{margin: .6em 0.2em .6em 0.2em;} h3{margin: .6em 0.2em .6em 0.2em;} h4{margin: .6em 0.2em .6em 0.2em;}
 </style>
 
 Welcome to the *Climate Change AI Nordics* Newsletter {{ "now" | date: "%B %Y" }}.
@@ -34,6 +34,8 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 {% if p.first_page %}
 {% assign items_listed = true %}
+
+<br clear=all />
 
 ## {{ p.title }}
 
@@ -64,6 +66,8 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% unless p.first_page %}
 {% assign items_listed = true %}
 
+<br clear=all />
+
 ## {{ p.title }}
 
 {% if p.image %}
@@ -78,6 +82,8 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% unless items_listed %}Currently no news items have been added.{% endunless %}
 
 {% comment %} NEXT, EVENTS THAT HAS NOT YET HAPPENED!!! {% endcomment %}
+
+<br clear=all />
 
 # Coming events
 
@@ -99,6 +105,8 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% unless p.first_page %}
 {% assign items_listed = true %}
 
+<br clear=all />
+
 ## {{ p.title }}
 
 {% if p.image %}
@@ -113,6 +121,8 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% unless items_listed %}Currently no coming events.{% endunless %}
 
 {% comment %} FINALLY, EVENTS THAT HAS ALREADY HAPPENED!!! {% endcomment %}
+
+<br clear=all />
 
 # Recent events
 
@@ -137,6 +147,8 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 {% unless p.first_page %}
 {% assign items_listed = true %}
+
+<br clear=all />
 
 ## {{ p.title }}
 
