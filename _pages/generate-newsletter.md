@@ -24,6 +24,8 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% capture previous_newsletter_time %}{{ page.previous_newsletter | date: '%s' }}{% endcapture %}
 {% capture newsletter_start_time %}{{ previous_newsletter_time | plus: 86400 }}{% endcapture %}
 
+{% assign items_listed = false %}
+
 {% comment %} FIRST, first_page ITEMS!!! {% endcomment %}
 
 {% for p in site.posts %}
@@ -35,6 +37,8 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 {% if p.first_page %}
 ## {{ p.title }}
+
+{% assign items_listed = true %}
 
 {% if p.image %}
 ![]({{ p.image  }})
@@ -63,6 +67,8 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% unless p.first_page %}
 ## {{ p.title }}
 
+{% assign items_listed = true %}
+
 * post time {{posttime}} newsletter_start_time {{newsletter_start_time}}
 * event time {{eventtime}} nowtime {{nowtime}}
 
@@ -75,9 +81,13 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% endunless %}
 {% endfor %}
 
+{% unless items_listed %}Currently no news items have been added.{% endunless %}
+
 {% comment %} NEXT, EVENTS THAT HAS NOT YET HAPPENED!!! {% endcomment %}
 
 # Coming events
+
+{% assign items_listed = false %}
 
 {% for p in site.posts %}
 {% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
@@ -97,6 +107,8 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% endif %}
 
 {% unless p.first_page %}
+{% assign items_listed = true %}
+
 ## {{ p.title }}
 
 {% if p.image %}
@@ -108,9 +120,13 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% endunless %}
 {% endfor %}
 
+{% unless items_listed %}Currently no coming events.{% endunless %}
+
 {% comment %} FINALLY, EVENTS THAT HAS ALREADY HAPPENED!!! {% endcomment %}
 
 # Recent events
+
+{% assign items_listed = false %}
 
 {% for p in site.posts %}
 {% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
@@ -130,6 +146,8 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% endif %}
 
 {% unless p.first_page %}
+{% assign items_listed = true %}
+
 ## {{ p.title }}
 
 * post time {{posttime}} newsletter_start_time {{newsletter_start_time}}
@@ -143,6 +161,8 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 **[(Read more)]({{ p.url }})**
 {% endunless %}
 {% endfor %}
+
+{% unless items_listed %}Currently no recent events.{% endunless %}
 
 *CCAI Nordics are a [network of researchers](/people/) dedicated to developing and utilizing AI technologies to address the urgent global challenge of climate change. Our researchers focus on creating and promoting AI solutions that support both climate change mitigation, reducing the severity of climate change, and adaptation, adjusting to the effects of climate change. We are already in a climate emergency which is causing biodiversity loss, extreme weather events, and human suffering, and this necessitates a multifaceted approach involving both policy change, limitations on activities contributing to climate change, and bolstering societal resilience against climate-related events.*
 
