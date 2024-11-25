@@ -2,7 +2,7 @@
 <br />
 [Publications (Scholar)](https://scholar.google.se/citations?user=lLBHtFUAAAAJ) * [ORCID](https://orcid.org/0000-0002-7873-3971)
 
-<span title="Research focus: Computer Vision &amp; Machine Learning. Professor, U. Copenhagen / Pioneer Centre for AI."><strong>Serge Belongie, U. Copenhagen / Pioneer Centre for AI</strong></span>
+<span title="Research focus: Computer Vision &amp; Machine Learning. Professor, University of Copenhagen / Pioneer Centre for AI."><strong>Serge Belongie, University of Copenhagen / Pioneer Centre for AI</strong></span>
 <br />
 [More info (researcher profile)](https://sergebelongie.github.io) * [Research group](https://www.belongielab.org) * [Publications (Scholar)](https://scholar.google.com/citations?user=chD5XxkAAAAJ) * [ORCID](https://orcid.org/0000-0002-0388-5217)
 
