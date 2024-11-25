@@ -163,6 +163,8 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 {% unless items_listed %}There are no recent events at this time.{% endunless %}
 
+**Some members of the network did not receive last month's newsletter.** Unfortunately, the November email got stuck in many people's spam folders. Either look there, or read the contents online: [ccainordics.com/newsletter/2024-11-22-november-2024/](https://ccainordics.com/newsletter/2024-11-22-november-2024/).
+
 *CCAI Nordics are a [network of researchers](/people/) dedicated to developing and utilizing AI technologies to address the urgent global challenge of climate change. Our researchers focus on creating and promoting AI solutions that support both climate change mitigation, reducing the severity of climate change, and adaptation, adjusting to the effects of climate change. We are already in a climate emergency which is causing biodiversity loss, extreme weather events, and human suffering, and this necessitates a multifaceted approach involving both policy change, limitations on activities contributing to climate change, and bolstering societal resilience against climate-related events.*
 
 *CCAI Nordics promotes the development of AI-based analytical tools and optimization techniques that can inform decision-making processes crucial for ensuring a sustainable future for generations to come. In particular, we recognize that technology, particularly AI-based solutions, can play a role in supporting efforts such as rewilding, rewetting, and reducing emissions and the reliance on fossil fuels.*
