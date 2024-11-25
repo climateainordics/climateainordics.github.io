@@ -56,6 +56,11 @@ We invite **poster presentations**. In addition to the topics mentioned above, w
 
 *E. Sacre is a researcher at the Swedish University of Agricultural Sciences (SLU) within the Department of Aquatic Resources (SLU Aqua). He obtained his PhD in 2019 at James Cook University, Australia, within the Australian Research Council Centre of Excellence for Coral Studies. At SLU Aqua, Edmond works within the Unit for Conservation and Marine Spatial Planning where he has been employed since 2019. He is involved in a variety of national and international projects focused on species distribution modeling, spatial conservation planning, cumulative impact assessment, and connectivity modeling. These projects include Protect Baltic (EU-Horizon), Western Indian Ocean Symphony (Swedish Agency for Marine and Water Management), and other national mapping projects.*
 
+**Nico Lang**, University of Copenhagen and Pioneer Centre for AI
+
+![](/events/2025-nordic-workshop/lang.jpg)
+
+*Nico is a Postdoc at the University of Copenhagen associated with the Pioneer Centre for AI, where he is co-advised by Serge Belongie and Christian Igel. He has received a PhD from ETH Zurich, under the supervision of Konrad Schindler and Jan Dirk Wegner. His research interests are at the intersection of computer vision, machine learning, and remote sensing, currently focusing on open-world recognition, fine-grained categorization, and representation learning with multi-modal data. More information can be found on his website: https://langnico.github.io/*
 **Amal Nammouchi**, Karlstad University and AfriClimate AI
 
 ![](/events/2025-nordic-workshop/nammouchi.jpg)
