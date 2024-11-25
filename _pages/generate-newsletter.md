@@ -6,10 +6,7 @@ previous_newsletter: 2024-11-22
 ---
 
 <style>
-img{
-width: 8em;
-float: right;
-}
+body{font-family: arial, sans-serif;} img{ float: left; width: 8em; margin: 0.4em;} p{margin: 2em 0.2em 2em 0.2em;} h1{margin: 2em 0.2em 2em 0.2em;} h2{margin: 2em 0.2em 2em 0.2em;} h3{margin: 2em 0.2em 2em 0.2em;} h4{margin: 2em 0.2em 2em 0.2em;}
 </style>
 
 Welcome to the *Climate Change AI Nordics* Newsletter {{ "now" | date: "%B %Y" }}.
@@ -41,11 +38,11 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 ## {{ p.title }}
 
 {% if p.image %}
-![]({{ p.image  }})
+![](https://ccainordics.com{{ p.image  }})
 {% endif %}
 
 {% if p.event_date %}*{{ p.event_date }}*{% else %}*{{ p.date | date: '%Y-%m-%d' }}*{% endif %} {{ p.shortversion }}<br />
-**[(Read more)]({{ p.url }})**
+**[(Read more)](https://ccainordics.com{{ p.url }})**
 {% endif %}
 {% endfor %}
 
@@ -70,11 +67,11 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 ## {{ p.title }}
 
 {% if p.image %}
-![]({{ p.image  }})
+![](https://ccainordics.com{{ p.image  }})
 {% endif %}
 
 {{printdate}} {{ p.shortversion }}<br />
-**[(Read more)]({{ p.url }})**
+**[(Read more)](https://ccainordics.com{{ p.url }})**
 {% endunless %}
 {% endfor %}
 
@@ -105,11 +102,11 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 ## {{ p.title }}
 
 {% if p.image %}
-![]({{ p.image  }})
+![](https://ccainordics.com{{ p.image  }})
 {% endif %}
 
 {{printdate}} {{ p.shortversion }}<br />
-**[(Read more)]({{ p.url }})**
+**[(Read more)](https://ccainordics.com{{ p.url }})**
 {% endunless %}
 {% endfor %}
 
@@ -144,11 +141,11 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 ## {{ p.title }}
 
 {% if p.image %}
-![]({{ p.image  }})
+![](https://ccainordics.com{{ p.image  }})
 {% endif %}
 
 {{ printdate }} {{ p.shortversion }}<br />
-**[(Read more)]({{ p.url }})**
+**[(Read more)](https://ccainordics.com{{ p.url }})**
 {% endunless %}
 {% endfor %}
 
