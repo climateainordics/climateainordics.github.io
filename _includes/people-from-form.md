@@ -150,3 +150,7 @@ Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Susta
 <br />
 Earth observation *  Climate modeling *  Machine learning *  Deep learning *  Weather forecasting * [Research group](https://liu.se/en/organisation/liu/ida/stima) * [ORCID](https://orcid.org/0009-0008-7292-4356)
 
+<span title="I&#x27;m a PhD student at University of Helsinki, currently visiting the CMCC Foundation in Bologna, Italy. My research lies at the intersection of physics and deep learning. Right now I&#x27;m building a data-driven forecaster for the Mediterranean Sea using graph neural networks. PhD Student, University of Helsinki."><strong>Daniel Holmberg, University of Helsinki</strong></span>
+<br />
+Climate modeling *  Efficient or sustainable AI *  Machine learning *  Deep learning * [More info (researcher profile)](https://danielholmberg.fi/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=oPncKzcAAAAJ) * [ORCID](https://orcid.org/0000-0001-5020-7438)
+
