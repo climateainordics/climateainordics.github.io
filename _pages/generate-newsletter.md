@@ -63,6 +63,9 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% unless p.first_page %}
 ## {{ p.title }}
 
+* post time {{posttime}} newsletter_start_time {{newsletter_start_time}}
+* event time {{eventtime}} nowtime {{nowtime}}
+
 {% if p.image %}
 ![]({{ p.image  }})
 {% endif %}
@@ -125,10 +128,12 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% else %}
 {% continue %}
 {% endif %}
-event time {{eventtime}} nowtime {{nowtime}}
 
 {% unless p.first_page %}
 ## {{ p.title }}
+
+* post time {{posttime}} newsletter_start_time {{newsletter_start_time}}
+* event time {{eventtime}} nowtime {{nowtime}}
 
 {% if p.image %}
 ![]({{ p.image  }})
