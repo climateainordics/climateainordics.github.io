@@ -12,7 +12,7 @@ img {
 </style>
 
 Welcome to _Climate Change AI Nordics_.
-We're a [network of researchers](https://ccai.cc/people/) who work on problems related to tackling climate change using AI and machine learning. CCAI Nordics acts as a hub, hosting and announcing news, seminars, and workshops. [Join us](/join/)!
+We're a network of researchers who work on problems related to tackling climate change using AI and machine learning. CCAI Nordics acts as a hub, hosting and announcing news, seminars, and workshops. [Join us](/join/)!
 
 {% include people-from-form-count.md %}
 
