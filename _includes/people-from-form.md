@@ -82,6 +82,10 @@ Climate modeling *  Machine learning *  Deep learning * [Publications (Scholar)]
 <br />
 Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep learning *  Remote sensing * [More info (researcher profile)](https://langnico.github.io/) * [Publications (Scholar)](https://scholar.google.ch/citations?user=bVZtKsQAAAAJ) * [ORCID](https://orcid.org/0000-0001-8434-027X)
 
+<span title="Marie-Sklodowska Curie Fellow at KTH. Post Doc, ROyal Institute of Technology."><strong>Francesca Larosa, ROyal Institute of Technology</strong></span>
+<br />
+Efficient or sustainable AI *  NLP *  Machine learning *  climate policy * [More info (researcher profile)](https://sites.google.com/view/francescalarosa/home-page?authuser=0) * [Publications (Scholar)](https://scholar.google.it/citations?user=89qTlnEAAAAJ&amp;hl=it)
+
 <span title="i&#x27;m edvin. PhD Student, RISE Research Institutes of Sweden."><strong>Edvin Listo Zec, RISE Research Institutes of Sweden</strong></span>
 <br />
 [More info (researcher profile)](https://edvinli.github.io)
