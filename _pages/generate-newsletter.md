@@ -22,13 +22,14 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 {% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}
 {% capture previous_newsletter_time %}{{ page.previous_newsletter | date: '%s' }}{% endcapture %}
+{% capture newsletter_start_time %}{{ previous_newsletter_time | plus: 86400 }}{% endcapture %}
 
 {% comment %} FIRST, first_page ITEMS!!! {% endcomment %}
 
 {% for p in site.posts %}
 {% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
 {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
-{% if posttime < previous_newsletter_time %}
+{% if posttime < newsletter_start_time %}
 {% continue %}
 {% endif %}
 
@@ -44,21 +45,17 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% endif %}
 {% endfor %}
 
-{% comment %} NEXT, NEWS AND EVENTS THAT HAS NOT YET HAPPENED!!! {% endcomment %}
+{% comment %} NEXT, NEWS!!! {% endcomment %}
 
 {% for p in site.posts %}
 {% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
 {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
-{% if posttime < previous_newsletter_time %}
+{% if posttime < newsletter_start_time %}
 {% continue %}
 {% endif %}
 
 {% if p.event_date %}
-{% capture eventtime %}{{ p.event_date | date: '%s'}}{% endcapture %}
-{% if eventtime < nowtime %}
 {% continue %}
-{% endif %}
-{% capture printdate %}*This event takes place {{ p.event_date }}.*{% endcapture %}
 {% else %}
 {% capture printdate %}*{{ p.date | date: '%Y-%m-%d' }}*{% endcapture %}
 {% endif %}
@@ -75,12 +72,47 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% endunless %}
 {% endfor %}
 
-{% comment %} FINALLY, EVENTS THAT HAS ALREADY HAPPENED!!! {% endcomment %}
+{% comment %} NEXT, EVENTS THAT HAS NOT YET HAPPENED!!! {% endcomment %}
+
+# Coming events
 
 {% for p in site.posts %}
 {% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
 {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
-{% if posttime < previous_newsletter_time %}
+{% if posttime < newsletter_start_time %}
+{% continue %}
+{% endif %}
+
+{% if p.event_date %}
+{% capture eventtime %}{{ p.event_date | date: '%s'}}{% endcapture %}
+{% if eventtime < nowtime %}
+{% continue %}
+{% endif %}
+{% capture printdate %}*This event takes place {{ p.event_date }}.*{% endcapture %}
+{% else %}
+{% continue %}
+{% endif %}
+
+{% unless p.first_page %}
+## {{ p.title }}
+
+{% if p.image %}
+![]({{ p.image  }})
+{% endif %}
+
+{{printdate}} {{ p.shortversion }}<br />
+**[(Read more)]({{ p.url }})**
+{% endunless %}
+{% endfor %}
+
+{% comment %} FINALLY, EVENTS THAT HAS ALREADY HAPPENED!!! {% endcomment %}
+
+# Recent events
+
+{% for p in site.posts %}
+{% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
+{% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
+{% if posttime < newsletter_start_time %}
 {% continue %}
 {% endif %}
 
@@ -89,7 +121,7 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% if eventtime > nowtime %}
 {% continue %}
 {% endif %}
-{% capture printdate %}*This event happened {{ p.event_date }}.*{% endcapture %}
+{% capture printdate %}*This event took place {{ p.event_date }}.*{% endcapture %}
 {% else %}
 {% continue %}
 {% endif %}
