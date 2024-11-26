@@ -154,3 +154,7 @@ Earth observation *  Climate modeling *  Machine learning *  Deep learning *  We
 <br />
 Climate modeling *  Efficient or sustainable AI *  Machine learning *  Deep learning * [More info (researcher profile)](https://danielholmberg.fi/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=oPncKzcAAAAJ) * [ORCID](https://orcid.org/0000-0001-5020-7438)
 
+<span title="Dr. Puzhao Zhang is a Senior Remote Sensing Specialist, who has strong interdisciplinary background in machine learning and Earth observation. With expertise in radar and optical remote sensing, his work centers around land remote sensing, forest monitoring, and carbon dynamics in the context of climate change. His vision encompasses utilizing machine learning (including deep learning) and Earth observation big data to create a sustainable future by addressing environmental challenges and mitigating climate changes.  Industry, DHI."><strong>Puzhao Zhang, DHI</strong></span>
+<br />
+Earth observation *  Computer vision *  Machine learning *  Deep learning * [Research group](https://eo.dhigroup.com/) * [Publications (Scholar)](https://scholar.google.com/citations?user=qodHYCQAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0001-9907-0989)
+
