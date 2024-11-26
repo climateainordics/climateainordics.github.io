@@ -86,6 +86,10 @@ Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep
 <br />
 Efficient or sustainable AI *  NLP *  Machine learning *  climate policy * [More info (researcher profile)](https://sites.google.com/view/francescalarosa/home-page?authuser=0) * [Publications (Scholar)](https://scholar.google.it/citations?user=89qTlnEAAAAJ&amp;hl=it)
 
+<span title="Researcher at the interception of forest science, remote sensing, and AI. Researcher (with a PhD), Norwegian Institute of Bioeconomy Research (NIBIO)."><strong>Stefano Puliti, Norwegian Institute of Bioeconomy Research (NIBIO)</strong></span>
+<br />
+Earth observation *  Biodiversity *  Computer vision *  Deep learning * [More info (researcher profile)](https://bsky.app/profile/stefanopuliti.bsky.social) * [Publications (Scholar)](https://scholar.google.com/citations?user=mrysxWoAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4624-8987)
+
 <span title="i&#x27;m edvin. PhD Student, RISE Research Institutes of Sweden."><strong>Edvin Listo Zec, RISE Research Institutes of Sweden</strong></span>
 <br />
 [More info (researcher profile)](https://edvinli.github.io)
