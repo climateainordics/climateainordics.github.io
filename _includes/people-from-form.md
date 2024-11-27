@@ -162,3 +162,7 @@ Climate modeling *  Efficient or sustainable AI *  Machine learning *  Deep lear
 <br />
 Earth observation *  Computer vision *  Machine learning *  Deep learning * [Research group](https://eo.dhigroup.com/) * [Publications (Scholar)](https://scholar.google.com/citations?user=qodHYCQAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0001-9907-0989)
 
+<span title="Researcher (non-PhD), RISE."><strong>Martin Willbo, RISE</strong></span>
+<br />
+Earth observation *  Efficient or sustainable AI *  Computer vision *  Machine learning *  Deep learning
+
