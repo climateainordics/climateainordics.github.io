@@ -26,7 +26,7 @@ author:
   bio              : "Nordic network for collaborations around tackling climate change using AI and machine learning."
   location         : "Nordics"
   pronouns         : # example: "she/her"  
-  employer         : ""
+  employer         : #
   uri              : # URL
   email            : "ccainordics@gmail.com" 
 
