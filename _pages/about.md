@@ -22,6 +22,7 @@ We are a [network of researchers](/people/) dedicated to developing and utilizin
 {% endif %}
 {% endfor %}
 
+
 CCAI Nordics promotes the development of AI-based analytical tools and optimization techniques that can inform decision-making processes crucial for ensuring a sustainable future for generations to come. In particular, we recognize that technology, particularly AI-based solutions, can play a role in supporting efforts such as rewilding, rewetting, and reducing emissions and the reliance on fossil fuels.
 
 By bringing together researchers in the Nordic countries, CCAI Nordics aims to:
