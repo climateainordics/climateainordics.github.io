@@ -170,3 +170,7 @@ Earth observation *  Computer vision *  Machine learning *  Deep learning * [Res
 <br />
 Earth observation *  Efficient or sustainable AI *  Computer vision *  Machine learning *  Deep learning
 
+<span title="PhD Student, RISE."><strong>Sanna Jarl, RISE</strong></span>
+<br />
+Efficient or sustainable AI *  Machine learning *  Bayesian optimisation * [Publications (Scholar)](https://scholar.google.com/citations?user=I24YlG8AAAAJ&amp;hl=sv)
+
