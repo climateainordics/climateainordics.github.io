@@ -7,16 +7,16 @@ Artificial intelligence (AI) has the potential to make very significant contribu
 I highlight barriers and risks to the adoption of AI, including the carbon footprint of AI usage worldwide. I focus on the multiple definitions (and ultimate importance) of &quot;trust in AI&quot; and its impact on the integration of AI into complex workflows. 
 
 This talk is for AI practitioners looking to understand how AI fits into the bigger picture of climate change. I highlight opportunities and challenges in each sector that I hope will motivate collaboration across academia and industry."
-abstract: Artificial intelligence (AI) has the potential to make very significant contributions to climate change mitigation. The complexity and scale of the challenge is broad. In this talk, I break down opportunities for AI to effect incremental and transformational change across multiple sectors, focusing on industries with large carbon footprints.
+abstract: "Artificial intelligence (AI) has the potential to make very significant contributions to climate change mitigation. The complexity and scale of the challenge is broad. In this talk, I break down opportunities for AI to effect incremental and transformational change across multiple sectors, focusing on industries with large carbon footprints.
 
 I highlight barriers and risks to the adoption of AI, including the carbon footprint of AI usage worldwide. I focus on the multiple definitions (and ultimate importance) of &quot;trust in AI&quot; and its impact on the integration of AI into complex workflows. 
 
-This talk is for AI practitioners looking to understand how AI fits into the bigger picture of climate change. I highlight opportunities and challenges in each sector that I hope will motivate collaboration across academia and industry.
-socialmedia: Artificial intelligence (AI) has the potential to make very significant contributions to climate change mitigation. The complexity and scale of the challenge is broad. In this talk, I break down opportunities for AI to effect incremental and transformational change across multiple sectors, focusing on industries with large carbon footprints.
+This talk is for AI practitioners looking to understand how AI fits into the bigger picture of climate change. I highlight opportunities and challenges in each sector that I hope will motivate collaboration across academia and industry."
+socialmedia: "Artificial intelligence (AI) has the potential to make very significant contributions to climate change mitigation. The complexity and scale of the challenge is broad. In this talk, I break down opportunities for AI to effect incremental and transformational change across multiple sectors, focusing on industries with large carbon footprints.
 
 I highlight barriers and risks to the adoption of AI, including the carbon footprint of AI usage worldwide. I focus on the multiple definitions (and ultimate importance) of &quot;trust in AI&quot; and its impact on the integration of AI into complex workflows. 
 
-This talk is for AI practitioners looking to understand how AI fits into the bigger picture of climate change. I highlight opportunities and challenges in each sector that I hope will motivate collaboration across academia and industry.
+This talk is for AI practitioners looking to understand how AI fits into the bigger picture of climate change. I highlight opportunities and challenges in each sector that I hope will motivate collaboration across academia and industry."
 people:
 - Olof Mogren
 permalink: /events/2024-11-14-2024-11-21-artificial-intelligence-for-climate-change-mitigation
