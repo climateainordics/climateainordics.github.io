@@ -30,6 +30,10 @@ Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities * 
 <br />
 Urban planning *  Machine learning *  Deep learning *  Spatial Analysis *  GIS * [More info (researcher profile)](https://www.nateko.lu.se/ali-mansourian) * [Publications (Scholar)](https://scholar.google.com/citations?user=T6nSBNIAAAAJ) * [ORCID](https://orcid.org/0000-0001-6812-4307)
 
+<span title="I do research on computer vision, image analysis and machine learning. Professor, Centre for Mathematical Sciences, Lund University."><strong>Kalle Åström, Centre for Mathematical Sciences, Lund University</strong></span>
+<br />
+Earth observation *  Sustainable transport *  Sustainable cities *  Sustainable production *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.maths.lu.se/english/research/staff/kalleastrom/) * [Research group](https://www.maths.lu.se/english/research/research-groups/mathematical-imaging-group/) * [Publications (Scholar)](https://scholar.google.se/citations?user=YIzs6eoAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0002-8689-7810)
+
 <span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. Researcher (with a PhD), RISE Research Institutes of Sweden."><strong>Smita Chakraborty, RISE Research Institutes of Sweden</strong></span>
 <br />
 
