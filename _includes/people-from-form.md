@@ -94,6 +94,10 @@ Efficient or sustainable AI *  NLP *  Machine learning *  climate policy * [More
 <br />
 Earth observation *  Biodiversity *  Computer vision *  Deep learning * [More info (researcher profile)](https://bsky.app/profile/stefanopuliti.bsky.social) * [Publications (Scholar)](https://scholar.google.com/citations?user=mrysxWoAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4624-8987)
 
+<span title="I am a dedicated researcher with a PhD in Machine Learning, specializing in unsupervised learning techniques and their applications in remote sensing, automation, and medical imaging. With a strong background in Python, and AI frameworks, I am passionate about solving real-world problems through innovative data-driven solutions. Collaborative by nature, I thrive in dynamic environments and am eager to continue learning and contributing to impactful projects. Researcher (with a PhD), LTU."><strong>Nosheen Abid, LTU</strong></span>
+<br />
+Earth observation *  Climate modeling *  Urban planning *  Efficient or sustainable AI *  NLP *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://ltu.se/personal/n/nosheen-abid) * [Research group](https://www.ltu.se/en/research/research-subjects/machine-learning) * [Publications (Scholar)](https://scholar.google.com/citations?user=tEs2Fr4AAAAJ&amp;hl=en)
+
 <span title="i&#x27;m edvin. PhD Student, RISE Research Institutes of Sweden."><strong>Edvin Listo Zec, RISE Research Institutes of Sweden</strong></span>
 <br />
 [More info (researcher profile)](https://edvinli.github.io)
