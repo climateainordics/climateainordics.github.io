@@ -34,6 +34,10 @@ Urban planning *  Machine learning *  Deep learning *  Spatial Analysis *  GIS *
 <br />
 Earth observation *  Sustainable transport *  Sustainable cities *  Sustainable production *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.maths.lu.se/english/research/staff/kalleastrom/) * [Research group](https://www.maths.lu.se/english/research/research-groups/mathematical-imaging-group/) * [Publications (Scholar)](https://scholar.google.se/citations?user=YIzs6eoAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0002-8689-7810)
 
+<span title="My research focuses on machine learning for earth observation. Earth system data is among the most unique and abundant multi-modal data, making it an ideal platform for novel machine learning research. My new position offers an opportunity to continue bringing unique and timely challenges of EO to the ML community and remarkable ML methods to the EO community. But I am happy to adorn different hats and move up or down the programming-stack to solve real-world problems. Assistant Professor, University of Copenhagen."><strong>Ankit Kariryaa, University of Copenhagen</strong></span>
+<br />
+Earth observation *  Climate modeling *  Biodiversity *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://ankitkariryaa.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=lwSTZGgAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9284-7847)
+
 <span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. Researcher (with a PhD), RISE Research Institutes of Sweden."><strong>Smita Chakraborty, RISE Research Institutes of Sweden</strong></span>
 <br />
 
