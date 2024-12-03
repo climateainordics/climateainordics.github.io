@@ -38,6 +38,10 @@ Earth observation *  Sustainable transport *  Sustainable cities *  Sustainable 
 <br />
 Earth observation *  Climate modeling *  Biodiversity *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://ankitkariryaa.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=lwSTZGgAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9284-7847)
 
+<span title="I research AI for sustainable materials development and AI in atmospheric science . Professor, Aalto Univeristy."><strong>Patrick Rinke, Aalto Univeristy</strong></span>
+<br />
+Efficient or sustainable AI *  Machine learning *  Deep learning *  materials and atmospheric science * [Research group](https://www.aalto.fi/en/department-of-applied-physics/computational-electronic-structure-theory-cest) * [Publications (Scholar)](https://scholar.google.de/citations?user=TYHCEwQAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-1898-723X)
+
 <span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. Researcher (with a PhD), RISE Research Institutes of Sweden."><strong>Smita Chakraborty, RISE Research Institutes of Sweden</strong></span>
 <br />
 
