@@ -186,3 +186,11 @@ Earth observation *  Efficient or sustainable AI *  Computer vision *  Machine l
 <br />
 Efficient or sustainable AI *  Machine learning *  Bayesian optimisation * [Publications (Scholar)](https://scholar.google.com/citations?user=I24YlG8AAAAJ&amp;hl=sv)
 
+<span title="Researcher (non-PhD), Remote Sensing Center for Earth System Research (RSC4Earth), Leipzig University."><strong>Anna Luise von Blohn, Remote Sensing Center for Earth System Research (RSC4Earth), Leipzig University</strong></span>
+<br />
+
+
+<span title="PhD Student, Indian Institute of Technology, Bombay."><strong>Puja Tripathy, Indian Institute of Technology, Bombay</strong></span>
+<br />
+
+
