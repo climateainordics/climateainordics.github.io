@@ -106,6 +106,10 @@ Earth observation *  Biodiversity *  Computer vision *  Deep learning * [More in
 <br />
 Earth observation *  Climate modeling *  Urban planning *  Efficient or sustainable AI *  NLP *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://ltu.se/personal/n/nosheen-abid) * [Research group](https://www.ltu.se/en/research/research-subjects/machine-learning) * [Publications (Scholar)](https://scholar.google.com/citations?user=tEs2Fr4AAAAJ&amp;hl=en)
 
+<span title="Researcher (with a PhD), RISE."><strong>Steven Sarasini, RISE</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.se/citations?user=JqsCwRcAAAAJ) * [ORCID](https://orcid.org/0000-0003-4313-4538)
+
 <span title="i&#x27;m edvin. PhD Student, RISE Research Institutes of Sweden."><strong>Edvin Listo Zec, RISE Research Institutes of Sweden</strong></span>
 <br />
 [More info (researcher profile)](https://edvinli.github.io)
