@@ -50,6 +50,12 @@ We invite **poster presentations**. In addition to the topics mentioned above, w
 
 *Stefanos Georganos is an Associate Professor in Geomatics at Karlstad University. He does research in quantitative human geography, remote sensing, spatial epidemiology, demography and machine learning. He is particularly interested in the use of geo-information for helping address the UN Sustainable Development Goals, with a geographical interest in sub-Saharan African cities. His latest research unravels the potential of machine and deep learnning and Earth Observation to detect, measure and characterize socio-economic inequalities in deprived urban areas in support of the most vulnerable populations.*
 
+**Alouette van Hove**, University of Oslo
+
+![](/events/2025-nordic-workshop/van-hove.jpg)
+
+*Alouette van Hove is a PhD candidate at the University of Oslo. Her research interests includes the development of a novel framework to estimate land surface fluxes at a regional scale. The framework makes use of sensor measurements from drones, data assimilation, atmospheric fluid dynamics modeling, and reinforcement learning techniques. The goal is to deliver high-resolution surface maps of greenhouse gas fluxes in northern landscapes for validation of climate models.*
+
 **Edmond Sacre**, Swedish University of Agricultural Sciences
 
 ![](/events/2025-nordic-workshop/sacre.jpg)
@@ -81,12 +87,6 @@ With over a decade of experience in community building and international develop
 ![](/events/2025-nordic-workshop/zahra.jpg)
 
 *Shorouq Zahra a research engineer and developer at RISE Research Institutes of Sweden, with a focus on NLP, conversational AI, and MLOps. She has been engaged in the work "Using LLMs to Build a Database of Climate Extreme Impacts", presented at ClimateNLP 2024, proposing a method for building large-scale databases of climate extreme impacts from online textual sources, using LLMs for information extraction in combination with more traditional NLP techniques to improve accuracy and consistency.*
-
-**Alouette van Hove**, University of Oslo
-
-![](/events/2025-nordic-workshop/van-hove.jpg)
-
-*Alouette van Hove is a PhD candidate at the University of Oslo. Her research interests includes the development of a novel framework to estimate land surface fluxes at a regional scale. The framework makes use of sensor measurements from drones, data assimilation, atmospheric fluid dynamics modeling, and reinforcement learning techniques. The goal is to deliver high-resolution surface maps of greenhouse gas fluxes in northern landscapes for validation of climate models.*
 
 **Poster presentations:**
 
