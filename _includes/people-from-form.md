@@ -166,6 +166,10 @@ Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Susta
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=hqNgE_8AAAAJ) * [ORCID](https://orcid.org/0000-0002-9783-8322)
 
+<span title="Researcher (non-PhD), Central University of Rajasthan."><strong>Varsha Ganguly, Central University of Rajasthan</strong></span>
+<br />
+
+
 <span title="PhD Student, Linköping University."><strong>Erik Larsson, Linköping University</strong></span>
 <br />
 Earth observation *  Climate modeling *  Machine learning *  Deep learning *  Weather forecasting * [Research group](https://liu.se/en/organisation/liu/ida/stima) * [ORCID](https://orcid.org/0009-0008-7292-4356)
