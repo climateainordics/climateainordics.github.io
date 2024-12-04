@@ -88,7 +88,22 @@ With over a decade of experience in community building and international develop
 
 *Alouette van Hove is a PhD candidate at the University of Oslo. Her research interests includes the development of a novel framework to estimate land surface fluxes at a regional scale. The framework makes use of sensor measurements from drones, data assimilation, atmospheric fluid dynamics modeling, and reinforcement learning techniques. The goal is to deliver high-resolution surface maps of greenhouse gas fluxes in northern landscapes for validation of climate models.*
 
-More speakers will be added soon.
+**Poster presentations:**
+
+We welcome poster presentations relevant to the workshop. Submit your poster when [registering for the event](https://forms.gle/vt7gMYwoR8tvGx9T7).
+
+* John Martinsson, RISE: *Understanding the World Through Sound: Enhancing Biodiversity Monitoring*
+* Sonja Aits, Lund University
+* Alouette van Hove, University of Oslo
+* Aleksis Pirinen, RISE
+* Anupama Kuttikkat Xavier, Royal Meteorological institute of Belgium
+* Murathan, Kurfalı, RISE
+* Nico Lang, University of Copenhagen
+* Stefano Puliti, NBIO
+* Ankit Kariryaa, University of Copenhagen
+* Puja Tripathy, PhD student at Indian Institute of Technology, Bombay
+* Martin Willbo, RISE
+* Anna Luise von Blohn, Remote Sensing Center for Earth System Research (RSC4Earth), Leipzig University
 
 **Date and time:** 2025-05-13, 09:00-18:00 + Social dinner until late
 
