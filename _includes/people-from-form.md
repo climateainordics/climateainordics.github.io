@@ -206,3 +206,7 @@ Efficient or sustainable AI *  Machine learning *  Bayesian optimisation * [Publ
 <br />
 
 
+<span title="Student, Södertörn University ."><strong>Dawda Cham, Södertörn University </strong></span>
+<br />
+Climate modeling *  Biodiversity *  Urban planning * [More info (researcher profile)](https://www.linkedin.com/in/dawda-cham-b29524102/)
+
