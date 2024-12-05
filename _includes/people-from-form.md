@@ -1,6 +1,6 @@
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. Professor, Uppsala University / RISE Research Institutes of Sweden."><strong>Joakim Nivre, Uppsala University / RISE Research Institutes of Sweden</strong></span>
 <br />
-[Publications (Scholar)](https://scholar.google.se/citations?user=lLBHtFUAAAAJ) * [ORCID](https://orcid.org/0000-0002-7873-3971)
+[Publications (Scholar)](https://scholar.google.com/citations?user=lLBHtFUAAAAJ) * [ORCID](https://orcid.org/0000-0002-7873-3971)
 
 <span title="Research focus: Computer Vision &amp; Machine Learning. Professor, University of Copenhagen / Pioneer Centre for AI."><strong>Serge Belongie, University of Copenhagen / Pioneer Centre for AI</strong></span>
 <br />
@@ -32,7 +32,11 @@ Urban planning *  Machine learning *  Deep learning *  Spatial Analysis *  GIS *
 
 <span title="I do research on computer vision, image analysis and machine learning. Professor, Centre for Mathematical Sciences, Lund University."><strong>Kalle Åström, Centre for Mathematical Sciences, Lund University</strong></span>
 <br />
-Earth observation *  Sustainable transport *  Sustainable cities *  Sustainable production *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.maths.lu.se/english/research/staff/kalleastrom/) * [Research group](https://www.maths.lu.se/english/research/research-groups/mathematical-imaging-group/) * [Publications (Scholar)](https://scholar.google.se/citations?user=YIzs6eoAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0002-8689-7810)
+Earth observation *  Sustainable transport *  Sustainable cities *  Sustainable production *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.maths.lu.se/english/research/staff/kalleastrom/) * [Research group](https://www.maths.lu.se/english/research/research-groups/mathematical-imaging-group/) * [Publications (Scholar)](https://scholar.google.com/citations?user=YIzs6eoAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0002-8689-7810)
+
+<span title="Associate Professor, Centre for Mathematical Sciences, Lund University."><strong>Alexandros Sopasakis, Centre for Mathematical Sciences, Lund University</strong></span>
+<br />
+Earth observation *  Climate modeling *  urban planning *  sustainable cities *  sustainable production *  NLP *  Machine Learning *  Deep Learning. * [More info (researcher profile)](https://www.maths.lu.se/english/research/staff/alexandros-sopasakis/) * [Publications (Scholar)](https://scholar.google.com/citations?user=axig3d0AAAAJ) * [ORCID](https://orcid.org/0000-0001-9167-3590)
 
 <span title="My research focuses on machine learning for earth observation. Earth system data is among the most unique and abundant multi-modal data, making it an ideal platform for novel machine learning research. My new position offers an opportunity to continue bringing unique and timely challenges of EO to the ML community and remarkable ML methods to the EO community. But I am happy to adorn different hats and move up or down the programming-stack to solve real-world problems. Assistant Professor, University of Copenhagen."><strong>Ankit Kariryaa, University of Copenhagen</strong></span>
 <br />
@@ -102,13 +106,13 @@ Efficient or sustainable AI *  NLP *  Machine learning *  climate policy * [More
 <br />
 Earth observation *  Biodiversity *  Computer vision *  Deep learning * [More info (researcher profile)](https://bsky.app/profile/stefanopuliti.bsky.social) * [Publications (Scholar)](https://scholar.google.com/citations?user=mrysxWoAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4624-8987)
 
-<span title="I am a dedicated researcher with a PhD in Machine Learning, specializing in unsupervised learning techniques and their applications in remote sensing, automation, and medical imaging. With a strong background in Python, and AI frameworks, I am passionate about solving real-world problems through innovative data-driven solutions. Collaborative by nature, I thrive in dynamic environments and am eager to continue learning and contributing to impactful projects. Researcher (with a PhD), LTU."><strong>Nosheen Abid, LTU</strong></span>
+<span title="I am a dedicated researcher with a PhD in Machine Learning, specializing in unsupervised learning techniques and their applications in remote sensing, automation, and medical imaging. With a strong background in Python, and AI frameworks, I am passionate about solving real-world problems through innovative data-driven solutions. Collaborative by nature, I thrive in dynamic environments and am eager to continue learning and contributing to impactful projects. Researcher (with a PhD), Luleå University of Technology."><strong>Nosheen Abid, Luleå University of Technology</strong></span>
 <br />
 Earth observation *  Climate modeling *  Urban planning *  Efficient or sustainable AI *  NLP *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://ltu.se/personal/n/nosheen-abid) * [Research group](https://www.ltu.se/en/research/research-subjects/machine-learning) * [Publications (Scholar)](https://scholar.google.com/citations?user=tEs2Fr4AAAAJ&amp;hl=en)
 
-<span title="Researcher (with a PhD), RISE."><strong>Steven Sarasini, RISE</strong></span>
+<span title="Researcher (with a PhD), RISE Research Institutes of Sweden."><strong>Steven Sarasini, RISE Research Institutes of Sweden</strong></span>
 <br />
-[Publications (Scholar)](https://scholar.google.se/citations?user=JqsCwRcAAAAJ) * [ORCID](https://orcid.org/0000-0003-4313-4538)
+[Publications (Scholar)](https://scholar.google.com/citations?user=JqsCwRcAAAAJ) * [ORCID](https://orcid.org/0000-0003-4313-4538)
 
 <span title="i&#x27;m edvin. PhD Student, RISE Research Institutes of Sweden."><strong>Edvin Listo Zec, RISE Research Institutes of Sweden</strong></span>
 <br />
@@ -144,7 +148,7 @@ Earth observation *  Climate modeling *  Sustainable production *  Efficient or 
 
 <span title="PhD student at Karlstad University working at the intersection of AI and Energy. Co-founder of AfriClimate AI (https://www.africlimate.ai) and co-chair of the Deep Learning Indaba (https://deeplearningindaba.com/2024/). PhD Student, Karlstad University."><strong>Amal Nammouchi, Karlstad University</strong></span>
 <br />
-Sustainable cities *  Sustainable production *  Efficient or sustainable AI *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.kau.se/en/researchers/amal-nammouchi) * [Research group](https://www.uu.se/forskning/solve#:~:text=SOLVE%20är%20ett%20konsortium%20av,solenergi%20i%20det%20svenska%20elnätet.) * [Publications (Scholar)](https://scholar.google.se/citations?user=CALEjIEAAAAJ)
+Sustainable cities *  Sustainable production *  Efficient or sustainable AI *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.kau.se/en/researchers/amal-nammouchi) * [Research group](https://www.uu.se/forskning/solve#:~:text=SOLVE%20är%20ett%20konsortium%20av,solenergi%20i%20det%20svenska%20elnätet.) * [Publications (Scholar)](https://scholar.google.com/citations?user=CALEjIEAAAAJ)
 
 <span title="Research Engineer, RISE Research Institutes of Sweden."><strong>Shorouq Zahra, RISE Research Institutes of Sweden</strong></span>
 <br />
@@ -186,11 +190,11 @@ Climate modeling *  Efficient or sustainable AI *  Machine learning *  Deep lear
 <br />
 Earth observation *  Computer vision *  Machine learning *  Deep learning * [Research group](https://eo.dhigroup.com/) * [Publications (Scholar)](https://scholar.google.com/citations?user=qodHYCQAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0001-9907-0989)
 
-<span title="Researcher (non-PhD), RISE."><strong>Martin Willbo, RISE</strong></span>
+<span title="Researcher (non-PhD), RISE Research Institutes of Sweden."><strong>Martin Willbo, RISE Research Institutes of Sweden</strong></span>
 <br />
 Earth observation *  Efficient or sustainable AI *  Computer vision *  Machine learning *  Deep learning
 
-<span title="PhD Student, RISE."><strong>Sanna Jarl, RISE</strong></span>
+<span title="PhD Student, RISE Research Institutes of Sweden."><strong>Sanna Jarl, RISE Research Institutes of Sweden</strong></span>
 <br />
 Efficient or sustainable AI *  Machine learning *  Bayesian optimisation * [Publications (Scholar)](https://scholar.google.com/citations?user=I24YlG8AAAAJ&amp;hl=sv)
 
