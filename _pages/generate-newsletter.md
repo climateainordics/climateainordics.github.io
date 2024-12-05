@@ -163,7 +163,13 @@ Since the launch in October, the network has grown to 53 people spread over the 
 
 {% unless items_listed %}There are no recent events at this time.{% endunless %}
 
-**Some members of the network did not receive last month's newsletter.** Unfortunately, the November email got stuck in many people's spam folders. Either look there, or read the contents online: [ccainordics.com/newsletter/2024-11-22-november-2024/](https://ccainordics.com/newsletter/2024-11-22-november-2024/).
+# Some members of the network did not receive last month's newsletter.
+
+Unfortunately, the November email got stuck in many people's spam folders. Either look there, or read the contents online: [ccainordics.com/newsletter/2024-11-22-november-2024/](https://ccainordics.com/newsletter/2024-11-22-november-2024/).
+
+# Spread the word!
+
+CCAI Nordics is present on [LinkedIn](https://www.linkedin.com/company/climate-change-ai-nordics/) and [BlueSky](https://bsky.app/profile/ccainordics.com). Follow us and repost our stories so that we get the most impact! Also make sure to share your work with us, by responding to this email or some other channel, and we'll add it to the news feed!
 
 *CCAI Nordics is a [network of researchers](/people/) dedicated to developing and utilizing AI technologies to address the urgent global challenge of climate change. Our researchers focus on creating and promoting AI solutions that support both climate change mitigation, reducing the severity of climate change, and adaptation, adjusting to the effects of climate change. We are already in a climate emergency which is causing biodiversity loss, extreme weather events, and human suffering, and this necessitates a multifaceted approach involving both policy change, limitations on activities contributing to climate change, and bolstering societal resilience against climate-related events.*
 
