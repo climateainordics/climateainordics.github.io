@@ -88,6 +88,24 @@ With over a decade of experience in community building and international develop
 
 *Shorouq Zahra a research engineer and developer at RISE Research Institutes of Sweden, with a focus on NLP, conversational AI, and MLOps. She has been engaged in the work "Using LLMs to Build a Database of Climate Extreme Impacts", presented at ClimateNLP 2024, proposing a method for building large-scale databases of climate extreme impacts from online textual sources, using LLMs for information extraction in combination with more traditional NLP techniques to improve accuracy and consistency.*
 
+**Poster presentations:**
+
+We welcome poster presentations relevant to the workshop. Submit your poster when [registering for the event](https://forms.gle/vt7gMYwoR8tvGx9T7).
+
+* John Martinsson, RISE: *Understanding the World Through Sound: Enhancing Biodiversity Monitoring*
+* Sonja Aits, Lund University
+* Alouette van Hove, University of Oslo
+* Aleksis Pirinen, RISE
+* Anupama Kuttikkat Xavier, Royal Meteorological institute of Belgium
+* Murathan, Kurfalı, RISE
+* Nico Lang, University of Copenhagen
+* Stefano Puliti, NBIO
+* Ankit Kariryaa, University of Copenhagen
+* Puja Tripathy, PhD student at Indian Institute of Technology, Bombay
+* Martin Willbo, RISE
+* Anna Luise von Blohn, Remote Sensing Center for Earth System Research (RSC4Earth), Leipzig Universit
+* Ellen De Jonghe, Ghent University
+
 **Date and time:** 2025-05-13, 09:00-18:00 + Social dinner until late
 
 **Place:** Gothenburg, Sweden
