@@ -76,6 +76,8 @@ We invite **poster presentations**. In addition to the topics mentioned above, w
 She is a co-founder of AfriClimate AI, a community-driven non-profit organization that brings AI-powered solutions to climate challenges across Africa through capacity building, research, and innovation.
 With over a decade of experience in community building and international development, Amal has held numerous leadership roles, including Vice President of JCI El Alia (twice), Chairwoman of IEEE SUPCOM SB, General chair of the IndabaX Tunisia 2019, and Committee Chair at the Deep Learning Indaba 2024, helping foster the next generation of AI talent in Africa.*
 
+[Don't miss Amal's webinar talk on "Leveraging AI OLeveraging AI for Climate Resilience in Africa: Challenges, Opportunities, and the Need for Collaboratio", 2025-01-30!](https://ccainordics.com/events/2024-12-06-2025-01-30-leveraging-ai-for-climate-resilience-in)
+
 **David Thulke**, RWTH Aachen University
 
 ![](/events/2025-nordic-workshop/thulke.jpg)
