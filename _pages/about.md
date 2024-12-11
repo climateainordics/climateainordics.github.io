@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+img {
+  width: 8em;
+  float: right;
+}
+</style>
 
 Welcome to _Climate Change AI Nordics_.
 
@@ -18,6 +24,9 @@ CCAI Nordics strongly supports the pioneering work of the global non-profit orga
 {% for p in site.posts %}
 {% if p.first_page %}
 > ## {{ p.title }}
+{% if p.image %}
+> ![]({{ p.image }})
+{ endif }
 > {{ p.shortversion | replace: '\n', '\n> ' }}
 > **[(Read more)]({{ p.url }})**
 {% endif %}
