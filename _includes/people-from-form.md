@@ -114,6 +114,14 @@ Earth observation *  Climate modeling *  Urban planning *  Efficient or sustaina
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=JqsCwRcAAAAJ) * [ORCID](https://orcid.org/0000-0003-4313-4538)
 
+<span title="Post Doc, Copenhagen University ."><strong>Jaime Caballer Revenga, Copenhagen University </strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=wQfif-MAAAAJ) * [ORCID](https://orcid.org/0000-0002-9330-6572)
+
+<span title="My research area is machine learning in social science, where I study individual competencies, life trajectories and knowledge flows to analyze their contribution to individual well-being, economic development and innovation. By understanding the interaction of powers in the social context, I can hopefully obtain insights that can contribute to societal climate transformation and climate protection.  Post Doc, Lund University."><strong>Philipp Stark, Lund University</strong></span>
+<br />
+Machine learning *  Deep learning * [ORCID](https://orcid.org/0000-0001-6529-1142)
+
 <span title="i&#x27;m edvin. PhD Student, RISE Research Institutes of Sweden."><strong>Edvin Listo Zec, RISE Research Institutes of Sweden</strong></span>
 <br />
 [More info (researcher profile)](https://edvinli.github.io)
@@ -209,4 +217,12 @@ Efficient or sustainable AI *  Machine learning *  Bayesian optimisation * [Publ
 <span title="Student, Södertörn University ."><strong>Dawda Cham, Södertörn University </strong></span>
 <br />
 Climate modeling *  Biodiversity *  Urban planning * [More info (researcher profile)](https://www.linkedin.com/in/dawda-cham-b29524102/)
+
+<span title="Researcher (non-PhD), Ghent University."><strong>Ellen De Jonghe, Ghent University</strong></span>
+<br />
+[ORCID](https://orcid.org/0009-0003-6502-3828)
+
+<span title="I am a researcher focused on studying sustainable AI development. PhD Student, Indian Institute of Information Technology, Kottayam."><strong>Jiby Mariya Jose, Indian Institute of Information Technology, Kottayam</strong></span>
+<br />
+Climate modeling *  Biodiversity *  Sustainable transport *  Sustainable cities *  Sustainable production *  Efficient or sustainable AI *  NLP *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://in.linkedin.com/in/jiby-mariya-jose-920b37227) * [Publications (Scholar)](https://scholar.google.com/citations?user=UPYmWtYAAAAJ)
 
