@@ -126,9 +126,9 @@ Machine learning *  Deep learning * [ORCID](https://orcid.org/0000-0001-6529-114
 <br />
 [More info (researcher profile)](https://edvinli.github.io)
 
-<span title="PhD Student, RISE Research Institutes of Sweden."><strong>John Martinsson, RISE Research Institutes of Sweden</strong></span>
+<span title="My research focuses on developing machine learning methods to enable efficient and accurate monitoring of natural environments through sound. PhD Student, RISE Research Institutes of Sweden."><strong>John Martinsson, RISE Research Institutes of Sweden</strong></span>
 <br />
-[More info (researcher profile)](https://johnmartinsson.github.io/) * [Research group](https://dl-group.se/) * [Publications (Scholar)](https://scholar.google.com/citations?user=sAMIwlMAAAAJ) * [ORCID](https://orcid.org/0000-0002-5032-4367)
+Earth observation *  Biodiversity *  Marine ecology *  Efficient or sustainable AI *  Soundscape analysis *  Machine learning *  Deep learning *  Machine Listening * [More info (researcher profile)](https://johnmartinsson.org) * [Research group](https://dl-group.se) * [Publications (Scholar)](https://scholar.google.com/citations?user=sAMIwlMAAAAJ) * [ORCID](https://orcid.org/0000-0002-5032-4367)
 
 <span title="I&#x27;m a PhD student at the Center for Mathematical Sciences focusing on anomaly detection and machine learning in earth observations and remote sensing. PhD Student, Lund University."><strong>Oskar Åström, Lund University</strong></span>
 <br />
