@@ -122,6 +122,10 @@ Earth observation *  Climate modeling *  Urban planning *  Efficient or sustaina
 <br />
 Machine learning *  Deep learning * [ORCID](https://orcid.org/0000-0001-6529-1142)
 
+<span title="Interested in assessing resilience of social and ecological systems. Researcher (with a PhD), Stockholm Resilience Centre, Stockholm University."><strong>Juan Rocha, Stockholm Resilience Centre, Stockholm University</strong></span>
+<br />
+Earth observation *  Biodiversity *  NLP *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.juanrocha.se) * [Publications (Scholar)](https://scholar.google.se/citations?user=IHiMTFYAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-2322-5459)
+
 <span title="i&#x27;m edvin. PhD Student, RISE Research Institutes of Sweden."><strong>Edvin Listo Zec, RISE Research Institutes of Sweden</strong></span>
 <br />
 [More info (researcher profile)](https://edvinli.github.io)
