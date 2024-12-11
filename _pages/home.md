@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "Climate Change AI Nordics"
 excerpt: "Climate Change AI Nordics"
 author_profile: true
@@ -18,6 +18,15 @@ We are a [network of researchers](/people/) dedicated to developing and utilizin
 
 CCAI Nordics strongly supports the pioneering work of the global non-profit organization *Climate Change AI* ([climatechange.ai](https://climatechange.ai)). However, there is no affiliation between the two. CCAI Nordics shares similar goals, but is a regional network for researchers in the Nordic countries.
 
+{% for p in site.posts %}
+{% if p.first_page %}> ## {{ p.title }}
+{% if p.image %}> ![]({{ p.image }}){% else %}>{% endif %}
+> {{ p.shortversion | replace: '\n', '\n> ' }}
+> **[(Read more)]({{ p.url }})**
+{% endif %}
+{% endfor %}
+
+
 CCAI Nordics promotes the development of AI-based analytical tools and optimization techniques that can inform decision-making processes crucial for ensuring a sustainable future for generations to come. In particular, we recognize that technology, particularly AI-based solutions, can play a role in supporting efforts such as rewilding, rewetting, and reducing emissions and the reliance on fossil fuels.
 
 By bringing together researchers in the Nordic countries, CCAI Nordics aims to:
@@ -29,4 +38,19 @@ We hope that the collaborative nature of CCAI Nordics will accelerate progress i
 
 [Join Climate Change AI Nordics now!](/join/)
 
-[Meet the people of Climate Change AI Nordics!](/people/)
+## [News](/news/)
+
+{% for p in site.categories.news limit: 5 %}
+* {{p.date | date: '%Y-%m-%d'}}: {{ p.title }}\
+[(Read more)]({{ p.url }})
+{% endfor %}
+
+
+## [Events](/events/)
+
+{% for p in site.categories.events limit: 5 %}
+* {{p.event_date | date: '%Y-%m-%d'}}: {{ p.title }}\
+[(Read more)]({{ p.url }})
+{% endfor %}
+
+
