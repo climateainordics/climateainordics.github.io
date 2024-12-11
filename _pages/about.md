@@ -1,7 +1,7 @@
 ---
 permalink: /about/
-title: "Climate Change AI Nordics"
-excerpt: "Climate Change AI Nordics"
+title: "About Climate Change AI Nordics"
+excerpt: "About Climate Change AI Nordics"
 author_profile: true
 ---
 
@@ -12,11 +12,7 @@ img {
 }
 </style>
 
-Welcome to _Climate Change AI Nordics_.
-
 We are a [network of researchers](/people/) dedicated to developing and utilizing AI technologies to address the urgent global challenge of climate change. Our researchers focus on creating and promoting AI solutions that support both climate change mitigation, reducing the severity of climate change, and adaptation, adjusting to the effects of climate change. We are already in a climate emergency which is causing biodiversity loss, extreme weather events, and human suffering, and this necessitates a multifaceted approach involving both policy change, limitations on activities contributing to climate change, and bolstering societal resilience against climate-related events.
-
-CCAI Nordics strongly supports the pioneering work of the global non-profit organization *Climate Change AI* ([climatechange.ai](https://climatechange.ai)). However, there is no affiliation between the two. CCAI Nordics shares similar goals, but is a regional network for researchers in the Nordic countries.
 
 CCAI Nordics promotes the development of AI-based analytical tools and optimization techniques that can inform decision-making processes crucial for ensuring a sustainable future for generations to come. In particular, we recognize that technology, particularly AI-based solutions, can play a role in supporting efforts such as rewilding, rewetting, and reducing emissions and the reliance on fossil fuels.
 
