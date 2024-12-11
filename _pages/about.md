@@ -22,11 +22,8 @@ We are a [network of researchers](/people/) dedicated to developing and utilizin
 CCAI Nordics strongly supports the pioneering work of the global non-profit organization *Climate Change AI* ([climatechange.ai](https://climatechange.ai)). However, there is no affiliation between the two. CCAI Nordics shares similar goals, but is a regional network for researchers in the Nordic countries.
 
 {% for p in site.posts %}
-{% if p.first_page %}
-> ## {{ p.title }}
-{% if p.image %}
-> ![]({{ p.image }})
-{% endif %}
+{% if p.first_page %}> ## {{ p.title }}
+{% if p.image %}> ![]({{ p.image }}){% else %}>{% endif %}
 > {{ p.shortversion | replace: '\n', '\n> ' }}
 > **[(Read more)]({{ p.url }})**
 {% endif %}
