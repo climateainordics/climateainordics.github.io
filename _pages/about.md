@@ -23,10 +23,10 @@ CCAI Nordics strongly supports the pioneering work of the global non-profit orga
 
 {% for p in site.posts %}
 {% if p.first_page %}
-{% if p.image %}
-![]({{ p.image }})
-{ endif }
 > ## {{ p.title }}
+{% if p.image %}
+> <img src="{{ p.image }})" />
+{ endif }
 > {{ p.shortversion | replace: '\n', '\n> ' }}
 > **[(Read more)]({{ p.url }})**
 {% endif %}
