@@ -34,12 +34,14 @@ layout: default
           <p class="page__date" style="margin: 0"><strong><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>Event location:</strong> {{page.event_location}}</time></p>
         {% endif %}
 
-        {% if page.image %}
-          <img src="{{ page.image }}" style="width: 14em; float: right;"/>
-        {% endif %}
-
         {% if page.youtube %}
           <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.youtube }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <br />
+        {% endif %}
+
+        {% if page.image %}
+          <img src="{{ page.image }}" style="width: 14em;" />
+          <br />
         {% endif %}
 
         {% if page.collection == 'teaching' %}
