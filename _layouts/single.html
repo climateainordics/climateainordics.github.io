@@ -36,11 +36,11 @@ layout: default
 
         {% if page.youtube %}
           <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.youtube }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-          <br />
+          <br style='clear:both' />
         {% endif %}
 
         {% if page.image %}
-          <img src="{{ page.image }}" style="width: 14em;" />
+          <img src="{{ page.image }}" style="width: 14em; float: right;" />
           <br />
         {% endif %}
 
