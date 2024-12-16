@@ -14,7 +14,7 @@ image: /images/posts/2024-12-06-2025-01-30-leveraging-ai-for-climate-resilience-
 --- 
 Welcome to this week's Learning Machines seminar.
 
-This seminar is a collaboration between RISE and Climate Change AI Nordics -- [ccainordics.com](https://ccainordics.com/).
+This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
 
 **Title:** Leveraging AI for Climate Resilience in Africa: Challenges, Opportunities, and the Need for Collaboration
 

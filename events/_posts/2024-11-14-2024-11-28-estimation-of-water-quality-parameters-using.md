@@ -15,7 +15,7 @@ youtube: S0guqSER0co
 --- 
 Welcome to this week's Learning Machines seminar.
 
-This seminar is a collaboration between RISE and Climate Change AI Nordics -- [ccainordics.com](https://ccainordics.com/).
+This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
 
 **Title:** Estimation of water quality parameters using remote sensing data and machine learning models
 

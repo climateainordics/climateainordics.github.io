@@ -27,7 +27,7 @@ youtube: n4uzazl1g4A
 --- 
 Welcome to this week's Learning Machines seminar.
 
-This seminar is a collaboration between RISE and Climate Change AI Nordics -- [ccainordics.com](https://ccainordics.com/).
+This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
 
 **Title:** Artificial Intelligence for Climate Change Mitigation
 

@@ -15,7 +15,7 @@ youtube: b2B9DYpFprc
 --- 
 Welcome to this week's Learning Machines seminar.
 
-This seminar is a collaboration between RISE and Climate Change AI Nordics -- [ccainordics.com](https://ccainordics.com/).
+This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
 
 **Title:** Frontiers in machine learning for weather forecasting
 
