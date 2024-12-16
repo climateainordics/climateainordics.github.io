@@ -12,9 +12,9 @@ title                    : "Climate Change AI Nordics"
 title_separator          : "-"
 name                     : &name "Climate Change AI Nordics"
 description              : &description "personal description"
-url                      : https://ccainordics.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://climateainordics.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ccainordics/ccainordics.github.io"
+repository               : "climateainordics/climateainordics.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   employer         : #
   uri              : # URL
-  email            : "ccainordics@gmail.com" 
+  email            : "climateainordics@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "ccainordics"
+  github           : "climateainordics"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "ccainordics.com" # Replace this with you Bluesky username
+  bluesky          : "climateainordics.com" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/company/climate-change-ai-nordics/
+  linkedin         : https://www.linkedin.com/company/climate-ai-nordics/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
