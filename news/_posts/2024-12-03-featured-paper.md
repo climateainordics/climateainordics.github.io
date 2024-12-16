@@ -1,6 +1,6 @@
 ---
 title: "Featured Paper: ONEKANA: Modelling Thermal Inequalities in African Cities"
-shortversion: "The new Climate Change AI Nordics Featured Paper is \"ONEKANA: Modelling Thermal Inequalities in African Cities\" by Sabine Vanhuysse and colleagues. This research addresses the pressing issue of thermal disparities in rapidly urbanizing African cities, where vulnerable populations are disproportionately affected by extreme heat due to environmental and socioeconomic factors."
+shortversion: "The new Climate AI Nordics Featured Paper is \"ONEKANA: Modelling Thermal Inequalities in African Cities\" by Sabine Vanhuysse and colleagues. This research addresses the pressing issue of thermal disparities in rapidly urbanizing African cities, where vulnerable populations are disproportionately affected by extreme heat due to environmental and socioeconomic factors."
 abstract: "Africa, as a major climate change hotspot, faces
 severe impacts, including extreme temperatures. Notably, urban areas
 are unequally affected by these impacts. The urban poor are
@@ -31,7 +31,7 @@ image: /images/posts/2024-12-03-featured-paper.png
 ---
 Authors: Sabine Vanhuysse, Angela Abascal, **Stefanos Georganos**, Jon Wang, Monika Kuffer
 
-The new Climate Change AI Nordics Featured Paper is "ONEKANA: Modelling Thermal Inequalities in African Cities" by Sabine Vanhuysse and colleagues. This research addresses the pressing issue of thermal disparities in rapidly urbanizing African cities, where vulnerable populations are disproportionately affected by extreme heat due to environmental and socioeconomic factors.
+The new Climate AI Nordics Featured Paper is "ONEKANA: Modelling Thermal Inequalities in African Cities" by Sabine Vanhuysse and colleagues. This research addresses the pressing issue of thermal disparities in rapidly urbanizing African cities, where vulnerable populations are disproportionately affected by extreme heat due to environmental and socioeconomic factors.
 
 The paper combines Earth Observation (EO) data, Machine Learning (ML), and Citizen Science to model near-surface air temperatures at a spatial resolution of 100m x 100m. By integrating satellite imagery with in situ temperature measurements, the paper provides detailed insights into how different urban areas experience varying thermal exposures. Target data comes from fixed sparse sensors, and crowd-sourced mobile measurements by citizens. The approach sheds light on urban heat distribution and may empower local communities to participate actively in data collection and climate adaptation strategies.
 
