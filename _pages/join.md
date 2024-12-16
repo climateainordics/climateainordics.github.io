@@ -1,20 +1,20 @@
 ---
-title: "Join Climate Change AI Nordics"
-excerpt: "Join Climate Change AI Nordics"
+title: "Join Climate AI Nordics"
+excerpt: "Join Climate AI Nordics"
 author_profile: true
 permalink: /join/
 ---
 
 
-Use the form below to join Climate Change AI Nordics!
+Use the form below to join Climate AI Nordics!
 
 [Click here to open the form in its own window](https://forms.gle/RJ6HgucfwR1eKFfM6).
 
 By joining CCAI Nordics, you will receive invitations to seminars and workshops, and you can mark your affiliation with us by showing your name on our [people](/people/) page. You will also be able to share relevant news and events to the network through our web page and our news letter.
 
-If you prefer, feel free to instead sign up by sending your information to us by email, [ccainordics@gmail.com](mailto:ccainordics@gmail.com).
+If you prefer, feel free to instead sign up by sending your information to us by email, [climateainordics@gmail.com](mailto:climateainordics@gmail.com).
 
-If you or your organization want to support our work through sponsorship, send us an email: [ccainordics@gmail.com](mailto:ccainordics@gmail.com).
+If you or your organization want to support our work through sponsorship, send us an email: [climateainordics@gmail.com](mailto:climateainordics@gmail.com).
 
 If you have news or events relevant to AI for Climate Change in the Nordic region, feel free to inform us about this.
 
