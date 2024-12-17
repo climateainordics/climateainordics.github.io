@@ -11,7 +11,7 @@ body{font-family: arial, sans-serif;} img{ float: right; width: 8em; margin: 0.4
 
 Welcome to the *Climate AI Nordics* Newsletter {{ "now" | date: "%B %Y" }}.
 
-**Email us at [contact@climateainordics.com](contact@climateainordics.com) to contribute your own relevant news! We will include news on our web page, [climateainordics.com](https://climateainordics.com) and in our newsletter. Take the chance of showcasing your work or your events to the community!**
+**Email us at [contact@climateainordics.com](mailto:contact@climateainordics.com) to contribute your own relevant news! We will include news on our web page, [climateainordics.com](https://climateainordics.com) and in our newsletter. Take the chance of showcasing your work or your events to the community!**
 
 Since the launch in October, the network has grown to 53 people spread over the Nordic countries. Do you know researchers who works in the intersection of AI and Climate Change? Tell them about Climate AI Nordics! [climateainordics.com/join](https://climateainordics.com/join).
 
@@ -169,7 +169,7 @@ Unfortunately, the November email got stuck in many people's spam folders. Eithe
 
 # Spread the word!
 
-Climate AI Nordics is present on [LinkedIn](https://www.linkedin.com/company/climate-change-ai-nordics/) and [BlueSky](https://bsky.app/profile/climateainordics.com). Follow us and repost our stories so that we get the most impact! Also make sure to share your work with us, by sending us an email ([climateainordics@gmail.com](climateainordics@gmail.com)) or some other channel, and we'll add it to the news feed!
+Climate AI Nordics is present on [LinkedIn](https://www.linkedin.com/company/climate-change-ai-nordics/) and [BlueSky](https://bsky.app/profile/climateainordics.com). Follow us and repost our stories so that we get the most impact! Also make sure to share your work with us, by sending us an email ([contact@climateainordics.com](mailto:contact@climateainordics.com)) or some other channel, and we'll add it to the news feed!
 
 *Climate AI Nordics is a [network of researchers](/people/) dedicated to developing and utilizing AI technologies to address the urgent global challenge of climate change. Our researchers focus on creating and promoting AI solutions that support both climate change mitigation, reducing the severity of climate change, and adaptation, adjusting to the effects of climate change. We are already in a climate emergency which is causing biodiversity loss, extreme weather events, and human suffering, and this necessitates a multifaceted approach involving both policy change, limitations on activities contributing to climate change, and bolstering societal resilience against climate-related events.*
 
