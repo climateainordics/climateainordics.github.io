@@ -12,9 +12,9 @@ Use the form below to join Climate AI Nordics!
 
 By joining CCAI Nordics, you will receive invitations to seminars and workshops, and you can mark your affiliation with us by showing your name on our [people](/people/) page. You will also be able to share relevant news and events to the network through our web page and our news letter.
 
-If you prefer, feel free to instead sign up by sending your information to us by email, [climateainordics@gmail.com](mailto:climateainordics@gmail.com).
+If you prefer, feel free to instead sign up by sending your information to us by email, [contact@climateainordics.com](mailto:contact@climateainordics.com).
 
-If you or your organization want to support our work through sponsorship, send us an email: [climateainordics@gmail.com](mailto:climateainordics@gmail.com).
+If you or your organization want to support our work through sponsorship, send us an email: [contact@climateainordics.com](mailto:contact@climateainordics.com).
 
 If you have news or events relevant to AI for Climate Change in the Nordic region, feel free to inform us about this.
 
