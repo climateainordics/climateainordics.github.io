@@ -11,7 +11,7 @@ body{font-family: arial, sans-serif;} img{ float: right; width: 8em; margin: 0.4
 
 Welcome to the *Climate AI Nordics* Newsletter {{ "now" | date: "%B %Y" }}.
 
-**Email us at [contact@climateainordics.com](mailto:contact@climateainordics.com) to contribute your own relevant news! We will include news on our web page, [climateainordics.com](https://climateainordics.com) and in our newsletter. Take the chance of showcasing your work or your events to the community!**
+**Email us at [contact@climateainordics.com](mailto:contact@climateainordics.com) to contribute your own relevant news! We will include news on our web page, [climateainordics.com](https://climateainordics.com), and in our newsletter. Some announcements will also be communicated in social media. Take the chance of showcasing your work or your events to the community!**
 
 Since the launch in October, the network has grown to 53 people spread over the Nordic countries. Do you know researchers who works in the intersection of AI and Climate Change? Tell them about Climate AI Nordics! [climateainordics.com/join](https://climateainordics.com/join).
 
