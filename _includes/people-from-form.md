@@ -46,7 +46,7 @@ Earth observation *  Climate modeling *  Biodiversity *  Sustainable cities *  C
 <br />
 Efficient or sustainable AI *  Machine learning *  Deep learning *  materials and atmospheric science * [Research group](https://www.aalto.fi/en/department-of-applied-physics/computational-electronic-structure-theory-cest) * [Publications (Scholar)](https://scholar.google.de/citations?user=TYHCEwQAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-1898-723X)
 
-<span title="Assistant Professor, Tampere University."><strong>Annamaria Mesaros, Tampere University</strong></span>
+<span title="My primary research deals with environmental sounds detection and classification, with the purpose of acoustic scene analysis and understanding. I am interested in the human categorization process as a mechanism for manual annotation of sounds, starting with the cognition aspects involved in the sound recognition, identification of the source, and the semantics of labeling the sound. Assistant Professor, Tampere University."><strong>Annamaria Mesaros, Tampere University</strong></span>
 <br />
 [More info (researcher profile)](https://homepages.tuni.fi/annamaria.mesaros/about-me) * [Research group](https://http://arg.cs.tut.fi/) * [Publications (Scholar)](https://scholar.google.com/citations?user=tOvdEZIAAAAJ) * [ORCID](https://orcid.org/0000-0002-6640-9752)
 
