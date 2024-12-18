@@ -22,7 +22,7 @@ As extreme events following climate change are getting ever more frequent, human
 
 Together, we will help the Nordic AI community to find the most impactful directions of future research in the field.
 
-**Topics:**
+## Topics
 
 The workshop will feature presentations about Earth observation, computer vision, soundscape analysis, natural language processing, geometric machine learning, optimization, natural language processing, and multimodal modeling for climate related applications. Applications in green infrastructure, species distribution modeling, biodiversity monitoring.
 
@@ -36,13 +36,21 @@ We invite **poster presentations**. In addition to the topics mentioned above, w
     - product development
 * AI method developments that benefits AI applications within climate change mitigation and adaptation
 
-**Speakers:**
+## Keynotes
 
 **Oisin Mac Aodha**, University of Edinburgh
 
 ![](/events/2025-nordic-workshop/macaodha.jpg)
 
 *Oisin Mac Aodha is a Reader (aka Associate Professor) in Machine Learning in the School of Informatics at the University of Edinburgh (UoE). He was a Turing Fellow from 2021 to 2024, currently an ELLIS Scholar, and a founder of the Turing interest group on biodiversity monitoring and forecasting. Oisin's current research interests are in the areas of computer vision and machine learning, with a specific emphasis on 3D understanding, human-in-the-loop methods, and computational challenges in biodiversity monitoring.*
+
+**Christian Igel**
+
+![](/events/2025-nordic-workshop/igel.jpg)
+
+*Christian Igel is a professor at DIKU, the Department of Computer Science at the University of Copenhagen. He is the director of the SCIENCE AI Centre. Furthermore, he is a co-lead of the Pioneer Centre for Artificial Intelligence, Denmark and a Fellow of ELLIS, European Lab for Learning and Intelligent Systems. Christian's reserach interests include support vector machines and other kernel-based methods,evolution strategies for single- and multi-objective optimization and reinforcement learning, PAC-Bayesian analysis of ensemble methods, deep neural networks and stochastic neural networks, and applications of machine learning that help achieve the sustainable development goals.*
+
+## Oral presentations
 
 **Stefanos Georganos**, Karlstad University: Unequal Cities in a Changing Climate: AI and Geospatial Approaches to Urban Resilience
 
@@ -90,7 +98,7 @@ With over a decade of experience in community building and international develop
 
 *Shorouq Zahra a research engineer and developer at RISE Research Institutes of Sweden, with a focus on NLP, conversational AI, and MLOps. She has been engaged in the work "Using LLMs to Build a Database of Climate Extreme Impacts", presented at ClimateNLP 2024, proposing a method for building large-scale databases of climate extreme impacts from online textual sources, using LLMs for information extraction in combination with more traditional NLP techniques to improve accuracy and consistency.*
 
-**Poster presentations:**
+## Poster presentations
 
 We welcome poster presentations relevant to the workshop. Submit your poster when [registering for the event](https://forms.gle/vt7gMYwoR8tvGx9T7).
 
@@ -108,9 +116,15 @@ We welcome poster presentations relevant to the workshop. Submit your poster whe
 * Anna Luise von Blohn, Remote Sensing Center for Earth System Research (RSC4Earth), Leipzig Universit
 * Ellen De Jonghe, Ghent University
 
+## Workshop information
+
+![](/events/2025-nordic-workshop/lindholmen-science-park.png)
+
 **Date and time:** 2025-05-13, 09:00-18:00 + Social dinner until late
 
-**Place:** Gothenburg, Sweden
+**Place:** Lindholmen Science Park, Gothenburg, Sweden
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2131.55551588934!2d11.937099575480254!3d57.707021063563026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464ff35aa1bf62a7%3A0xdb5047d4dcfb99b1!2sLindholmen%20Science%20Park!5e0!3m2!1ssv!2sse!4v1734517005211!5m2!1ssv!2sse" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 The workshop is organized by [CLIMES, The Swedish Centre for Impacts of Climate Extremes](https://climes.se/) in collaboration with [Climate AI Nordics](https://climateainordics.com/). The day will end with a poster session and dinner.
 
