@@ -50,6 +50,10 @@ Efficient or sustainable AI *  Machine learning *  Deep learning *  materials an
 <br />
 [More info (researcher profile)](https://homepages.tuni.fi/annamaria.mesaros/about-me) * [Research group](https://http://arg.cs.tut.fi/) * [Publications (Scholar)](https://scholar.google.com/citations?user=tOvdEZIAAAAJ) * [ORCID](https://orcid.org/0000-0002-6640-9752)
 
+<span title="Professor, University of Copenhagen."><strong>Christian Igel, University of Copenhagen</strong></span>
+<br />
+Earth observation *  Biodiversity *  Efficient or sustainable AI *  Computer vision *  Machine learning *  Deep learning *  Ecosystem monitoring and modelling * [More info (researcher profile)](https://christian-igel.github.io/) * [Publications (Scholar)](https://scholar.google.dk/citations?user=d-jF4zIAAAAJ&amp;sortby=pubdate) * [ORCID](https://orcid.org/0000-0003-2868-0856)
+
 <span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. Researcher (with a PhD), RISE Research Institutes of Sweden."><strong>Smita Chakraborty, RISE Research Institutes of Sweden</strong></span>
 <br />
 
