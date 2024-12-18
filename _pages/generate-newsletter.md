@@ -169,7 +169,7 @@ Unfortunately, the November email got stuck in many people's spam folders. Eithe
 
 # Spread the word!
 
-Climate AI Nordics is present on [LinkedIn](https://www.linkedin.com/company/climate-change-ai-nordics/) and [BlueSky](https://bsky.app/profile/climateainordics.com). Follow us and repost our stories so that we get the most impact! Also make sure to share your work with us, by sending us an email ([contact@climateainordics.com](mailto:contact@climateainordics.com)) or some other channel, and we'll add it to the news feed!
+Climate AI Nordics is present on [LinkedIn](https://www.linkedin.com/company/climate-ai-nordics/) and [BlueSky](https://bsky.app/profile/climateainordics.com). Follow us and repost our stories so that we get the most impact! Also make sure to share your work with us, by sending us an email ([contact@climateainordics.com](mailto:contact@climateainordics.com)) or some other channel, and we'll add it to the news feed!
 
 *Climate AI Nordics is a [network of researchers](/people/) dedicated to developing and utilizing AI technologies to address the urgent global challenge of climate change. Our researchers focus on creating and promoting AI solutions that support both climate change mitigation, reducing the severity of climate change, and adaptation, adjusting to the effects of climate change. We are already in a climate emergency which is causing biodiversity loss, extreme weather events, and human suffering, and this necessitates a multifaceted approach involving both policy change, limitations on activities contributing to climate change, and bolstering societal resilience against climate-related events.*
 
