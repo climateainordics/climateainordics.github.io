@@ -126,7 +126,9 @@ We welcome poster presentations relevant to the workshop. Submit your poster whe
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2131.55551588934!2d11.937099575480254!3d57.707021063563026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464ff35aa1bf62a7%3A0xdb5047d4dcfb99b1!2sLindholmen%20Science%20Park!5e0!3m2!1ssv!2sse!4v1734517005211!5m2!1ssv!2sse" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-The workshop is organized by [CLIMES, The Swedish Centre for Impacts of Climate Extremes](https://climes.se/) in collaboration with [Climate AI Nordics](https://climateainordics.com/). The day will end with a poster session and dinner.
+**Organization**
+
+The workshop is organized by [Climes, The Swedish Centre for Impacts of Climate Extremes](https://climes.se/) in collaboration with [Climate AI Nordics](https://climateainordics.com/). The day will end with a poster session and dinner.
 
 **Pricing**
 
