@@ -54,6 +54,10 @@ Efficient or sustainable AI *  Machine learning *  Deep learning *  materials an
 <br />
 Earth observation *  Biodiversity *  Efficient or sustainable AI *  Computer vision *  Machine learning *  Deep learning *  Ecosystem monitoring and modelling * [More info (researcher profile)](https://christian-igel.github.io/) * [Publications (Scholar)](https://scholar.google.dk/citations?user=d-jF4zIAAAAJ&amp;sortby=pubdate) * [ORCID](https://orcid.org/0000-0003-2868-0856)
 
+<span title="I am Associate Professor at Tampere University. I received my PhD in Signal  Processing at Tampere University of Technology in 2012. My primary research deals with environmental sounds detection and classification, with the purpose of acoustic scene analysis and understanding. I am also the coordinator of the Detection and Classiﬁcation of Acoustic Scenes and Events (DCASE) Challenge.   Associate Professor, Tampere University."><strong>Annamaria Mesaros, Tampere University</strong></span>
+<br />
+Soundscape analysis *  Machine learning * [Research group](https://research.tuni.fi/machinelistening/) * [Publications (Scholar)](https://scholar.google.com/citations?user=tOvdEZIAAAAJ&amp;hl=en)
+
 <span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. Researcher (with a PhD), RISE Research Institutes of Sweden."><strong>Smita Chakraborty, RISE Research Institutes of Sweden</strong></span>
 <br />
 
