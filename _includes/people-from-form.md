@@ -206,10 +206,6 @@ Earth observation *  Efficient or sustainable AI *  Computer vision *  Machine l
 <br />
 Efficient or sustainable AI *  Machine learning *  Bayesian optimisation * [Publications (Scholar)](https://scholar.google.com/citations?user=I24YlG8AAAAJ&amp;hl=sv)
 
-<span title="Researcher (non-PhD), Remote Sensing Center for Earth System Research (RSC4Earth), Leipzig University."><strong>Anna Luise von Blohn, Remote Sensing Center for Earth System Research (RSC4Earth), Leipzig University</strong></span>
-<br />
-
-
 <span title="Student, Södertörn University ."><strong>Dawda Cham, Södertörn University </strong></span>
 <br />
 Climate modeling *  Biodiversity *  Urban planning * [More info (researcher profile)](https://www.linkedin.com/in/dawda-cham-b29524102/)
@@ -223,6 +219,10 @@ Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities * 
 [Publications (Scholar)](https://scholar.google.com/citations?user=hqNgE_8AAAAJ) * [ORCID](https://orcid.org/0000-0002-9783-8322)
 
 <span title="Researcher (non-PhD), Central University of Rajasthan."><strong>Varsha Ganguly, Central University of Rajasthan</strong></span>
+<br />
+
+
+<span title="Researcher (non-PhD), Remote Sensing Center for Earth System Research (RSC4Earth), Leipzig University."><strong>Anna Luise von Blohn, Remote Sensing Center for Earth System Research (RSC4Earth), Leipzig University</strong></span>
 <br />
 
 
