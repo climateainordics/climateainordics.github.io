@@ -18,10 +18,6 @@ Geomatics *  Earth observation * [Publications (Scholar)](https://scholar.google
 <br />
 Biodiversity *  Marine ecology *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.slu.se/cv/jonas-hentati-sundberg/) * [Publications (Scholar)](https://scholar.google.com/citations?user=dHsj2swAAAAJ) * [ORCID](https://orcid.org/0000-0002-3201-9262)
 
-<span title="I am a lecturer in Urban Planning at the University of Auckland, bringing over 13 years of experience in both research and practice. My focus is on addressing climate change challenges, enhancing urban resilience, promoting regeneration, and advocating for environmental justice. I am particularly interested in understanding and mitigating the risks that urban areas encounter, especially those related to climate change and natural hazards. My research examines how cities can adapt to these increasing threats, emphasising resilience, risk reduction, and sustainable planning to protect communities and infrastructure. Assistant Professor, University of Auckland."><strong>Iresh Jayawardena, University of Auckland</strong></span>
-<br />
-Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities *  Efficient or sustainable AI * [More info (researcher profile)](https://profiles.auckland.ac.nz/i-jayawardena) * [Publications (Scholar)](https://scholar.google.com/citations?user=j8yEd4cAAAAJ) * [ORCID](https://orcid.org/0000-0002-5958-8668)
-
 <span title="Alan Said is Associate Professor at University of Gothenburg. He holds a PhD from Technische Universität Berlin. Prior to joining the University of Gothenburg, Alan held positions in industry and academia. He was lecturer at University of Skövde (2016-2019), machine learning engineer 2014-2016 working on application of state of the art machine learning in a large scale production setting at Recorded Future. He was Senior Researcher (2014) working on recommender systems and evaluation in the Multimedia Computing research group at Delft University of Technology. He was awarded a Marie Curie Actions (MCA) Alain Bensoussan ERCIM Fellowship at Centrum Wiskunde &amp; Informatica (2013-2014) for work on evaluation of recommender and personalization systems. Alan&#x27;s research spans the fields of user modeling, personalization, recommender systems, evaluation, and reproducibility. He has worked in these fields in various national and international projects as researcher, leader, manager, PI, and proposal writer. He has published over 70 scientific works in top journals, conferences, workshops, and books. He has been nominated for and awarded several Best Paper and Poster awards for his research. Alan frequently serves on Program and Organization committees of top venues and journal such as ACM RecSys, WWW, ACM CIKM, ACM UMAP, ACM IUI, UMUAI, TWeb, TKDD. He is the Chair of the ACM RecSys Steering Committee (2023-2026). Associate Professor, University of Gothenburg."><strong>Alan Said, University of Gothenburg</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=j4cTzn0AAAAJ) * [ORCID](https://orcid.org/0000-0002-2929-0529)
@@ -162,7 +158,7 @@ Earth observation *  Biodiversity *  Marine ecology *  Efficient or sustainable 
 <br />
 Earth observation *  Climate modeling *  Sustainable transport *  Machine learning *  Deep learning *  Extreme weather * [More info (researcher profile)](https://joeloskarsson.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=YQaxGpkAAAAJ) * [ORCID](https://orcid.org/0000-0002-8201-0282)
 
-<span title="Industry."><strong>Azalea  Alothmani</strong></span>
+<span title="Industry, ."><strong>Azalea  Alothmani, </strong></span>
 <br />
 Earth observation *  Climate modeling *  Sustainable production *  Efficient or sustainable AI *  NLP *  Computer vision *  Machine learning *  Deep learning
 
@@ -190,14 +186,6 @@ Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Susta
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=OOv1n_wAAAAJ) * [ORCID](https://orcid.org/0009-0006-7733-8298)
 
-<span title="PhD Student, Royal Meteorological institute of Belgium."><strong>Anupama Kuttikkat Xavier, Royal Meteorological institute of Belgium</strong></span>
-<br />
-[Publications (Scholar)](https://scholar.google.com/citations?user=hqNgE_8AAAAJ) * [ORCID](https://orcid.org/0000-0002-9783-8322)
-
-<span title="Researcher (non-PhD), Central University of Rajasthan."><strong>Varsha Ganguly, Central University of Rajasthan</strong></span>
-<br />
-
-
 <span title="PhD Student, Linköping University."><strong>Erik Larsson, Linköping University</strong></span>
 <br />
 Earth observation *  Climate modeling *  Machine learning *  Deep learning *  Weather forecasting * [Research group](https://liu.se/en/organisation/liu/ida/stima) * [ORCID](https://orcid.org/0009-0008-7292-4356)
@@ -222,13 +210,25 @@ Efficient or sustainable AI *  Machine learning *  Bayesian optimisation * [Publ
 <br />
 
 
-<span title="PhD Student, Indian Institute of Technology, Bombay."><strong>Puja Tripathy, Indian Institute of Technology, Bombay</strong></span>
-<br />
-
-
 <span title="Student, Södertörn University ."><strong>Dawda Cham, Södertörn University </strong></span>
 <br />
 Climate modeling *  Biodiversity *  Urban planning * [More info (researcher profile)](https://www.linkedin.com/in/dawda-cham-b29524102/)
+
+<span title="I am a lecturer in Urban Planning at the University of Auckland, bringing over 13 years of experience in both research and practice. My focus is on addressing climate change challenges, enhancing urban resilience, promoting regeneration, and advocating for environmental justice. I am particularly interested in understanding and mitigating the risks that urban areas encounter, especially those related to climate change and natural hazards. My research examines how cities can adapt to these increasing threats, emphasising resilience, risk reduction, and sustainable planning to protect communities and infrastructure. Assistant Professor, University of Auckland."><strong>Iresh Jayawardena, University of Auckland</strong></span>
+<br />
+Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities *  Efficient or sustainable AI * [More info (researcher profile)](https://profiles.auckland.ac.nz/i-jayawardena) * [Publications (Scholar)](https://scholar.google.com/citations?user=j8yEd4cAAAAJ) * [ORCID](https://orcid.org/0000-0002-5958-8668)
+
+<span title="PhD Student, Royal Meteorological institute of Belgium."><strong>Anupama Kuttikkat Xavier, Royal Meteorological institute of Belgium</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=hqNgE_8AAAAJ) * [ORCID](https://orcid.org/0000-0002-9783-8322)
+
+<span title="Researcher (non-PhD), Central University of Rajasthan."><strong>Varsha Ganguly, Central University of Rajasthan</strong></span>
+<br />
+
+
+<span title="PhD Student, Indian Institute of Technology, Bombay."><strong>Puja Tripathy, Indian Institute of Technology, Bombay</strong></span>
+<br />
+
 
 <span title="Researcher (non-PhD), Ghent University."><strong>Ellen De Jonghe, Ghent University</strong></span>
 <br />
