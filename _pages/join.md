@@ -18,5 +18,7 @@ If you or your organization want to support our work through sponsorship, send u
 
 If you have news or events relevant to AI for Climate Change in the Nordic region, feel free to inform us about this.
 
+Anyone active within AI for addressing climate change in any way is welcome to join Climate AI Nordics. We don't have a strict requirement for our members to be affiliated with a Nordic institution; neighbours are welcome! However, the content and the events in this network will be based in the Nordic countries. For those of you who get confused about what the Nordics are, have a look at our [about page](/about/).
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSds9NcE7-f_6ynh_abDOzhwp-DdRoWpiof204UTVTJXcgNvxw/viewform?embedded=true" width="640" height="1505" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
