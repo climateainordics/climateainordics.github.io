@@ -1,1 +1,1 @@
-In total, Climate AI Nordics consists of 65 people from 34 different organisations in Sweden, Norway, Denmark, and Finland.
+In total, Climate AI Nordics consists of 65 people from 34 different organisations in <span title="We don&#39;t have a strict requirement for our members to be affiliated with a Nordic institution, neighbours are welcome! Hoever, the content and the events in this network will be based in the Nordic countries.">the Nordic countries.</span>
