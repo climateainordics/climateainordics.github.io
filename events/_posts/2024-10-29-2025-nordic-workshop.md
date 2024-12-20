@@ -116,6 +116,7 @@ We welcome poster presentations relevant to the workshop. Submit your poster whe
 * Anna Luise von Blohn, Remote Sensing Center for Earth System Research (RSC4Earth), Leipzig University
 * Ellen De Jonghe, Ghent University
 * Jaime Caballer Revenga, Copenhagen University
+* Francesca Larosa, Royal Institute of Technology (KTH)
 
 ## Workshop information
 
