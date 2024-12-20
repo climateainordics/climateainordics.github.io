@@ -130,6 +130,10 @@ Machine learning *  Deep learning * [ORCID](https://orcid.org/0000-0001-6529-114
 <br />
 Earth observation *  Biodiversity *  NLP *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.juanrocha.se) * [Publications (Scholar)](https://scholar.google.se/citations?user=IHiMTFYAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-2322-5459)
 
+<span title="Researcher (with a PhD), Chalmers University of Technology."><strong>Santiago Arellano, Chalmers University of Technology</strong></span>
+<br />
+[ORCID](https://orcid.org/0000-0002-0306-3782)
+
 <span title="i&#x27;m edvin. PhD Student, RISE Research Institutes of Sweden."><strong>Edvin Listo Zec, RISE Research Institutes of Sweden</strong></span>
 <br />
 [More info (researcher profile)](https://edvinli.github.io)
@@ -209,6 +213,10 @@ Efficient or sustainable AI *  Machine learning *  Bayesian optimisation * [Publ
 <span title="Student, Södertörn University ."><strong>Dawda Cham, Södertörn University </strong></span>
 <br />
 Climate modeling *  Biodiversity *  Urban planning * [More info (researcher profile)](https://www.linkedin.com/in/dawda-cham-b29524102/)
+
+<span title="Senior Lecturer , Department of Earth Sciences, University of Gothenburg."><strong>Céline Heuzé, Department of Earth Sciences, University of Gothenburg</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.se/citations?user=6ccDAwQAAAAJ&amp;hl=sv&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-8850-5868)
 
 <span title="I am a lecturer in Urban Planning at the University of Auckland, bringing over 13 years of experience in both research and practice. My focus is on addressing climate change challenges, enhancing urban resilience, promoting regeneration, and advocating for environmental justice. I am particularly interested in understanding and mitigating the risks that urban areas encounter, especially those related to climate change and natural hazards. My research examines how cities can adapt to these increasing threats, emphasising resilience, risk reduction, and sustainable planning to protect communities and infrastructure. Assistant Professor, University of Auckland."><strong>Iresh Jayawardena, University of Auckland</strong></span>
 <br />
