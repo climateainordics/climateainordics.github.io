@@ -52,6 +52,17 @@ We invite **poster presentations**. In addition to the topics mentioned above, w
 
 ## Oral presentations
 
+**Dan Stowell,** Tilburg University
+
+![](/events/2025-nordic-workshop/stowell.jpg)
+
+*Dan Stowell is an Associate Professor of AI & Biodiversity working in the Netherlands (Tilburg University, Naturalis Biodiversity Centre, JADS). His research is about machine listening and computational bioacoustics - which means using computation (especially machine learning) to understand animal sounds and other sound signals.*
+
+*- I develop automatic processes to analyse large amounts of sound
+recordings - for example detecting the bird sounds in there and how they vary, how they relate to each other, how the birds' behaviour relates to the sounds they make. The research work is focussed on the machine learning and signal processing methods that can help with these questions. I also work with others to apply these methods to biodiversity monitoring.*
+
+*Dan is a Fellow of the Alan Turing Institute, working with OpenClimateFix and OpenStreetMap on addressing climate change through solar panel mapping.*
+
 **Stefanos Georganos,** Karlstad University: Unequal Cities in a Changing Climate: AI and Geospatial Approaches to Urban Resilience
 
 ![](/events/2025-nordic-workshop/georganos.jpg)
