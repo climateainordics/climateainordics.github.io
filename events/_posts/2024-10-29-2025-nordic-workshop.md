@@ -128,7 +128,8 @@ We welcome poster presentations relevant to the workshop. Submit your poster whe
 * Ellen De Jonghe, Ghent University
 * Jaime Caballer Revenga, Copenhagen University
 * Francesca Larosa, Royal Institute of Technology (KTH)
-* Céline Heuzé, University of Gothenburg
+* Céline Heuzé, University of Gothenburg: *LSTM and Random Forest for extreme sea level*
+* Dan Stowell, Tilburg University
 
 ## Workshop information
 
