@@ -11,7 +11,9 @@ permalink: /events/
 
 {% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}
 
-{% for p in site.categories.events %}
+{% assign sorted_posts = site.categories.events | sort: "event_date" %}
+
+{% for p in sorted_posts %}
 {% capture eventtime %}{{ p.event_date | date: '%s'}}{% endcapture %}
 
 ## {{ p.title }}

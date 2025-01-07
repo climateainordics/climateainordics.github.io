@@ -12,7 +12,7 @@ image: /images/nordic-workshop-1200x846.png
 
 <style>
 img {
-  width: 8em;
+  width: 12em;
   float: right;
 }
 </style>
@@ -21,20 +21,6 @@ img {
 As extreme events following climate change are getting ever more frequent, humanity needs to tackle the new reality on a changing planet on many fronts. Many of the approaches which are in use or under development can be strengthened using advanced analytics tools and optimization techniques. The 2025 Nordic Workshop on AI for Climate Change will gather researchers from the Nordics. This one-day, in-person workshop, will take place in Gothenburg, Sweden, May 13th 2025. The workshop will feature a mix of keynotes, oral presentations, and posters around the topics of AI for climate change, including AI for biodiversity and the green transition. The workshop will be a meeting point for a wide range of researchers from (primarily) around the Nordic countries, but other interested people will be welcome too.
 
 Together, we will help the Nordic AI community to find the most impactful directions of future research in the field.
-
-## Topics
-
-The workshop will feature presentations about Earth observation, computer vision, soundscape analysis, natural language processing, geometric machine learning, optimization, natural language processing, and multimodal modeling for climate related applications. Applications in green infrastructure, species distribution modeling, biodiversity monitoring.
-
-We invite **poster presentations**. In addition to the topics mentioned above, we also welcome presentations about the following topics.
-
-* The role of policy change
-* The use of AI to tackle climate change within
-    - built environments
-    - transport
-    - material
-    - product development
-* AI method developments that benefits AI applications within climate change mitigation and adaptation
 
 ## Keynotes
 
@@ -130,6 +116,22 @@ We welcome poster presentations relevant to the workshop. Submit your poster whe
 * Francesca Larosa, Royal Institute of Technology (KTH)
 * Céline Heuzé, University of Gothenburg: *LSTM and Random Forest for extreme sea level*
 * Dan Stowell, Tilburg University
+* Laura Helene Rasmussen, Copenhagen Data Lab, Department of Mathematical Sciences, University of Copenhagen
+* Carolyn	Rosten, Norwegian Institute for Nature Research
+
+## Topics
+
+The workshop will feature presentations about Earth observation, computer vision, soundscape analysis, natural language processing, geometric machine learning, optimization, natural language processing, and multimodal modeling for climate related applications. Applications in green infrastructure, species distribution modeling, biodiversity monitoring.
+
+We invite **poster presentations**. In addition to the topics mentioned above, we also welcome presentations about the following topics.
+
+* The role of policy change
+* The use of AI to tackle climate change within
+    - built environments
+    - transport
+    - material
+    - product development
+* AI method developments that benefits AI applications within climate change mitigation and adaptation
 
 ## Workshop information
 
