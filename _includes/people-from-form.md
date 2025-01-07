@@ -134,6 +134,10 @@ Earth observation *  Biodiversity *  NLP *  Machine learning *  Deep learning * 
 <br />
 [ORCID](https://orcid.org/0000-0002-0306-3782)
 
+<span title="Researcher (with a PhD), Norwegian Institute for Nature Research."><strong>Carolyn Rosten, Norwegian Institute for Nature Research</strong></span>
+<br />
+Soundscape analysis *  Biodiversity *  Machine listening * [Publications (Scholar)](https://scholar.google.com/citations?user=_vGYSMAAAAAJ) * [ORCID](https://orcid.org/0000-0002-1117-444X)
+
 <span title="i&#x27;m edvin. PhD Student, RISE Research Institutes of Sweden."><strong>Edvin Listo Zec, RISE Research Institutes of Sweden</strong></span>
 <br />
 [More info (researcher profile)](https://edvinli.github.io)
