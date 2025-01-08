@@ -138,13 +138,9 @@ Earth observation *  Biodiversity *  NLP *  Machine learning *  Deep learning * 
 <br />
 Soundscape analysis *  Biodiversity *  Machine listening * [Publications (Scholar)](https://scholar.google.com/citations?user=_vGYSMAAAAAJ) * [ORCID](https://orcid.org/0000-0002-1117-444X)
 
-<span title="Researcher (with a PhD), Norwegian Institute for Nature Research (NINA)."><strong>Benjamin Cretois, Norwegian Institute for Nature Research (NINA)</strong></span>
+<span title="Researcher (with a PhD), Norwegian Institute for Nature Research."><strong>Benjamin Cretois, Norwegian Institute for Nature Research</strong></span>
 <br />
 Biodiversity *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://bencretois.github.io/) * [Publications (Scholar)](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C5&amp;q=benjamin+cretois&amp;btnG=)
-
-<span title="My work focus on developing and using deep learning algorithms for biodiversity conservation. I am particularly interested in using AI in bioacoustic (e.g. detection and classification of audio events) but also using AI for image processing (e.g. detection and classification of animals). A recent focus of my research has been on creating deep learning algorithms and pipelines that need less labelled data (e.g. prototypical networks). Researcher (with a PhD), Norwegian Institute for Nature Research."><strong>Benjamin Cretois, Norwegian Institute for Nature Research</strong></span>
-<br />
-Soundscape analysis *  Biodiversity *  Machine listening * [Publications (Scholar)](https://scholar.google.com/citations?user=40ZX7XUAAAAJ) * [ORCID](https://orcid.org/0000-0001-8668-3321)
 
 <span title="i&#x27;m edvin. PhD Student, RISE Research Institutes of Sweden."><strong>Edvin Listo Zec, RISE Research Institutes of Sweden</strong></span>
 <br />
