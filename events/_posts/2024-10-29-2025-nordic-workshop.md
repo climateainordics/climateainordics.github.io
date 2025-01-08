@@ -71,7 +71,7 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 
 ![](/events/2025-nordic-workshop/lang.jpg)
 
-*Nico is a Postdoc at the University of Copenhagen associated with the Pioneer Centre for AI, where he is co-advised by Serge Belongie and Christian Igel. He has received a PhD from ETH Zurich, under the supervision of Konrad Schindler and Jan Dirk Wegner. His research interests are at the intersection of computer vision, machine learning, and remote sensing, currently focusing on open-world recognition, fine-grained categorization, and representation learning with multi-modal data. More information can be found on his website: https://langnico.github.io/*
+*Nico is a Postdoc at the University of Copenhagen associated with the Pioneer Centre for AI, where he is co-advised by Serge Belongie and Christian Igel. He has received a PhD from ETH Zurich, under the supervision of Konrad Schindler and Jan Dirk Wegner. His research interests are at the intersection of computer vision, machine learning, and remote sensing, currently focusing on open-world recognition, fine-grained categorization, and representation learning with multi-modal data. More information can be found on his website: [langnico.github.io](https://langnico.github.io/)*
 
 **Amal Nammouchi,** Karlstad University and AfriClimate AI
 
