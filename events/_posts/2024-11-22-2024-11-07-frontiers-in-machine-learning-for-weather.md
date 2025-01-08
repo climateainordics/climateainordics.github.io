@@ -8,7 +8,8 @@ socialmedia: "Recent years have seen rapid progress in using machine learning mo
 people:
 - Olof Mogren
 permalink: /events/2024-11-22-2024-11-07-frontiers-in-machine-learning-for-weather
-event_date: "2024-11-07 15:00"
+event_date: "2024-11-07"
+event_time: "15:00"
 event_location: ""
 image: /images/posts/2024-11-22-2024-11-07-frontiers-in-machine-learning-for-weather.jpg
 youtube: b2B9DYpFprc

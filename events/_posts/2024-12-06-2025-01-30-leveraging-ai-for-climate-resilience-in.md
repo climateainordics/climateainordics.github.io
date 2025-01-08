@@ -8,7 +8,8 @@ socialmedia: "As climate change issues become more pressing, their impact in Afr
 people:
 - Olof Mogren
 permalink: /events/2024-12-06-2025-01-30-leveraging-ai-for-climate-resilience-in
-event_date: "2025-01-30 15:00"
+event_date: "2025-01-30"
+event_time: "15:00"
 event_location: ""
 image: /images/posts/2024-12-06-2025-01-30-leveraging-ai-for-climate-resilience-in.jpg
 youtube: 

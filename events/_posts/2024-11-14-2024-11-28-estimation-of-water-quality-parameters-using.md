@@ -8,7 +8,8 @@ socialmedia: "The global decline in water quality, exacerbated by climate change
 people:
 - Olof Mogren
 permalink: /events/2024-11-14-2024-11-28-estimation-of-water-quality-parameters-using
-event_date: "2024-11-28 15:00"
+event_date: "2024-11-28"
+event_time: "15:00"
 event_location: "Scheelevägen 17, Lund"
 image: /images/posts/2024-11-14-2024-11-28-estimation-of-water-quality-parameters-using.jpg
 youtube: S0guqSER0co

@@ -20,7 +20,8 @@ This talk is for AI practitioners looking to understand how AI fits into the big
 people:
 - Olof Mogren
 permalink: /events/2024-11-14-2024-11-21-artificial-intelligence-for-climate-change-mitigation
-event_date: "2024-11-21 15:00"
+event_date: "2024-11-21"
+event_time: "15:00"
 event_location: ""
 image: /images/posts/2024-11-14-2024-11-21-artificial-intelligence-for-climate-change-mitigation.jpg
 youtube: n4uzazl1g4A
