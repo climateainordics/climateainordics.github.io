@@ -24,12 +24,13 @@ permalink: /events-test/
 {% assign title = postarray[0] %}
 {% assign event_date = postarray[1] %}
 {% assign shortversion = postarray[2] %}
-{% assign url = postarray[3] %}
+{% assign url = postarray[3] | strip %}
 
 {% capture eventtime %}{{ event_date | date: '%s'}}{% endcapture %}
 
 ## {{ title }}
 {% if image %}<img src="{{ image }}" style="float: right; width: 25%;" />{% endif %}
+image: {{ image }}
 
 <span style="color:grey;">**Event date:** *{{event_date | date: '%Y-%m-%d'}}*</span>
 
