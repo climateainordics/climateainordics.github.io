@@ -13,7 +13,7 @@ permalink: /events-test/
 
 {% capture posts %}
   {% for post in site.categories.events %}
-    |{{ post.title }}#{{ post.event_date }}#{{ post.shortversion }}#{{ post.url  }}
+    |{{ post.title }}#{{ post.event_date }}#{{ post.image }}#{{ post.shortversion }}#{{ post.url  }}
   {% endfor %}
 {% endcapture %}
 
@@ -23,8 +23,9 @@ permalink: /events-test/
 {% assign postarray = p | split: '#' %}
 {% assign title = postarray[0] %}
 {% assign event_date = postarray[1] %}
-{% assign shortversion = postarray[2] %}
-{% assign url = postarray[3] | strip %}
+{% assign image = postarray[2] %}
+{% assign shortversion = postarray[3] %}
+{% assign url = postarray[4] | strip %}
 
 {% capture eventtime %}{{ event_date | date: '%s'}}{% endcapture %}
 
