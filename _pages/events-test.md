@@ -31,7 +31,6 @@ permalink: /events-test/
 
 ## {{ title }}
 {% if image %}<img src="{{ image }}" style="float: right; width: 25%;" />{% endif %}
-image: {{ image }}
 
 <span style="color:grey;">**Event date:** *{{event_date | date: '%Y-%m-%d'}}*</span>
 
