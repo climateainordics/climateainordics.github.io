@@ -35,6 +35,8 @@ permalink: /events-test/
 
 <span style="color:grey;">**Event date:** *{{event_date | date: '%Y-%m-%d'}}*</span>
 
+event_date: "{{ event_date }}"
+
 {% if eventtime < nowtime %}This event has already happened. Stay tuned for more events like these!{% endif %}
 {{ shortversion }}
 
