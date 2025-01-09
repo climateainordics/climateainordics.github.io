@@ -142,6 +142,10 @@ Soundscape analysis *  Biodiversity *  Machine listening * [Publications (Schola
 <br />
 Biodiversity *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://bencretois.github.io/) * [Publications (Scholar)](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C5&amp;q=benjamin+cretois&amp;btnG=)
 
+<span title="Researcher (with a PhD), RISE."><strong>Chiara Ceccobello, RISE</strong></span>
+<br />
+Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities *  Sustainable production *  Marine ecology *  Efficient or sustainable AI *  NLP *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning *  Sustainable space exploration and research * [More info (researcher profile)](https://www.linkedin.com/in/chiaraceccobello/) * [ORCID](https://orcid.org/0000-0002-4767-9925)
+
 <span title="i&#x27;m edvin. PhD Student, RISE Research Institutes of Sweden."><strong>Edvin Listo Zec, RISE Research Institutes of Sweden</strong></span>
 <br />
 [More info (researcher profile)](https://edvinli.github.io)
