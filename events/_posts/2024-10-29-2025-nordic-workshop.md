@@ -15,6 +15,8 @@ image: /images/nordic-workshop-1200x846.png
 img {
   width: 12em;
   float: right;
+  padding: 1em 1em 0em 1em;
+  border: 1px #ccc solid;
 }
 </style>
 
