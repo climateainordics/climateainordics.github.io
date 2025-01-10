@@ -146,9 +146,9 @@ Biodiversity *  Computer vision *  Soundscape analysis *  Machine learning *  De
 <br />
 Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities *  Sustainable production *  Marine ecology *  Efficient or sustainable AI *  NLP *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning *  Sustainable space exploration and research * [More info (researcher profile)](https://www.linkedin.com/in/chiaraceccobello/) * [ORCID](https://orcid.org/0000-0002-4767-9925)
 
-<span title="i&#x27;m edvin. PhD Student, RISE Research Institutes of Sweden."><strong>Edvin Listo Zec, RISE Research Institutes of Sweden</strong></span>
+<span title="i&#x27;m edvin. Researcher (with a PhD), RISE."><strong>Edvin Listo Zec, RISE</strong></span>
 <br />
-[More info (researcher profile)](https://edvinli.github.io)
+Earth observation *  Climate modeling *  Biodiversity *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://edvinli.github.io) * [Publications (Scholar)](https://scholar.google.se/citations?user=Ft52aSsAAAAJ)
 
 <span title="My research focuses on developing machine learning methods to enable efficient and accurate monitoring of natural environments through sound. PhD Student, RISE Research Institutes of Sweden."><strong>John Martinsson, RISE Research Institutes of Sweden</strong></span>
 <br />
