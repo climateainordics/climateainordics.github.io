@@ -1,0 +1,62 @@
+---
+title: "Leveraging AI for Large-Scale Acoustic Biodiversity Monitoring: Insights from TABMON"
+shortversion: "Webinar with Benjamin Cretois, Norwegian Institute for Nature Research. 
+
+Advancing biodiversity monitoring is crucial for meeting the EU Biodiversity Strategy targets and addressing gaps in current ecological assessments. However, collecting data to monitor the state of biodiversity is time and resource consuming. Passive Acoustic Monitoring (PAM), in combination with AI tools offers an efficient alternative to conventional data collection practices. PAM is a non-invasive method that uses sound recorders to capture wildlife vocalizations and environmental sounds over time. It is particularly valuable for monitoring elusive or nocturnal species, such as birds, amphibians, and marine mammals, that are challenging to detect visually.
+
+The &quot;Towards a Transnational Acoustic Biodiversity Monitoring Network&quot; (TABMON) project is an initiative to establish a transnational passive acoustic monitoring monitoring network using autonomous acoustic sensors across four different European countries: Norway, Netherlands, France and Spain. TABMON’s objective is to demonstrate how acoustic sensing, coupled with cutting-edge AI, can complement traditional monitoring methods and support the development of methods to better monitor biodiversity.
+
+In this talk, we will also share our experiences with the deployment of acoustic recorders, data management strategies, and annotation protocols. These include managing large-scale, networked deployments across diverse landscapes, designing an efficient annotation workflow, and leveraging AI tools to process and analyze massive datasets."
+abstract: "Advancing biodiversity monitoring is crucial for meeting the EU Biodiversity Strategy targets and addressing gaps in current ecological assessments. However, collecting data to monitor the state of biodiversity is time and resource consuming. Passive Acoustic Monitoring (PAM), in combination with AI tools offers an efficient alternative to conventional data collection practices. PAM is a non-invasive method that uses sound recorders to capture wildlife vocalizations and environmental sounds over time. It is particularly valuable for monitoring elusive or nocturnal species, such as birds, amphibians, and marine mammals, that are challenging to detect visually.
+
+The &quot;Towards a Transnational Acoustic Biodiversity Monitoring Network&quot; (TABMON) project is an initiative to establish a transnational passive acoustic monitoring monitoring network using autonomous acoustic sensors across four different European countries: Norway, Netherlands, France and Spain. TABMON’s objective is to demonstrate how acoustic sensing, coupled with cutting-edge AI, can complement traditional monitoring methods and support the development of methods to better monitor biodiversity.
+
+In this talk, we will also share our experiences with the deployment of acoustic recorders, data management strategies, and annotation protocols. These include managing large-scale, networked deployments across diverse landscapes, designing an efficient annotation workflow, and leveraging AI tools to process and analyze massive datasets."
+socialmedia: "Advancing biodiversity monitoring is crucial for meeting the EU Biodiversity Strategy targets and addressing gaps in current ecological assessments. However, collecting data to monitor the state of biodiversity is time and resource consuming. Passive Acoustic Monitoring (PAM), in combination with AI tools offers an efficient alternative to conventional data collection practices. PAM is a non-invasive method that uses sound recorders to capture wildlife vocalizations and environmental sounds over time. It is particularly valuable for monitoring elusive or nocturnal species, such as birds, amphibians, and marine mammals, that are challenging to detect visually.
+
+The &quot;Towards a Transnational Acoustic Biodiversity Monitoring Network&quot; (TABMON) project is an initiative to establish a transnational passive acoustic monitoring monitoring network using autonomous acoustic sensors across four different European countries: Norway, Netherlands, France and Spain. TABMON’s objective is to demonstrate how acoustic sensing, coupled with cutting-edge AI, can complement traditional monitoring methods and support the development of methods to better monitor biodiversity.
+
+In this talk, we will also share our experiences with the deployment of acoustic recorders, data management strategies, and annotation protocols. These include managing large-scale, networked deployments across diverse landscapes, designing an efficient annotation workflow, and leveraging AI tools to process and analyze massive datasets."
+people:
+- Olof Mogren
+permalink: /events/2025-01-09-2025-02-06-leveraging-ai-for-large-scale-acoustic-biodiversity
+event_date: 2025-02-06
+event_time: "15:00"
+event_location: ""
+image: /images/posts/2025-01-09-2025-02-06-leveraging-ai-for-large-scale-acoustic-biodiversity.jpg
+youtube: 
+--- 
+Welcome to this week's Learning Machines seminar.
+
+This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
+
+**Title:** Leveraging AI for Large-Scale Acoustic Biodiversity Monitoring: Insights from TABMON
+
+**Speaker:** Benjamin Cretois, Norwegian Institute for Nature Research
+
+**Abstract:** Advancing biodiversity monitoring is crucial for meeting the EU Biodiversity Strategy targets and addressing gaps in current ecological assessments. However, collecting data to monitor the state of biodiversity is time and resource consuming. Passive Acoustic Monitoring (PAM), in combination with AI tools offers an efficient alternative to conventional data collection practices. PAM is a non-invasive method that uses sound recorders to capture wildlife vocalizations and environmental sounds over time. It is particularly valuable for monitoring elusive or nocturnal species, such as birds, amphibians, and marine mammals, that are challenging to detect visually.
+
+The &quot;Towards a Transnational Acoustic Biodiversity Monitoring Network&quot; (TABMON) project is an initiative to establish a transnational passive acoustic monitoring monitoring network using autonomous acoustic sensors across four different European countries: Norway, Netherlands, France and Spain. TABMON’s objective is to demonstrate how acoustic sensing, coupled with cutting-edge AI, can complement traditional monitoring methods and support the development of methods to better monitor biodiversity.
+
+In this talk, we will also share our experiences with the deployment of acoustic recorders, data management strategies, and annotation protocols. These include managing large-scale, networked deployments across diverse landscapes, designing an efficient annotation workflow, and leveraging AI tools to process and analyze massive datasets.
+
+**About the speaker:** Benjamin Cretois is a researcher at the Norwegian Institute for Nature Research (NINA), working at the interface of artificial intelligence, statistics, and biodiversity conservation. His work primarily focuses on developing deep learning tools to better analyze bioacoustic data.
+
+**Location:** This is an online seminar. Connect using Zoom.
+
+**Date:** 2025-02-06 15:00
+
+
+
+**Upcoming seminars:**
+
+* 2025-02-20: Abdulhakim Abdi, Lund University, **digital and physical: RISE Lund Office (Scheelevägen 17)**
+* 2025-03-06: Atakan Aral, University of Vienna
+* 2025-03-13: Sherrie Wang, MIT
+* 2025-03-27: María J. Molina, University of Maryland
+* All seminars are 15:00 CET.
+
+More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
+
+-- The Learning Machines Team
+
