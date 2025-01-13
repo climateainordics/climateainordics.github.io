@@ -69,6 +69,12 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 
 *E. Sacre is a researcher at the Swedish University of Agricultural Sciences (SLU) within the Department of Aquatic Resources (SLU Aqua). He obtained his PhD in 2019 at James Cook University, Australia, within the Australian Research Council Centre of Excellence for Coral Studies. At SLU Aqua, Edmond works within the Unit for Conservation and Marine Spatial Planning where he has been employed since 2019. He is involved in a variety of national and international projects focused on species distribution modeling, spatial conservation planning, cumulative impact assessment, and connectivity modeling. These projects include Protect Baltic (EU-Horizon), Western Indian Ocean Symphony (Swedish Agency for Marine and Water Management), and other national mapping projects.*
 
+**Shorouq Zahra,** RISE Research Institutes of Sweden
+
+![](/events/2025-nordic-workshop/zahra.jpg)
+
+*Shorouq Zahra a research engineer and developer at RISE Research Institutes of Sweden, with a focus on NLP, conversational AI, and MLOps. She has been engaged in the work "Using LLMs to Build a Database of Climate Extreme Impacts", presented at ClimateNLP 2024, proposing a method for building large-scale databases of climate extreme impacts from online textual sources, using LLMs for information extraction in combination with more traditional NLP techniques to improve accuracy and consistency.*
+
 **Nico Lang,** University of Copenhagen and Pioneer Centre for AI
 
 ![](/events/2025-nordic-workshop/lang.jpg)
@@ -91,11 +97,11 @@ With over a decade of experience in community building and international develop
 
 *David Thulke is a PhD student within the Human Language Technology Group at the Chair of Computer Science 6 of the RWTH Aachen University supervised by Prof. Dr.-Ing. Hermann Ney. In addition to numerous other works on language models and retrieval augmented generation, he is the first author of ClimateGPT, a model family of domain-specific large language models for information retrieval and generation. He also works as a language processing scientist at AppTek.*
 
-**Shorouq Zahra,** RISE Research Institutes of Sweden
+**John Martinsson,** RISE Research Institutes of Sweden
 
-![](/events/2025-nordic-workshop/zahra.jpg)
+![](/events/2025-nordic-workshop/martinsson.webp)
 
-*Shorouq Zahra a research engineer and developer at RISE Research Institutes of Sweden, with a focus on NLP, conversational AI, and MLOps. She has been engaged in the work "Using LLMs to Build a Database of Climate Extreme Impacts", presented at ClimateNLP 2024, proposing a method for building large-scale databases of climate extreme impacts from online textual sources, using LLMs for information extraction in combination with more traditional NLP techniques to improve accuracy and consistency.*
+*John is a PhD student at RISE, part of the Deep Learning Group, and affiliated with Lund University. John is passionate about machine listening — using machine learning to analyze audio data—with a focus on bioacoustics and biodiversity monitoring. John has worked on few-shot learning for bioacoustic event detection and efficient annotation of soundscape data.*
 
 ## Poster presentations
 
