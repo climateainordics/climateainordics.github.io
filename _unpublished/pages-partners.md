@@ -1,6 +1,6 @@
 ---
 title: Partners
-permalink: /partners/
+#permalink: /partners/
 ---
 {% include base_path %}
 
