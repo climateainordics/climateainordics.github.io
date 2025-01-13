@@ -101,7 +101,7 @@ With over a decade of experience in community building and international develop
 
 ![](/events/2025-nordic-workshop/martinsson.webp)
 
-*John is a PhD student at RISE, part of the Deep Learning Group, and affiliated with Lund University. John is passionate about machine listening — using machine learning to analyze audio data—with a focus on bioacoustics and biodiversity monitoring. John has worked on few-shot learning for bioacoustic event detection and efficient annotation of soundscape data.*
+*John Martinsson is a researcher specializing in machine listening-using machine learning to analyze audio data-and its application to bioacoustics and biodiversity monitoring. A key focus of his research is on streamlining the often labor-intensive process of labeling bioacoustic data, and on creating robust models that perform effectively even with limited labeled data. More information on his website: [johnmartinsson.org](https://johnmartinsson.org/).*
 
 ## Poster presentations
 
