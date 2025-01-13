@@ -50,6 +50,10 @@ Earth observation *  Biodiversity *  Efficient or sustainable AI *  Computer vis
 <br />
 Soundscape analysis *  Machine learning * [Research group](https://research.tuni.fi/machinelistening/) * [Publications (Scholar)](https://scholar.google.com/citations?user=tOvdEZIAAAAJ&amp;hl=en)
 
+<span title="Assistant Professor, Linköping University."><strong>Yonghao Xu, Linköping University</strong></span>
+<br />
+Earth observation *  Computer vision *  Machine learning * [More info (researcher profile)](https://yonghaoxu.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=sQs2ztAAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-6857-0152)
+
 <span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. Researcher (with a PhD), RISE Research Institutes of Sweden."><strong>Smita Chakraborty, RISE Research Institutes of Sweden</strong></span>
 <br />
 
