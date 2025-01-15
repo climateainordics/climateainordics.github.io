@@ -21,8 +21,8 @@ main:
   #- title: "Publications"
   #  url: /publications/
 
-  #- title: "Partners"
-  #  url: /partners/
+  - title: "Partners"
+    url: /partners/
 
   - title: "About"
     url: /about/
