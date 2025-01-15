@@ -50,6 +50,10 @@ Earth observation *  Biodiversity *  Efficient or sustainable AI *  Computer vis
 <br />
 Soundscape analysis *  Machine learning * [Research group](https://research.tuni.fi/machinelistening/) * [Publications (Scholar)](https://scholar.google.com/citations?user=tOvdEZIAAAAJ&amp;hl=en)
 
+<span title="Associate Professor, Swedish University of Agricultural Sciences."><strong>William Lidberg, Swedish University of Agricultural Sciences</strong></span>
+<br />
+[More info (researcher profile)](https://www.slu.se/en/ew-cv/william-lidberg/) * [Publications (Scholar)](https://scholar.google.com/citations?user=NEIwwaEAAAAJ) * [ORCID](https://orcid.org/0000-0001-5780-5596)
+
 <span title="Assistant Professor, Linköping University."><strong>Yonghao Xu, Linköping University</strong></span>
 <br />
 Earth observation *  Computer vision *  Machine learning * [More info (researcher profile)](https://yonghaoxu.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=sQs2ztAAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-6857-0152)
@@ -141,6 +145,10 @@ Earth observation *  Biodiversity *  NLP *  Machine learning *  Deep learning * 
 <span title="Researcher (with a PhD), Chalmers University of Technology."><strong>Santiago Arellano, Chalmers University of Technology</strong></span>
 <br />
 [ORCID](https://orcid.org/0000-0002-0306-3782)
+
+<span title="Post Doc, Copenhagen Data Lab, Department of Mathematical Sciences, University of Copenhagen."><strong>Laura Helene Rasmussen, Copenhagen Data Lab, Department of Mathematical Sciences, University of Copenhagen</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=xJKWuVUAAAAJ) * [ORCID](https://orcid.org/0000-0002-6453-9780)
 
 <span title="Researcher (with a PhD), Norwegian Institute for Nature Research."><strong>Carolyn Rosten, Norwegian Institute for Nature Research</strong></span>
 <br />
@@ -237,6 +245,14 @@ Climate modeling *  Biodiversity *  Urban planning * [More info (researcher prof
 <span title="Senior Lecturer , Department of Earth Sciences, University of Gothenburg."><strong>Céline Heuzé, Department of Earth Sciences, University of Gothenburg</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.se/citations?user=6ccDAwQAAAAJ&amp;hl=sv&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-8850-5868)
+
+<span title="PhD Student at the University of York Computer Science Department. PhD Student, University of York."><strong>Alistair Foggin, University of York</strong></span>
+<br />
+[ORCID](https://orcid.org/0009-0000-1146-7149)
+
+<span title=", Takshashila."><strong>Aarav Pillai, Takshashila</strong></span>
+<br />
+
 
 <span title="I am a lecturer in Urban Planning at the University of Auckland, bringing over 13 years of experience in both research and practice. My focus is on addressing climate change challenges, enhancing urban resilience, promoting regeneration, and advocating for environmental justice. I am particularly interested in understanding and mitigating the risks that urban areas encounter, especially those related to climate change and natural hazards. My research examines how cities can adapt to these increasing threats, emphasising resilience, risk reduction, and sustainable planning to protect communities and infrastructure. Assistant Professor, University of Auckland."><strong>Iresh Jayawardena, University of Auckland</strong></span>
 <br />
