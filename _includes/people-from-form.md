@@ -4,7 +4,7 @@
 
 <span title="Research focus: Computer Vision &amp; Machine Learning. Professor, University of Copenhagen / Pioneer Centre for AI."><strong>Serge Belongie, University of Copenhagen / Pioneer Centre for AI</strong></span>
 <br />
-[More info (researcher profile)](https://sergebelongie.github.io) * [Research group](https://www.belongielab.org) * [Publications (Scholar)](https://scholar.google.com/citations?user=chD5XxkAAAAJ) * [ORCID](https://orcid.org/0000-0002-0388-5217)
+[More info (researcher profile)](https://sergebelongie.github.io) * [Research group](https://www.belongielab.org) * [Publications (Scholar)](https://scholar.google.com/citations?user=chD5XxkAAAAJ) * [ORCID](https://orcid.org/0000-0002-0388-5217) * [BlueSky](https://bsky.app/profile/https://bsky.app/profile/serge.belongie.com)
 
 <span title="Gabriele&#x27;s main research interests are physical drivers of extreme weather and extreme weather impacts. He uses a range of approaches, including dynamical systems theory, machine learning and other statistical analyses. Other research interests include meridional energy transport in the atmosphere and large-scale atmospheric dynamics. Professor, Uppsala University."><strong>Gabriele Messori, Uppsala University</strong></span>
 <br />
@@ -52,7 +52,7 @@ Soundscape analysis *  Machine learning * [Research group](https://research.tuni
 
 <span title="Associate Professor, Swedish University of Agricultural Sciences."><strong>William Lidberg, Swedish University of Agricultural Sciences</strong></span>
 <br />
-[More info (researcher profile)](https://www.slu.se/en/ew-cv/william-lidberg/) * [Publications (Scholar)](https://scholar.google.com/citations?user=NEIwwaEAAAAJ) * [ORCID](https://orcid.org/0000-0001-5780-5596)
+[More info (researcher profile)](https://www.slu.se/en/ew-cv/william-lidberg/) * [Publications (Scholar)](https://scholar.google.com/citations?user=NEIwwaEAAAAJ) * [ORCID](https://orcid.org/0000-0001-5780-5596) * [BlueSky](https://bsky.app/profile/https://bsky.app/profile/williamlidberg.bsky.social)
 
 <span title="Assistant Professor, Linköping University."><strong>Yonghao Xu, Linköping University</strong></span>
 <br />
@@ -156,7 +156,7 @@ Soundscape analysis *  Biodiversity *  Machine listening * [Publications (Schola
 
 <span title="Researcher (with a PhD), Norwegian Institute for Nature Research."><strong>Benjamin Cretois, Norwegian Institute for Nature Research</strong></span>
 <br />
-Biodiversity *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://bencretois.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=40ZX7XUAAAAJ)
+Biodiversity *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://bencretois.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=40ZX7XUAAAAJ) * [BlueSky](https://bsky.app/profile/https://bsky.app/profile/bencretois.bsky.social)
 
 <span title="Researcher (with a PhD), RISE."><strong>Chiara Ceccobello, RISE</strong></span>
 <br />
@@ -164,11 +164,11 @@ Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Susta
 
 <span title="i&#x27;m edvin. Researcher (with a PhD), RISE."><strong>Edvin Listo Zec, RISE</strong></span>
 <br />
-Earth observation *  Climate modeling *  Biodiversity *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://edvinli.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=Ft52aSsAAAAJ)
+Earth observation *  Climate modeling *  Biodiversity *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://edvinli.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=Ft52aSsAAAAJ) * [BlueSky](https://bsky.app/profile/https://bsky.app/profile/edvinli.bsky.social)
 
 <span title="My research focuses on developing machine learning methods to enable efficient and accurate monitoring of natural environments through sound. PhD Student, RISE Research Institutes of Sweden."><strong>John Martinsson, RISE Research Institutes of Sweden</strong></span>
 <br />
-Earth observation *  Biodiversity *  Marine ecology *  Efficient or sustainable AI *  Soundscape analysis *  Machine learning *  Deep learning *  Machine Listening * [More info (researcher profile)](https://johnmartinsson.org) * [Research group](https://dl-group.se) * [Publications (Scholar)](https://scholar.google.com/citations?user=sAMIwlMAAAAJ) * [ORCID](https://orcid.org/0000-0002-5032-4367)
+Earth observation *  Biodiversity *  Marine ecology *  Efficient or sustainable AI *  Soundscape analysis *  Machine learning *  Deep learning *  Machine Listening * [More info (researcher profile)](https://johnmartinsson.org) * [Research group](https://dl-group.se) * [Publications (Scholar)](https://scholar.google.com/citations?user=sAMIwlMAAAAJ) * [ORCID](https://orcid.org/0000-0002-5032-4367) * [BlueSky](https://bsky.app/profile/https://bsky.app/profile/johnmartinsson.org)
 
 <span title="I&#x27;m a PhD student at the Center for Mathematical Sciences focusing on anomaly detection and machine learning in earth observations and remote sensing. PhD Student, Lund University."><strong>Oskar Åström, Lund University</strong></span>
 <br />
