@@ -40,11 +40,11 @@ Earth observation *  Climate modeling *  Biodiversity *  Sustainable cities *  C
 
 <span title="I research AI for sustainable materials development and AI in atmospheric science . Professor, Aalto Univeristy."><strong>Patrick Rinke, Aalto Univeristy</strong></span>
 <br />
-Efficient or sustainable AI *  Machine learning *  Deep learning *  materials and atmospheric science * [Research group](https://www.aalto.fi/en/department-of-applied-physics/computational-electronic-structure-theory-cest) * [Publications (Scholar)](https://scholar.google.de/citations?user=TYHCEwQAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-1898-723X)
+Efficient or sustainable AI *  Machine learning *  Deep learning *  materials and atmospheric science * [Research group](https://www.aalto.fi/en/department-of-applied-physics/computational-electronic-structure-theory-cest) * [Publications (Scholar)](https://scholar.google.com/citations?user=TYHCEwQAAAAJ) * [ORCID](https://orcid.org/0000-0003-1898-723X)
 
 <span title="Christian Igel is a professor at DIKU, the Department of Computer Science at the University of Copenhagen. He is the director of the SCIENCE AI Centre. Furthermore, he is a co-lead of the Pioneer Centre for Artificial Intelligence, Denmark and a Fellow of ELLIS, European Lab for Learning and Intelligent Systems. Christian’s reserach interests include support vector machines and other kernel-based methods,evolution strategies for single- and multi-objective optimization and reinforcement learning, PAC-Bayesian analysis of ensemble methods, deep neural networks and stochastic neural networks, and applications of machine learning that help achieve the sustainable development goals. Professor, University of Copenhagen."><strong>Christian Igel, University of Copenhagen</strong></span>
 <br />
-Earth observation *  Biodiversity *  Efficient or sustainable AI *  Computer vision *  Machine learning *  Deep learning *  Ecosystem monitoring and modelling * [More info (researcher profile)](https://christian-igel.github.io/) * [Publications (Scholar)](https://scholar.google.dk/citations?user=d-jF4zIAAAAJ&amp;sortby=pubdate) * [ORCID](https://orcid.org/0000-0003-2868-0856)
+Earth observation *  Biodiversity *  Efficient or sustainable AI *  Computer vision *  Machine learning *  Deep learning *  Ecosystem monitoring and modelling * [More info (researcher profile)](https://christian-igel.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=d-jF4zIAAAAJ) * [ORCID](https://orcid.org/0000-0003-2868-0856)
 
 <span title="I am Associate Professor at Tampere University. I received my PhD in Signal  Processing at Tampere University of Technology in 2012. My primary research deals with environmental sounds detection and classification, with the purpose of acoustic scene analysis and understanding. I am also the coordinator of the Detection and Classiﬁcation of Acoustic Scenes and Events (DCASE) Challenge.   Associate Professor, Tampere University."><strong>Annamaria Mesaros, Tampere University</strong></span>
 <br />
@@ -56,7 +56,7 @@ Soundscape analysis *  Machine learning * [Research group](https://research.tuni
 
 <span title="Assistant Professor, Linköping University."><strong>Yonghao Xu, Linköping University</strong></span>
 <br />
-Earth observation *  Computer vision *  Machine learning * [More info (researcher profile)](https://yonghaoxu.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=sQs2ztAAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-6857-0152)
+Earth observation *  Computer vision *  Machine learning * [More info (researcher profile)](https://yonghaoxu.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=sQs2ztAAAAAJ) * [ORCID](https://orcid.org/0000-0002-6857-0152)
 
 <span title="Assistant Professor, University of Glasgow."><strong>Tiffany Vlaar, University of Glasgow</strong></span>
 <br />
@@ -116,7 +116,7 @@ Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep
 
 <span title="Marie-Sklodowska Curie Fellow at KTH. Post Doc, KTH Royal Institute of Technology."><strong>Francesca Larosa, KTH Royal Institute of Technology</strong></span>
 <br />
-Efficient or sustainable AI *  NLP *  Machine learning *  climate policy * [More info (researcher profile)](https://sites.google.com/view/francescalarosa/home-page?authuser=0) * [Publications (Scholar)](https://scholar.google.it/citations?user=89qTlnEAAAAJ&amp;hl=it)
+Efficient or sustainable AI *  NLP *  Machine learning *  climate policy * [More info (researcher profile)](https://sites.google.com/view/francescalarosa/home-page?authuser=0) * [Publications (Scholar)](https://scholar.google.com/citations?user=89qTlnEAAAAJ&amp;hl=it)
 
 <span title="Researcher at the interception of forest science, remote sensing, and AI. Researcher (with a PhD), Norwegian Institute of Bioeconomy Research (NIBIO)."><strong>Stefano Puliti, Norwegian Institute of Bioeconomy Research (NIBIO)</strong></span>
 <br />
@@ -140,7 +140,7 @@ Machine learning *  Deep learning * [ORCID](https://orcid.org/0000-0001-6529-114
 
 <span title="Interested in assessing resilience of social and ecological systems. Researcher (with a PhD), Stockholm Resilience Centre, Stockholm University."><strong>Juan Rocha, Stockholm Resilience Centre, Stockholm University</strong></span>
 <br />
-Earth observation *  Biodiversity *  NLP *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.juanrocha.se) * [Publications (Scholar)](https://scholar.google.se/citations?user=IHiMTFYAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-2322-5459)
+Earth observation *  Biodiversity *  NLP *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.juanrocha.se) * [Publications (Scholar)](https://scholar.google.com/citations?user=IHiMTFYAAAAJ) * [ORCID](https://orcid.org/0000-0003-2322-5459)
 
 <span title="Researcher (with a PhD), Chalmers University of Technology."><strong>Santiago Arellano, Chalmers University of Technology</strong></span>
 <br />
@@ -156,7 +156,7 @@ Soundscape analysis *  Biodiversity *  Machine listening * [Publications (Schola
 
 <span title="Researcher (with a PhD), Norwegian Institute for Nature Research."><strong>Benjamin Cretois, Norwegian Institute for Nature Research</strong></span>
 <br />
-Biodiversity *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://bencretois.github.io/) * [Publications (Scholar)](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C5&amp;q=benjamin+cretois&amp;btnG=)
+Biodiversity *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://bencretois.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=40ZX7XUAAAAJ)
 
 <span title="Researcher (with a PhD), RISE."><strong>Chiara Ceccobello, RISE</strong></span>
 <br />
@@ -164,7 +164,7 @@ Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Susta
 
 <span title="i&#x27;m edvin. Researcher (with a PhD), RISE."><strong>Edvin Listo Zec, RISE</strong></span>
 <br />
-Earth observation *  Climate modeling *  Biodiversity *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://edvinli.github.io) * [Publications (Scholar)](https://scholar.google.se/citations?user=Ft52aSsAAAAJ)
+Earth observation *  Climate modeling *  Biodiversity *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://edvinli.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=Ft52aSsAAAAJ)
 
 <span title="My research focuses on developing machine learning methods to enable efficient and accurate monitoring of natural environments through sound. PhD Student, RISE Research Institutes of Sweden."><strong>John Martinsson, RISE Research Institutes of Sweden</strong></span>
 <br />
@@ -240,11 +240,11 @@ Efficient or sustainable AI *  Machine learning *  Bayesian optimisation * [Publ
 
 <span title="Student, Södertörn University ."><strong>Dawda Cham, Södertörn University </strong></span>
 <br />
-Climate modeling *  Biodiversity *  Urban planning * [More info (researcher profile)](https://www.linkedin.com/in/dawda-cham-b29524102/)
+Climate modeling *  Biodiversity *  Urban planning * [More info (researcher profile)](https://www.linkedin.com/in/dawda-cham-b29524102/) * [Publications (Scholar)](https://&amp;hl=en)
 
 <span title="Senior Lecturer , Department of Earth Sciences, University of Gothenburg."><strong>Céline Heuzé, Department of Earth Sciences, University of Gothenburg</strong></span>
 <br />
-[Publications (Scholar)](https://scholar.google.se/citations?user=6ccDAwQAAAAJ&amp;hl=sv&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-8850-5868)
+[Publications (Scholar)](https://scholar.google.com/citations?user=6ccDAwQAAAAJ) * [ORCID](https://orcid.org/0000-0002-8850-5868)
 
 <span title="PhD Student at the University of York Computer Science Department. PhD Student, University of York."><strong>Alistair Foggin, University of York</strong></span>
 <br />
@@ -256,7 +256,7 @@ Climate modeling *  Biodiversity *  Urban planning * [More info (researcher prof
 
 <span title="I am a PhD candidate focused on developing advanced machine learning algorithms to analyze remote sensing data in crisis situations, with a strong emphasis on sustainability. My research integrates AI with humanitarian efforts to improve decision-making in complex environments, while also addressing long-term sustainability challenges. I am dedicated to advancing interdisciplinary approaches that use data-driven insights to support both immediate crisis response and sustainable development goals. PhD Student, EPFL."><strong>Filip Dorm, EPFL</strong></span>
 <br />
-Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://people.epfl.ch/filip.dorm?lang=en) * [Research group](https://www.epfl.ch/labs/eceo/) * [Publications (Scholar)](https://scholar.google.com/citations?user=oB8DdNUAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0009-0007-1991-2324)
+Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://people.epfl.ch/filip.dorm?lang=en) * [Research group](https://www.epfl.ch/labs/eceo/) * [Publications (Scholar)](https://scholar.google.com/citations?user=oB8DdNUAAAAJ) * [ORCID](https://orcid.org/0009-0007-1991-2324)
 
 <span title="I am a lecturer in Urban Planning at the University of Auckland, bringing over 13 years of experience in both research and practice. My focus is on addressing climate change challenges, enhancing urban resilience, promoting regeneration, and advocating for environmental justice. I am particularly interested in understanding and mitigating the risks that urban areas encounter, especially those related to climate change and natural hazards. My research examines how cities can adapt to these increasing threats, emphasising resilience, risk reduction, and sustainable planning to protect communities and infrastructure. Assistant Professor, University of Auckland."><strong>Iresh Jayawardena, University of Auckland</strong></span>
 <br />
