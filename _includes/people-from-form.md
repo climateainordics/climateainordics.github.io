@@ -254,6 +254,10 @@ Climate modeling *  Biodiversity *  Urban planning * [More info (researcher prof
 <br />
 
 
+<span title="I am a PhD candidate focused on developing advanced machine learning algorithms to analyze remote sensing data in crisis situations, with a strong emphasis on sustainability. My research integrates AI with humanitarian efforts to improve decision-making in complex environments, while also addressing long-term sustainability challenges. I am dedicated to advancing interdisciplinary approaches that use data-driven insights to support both immediate crisis response and sustainable development goals. PhD Student, EPFL."><strong>Filip Dorm, EPFL</strong></span>
+<br />
+Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://people.epfl.ch/filip.dorm?lang=en) * [Research group](https://www.epfl.ch/labs/eceo/) * [Publications (Scholar)](https://scholar.google.com/citations?user=oB8DdNUAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0009-0007-1991-2324)
+
 <span title="I am a lecturer in Urban Planning at the University of Auckland, bringing over 13 years of experience in both research and practice. My focus is on addressing climate change challenges, enhancing urban resilience, promoting regeneration, and advocating for environmental justice. I am particularly interested in understanding and mitigating the risks that urban areas encounter, especially those related to climate change and natural hazards. My research examines how cities can adapt to these increasing threats, emphasising resilience, risk reduction, and sustainable planning to protect communities and infrastructure. Assistant Professor, University of Auckland."><strong>Iresh Jayawardena, University of Auckland</strong></span>
 <br />
 Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities *  Efficient or sustainable AI * [More info (researcher profile)](https://profiles.auckland.ac.nz/i-jayawardena) * [Publications (Scholar)](https://scholar.google.com/citations?user=j8yEd4cAAAAJ) * [ORCID](https://orcid.org/0000-0002-5958-8668)
