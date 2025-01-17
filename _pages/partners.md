@@ -24,7 +24,7 @@ img {
 }
 </style>
 
-# Would you like to partner with us!
+**Would you like to partner with us?**
 
 Get in touch! [contact@climateainordics.com](mailto:contact@climateainordics.com).
 
