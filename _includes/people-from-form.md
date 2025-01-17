@@ -20,7 +20,7 @@ Biodiversity *  Marine ecology *  Computer vision *  Machine learning *  Deep le
 
 <span title="Alan Said is Associate Professor at University of Gothenburg. He holds a PhD from Technische Universität Berlin. Prior to joining the University of Gothenburg, Alan held positions in industry and academia. He was lecturer at University of Skövde (2016-2019), machine learning engineer 2014-2016 working on application of state of the art machine learning in a large scale production setting at Recorded Future. He was Senior Researcher (2014) working on recommender systems and evaluation in the Multimedia Computing research group at Delft University of Technology. He was awarded a Marie Curie Actions (MCA) Alain Bensoussan ERCIM Fellowship at Centrum Wiskunde &amp; Informatica (2013-2014) for work on evaluation of recommender and personalization systems. Alan&#x27;s research spans the fields of user modeling, personalization, recommender systems, evaluation, and reproducibility. He has worked in these fields in various national and international projects as researcher, leader, manager, PI, and proposal writer. He has published over 70 scientific works in top journals, conferences, workshops, and books. He has been nominated for and awarded several Best Paper and Poster awards for his research. Alan frequently serves on Program and Organization committees of top venues and journal such as ACM RecSys, WWW, ACM CIKM, ACM UMAP, ACM IUI, UMUAI, TWeb, TKDD. He is the Chair of the ACM RecSys Steering Committee (2023-2026). Associate Professor, University of Gothenburg."><strong>Alan Said, University of Gothenburg</strong></span>
 <br />
-[Publications (Scholar)](https://scholar.google.com/citations?user=j4cTzn0AAAAJ) * [ORCID](https://orcid.org/0000-0002-2929-0529)
+[Publications (Scholar)](https://scholar.google.com/citations?user=j4cTzn0AAAAJ) * [ORCID](https://orcid.org/0000-0002-2929-0529) * [BlueSky](https://bsky.app/profile/https://bsky.app/profile/alansaid.com)
 
 <span title="Ali Mansourian is a Professor of Geomatics at the Department of Physical Geography and Ecosystem Science, Lund University, Sweden. He is Director of Lund University GIS Centre, and coordinator of the “GIS &amp; RS Master Programme”. He is a member of United Nation&#x27;s Global Geospatial Information Management (UN GGIM) Academic Network, and former council member of European AGILE (Association of Geographic Information Laboratories in Europe).  Mansourian has established research directions in Geospatial Artificial Intelligence (GeoAI) - which is the intersection of GISceince and Artificial Intelligence (AI)-, Spatial Data Infrastructures (SDI), and Multi-Criteria Decision Analysis (MCDA). He has also a long-standing research line in applications of Geographic Information Systems (GIS) in climate, epidemiology and heath, disaster risk management, land-use planning, and environmental management.  In his records, he has also coordination of several large international and national research and capacity building projects, evaluation of major EU/EC research grants, scientific program committee chair and/or organiser of several international conferences and workshops, supervision of PhD students and postdoc researches,  invited evaluation committee of PhD theses, and publication of scientific journal/conference papers, books/book chapters, and technical reports. Professor, Lund University."><strong>Ali Mansourian, Lund University</strong></span>
 <br />
@@ -36,7 +36,7 @@ Earth observation *  Climate modeling *  urban planning *  sustainable cities * 
 
 <span title="My research focuses on machine learning for earth observation. Earth system data is among the most unique and abundant multi-modal data, making it an ideal platform for novel machine learning research. My new position offers an opportunity to continue bringing unique and timely challenges of EO to the ML community and remarkable ML methods to the EO community. But I am happy to adorn different hats and move up or down the programming-stack to solve real-world problems. Assistant Professor, University of Copenhagen."><strong>Ankit Kariryaa, University of Copenhagen</strong></span>
 <br />
-Earth observation *  Climate modeling *  Biodiversity *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://ankitkariryaa.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=lwSTZGgAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9284-7847)
+Earth observation *  Climate modeling *  Biodiversity *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://ankitkariryaa.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=lwSTZGgAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9284-7847) * [BlueSky](https://bsky.app/profile/https://bsky.app/profile/ankitky.bsky.social)
 
 <span title="I research AI for sustainable materials development and AI in atmospheric science . Professor, Aalto Univeristy."><strong>Patrick Rinke, Aalto Univeristy</strong></span>
 <br />
@@ -96,7 +96,7 @@ Biodiversity *  Marine ecology *  Efficient or sustainable AI *  NLP *  Computer
 
 <span title="I work with statistical methods with different levels of complexity to understand climate change impacts on various processes and to forecast future impacts.  Researcher (with a PhD), Swedish university of agricultural sciences (SLU)."><strong>Faranak Tootoonchi, Swedish university of agricultural sciences (SLU)</strong></span>
 <br />
-Climate modeling *  Sustainable cities *  Sustainable production *  Machine learning *  climate impacts * [Research group](https://www.slu.se/en/ew-cv/faranak-tootoonchi/) * [Publications (Scholar)](https://scholar.google.com/citations?user=5XmN8AUAAAAJ) * [ORCID](https://orcid.org/0000-0001-5262-1712)
+Climate modeling *  Sustainable cities *  Sustainable production *  Machine learning *  climate impacts * [Research group](https://www.slu.se/en/ew-cv/faranak-tootoonchi/) * [Publications (Scholar)](https://scholar.google.com/citations?user=5XmN8AUAAAAJ) * [ORCID](https://orcid.org/0000-0001-5262-1712) * [BlueSky](https://bsky.app/profile/https://bsky.app/profile/faranaktt.bsky.social)
 
 <span title="Researcher (with a PhD), Uppsala University ."><strong>Venugopal Thallam, Uppsala University </strong></span>
 <br />
@@ -112,7 +112,7 @@ Climate modeling *  Machine learning *  Deep learning * [Publications (Scholar)]
 
 <span title="Post Doc, University of Copenhagen."><strong>Nico Lang, University of Copenhagen</strong></span>
 <br />
-Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep learning *  Remote sensing * [More info (researcher profile)](https://langnico.github.io/) * [Publications (Scholar)](https://scholar.google.ch/citations?user=bVZtKsQAAAAJ) * [ORCID](https://orcid.org/0000-0001-8434-027X)
+Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep learning *  Remote sensing * [More info (researcher profile)](https://langnico.github.io/) * [Publications (Scholar)](https://scholar.google.ch/citations?user=bVZtKsQAAAAJ) * [ORCID](https://orcid.org/0000-0001-8434-027X) * [BlueSky](https://bsky.app/profile/https://bsky.app/profile/nicolang.bsky.social)
 
 <span title="Marie-Sklodowska Curie Fellow at KTH. Post Doc, KTH Royal Institute of Technology."><strong>Francesca Larosa, KTH Royal Institute of Technology</strong></span>
 <br />
@@ -120,7 +120,7 @@ Efficient or sustainable AI *  NLP *  Machine learning *  climate policy * [More
 
 <span title="Researcher at the interception of forest science, remote sensing, and AI. Researcher (with a PhD), Norwegian Institute of Bioeconomy Research (NIBIO)."><strong>Stefano Puliti, Norwegian Institute of Bioeconomy Research (NIBIO)</strong></span>
 <br />
-Earth observation *  Biodiversity *  Computer vision *  Deep learning * [More info (researcher profile)](https://bsky.app/profile/stefanopuliti.bsky.social) * [Publications (Scholar)](https://scholar.google.com/citations?user=mrysxWoAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4624-8987)
+Earth observation *  Biodiversity *  Computer vision *  Deep learning * [More info (researcher profile)](https://bsky.app/profile/stefanopuliti.bsky.social) * [Publications (Scholar)](https://scholar.google.com/citations?user=mrysxWoAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4624-8987) * [BlueSky](https://bsky.app/profile/https://bsky.app/profile/stefanopuliti.bsky.social)
 
 <span title="I am a dedicated researcher with a PhD in Machine Learning, specializing in unsupervised learning techniques and their applications in remote sensing, automation, and medical imaging. With a strong background in Python, and AI frameworks, I am passionate about solving real-world problems through innovative data-driven solutions. Collaborative by nature, I thrive in dynamic environments and am eager to continue learning and contributing to impactful projects. Researcher (with a PhD), Luleå University of Technology."><strong>Nosheen Abid, Luleå University of Technology</strong></span>
 <br />
@@ -136,7 +136,7 @@ Earth observation *  Climate modeling *  Urban planning *  Efficient or sustaina
 
 <span title="My research area is machine learning in social science, where I study individual competencies, life trajectories and knowledge flows to analyze their contribution to individual well-being, economic development and innovation. By understanding the interaction of powers in the social context, I can hopefully obtain insights that can contribute to societal climate transformation and climate protection.  Post Doc, Lund University."><strong>Philipp Stark, Lund University</strong></span>
 <br />
-Machine learning *  Deep learning * [ORCID](https://orcid.org/0000-0001-6529-1142)
+Machine learning *  Deep learning * [ORCID](https://orcid.org/0000-0001-6529-1142) * [BlueSky](https://bsky.app/profile/https://bsky.app/profile/plstark.bsky.social)
 
 <span title="Interested in assessing resilience of social and ecological systems. Researcher (with a PhD), Stockholm Resilience Centre, Stockholm University."><strong>Juan Rocha, Stockholm Resilience Centre, Stockholm University</strong></span>
 <br />
@@ -224,7 +224,7 @@ Earth observation *  Climate modeling *  Machine learning *  Deep learning *  We
 
 <span title="I&#x27;m a PhD student at University of Helsinki, currently visiting the CMCC Foundation in Bologna, Italy. My research lies at the intersection of physics and deep learning. Right now I&#x27;m building a data-driven forecaster for the Mediterranean Sea using graph neural networks. PhD Student, University of Helsinki."><strong>Daniel Holmberg, University of Helsinki</strong></span>
 <br />
-Climate modeling *  Efficient or sustainable AI *  Machine learning *  Deep learning * [More info (researcher profile)](https://danielholmberg.fi/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=oPncKzcAAAAJ) * [ORCID](https://orcid.org/0000-0001-5020-7438)
+Climate modeling *  Efficient or sustainable AI *  Machine learning *  Deep learning * [More info (researcher profile)](https://danielholmberg.fi/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=oPncKzcAAAAJ) * [ORCID](https://orcid.org/0000-0001-5020-7438) * [BlueSky](https://bsky.app/profile/https://bsky.app/profile/dholmberg.bsky.social)
 
 <span title="Dr. Puzhao Zhang is a Senior Remote Sensing Specialist, who has strong interdisciplinary background in machine learning and Earth observation. With expertise in radar and optical remote sensing, his work centers around land remote sensing, forest monitoring, and carbon dynamics in the context of climate change. His vision encompasses utilizing machine learning (including deep learning) and Earth observation big data to create a sustainable future by addressing environmental challenges and mitigating climate changes.  Industry, DHI."><strong>Puzhao Zhang, DHI</strong></span>
 <br />
@@ -244,7 +244,7 @@ Climate modeling *  Biodiversity *  Urban planning * [More info (researcher prof
 
 <span title="Senior Lecturer , Department of Earth Sciences, University of Gothenburg."><strong>Céline Heuzé, Department of Earth Sciences, University of Gothenburg</strong></span>
 <br />
-[Publications (Scholar)](https://scholar.google.com/citations?user=6ccDAwQAAAAJ) * [ORCID](https://orcid.org/0000-0002-8850-5868)
+[Publications (Scholar)](https://scholar.google.com/citations?user=6ccDAwQAAAAJ) * [ORCID](https://orcid.org/0000-0002-8850-5868) * [BlueSky](https://bsky.app/profile/https://bsky.app/profile/clnhz.bsky.social)
 
 <span title="PhD Student at the University of York Computer Science Department. PhD Student, University of York."><strong>Alistair Foggin, University of York</strong></span>
 <br />
