@@ -62,6 +62,14 @@ Earth observation *  Computer vision *  Machine learning * [More info (researche
 <br />
 Climate modeling *  Biodiversity *  Marine ecology *  Efficient or sustainable AI *  Computer vision *  Soundscape analysis *  Deep learning * [More info (researcher profile)](https://tiffanyvlaar.github.io/research/)
 
+<span title="Associate Professor, University of Granada."><strong>Blanca Delgado-Márquez, University of Granada</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=QrPMhekAAAAJ) * [ORCID](https://orcid.org/0000-0001-5690-5798)
+
+<span title="Assistant Professor, University of Granada ."><strong>Luisa  Delgado-Márquez , University of Granada </strong></span>
+<br />
+[ORCID](https://orcid.org/0000-0002-7540-7898)
+
 <span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. Researcher (with a PhD), RISE Research Institutes of Sweden."><strong>Smita Chakraborty, RISE Research Institutes of Sweden</strong></span>
 <br />
 
@@ -257,6 +265,10 @@ Climate modeling *  Biodiversity *  Urban planning * [More info (researcher prof
 <span title="I am a PhD candidate focused on developing advanced machine learning algorithms to analyze remote sensing data in crisis situations, with a strong emphasis on sustainability. My research integrates AI with humanitarian efforts to improve decision-making in complex environments, while also addressing long-term sustainability challenges. I am dedicated to advancing interdisciplinary approaches that use data-driven insights to support both immediate crisis response and sustainable development goals. PhD Student, EPFL."><strong>Filip Dorm, EPFL</strong></span>
 <br />
 Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://people.epfl.ch/filip.dorm?lang=en) * [Research group](https://www.epfl.ch/labs/eceo/) * [Publications (Scholar)](https://scholar.google.com/citations?user=oB8DdNUAAAAJ) * [ORCID](https://orcid.org/0009-0007-1991-2324)
+
+<span title="PhD Student, Lund University."><strong>Max Angenius, Lund University</strong></span>
+<br />
+
 
 <span title="I am a lecturer in Urban Planning at the University of Auckland, bringing over 13 years of experience in both research and practice. My focus is on addressing climate change challenges, enhancing urban resilience, promoting regeneration, and advocating for environmental justice. I am particularly interested in understanding and mitigating the risks that urban areas encounter, especially those related to climate change and natural hazards. My research examines how cities can adapt to these increasing threats, emphasising resilience, risk reduction, and sustainable planning to protect communities and infrastructure. Assistant Professor, University of Auckland."><strong>Iresh Jayawardena, University of Auckland</strong></span>
 <br />
