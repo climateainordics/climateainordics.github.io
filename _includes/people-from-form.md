@@ -70,6 +70,10 @@ Climate modeling *  Biodiversity *  Marine ecology *  Efficient or sustainable A
 <br />
 [ORCID](https://orcid.org/0000-0002-7540-7898)
 
+<span title="Associate Professor, Linköping University."><strong>Fredrik Lindsten, Linköping University</strong></span>
+<br />
+Earth observation *  Climate modeling *  Biodiversity *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://lindsten.netlify.app/) * [Research group](https://liu.se/organisation/liu/ida/stima) * [Publications (Scholar)](https://scholar.google.com/citations?user=GylfPngAAAAJ&amp;hl=en)
+
 <span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. Researcher (with a PhD), RISE Research Institutes of Sweden."><strong>Smita Chakraborty, RISE Research Institutes of Sweden</strong></span>
 <br />
 
