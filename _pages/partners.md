@@ -19,7 +19,7 @@ permalink: /partners/
 
 <style>
 img {
-  width: 24em;
+  width: 16em;
   margin: 1em;
 }
 </style>
