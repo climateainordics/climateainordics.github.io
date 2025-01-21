@@ -24,6 +24,10 @@ img {
 }
 </style>
 
+![](/images/partners/africlimateai.png)
+
+AfriClimateAI is a grassroots community dedicated to harnessing the power of Artificial Intelligence for a sustainable, prosperous and climate-resilient Africa. [Visit africlimate.ai for more info!](https://africlimate.ai/)
+
 **Would you like to partner with us?**
 
 Get in touch! [contact@climateainordics.com](mailto:contact@climateainordics.com).
