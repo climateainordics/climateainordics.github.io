@@ -114,7 +114,7 @@ We welcome poster presentations relevant to the workshop. Submit your poster whe
 * Anupama Kuttikkat Xavier, Royal Meteorological institute of Belgium
 * Murathan, Kurfalı, RISE
 * Nico Lang, University of Copenhagen
-* Carolyn	Rosten, Norwegian Institute for Nature Research
+* Carolyn Rosten, Norwegian Institute for Nature Research
 * Stefano Puliti, NBIO
 * Ankit Kariryaa, University of Copenhagen
 * Puja Tripathy, PhD student at Indian Institute of Technology, Bombay
@@ -127,6 +127,11 @@ We welcome poster presentations relevant to the workshop. Submit your poster whe
 * Dan Stowell, Tilburg University
 * Laura Helene Rasmussen, Copenhagen Data Lab, Department of Mathematical Sciences, University of Copenhagen
 * Benjamin Cretois, Norwegian Institute for Nature Research
+* Ashwin Mohanan, RISE
+* Tiffany Vlaar, University of Glasgow
+* Blanca Delgado-Márquez, University of Granada
+* Leon Green, University of Gothenburg
+* Luisa Delgado-Márquez, University of Granada
 
 ## Topics
 
