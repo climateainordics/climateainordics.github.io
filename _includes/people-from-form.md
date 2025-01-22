@@ -146,6 +146,10 @@ Biodiversity *  Computer vision *  Soundscape analysis *  Machine learning *  De
 <br />
 Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities *  Sustainable production *  Marine ecology *  Efficient or sustainable AI *  NLP *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning *  Sustainable space exploration and research * [More info (researcher profile)](https://www.linkedin.com/in/chiaraceccobello/) * [ORCID](https://orcid.org/0000-0002-4767-9925)
 
+<span title="Researcher (with a PhD), University of Gothenburg."><strong>Leon Green, University of Gothenburg</strong></span>
+<br />
+[More info (researcher profile)](https://www.gu.se/en/about/find-staff/leongreen) * [Publications (Scholar)](https://scholar.google.com/citations?user=HbLZFxkAAAAJ) * [ORCID](https://orcid.org/0000-0002-3328-3655)
+
 <span title="I am a computational chemist specializing in atmospheric chemistry and astrochemistry. Currently, I am a postdoctoral researcher at Aalto University and the Virtual laboratory for molecular level atmospheric transformations (VILMA) center of excellence in Espoo, Finland. We study how atmospheric particles form on a molecular level to understand human impact on air quality and climate. For my research, I utilize combinations of quantum chemistry and machine learning. I am currently a guest researcher at University of  Gothenburg .  Post Doc, Aalto university."><strong>Hilda Sandström, Aalto university</strong></span>
 <br />
 Climate modeling *  Machine learning *  Deep learning *  Molecular modeling of atmospheric chemistry * [More info (researcher profile)](https://hilsan.github.io/) * [Research group](https://www.aalto.fi/en/department-of-applied-physics/computational-electronic-structure-theory-cest) * [Publications (Scholar)](https://scholar.google.com/citations?user=dU-qQwQAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0001-7845-1088)
