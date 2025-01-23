@@ -318,3 +318,7 @@ Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep
 <br />
 [ORCID](https://orcid.org/0000-0002-7540-7898)
 
+<span title="Professor, ."><strong>Bartel Van de Walle, </strong></span>
+<br />
+Climate modeling *  Sustainable cities *  Efficient or sustainable AI
+
