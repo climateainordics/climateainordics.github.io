@@ -3,12 +3,24 @@ permalink: /about/
 title: "About Climate AI Nordics"
 excerpt: "About Climate AI Nordics"
 author_profile: true
+
+#Core team members:
+#
+#*Olof Mogren, Research director, RISE Research Institutes of Sweden*
+#
+#*Aleksis Pirinen, Researcher, RISE Research Institutes of Sweden*
+#
+#*Ankit Kariryaa, Assistant Professor	University of Copenhagen*
+#
+#![](/images/people/mogren.png)
+#![](/images/people/pirinen.jpg)
+#![](/images/peopls/kariryaa.jpg)
 ---
 
 <style>
 img {
-  width: 8em;
-  float: right;
+  width: 12em;
+/*  float: right; */
 }
 </style>
 
@@ -26,6 +38,12 @@ We hope that the collaborative nature of Climate AI Nordics will accelerate prog
 [Join Climate AI Nordics now!](/join/)
 
 [Meet the people of Climate AI Nordics!](/people/)
+
+## Core team
+
+Planning and maintenance of the research network is carried out by our **core team**. This includes planning events, collecting information for and running the web page, taking care of the social media channels, compiling and editing the newsletter. 
+
+Information about the core team members will be added soon.
 
 ## What are the Nordics?
 
