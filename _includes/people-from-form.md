@@ -322,3 +322,7 @@ Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep
 <br />
 Climate modeling *  Sustainable cities *  Efficient or sustainable AI
 
+<span title="I&#x27;m a sustainability consultant (former head of sustainability) that wish to stay close to science and find ways to leverage ai for climate action. Industry, ."><strong>Elin Engkvist, </strong></span>
+<br />
+Sustainable transport *  Sustainable cities *  Sustainable production *  Efficient or sustainable AI
+
