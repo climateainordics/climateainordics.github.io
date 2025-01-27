@@ -314,11 +314,11 @@ Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=QrPMhekAAAAJ) * [ORCID](https://orcid.org/0000-0001-5690-5798)
 
-<span title="Assistant Professor, University of Granada ."><strong>Luisa  Delgado-Márquez , University of Granada </strong></span>
+<span title="Assistant Professor, University of Granada ."><strong>Luisa  Delgado-Márquez, University of Granada </strong></span>
 <br />
 [ORCID](https://orcid.org/0000-0002-7540-7898)
 
-<span title="Professor, ."><strong>Bartel Van de Walle, </strong></span>
+<span title="Professor, United Nations University/Ghent University."><strong>Bartel Van de Walle, United Nations University/Ghent University</strong></span>
 <br />
 Climate modeling *  Sustainable cities *  Efficient or sustainable AI
 
