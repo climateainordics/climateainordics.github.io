@@ -66,6 +66,10 @@ Earth observation *  Climate modeling *  Biodiversity *  Computer vision *  Mach
 <br />
 Urban planning *  Sustainable transport *  Sustainable cities *  Efficient or sustainable AI *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://researchportal.helsinki.fi/en/persons/laura-ruotsalainen) * [Research group](https://www.helsinki.fi/en/researchgroups/spatiotemporal-data-analysis) * [Publications (Scholar)](https://scholar.google.fi/citations?view_op=list_works&amp;hl=fi&amp;hl=fi&amp;user=oKWnTMgAAAAJ) * [ORCID](https://orcid.org/0000-0002-4057-4143) * [BlueSky](https://bsky.app/profile/lrlaurahy.bsky.social)
 
+<span title="Professor, Chalmers University and Linköping University."><strong>Adel Daoud, Chalmers University and Linköping University</strong></span>
+<br />
+Earth observation *  Urban planning *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning
+
 <span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. Researcher (with a PhD), RISE Research Institutes of Sweden."><strong>Smita Chakraborty, RISE Research Institutes of Sweden</strong></span>
 <br />
 
