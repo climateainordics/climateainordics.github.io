@@ -15,4 +15,8 @@ The paper focuses on using deep learning to detect road culverts and improve str
 
 The inclusion of detected culverts in DEM preprocessing improved hydrological modeling by correcting artificial barriers in the digital landscape. This approach enhanced stream-road intersections, with the RA-UNet performing better than traditional DEM pre-processing methods like least-cost breaching and road removal. Overall, this research demonstrates the feasibility of deep learning for large-scale culvert detection and stream network enhancement, offering practical applications for hydrological modeling, land use planning, and forestry management. Future work could explore reducing false positives, incorporating additional data sources like infrared imagery, and optimizing stream initiation thresholds across diverse landscapes.
 
-For a comprehensive understanding, we encourage readers to explore [the full paper](https://www.sciencedirect.com/science/article/pii/S221458182400497X). Code is available [here](https://github.com/williamlidberg/DeepBreach).
+For a comprehensive understanding, we encourage readers to explore [the full paper](https://www.sciencedirect.com/science/article/pii/S221458182400497X).
+
+Code is available [here](https://github.com/williamlidberg/DeepBreach).
+
+Lidberg's work on culvert mapping is already being used by several Swedish agencies.
