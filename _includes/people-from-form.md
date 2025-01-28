@@ -330,3 +330,7 @@ Climate modeling *  Sustainable cities *  Efficient or sustainable AI
 <br />
 Sustainable transport *  Sustainable cities *  Sustainable production *  Efficient or sustainable AI
 
+<span title="Industry, ."><strong>Natalie Lucca, </strong></span>
+<br />
+Sustainable transport * [More info (researcher profile)](https://www.wirelesscar.com)
+
