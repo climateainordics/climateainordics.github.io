@@ -222,6 +222,10 @@ Efficient or sustainable AI *  Machine learning *  Bayesian optimisation * [Publ
 <br />
 Earth observation *  Climate modeling *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning * [ORCID](https://orcid.org/0000-0002-7437-1571)
 
+<span title="PhD Student, Chalmers University of Technology."><strong>Markus Pettersson, Chalmers University of Technology</strong></span>
+<br />
+Earth observation *  Computer vision *  Machine learning *  Deep learning * [Publications (Scholar)](https://scholar.google.com/citations?user=dXybsfcAAAAJ) * [ORCID](https://orcid.org/0000-0003-4033-3873)
+
 <span title="In my research I work with probabilistic machine learning methods for modeling data with spatial and temporal dependencies. I am motivated by applications of machine learning to earth system modeling, such as weather forecasting and climate modeling. PhD Student, Linköping University."><strong>Joel Oskarsson, Linköping University</strong></span>
 <br />
 Earth observation *  Climate modeling *  Sustainable transport *  Machine learning *  Deep learning *  Extreme weather * [More info (researcher profile)](https://joeloskarsson.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=YQaxGpkAAAAJ) * [ORCID](https://orcid.org/0000-0002-8201-0282)
