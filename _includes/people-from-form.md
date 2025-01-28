@@ -334,3 +334,7 @@ Sustainable transport *  Sustainable cities *  Sustainable production *  Efficie
 <br />
 Sustainable transport * [More info (researcher profile)](https://www.wirelesscar.com)
 
+<span title="Researcher (with a PhD), Chalmers university of technology."><strong>Mohammad Kakooei, Chalmers university of technology</strong></span>
+<br />
+Earth observation *  Urban planning *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning * [Publications (Scholar)](https://scholar.google.com/citations?user=rQGuJAsAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-2318-8216)
+
