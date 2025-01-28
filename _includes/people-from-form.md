@@ -134,7 +134,7 @@ Earth observation *  Biodiversity *  NLP *  Machine learning *  Deep learning * 
 <br />
 [ORCID](https://orcid.org/0000-0002-0306-3782)
 
-<span title="Post Doc, Copenhagen Data Lab, Department of Mathematical Sciences, University of Copenhagen."><strong>Laura Helene Rasmussen, Copenhagen Data Lab, Department of Mathematical Sciences, University of Copenhagen</strong></span>
+<span title="Post Doc, University of Copenhagen."><strong>Laura Helene Rasmussen, University of Copenhagen</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=xJKWuVUAAAAJ) * [ORCID](https://orcid.org/0000-0002-6453-9780)
 
@@ -146,7 +146,7 @@ Soundscape analysis *  Biodiversity *  Machine listening * [Publications (Schola
 <br />
 Biodiversity *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://bencretois.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=40ZX7XUAAAAJ) * [BlueSky](https://bsky.app/profile/bencretois.bsky.social)
 
-<span title="Researcher (with a PhD), RISE."><strong>Chiara Ceccobello, RISE</strong></span>
+<span title="Researcher (with a PhD), RISE Research Institutes of Sweden."><strong>Chiara Ceccobello, RISE Research Institutes of Sweden</strong></span>
 <br />
 Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities *  Sustainable production *  Marine ecology *  Efficient or sustainable AI *  NLP *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning *  Sustainable space exploration and research * [More info (researcher profile)](https://www.linkedin.com/in/chiaraceccobello/) * [ORCID](https://orcid.org/0000-0002-4767-9925)
 
@@ -302,7 +302,7 @@ Climate modeling *  Biodiversity *  Sustainable transport *  Sustainable cities 
 <br />
 [ORCID](https://orcid.org/0009-0000-1146-7149)
 
-<span title="i&#x27;m edvin. Researcher (with a PhD), RISE."><strong>Edvin Listo Zec, RISE</strong></span>
+<span title="i&#x27;m edvin. Researcher (with a PhD), RISE Research Institutes of Sweden."><strong>Edvin Listo Zec, RISE Research Institutes of Sweden</strong></span>
 <br />
 Earth observation *  Climate modeling *  Biodiversity *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://edvinli.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=Ft52aSsAAAAJ) * [BlueSky](https://bsky.app/profile/edvinli.bsky.social)
 
