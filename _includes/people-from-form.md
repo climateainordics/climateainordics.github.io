@@ -66,7 +66,7 @@ Earth observation *  Climate modeling *  Biodiversity *  Computer vision *  Mach
 <br />
 Urban planning *  Sustainable transport *  Sustainable cities *  Efficient or sustainable AI *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://researchportal.helsinki.fi/en/persons/laura-ruotsalainen) * [Research group](https://www.helsinki.fi/en/researchgroups/spatiotemporal-data-analysis) * [Publications (Scholar)](https://scholar.google.fi/citations?view_op=list_works&amp;hl=fi&amp;hl=fi&amp;user=oKWnTMgAAAAJ) * [ORCID](https://orcid.org/0000-0002-4057-4143) * [BlueSky](https://bsky.app/profile/lrlaurahy.bsky.social)
 
-<span title="Professor, Chalmers University and Linköping University."><strong>Adel Daoud, Chalmers University and Linköping University</strong></span>
+<span title="Professor, Chalmers University of Technology / Linköping University."><strong>Adel Daoud, Chalmers University of Technology / Linköping University</strong></span>
 <br />
 Earth observation *  Urban planning *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning
 
