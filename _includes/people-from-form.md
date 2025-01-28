@@ -288,7 +288,7 @@ Earth observation *  Climate modeling *  Urban planning *  Efficient or sustaina
 
 <span title="Student, Södertörn University ."><strong>Dawda Cham, Södertörn University </strong></span>
 <br />
-Climate modeling *  Biodiversity *  Urban planning * [More info (researcher profile)](https://www.linkedin.com/in/dawda-cham-b29524102/) * [Publications (Scholar)](https://&amp;hl=en)
+Climate modeling *  Biodiversity *  Urban planning * [More info (researcher profile)](https://www.linkedin.com/in/dawda-cham-b29524102/)
 
 <span title="Researcher (non-PhD), Ghent University."><strong>Ellen De Jonghe, Ghent University</strong></span>
 <br />
