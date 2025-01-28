@@ -26,11 +26,11 @@ Biodiversity *  Marine ecology *  Computer vision *  Machine learning *  Deep le
 <br />
 Urban planning *  Machine learning *  Deep learning *  Spatial Analysis *  GIS * [More info (researcher profile)](https://www.nateko.lu.se/ali-mansourian) * [Publications (Scholar)](https://scholar.google.com/citations?user=T6nSBNIAAAAJ) * [ORCID](https://orcid.org/0000-0001-6812-4307)
 
-<span title="I do research on computer vision, image analysis and machine learning. Professor, Centre for Mathematical Sciences, Lund University."><strong>Kalle Åström, Centre for Mathematical Sciences, Lund University</strong></span>
+<span title="I do research on computer vision, image analysis and machine learning. Centre for Mathematical Sciences, Lund University. Professor, Lund University."><strong>Kalle Åström, Lund University</strong></span>
 <br />
 Earth observation *  Sustainable transport *  Sustainable cities *  Sustainable production *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.maths.lu.se/english/research/staff/kalleastrom/) * [Research group](https://www.maths.lu.se/english/research/research-groups/mathematical-imaging-group/) * [Publications (Scholar)](https://scholar.google.com/citations?user=YIzs6eoAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0002-8689-7810)
 
-<span title="Associate Professor, Centre for Mathematical Sciences, Lund University."><strong>Alexandros Sopasakis, Centre for Mathematical Sciences, Lund University</strong></span>
+<span title="Centre for Mathematical Sciences, Lund University. Associate Professor, Lund University."><strong>Alexandros Sopasakis, Lund University</strong></span>
 <br />
 Earth observation *  Climate modeling *  urban planning *  sustainable cities *  sustainable production *  NLP *  Machine Learning *  Deep Learning. * [More info (researcher profile)](https://www.maths.lu.se/english/research/staff/alexandros-sopasakis/) * [Publications (Scholar)](https://scholar.google.com/citations?user=axig3d0AAAAJ) * [ORCID](https://orcid.org/0000-0001-9167-3590)
 
@@ -134,7 +134,7 @@ Earth observation *  Biodiversity *  NLP *  Machine learning *  Deep learning * 
 <br />
 [ORCID](https://orcid.org/0000-0002-0306-3782)
 
-<span title="Post Doc, University of Copenhagen."><strong>Laura Helene Rasmussen, University of Copenhagen</strong></span>
+<span title="Copenhagen Data Lab, Department of Mathematical Sciences, University of Copenhagen. Post Doc, University of Copenhagen."><strong>Laura Helene Rasmussen, University of Copenhagen</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=xJKWuVUAAAAJ) * [ORCID](https://orcid.org/0000-0002-6453-9780)
 
@@ -210,7 +210,7 @@ Earth observation *  Efficient or sustainable AI *  Computer vision *  Machine l
 <br />
 Efficient or sustainable AI *  Machine learning *  Bayesian optimisation * [Publications (Scholar)](https://scholar.google.com/citations?user=I24YlG8AAAAJ&amp;hl=sv)
 
-<span title="Senior Lecturer , Department of Earth Sciences, University of Gothenburg."><strong>Céline Heuzé, Department of Earth Sciences, University of Gothenburg</strong></span>
+<span title="Department of Earth Sciences, University of Gothenburg. Senior Lecturer , University of Gothenburg."><strong>Céline Heuzé, University of Gothenburg</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=6ccDAwQAAAAJ) * [ORCID](https://orcid.org/0000-0002-8850-5868) * [BlueSky](https://bsky.app/profile/clnhz.bsky.social)
 
@@ -242,7 +242,7 @@ Sustainable cities *  Sustainable production *  Efficient or sustainable AI *  M
 <br />
 Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities *  Sustainable production *  Marine ecology *  Efficient or sustainable AI *  NLP *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.linkedin.com/in/danfperam) * [Research group](https://www.ri.se/en/person/daniel-perez) * [Publications (Scholar)](https://scholar.google.com/citations?user=uwMPsjsAAAAJ) * [ORCID](https://orcid.org/0000-0002-1322-4367)
 
-<span title="I work with statistical methods with different levels of complexity to understand climate change impacts on various processes and to forecast future impacts.  Researcher (with a PhD), Swedish university of agricultural sciences (SLU)."><strong>Faranak Tootoonchi, Swedish university of agricultural sciences (SLU)</strong></span>
+<span title="I work with statistical methods with different levels of complexity to understand climate change impacts on various processes and to forecast future impacts.  Researcher (with a PhD), Swedish university of agricultural sciences."><strong>Faranak Tootoonchi, Swedish university of agricultural sciences</strong></span>
 <br />
 Climate modeling *  Sustainable cities *  Sustainable production *  Machine learning *  climate impacts * [Research group](https://www.slu.se/en/ew-cv/faranak-tootoonchi/) * [Publications (Scholar)](https://scholar.google.com/citations?user=5XmN8AUAAAAJ) * [ORCID](https://orcid.org/0000-0001-5262-1712) * [BlueSky](https://bsky.app/profile/faranaktt.bsky.social)
 
@@ -254,7 +254,7 @@ Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Susta
 <br />
 Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities *  Efficient or sustainable AI * [More info (researcher profile)](https://profiles.auckland.ac.nz/i-jayawardena) * [Publications (Scholar)](https://scholar.google.com/citations?user=j8yEd4cAAAAJ) * [ORCID](https://orcid.org/0000-0002-5958-8668)
 
-<span title="My research consistently targets the physical mechanisms that enable climate predictability. This includes understanding how tropical dynamics influence atmospheric circulation over the Western Arctic and the North Atlantic-European sector. I have developed an experimental teleconnection-based seasonal prediction system at SMHI, designed to make teleconnections operationally useful for seasonal forecasting. This system exemplifies his ability to translate scientific discoveries into practical tools for climate.  I contribute to making a physically based application of machine learning methods to improve climate predictability, for example, designing deep convolutional neural networks (CNNs) for various applications: 1) downscaling coarse-resolution datasets, 2)detecting extreme events in large datasets, and 3) improving seasonal forecasts. I am a work package leader of two Horizon Europe projects (OptimESM and AI4PEX) in which we leverage ML-based solutions. Researcher (with a PhD), Rossby Centre, SMHI."><strong>Ramón Fuentes Franco, Rossby Centre, SMHI</strong></span>
+<span title="My research consistently targets the physical mechanisms that enable climate predictability. This includes understanding how tropical dynamics influence atmospheric circulation over the Western Arctic and the North Atlantic-European sector. I have developed an experimental teleconnection-based seasonal prediction system at SMHI, designed to make teleconnections operationally useful for seasonal forecasting. This system exemplifies his ability to translate scientific discoveries into practical tools for climate.  I contribute to making a physically based application of machine learning methods to improve climate predictability, for example, designing deep convolutional neural networks (CNNs) for various applications: 1) downscaling coarse-resolution datasets, 2)detecting extreme events in large datasets, and 3) improving seasonal forecasts. I am a work package leader of two Horizon Europe projects (OptimESM and AI4PEX) in which we leverage ML-based solutions. Rossby Centre, SMHI. Researcher (with a PhD), SMHI."><strong>Ramón Fuentes Franco, SMHI</strong></span>
 <br />
 Climate modeling *  Machine learning *  Deep learning * [Publications (Scholar)](https://scholar.google.com/citations?user=zjajzQEAAAAJ) * [ORCID](https://orcid.org/0000-0002-3085-0175)
 
@@ -278,7 +278,7 @@ Earth observation *  Biodiversity *  Computer vision *  Deep learning * [More in
 <br />
 Earth observation *  Climate modeling *  Urban planning *  Efficient or sustainable AI *  NLP *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://ltu.se/personal/n/nosheen-abid) * [Research group](https://www.ltu.se/en/research/research-subjects/machine-learning) * [Publications (Scholar)](https://scholar.google.com/citations?user=tEs2Fr4AAAAJ&amp;hl=en)
 
-<span title="Researcher (non-PhD), Remote Sensing Center for Earth System Research (RSC4Earth), Leipzig University."><strong>Anna Luise von Blohn, Remote Sensing Center for Earth System Research (RSC4Earth), Leipzig University</strong></span>
+<span title="Remote Sensing Center for Earth System Research (RSC4Earth), Leipzig University. Researcher (non-PhD), Leipzig University."><strong>Anna Luise von Blohn, Leipzig University</strong></span>
 <br />
 
 
@@ -322,11 +322,11 @@ Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=QrPMhekAAAAJ) * [ORCID](https://orcid.org/0000-0001-5690-5798)
 
-<span title="Assistant Professor, University of Granada ."><strong>Luisa  Delgado-Márquez, University of Granada </strong></span>
+<span title="Assistant Professor, University of Granada."><strong>Luisa  Delgado-Márquez, University of Granada</strong></span>
 <br />
 [ORCID](https://orcid.org/0000-0002-7540-7898)
 
-<span title="Professor, United Nations University/Ghent University."><strong>Bartel Van de Walle, United Nations University/Ghent University</strong></span>
+<span title="Professor, United Nations University / Ghent University."><strong>Bartel Van de Walle, United Nations University / Ghent University</strong></span>
 <br />
 Climate modeling *  Sustainable cities *  Efficient or sustainable AI
 
