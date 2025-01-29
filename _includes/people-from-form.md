@@ -158,6 +158,10 @@ Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Susta
 <br />
 Climate modeling *  Machine learning *  Deep learning *  Molecular modeling of atmospheric chemistry * [More info (researcher profile)](https://hilsan.github.io/) * [Research group](https://www.aalto.fi/en/department-of-applied-physics/computational-electronic-structure-theory-cest) * [Publications (Scholar)](https://scholar.google.com/citations?user=dU-qQwQAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0001-7845-1088)
 
+<span title="Researcher (with a PhD), NORCE Norwegian Research Centre and Bjerknes Centre for Climate Research."><strong>Sigrid Passano Hellan, NORCE Norwegian Research Centre and Bjerknes Centre for Climate Research</strong></span>
+<br />
+Earth observation *  Climate modeling *  Efficient or sustainable AI *  Machine learning *  Deep learning * [More info (researcher profile)](https://sighellan.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=oH9ZmGgAAAAJ)
+
 <span title="My research focuses on developing machine learning methods to enable efficient and accurate monitoring of natural environments through sound. PhD Student, RISE Research Institutes of Sweden."><strong>John Martinsson, RISE Research Institutes of Sweden</strong></span>
 <br />
 Earth observation *  Biodiversity *  Marine ecology *  Efficient or sustainable AI *  Soundscape analysis *  Machine learning *  Deep learning *  Machine Listening * [More info (researcher profile)](https://johnmartinsson.org) * [Research group](https://dl-group.se) * [Publications (Scholar)](https://scholar.google.com/citations?user=sAMIwlMAAAAJ) * [ORCID](https://orcid.org/0000-0002-5032-4367) * [BlueSky](https://bsky.app/profile/johnmartinsson.org)
