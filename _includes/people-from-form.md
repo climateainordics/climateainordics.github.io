@@ -18,6 +18,7 @@ Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep
 Earth observation *  Climate modeling *  Biodiversity *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://ankitkariryaa.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=lwSTZGgAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9284-7847) * [BlueSky](https://bsky.app/profile/ankitky.bsky.social)
 
 
+![Francesca Larosa](/images/people/larosa.jpg)
 <span title="Marie-Sklodowska Curie Fellow at KTH. , Post Doc, KTH Royal Institute of Technology."><strong>Francesca Larosa, Post Doc, KTH Royal Institute of Technology</strong></span>
 <br />
 Efficient or sustainable AI *  NLP *  Machine learning *  climate policy * [More info (researcher profile)](https://sites.google.com/view/francescalarosa/home-page?authuser=0) * [Publications (Scholar)](https://scholar.google.com/citations?user=89qTlnEAAAAJ&amp;hl=it)
