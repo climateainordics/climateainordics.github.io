@@ -14,7 +14,7 @@ img {
 }
 </style>
 
-The following are **partner organizations** to *Climate AI Nordics*. We share similar goals and objectives and collaborate on selected activities.
+The following organizations are partners to Climate AI Nordics. We share similar goals and objectives and collaborate on selected activities.
 
 ![](/images/partners/climes.png)
 
