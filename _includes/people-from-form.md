@@ -121,6 +121,11 @@ Earth observation *  Urban planning *  Sustainable cities *  Computer vision *  
 education * [More info (researcher profile)](https://geraldinefauville.com) * [Research group](https://www.gu.se/en/research/oceanspeak-immersive-conversations-with-an-ai-virtual-seal-for-enhancing-ocean-literacy) * [Publications (Scholar)](https://scholar.google.com/citations?user=wVe76C8AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-5462-2591) * [BlueSky](https://bsky.app/profile/@gfauville.bsky.social)
 
 
+<span title="Associate ProfessorStockholm Environment Institute."><strong>Somya Joshi, Associate Professor, Stockholm Environment Institute</strong></span>
+<br />
+Climate modeling *  Biodiversity *  Sustainable transport *  Sustainable cities *  Sustainable production *  Efficient or sustainable AI *  Environment impacts of AI * [More info (researcher profile)](https://www.sei.org/people/somya-joshi/) * [Research group](https://www.sei.org/search/Artificial%20Intelligence)
+
+
 <span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. PhD, ResearcherRISE Research Institutes of Sweden."><strong>Smita Chakraborty, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
 <br />
 
@@ -316,7 +321,7 @@ Sustainable cities *  Sustainable production *  Efficient or sustainable AI *  M
 [Publications (Scholar)](https://scholar.google.com/citations?user=4tKNCSkAAAAJ) * [ORCID](https://orcid.org/0009-0007-5465-7170)
 
 
-<span title="Machine Learning, Graph Neural Networks, Algorithmic ML, Optimization, Deep Learning . Researcher (non-PhD)RISE Research Institutes of Sweden / KTH Royal Institute of Technology."><strong>Daniel F. Perez-Ramirez, Researcher (non-PhD), RISE Research Institutes of Sweden / KTH Royal Institute of Technology</strong></span>
+<span title="Machine Learning, Graph Neural Networks, Algorithmic ML, Optimization, Deep Learning . ResearcherRISE Research Institutes of Sweden / KTH Royal Institute of Technology."><strong>Daniel F. Perez-Ramirez, Researcher, RISE Research Institutes of Sweden / KTH Royal Institute of Technology</strong></span>
 <br />
 Earth observation *  Climate modeling *  Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities *  Sustainable production *  Marine ecology *  Efficient or sustainable AI *  NLP *  Computer vision *  Soundscape analysis *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.linkedin.com/in/danfperam) * [Research group](https://www.ri.se/en/person/daniel-perez) * [Publications (Scholar)](https://scholar.google.com/citations?user=uwMPsjsAAAAJ) * [ORCID](https://orcid.org/0000-0002-1322-4367)
 
@@ -341,7 +346,7 @@ Climate modeling *  Efficient or sustainable AI *  Machine learning *  Deep lear
 Earth observation *  Computer vision *  Machine learning *  Deep learning * [Research group](https://eo.dhigroup.com/) * [Publications (Scholar)](https://scholar.google.com/citations?user=qodHYCQAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0001-9907-0989)
 
 
-<span title="Researcher (non-PhD)RISE Research Institutes of Sweden."><strong>Martin Willbo, Researcher (non-PhD), RISE Research Institutes of Sweden</strong></span>
+<span title="ResearcherRISE Research Institutes of Sweden."><strong>Martin Willbo, Researcher, RISE Research Institutes of Sweden</strong></span>
 <br />
 Earth observation *  Efficient or sustainable AI *  Computer vision *  Machine learning *  Deep learning
 
@@ -397,12 +402,12 @@ Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities * 
 [Publications (Scholar)](https://scholar.google.com/citations?user=hqNgE_8AAAAJ) * [ORCID](https://orcid.org/0000-0002-9783-8322)
 
 
-<span title="Researcher (non-PhD)Central University of Rajasthan."><strong>Varsha Ganguly, Researcher (non-PhD), Central University of Rajasthan</strong></span>
+<span title="ResearcherCentral University of Rajasthan."><strong>Varsha Ganguly, Researcher, Central University of Rajasthan</strong></span>
 <br />
 
 
 
-<span title="Remote Sensing Center for Earth System Research (RSC4Earth), Leipzig University. Researcher (non-PhD)Leipzig University."><strong>Anna Luise von Blohn, Researcher (non-PhD), Leipzig University</strong></span>
+<span title="Remote Sensing Center for Earth System Research (RSC4Earth), Leipzig University. ResearcherLeipzig University."><strong>Anna Luise von Blohn, Researcher, Leipzig University</strong></span>
 <br />
 
 
@@ -412,7 +417,7 @@ Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities * 
 
 
 
-<span title="Researcher (non-PhD)Ghent University."><strong>Ellen De Jonghe, Researcher (non-PhD), Ghent University</strong></span>
+<span title="ResearcherGhent University."><strong>Ellen De Jonghe, Researcher, Ghent University</strong></span>
 <br />
 [ORCID](https://orcid.org/0009-0003-6502-3828)
 
@@ -460,9 +465,4 @@ Climate modeling *  Sustainable cities *  Efficient or sustainable AI
 <span title="PhD StudentEge University."><strong>Ibrahim Inak, PhD Student, Ege University</strong></span>
 <br />
 
-
-
-<span title="Associate ProfessorStockholm Environment Institute."><strong>Somya Joshi, Associate Professor, Stockholm Environment Institute</strong></span>
-<br />
-Climate modeling *  Biodiversity *  Sustainable transport *  Sustainable cities *  Sustainable production *  Efficient or sustainable AI *  Environment impacts of AI * [More info (researcher profile)](https://www.sei.org/people/somya-joshi/) * [Research group](https://www.sei.org/search/Artificial%20Intelligence)
 
