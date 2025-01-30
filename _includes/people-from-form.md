@@ -451,3 +451,8 @@ Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep
 <br />
 Climate modeling *  Sustainable cities *  Efficient or sustainable AI
 
+
+<span title="PhD StudentEge University."><strong>Ibrahim Inak, PhD Student, Ege University</strong></span>
+<br />
+
+
