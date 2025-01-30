@@ -1,4 +1,16 @@
-<h2>Core-team</h2><h2>Membnrs</h2><span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. Professor, Uppsala University."><strong>Joakim Nivre, Uppsala University</strong></span>
+<h2>Founders</h2><h2>Core Team</h2><span title="My research focuses on machine learning for earth observation. Earth system data is among the most unique and abundant multi-modal data, making it an ideal platform for novel machine learning research. My new position offers an opportunity to continue bringing unique and timely challenges of EO to the ML community and remarkable ML methods to the EO community. But I am happy to adorn different hats and move up or down the programming-stack to solve real-world problems. Assistant Professor, University of Copenhagen."><strong>Ankit Kariryaa, University of Copenhagen</strong></span>
+<br />
+Earth observation *  Climate modeling *  Biodiversity *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://ankitkariryaa.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=lwSTZGgAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9284-7847) * [BlueSky](https://bsky.app/profile/ankitky.bsky.social)
+
+<span title="Marie-Sklodowska Curie Fellow at KTH. Post Doc, KTH Royal Institute of Technology."><strong>Francesca Larosa, KTH Royal Institute of Technology</strong></span>
+<br />
+Efficient or sustainable AI *  NLP *  Machine learning *  climate policy * [More info (researcher profile)](https://sites.google.com/view/francescalarosa/home-page?authuser=0) * [Publications (Scholar)](https://scholar.google.com/citations?user=89qTlnEAAAAJ&amp;hl=it)
+
+<span title="My research focuses on developing machine learning methods to enable efficient and accurate monitoring of natural environments through sound. PhD Student, RISE Research Institutes of Sweden."><strong>John Martinsson, RISE Research Institutes of Sweden</strong></span>
+<br />
+Earth observation *  Biodiversity *  Marine ecology *  Efficient or sustainable AI *  Soundscape analysis *  Machine learning *  Deep learning *  Machine Listening * [More info (researcher profile)](https://johnmartinsson.org) * [Research group](https://dl-group.se) * [Publications (Scholar)](https://scholar.google.com/citations?user=sAMIwlMAAAAJ) * [ORCID](https://orcid.org/0000-0002-5032-4367) * [BlueSky](https://bsky.app/profile/johnmartinsson.org)
+
+<h2>Affiliates</h2><span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. Professor, Uppsala University."><strong>Joakim Nivre, Uppsala University</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=lLBHtFUAAAAJ) * [ORCID](https://orcid.org/0000-0002-7873-3971)
 
@@ -33,10 +45,6 @@ Earth observation *  Sustainable transport *  Sustainable cities *  Sustainable 
 <span title="Centre for Mathematical Sciences, Lund University. Associate Professor, Lund University."><strong>Alexandros Sopasakis, Lund University</strong></span>
 <br />
 Earth observation *  Climate modeling *  urban planning *  sustainable cities *  sustainable production *  NLP *  Machine Learning *  Deep Learning. * [More info (researcher profile)](https://www.maths.lu.se/english/research/staff/alexandros-sopasakis/) * [Publications (Scholar)](https://scholar.google.com/citations?user=axig3d0AAAAJ) * [ORCID](https://orcid.org/0000-0001-9167-3590)
-
-<span title="My research focuses on machine learning for earth observation. Earth system data is among the most unique and abundant multi-modal data, making it an ideal platform for novel machine learning research. My new position offers an opportunity to continue bringing unique and timely challenges of EO to the ML community and remarkable ML methods to the EO community. But I am happy to adorn different hats and move up or down the programming-stack to solve real-world problems. Assistant Professor, University of Copenhagen."><strong>Ankit Kariryaa, University of Copenhagen</strong></span>
-<br />
-Earth observation *  Climate modeling *  Biodiversity *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://ankitkariryaa.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=lwSTZGgAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9284-7847) * [BlueSky](https://bsky.app/profile/ankitky.bsky.social)
 
 <span title="I research AI for sustainable materials development and AI in atmospheric science . Professor, Aalto Univeristy."><strong>Patrick Rinke, Aalto Univeristy</strong></span>
 <br />
@@ -122,10 +130,6 @@ Climate modeling *  Machine learning *  Deep learning * [Publications (Scholar)]
 <br />
 Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep learning *  Remote sensing * [More info (researcher profile)](https://langnico.github.io/) * [Publications (Scholar)](https://scholar.google.ch/citations?user=bVZtKsQAAAAJ) * [ORCID](https://orcid.org/0000-0001-8434-027X) * [BlueSky](https://bsky.app/profile/nicolang.bsky.social)
 
-<span title="Marie-Sklodowska Curie Fellow at KTH. Post Doc, KTH Royal Institute of Technology."><strong>Francesca Larosa, KTH Royal Institute of Technology</strong></span>
-<br />
-Efficient or sustainable AI *  NLP *  Machine learning *  climate policy * [More info (researcher profile)](https://sites.google.com/view/francescalarosa/home-page?authuser=0) * [Publications (Scholar)](https://scholar.google.com/citations?user=89qTlnEAAAAJ&amp;hl=it)
-
 <span title="Researcher at the interception of forest science, remote sensing, and AI. Researcher (with a PhD), Norwegian Institute of Bioeconomy Research (NIBIO)."><strong>Stefano Puliti, Norwegian Institute of Bioeconomy Research (NIBIO)</strong></span>
 <br />
 Earth observation *  Biodiversity *  Computer vision *  Deep learning * [More info (researcher profile)](https://bsky.app/profile/stefanopuliti.bsky.social) * [Publications (Scholar)](https://scholar.google.com/citations?user=mrysxWoAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4624-8987) * [BlueSky](https://bsky.app/profile/stefanopuliti.bsky.social)
@@ -189,10 +193,6 @@ Earth observation *  Urban planning *  Sustainable cities *  Computer vision *  
 <span title="Researcher (with a PhD), NORCE Norwegian Research Centre and Bjerknes Centre for Climate Research."><strong>Sigrid Passano Hellan, NORCE Norwegian Research Centre and Bjerknes Centre for Climate Research</strong></span>
 <br />
 Earth observation *  Climate modeling *  Efficient or sustainable AI *  Machine learning *  Deep learning * [More info (researcher profile)](https://sighellan.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=oH9ZmGgAAAAJ)
-
-<span title="My research focuses on developing machine learning methods to enable efficient and accurate monitoring of natural environments through sound. PhD Student, RISE Research Institutes of Sweden."><strong>John Martinsson, RISE Research Institutes of Sweden</strong></span>
-<br />
-Earth observation *  Biodiversity *  Marine ecology *  Efficient or sustainable AI *  Soundscape analysis *  Machine learning *  Deep learning *  Machine Listening * [More info (researcher profile)](https://johnmartinsson.org) * [Research group](https://dl-group.se) * [Publications (Scholar)](https://scholar.google.com/citations?user=sAMIwlMAAAAJ) * [ORCID](https://orcid.org/0000-0002-5032-4367) * [BlueSky](https://bsky.app/profile/johnmartinsson.org)
 
 <span title="I&#x27;m a PhD student at the Center for Mathematical Sciences focusing on anomaly detection and machine learning in earth observations and remote sensing. PhD Student, Lund University."><strong>Oskar Åström, Lund University</strong></span>
 <br />
@@ -290,7 +290,7 @@ Sustainable transport * [More info (researcher profile)](https://www.wirelesscar
 <br />
 Earth observation *  Computer vision *  Machine learning *  Deep learning * [Publications (Scholar)](https://scholar.google.com/citations?user=dXybsfcAAAAJ) * [ORCID](https://orcid.org/0000-0003-4033-3873)
 
-<span title="I am a lecturer in Urban Planning at the University of Auckland, bringing over 13 years of experience in both research and practice. My focus is on addressing climate change challenges, enhancing urban resilience, promoting regeneration, and advocating for environmental justice. I am particularly interested in understanding and mitigating the risks that urban areas encounter, especially those related to climate change and natural hazards. My research examines how cities can adapt to these increasing threats, emphasising resilience, risk reduction, and sustainable planning to protect communities and infrastructure. Assistant Professor, University of Auckland."><strong>Iresh Jayawardena, University of Auckland</strong></span>
+<h2>Supporting Affiliates (Outside Nordics)</h2><span title="I am a lecturer in Urban Planning at the University of Auckland, bringing over 13 years of experience in both research and practice. My focus is on addressing climate change challenges, enhancing urban resilience, promoting regeneration, and advocating for environmental justice. I am particularly interested in understanding and mitigating the risks that urban areas encounter, especially those related to climate change and natural hazards. My research examines how cities can adapt to these increasing threats, emphasising resilience, risk reduction, and sustainable planning to protect communities and infrastructure. Assistant Professor, University of Auckland."><strong>Iresh Jayawardena, University of Auckland</strong></span>
 <br />
 Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities *  Efficient or sustainable AI * [More info (researcher profile)](https://profiles.auckland.ac.nz/i-jayawardena) * [Publications (Scholar)](https://scholar.google.com/citations?user=j8yEd4cAAAAJ) * [ORCID](https://orcid.org/0000-0002-5958-8668)
 
