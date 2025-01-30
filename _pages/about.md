@@ -43,7 +43,9 @@ We hope that the collaborative nature of Climate AI Nordics will accelerate prog
 
 Planning and maintenance of the research network is carried out by our **core team**. This includes planning events, collecting information for and running the web page, taking care of the social media channels, compiling and editing the newsletter. 
 
-Information about the core team members will be added soon.
+**Members of core team:**
+
+{% include board-from-form.md %}
 
 ## What are the Nordics?
 
