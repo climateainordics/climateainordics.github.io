@@ -7,7 +7,7 @@ author_profile: true
 
 <style>
 img {
-  width: 12em;
+  width: 8em;
   float: right;
   padding: 1em 0em 1em 1em;
 }
