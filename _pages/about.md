@@ -19,10 +19,13 @@ author_profile: true
 
 <style>
 img {
-  width: 12em;
-/*  float: right; */
+  width: 8em;
+  float: right;
+  padding: 1em 0em 1em 1em;
 }
 </style>
+
+
 
 We are a [network of researchers](/people/) dedicated to developing and utilizing AI technologies to address the urgent global challenge of climate change. Our researchers focus on creating and promoting AI solutions that support both climate change mitigation, reducing the severity of climate change, and adaptation, adjusting to the effects of climate change. We are already in a climate emergency which is causing biodiversity loss, extreme weather events, and human suffering, and this necessitates a multifaceted approach involving both policy change, limitations on activities contributing to climate change, and bolstering societal resilience against climate-related events.
 
