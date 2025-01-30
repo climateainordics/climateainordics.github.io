@@ -251,7 +251,7 @@ Climate modeling *  Machine learning *  Deep learning *  Molecular modeling of a
 Earth observation *  Urban planning *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning * [Publications (Scholar)](https://scholar.google.com/citations?user=rQGuJAsAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-2318-8216)
 
 
-<span title=", PhD, Researcher, NORCE Norwegian Research Centre and Bjerknes Centre for Climate Research."><strong>Sigrid Passano Hellan, PhD, Researcher, NORCE Norwegian Research Centre and Bjerknes Centre for Climate Research</strong></span>
+<span title=", PhD, Researcher, NORCE Norwegian Research Centre / Bjerknes Centre for Climate Research."><strong>Sigrid Passano Hellan, PhD, Researcher, NORCE Norwegian Research Centre / Bjerknes Centre for Climate Research</strong></span>
 <br />
 Earth observation *  Climate modeling *  Efficient or sustainable AI *  Machine learning *  Deep learning * [More info (researcher profile)](https://sighellan.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=oH9ZmGgAAAAJ)
 
