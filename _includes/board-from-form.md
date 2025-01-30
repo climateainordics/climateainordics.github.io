@@ -3,7 +3,7 @@
 Earth observation *  Biodiversity *  Deep learning *  Efficient or sustainable AI *  Computer vision *  Machine learning * [More info (researcher profile)](https://mogren.ml/) * [Research group](https://dl-group.se/) * [Publications (Scholar)](https://scholar.google.com/citations?user=m_n28oAAAAAJ) * [ORCID](https://orcid.org/0000-0002-9567-2218) * [BlueSky](https://bsky.app/profile/mogren.ml)
 
 
-<span title=", PhD, Researcher, RISE Research Institutes of Sweden / Co-founder of Climate AI Nordics."><strong>Aleksis Pirinen, PhD, Researcher, RISE Research Institutes of Sweden / Co-founder of Climate AI Nordics</strong></span>
+<span title="Broadly interested in ML for environmental applications. , Senior Researcher, RISE Research Institutes of Sweden / Co-founder of Climate AI Nordics."><strong>Aleksis Pirinen, Senior Researcher, RISE Research Institutes of Sweden / Co-founder of Climate AI Nordics</strong></span>
 <br />
 Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://aleksispi.github.io) * [Research group](https://dl-group.se) * [Publications (Scholar)](https://scholar.google.com/citations?user=paBGTgsAAAAJ&amp;hl=en) * [BlueSky](https://bsky.app/profile/aleksispi.bsky.social)
 
