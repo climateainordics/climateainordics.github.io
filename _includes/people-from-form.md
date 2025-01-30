@@ -461,3 +461,8 @@ Climate modeling *  Sustainable cities *  Efficient or sustainable AI
 <br />
 
 
+
+<span title="Associate ProfessorStockholm Environment Institute."><strong>Somya Joshi, Associate Professor, Stockholm Environment Institute</strong></span>
+<br />
+Climate modeling *  Biodiversity *  Sustainable transport *  Sustainable cities *  Sustainable production *  Efficient or sustainable AI *  Environment impacts of AI * [More info (researcher profile)](https://www.sei.org/people/somya-joshi/) * [Research group](https://www.sei.org/search/Artificial%20Intelligence)
+
