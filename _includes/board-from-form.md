@@ -1,8 +1,10 @@
+![Olof Mogren](/images/people/mogren.png)
 <span title="Mogren defended his PhD in computer science at Chalmers University of Technology in 2018 with the thesis Representation Learning for Natural Language. Senior researcher, head of the https://dl-group.se, and responsible for deep learning research at RISE Research Institutes of Sweden. Olof develops and investigates machine learning based solutions to problems related to the environment and climate change. This includes stream flow forecasting, soundscape analysis for biodiversity monitoring, and AI for circular business models. , Research Director, RISE Research Institutes of Sweden / Co-founder of Climate AI Nordics."><strong>Olof Mogren, Research Director, RISE Research Institutes of Sweden / Co-founder of Climate AI Nordics</strong></span>
 <br />
 Earth observation *  Biodiversity *  Deep learning *  Efficient or sustainable AI *  Computer vision *  Machine learning * [More info (researcher profile)](https://mogren.ml/) * [Research group](https://dl-group.se/) * [Publications (Scholar)](https://scholar.google.com/citations?user=m_n28oAAAAAJ) * [ORCID](https://orcid.org/0000-0002-9567-2218) * [BlueSky](https://bsky.app/profile/mogren.ml)
 
 
+![Aleksis Pirinen](/images/people/pirinen.jpg)
 <span title="Broadly interested in ML for environmental applications. , Senior Researcher, RISE Research Institutes of Sweden / Co-founder of Climate AI Nordics."><strong>Aleksis Pirinen, Senior Researcher, RISE Research Institutes of Sweden / Co-founder of Climate AI Nordics</strong></span>
 <br />
 Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://aleksispi.github.io) * [Research group](https://dl-group.se) * [Publications (Scholar)](https://scholar.google.com/citations?user=paBGTgsAAAAJ&amp;hl=en) * [BlueSky](https://bsky.app/profile/aleksispi.bsky.social)
