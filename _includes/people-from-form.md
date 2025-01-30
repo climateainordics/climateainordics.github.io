@@ -1,4 +1,4 @@
-<h2>Founding Team</h2>
+## Founding Team
 ![Olof Mogren](/images/people/mogren.png)
 <span title="Mogren defended his PhD in computer science at Chalmers University of Technology in 2018 with the thesis Representation Learning for Natural Language. Senior researcher, head of the https://dl-group.se, and responsible for deep learning research at RISE Research Institutes of Sweden. Olof develops and investigates machine learning based solutions to problems related to the environment and climate change. This includes stream flow forecasting, soundscape analysis for biodiversity monitoring, and AI for circular business models. Research DirectorRISE Research Institutes of Sweden / Co-founder of Climate AI Nordics."><strong>Olof Mogren, Research Director, RISE Research Institutes of Sweden / Co-founder of Climate AI Nordics</strong></span>
 <br />
@@ -11,7 +11,7 @@ Earth observation *  Biodiversity *  Deep learning *  Efficient or sustainable A
 Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://aleksispi.github.io) * [Research group](https://dl-group.se) * [Publications (Scholar)](https://scholar.google.com/citations?user=paBGTgsAAAAJ&amp;hl=en) * [BlueSky](https://bsky.app/profile/aleksispi.bsky.social)
 
 
-<h2>Core Team</h2>
+## Core Team
 ![Ankit Kariryaa](/images/people/kariryaa.jpg)
 <span title="My research focuses on machine learning for earth observation. Earth system data is among the most unique and abundant multi-modal data, making it an ideal platform for novel machine learning research. My new position offers an opportunity to continue bringing unique and timely challenges of EO to the ML community and remarkable ML methods to the EO community. But I am happy to adorn different hats and move up or down the programming-stack to solve real-world problems. Assistant ProfessorUniversity of Copenhagen."><strong>Ankit Kariryaa, Assistant Professor, University of Copenhagen</strong></span>
 <br />
@@ -30,7 +30,7 @@ Efficient or sustainable AI *  NLP *  Machine learning *  climate policy * [More
 Earth observation *  Biodiversity *  Marine ecology *  Efficient or sustainable AI *  Soundscape analysis *  Machine learning *  Deep learning *  Machine Listening * [More info (researcher profile)](https://johnmartinsson.org) * [Research group](https://dl-group.se) * [Publications (Scholar)](https://scholar.google.com/citations?user=sAMIwlMAAAAJ) * [ORCID](https://orcid.org/0000-0002-5032-4367) * [BlueSky](https://bsky.app/profile/johnmartinsson.org)
 
 
-<h2>Affiliates</h2>
+## Affiliates
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=lLBHtFUAAAAJ) * [ORCID](https://orcid.org/0000-0002-7873-3971)
@@ -381,7 +381,7 @@ Sustainable transport * [More info (researcher profile)](https://www.wirelesscar
 Earth observation *  Computer vision *  Machine learning *  Deep learning * [Publications (Scholar)](https://scholar.google.com/citations?user=dXybsfcAAAAJ) * [ORCID](https://orcid.org/0000-0003-4033-3873)
 
 
-<h2>Supporting Affiliates (Outside Nordics)</h2>
+## Supporting Affiliates (Outside Nordics)
 <span title="I am a lecturer in Urban Planning at the University of Auckland, bringing over 13 years of experience in both research and practice. My focus is on addressing climate change challenges, enhancing urban resilience, promoting regeneration, and advocating for environmental justice. I am particularly interested in understanding and mitigating the risks that urban areas encounter, especially those related to climate change and natural hazards. My research examines how cities can adapt to these increasing threats, emphasising resilience, risk reduction, and sustainable planning to protect communities and infrastructure. Assistant ProfessorUniversity of Auckland."><strong>Iresh Jayawardena, Assistant Professor, University of Auckland</strong></span>
 <br />
 Biodiversity *  Urban planning *  Sustainable transport *  Sustainable cities *  Efficient or sustainable AI * [More info (researcher profile)](https://profiles.auckland.ac.nz/i-jayawardena) * [Publications (Scholar)](https://scholar.google.com/citations?user=j8yEd4cAAAAJ) * [ORCID](https://orcid.org/0000-0002-5958-8668)
