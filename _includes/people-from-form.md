@@ -4,9 +4,9 @@
 Earth observation *  Biodiversity *  Deep learning *  Efficient or sustainable AI *  Computer vision *  Machine learning * [More info (researcher profile)](https://mogren.ml/) * [Research group](https://dl-group.se/) * [Publications (Scholar)](https://scholar.google.com/citations?user=m_n28oAAAAAJ) * [ORCID](https://orcid.org/0000-0002-9567-2218) * [BlueSky](https://bsky.app/profile/mogren.ml)
 
 
-<span title="Defended his PhD in computer vision at Lund University in 2021 with the thesis Reinforcement Learning for Active Visual Perception. Senior researcher at RISE Research Institutes of Sweden. Aleksis’ main research interest is to develop machine learning methods for a broad range of environmental applications (e.g. climate adaptation and humanitarian aid causes). , PhD, Researcher, RISE Research Institutes of Sweden."><strong>Aleksis Pirinen, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
+<span title=", PhD, Researcher, RISE Research Institutes of Sweden."><strong>Aleksis Pirinen, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
 <br />
-[More info (researcher profile)](https://aleksispi.github.io) * [Research group](https://dl-group.se) * [BlueSky](https://bsky.app/profile/aleksispi.bsky.social)
+Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://aleksispi.github.io) * [Research group](https://dl-group.se) * [Publications (Scholar)](https://scholar.google.com/citations?user=paBGTgsAAAAJ&amp;hl=en) * [BlueSky](https://bsky.app/profile/aleksispi.bsky.social)
 
 
 <h2>Core Team</h2>
