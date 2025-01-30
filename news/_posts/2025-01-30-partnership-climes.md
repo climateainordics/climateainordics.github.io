@@ -1,6 +1,6 @@
 ---
 title: "Partnership between Climate AI Nordics and CLIMES"
-shortversion: ""We are excited to share our partnership with [CLIMES](https://climes.se/), the Swedish Centre for Impacts of Climate Extremes 🌍✨!"
+shortversion: "We are excited to share our partnership with [CLIMES](https://climes.se/), the Swedish Centre for Impacts of Climate Extremes 🌍✨!"
 people:
 - Olof Mogren
 - Aleksis Pirinen
