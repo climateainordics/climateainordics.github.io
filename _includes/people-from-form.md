@@ -116,6 +116,11 @@ Urban planning *  Sustainable transport *  Sustainable cities *  Efficient or su
 Earth observation *  Urban planning *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning
 
 
+<span title="With a double background in marine biology and in education and IT, her research focuses on how immersive media, and AI, can contribute to marine education and promote ocean and environmental literacies. Previously, she was a Postdoctoral Research Fellow at the Virtual Human Interaction Lab at Stanford University, in charge of the research on environmental education. Associate ProfessorUniversity of Gothenburg."><strong>Géraldine Fauville, Associate Professor, University of Gothenburg</strong></span>
+<br />
+education * [More info (researcher profile)](https://geraldinefauville.com) * [Research group](https://www.gu.se/en/research/oceanspeak-immersive-conversations-with-an-ai-virtual-seal-for-enhancing-ocean-literacy) * [Publications (Scholar)](https://scholar.google.com/citations?user=wVe76C8AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-5462-2591) * [BlueSky](https://bsky.app/profile/@gfauville.bsky.social)
+
+
 <span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. PhD, ResearcherRISE Research Institutes of Sweden."><strong>Smita Chakraborty, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
 <br />
 
