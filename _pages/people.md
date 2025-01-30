@@ -7,9 +7,13 @@ author_profile: true
 
 <style>
 img {
-  width: 8em;
+  width: 12em;
+  float: right;
+  padding: 1em 0em 1em 1em;
 }
 </style>
+
+
 
 Welcome to _Climate AI Nordics_.
 We're a network of researchers who work on problems related to tackling climate change using AI and machine learning. Climate AI Nordics acts as a hub, hosting and announcing news, seminars, and workshops. [Join us](/join/)!
