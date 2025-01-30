@@ -261,7 +261,7 @@ Earth observation *  Climate modeling *  Biodiversity *  Soundscape analysis *  
 Climate modeling *  Machine learning *  Deep learning *  Molecular modeling of atmospheric chemistry * [More info (researcher profile)](https://hilsan.github.io/) * [Research group](https://www.aalto.fi/en/department-of-applied-physics/computational-electronic-structure-theory-cest) * [Publications (Scholar)](https://scholar.google.com/citations?user=dU-qQwQAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0001-7845-1088)
 
 
-<span title="PhD, ResearcherChalmers university of technology."><strong>Mohammad Kakooei, PhD, Researcher, Chalmers university of technology</strong></span>
+<span title="PhD, ResearcherChalmers University of Technology."><strong>Mohammad Kakooei, PhD, Researcher, Chalmers University of Technology</strong></span>
 <br />
 Earth observation *  Urban planning *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning * [Publications (Scholar)](https://scholar.google.com/citations?user=rQGuJAsAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-2318-8216)
 
