@@ -165,7 +165,8 @@ The workshop is organized by [Climes, The Swedish Centre for Impacts of Climate 
 
 The first 65 participants will register for free, while further attendees will have to cover the cost for their seat. Currently, 
 {% include ws-registration-count.md %}
-people have registered for the workshop.
+people have registered for the workshop (updated
+{% include ws-registration-count-updated.md %}).
 **A limited number of students can be reimbursed for travel and hotel for the workshop. Please provide a clear and concise motivation for this and a calculation of the costs for your trip, and send this to olof.mogren@ri.se by end of February 2025. Students will be chosen based on their research performance and their provided motivation.**
 
 [Click here to register for this event!](https://forms.gle/vt7gMYwoR8tvGx9T7)
