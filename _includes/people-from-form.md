@@ -131,7 +131,7 @@ Climate modeling *  Biodiversity *  Sustainable transport *  Sustainable cities 
 [Publications (Scholar)](https://scholar.google.com/citations?user=sSKDx6IAAAAJ)
 
 
-<span title="Senior LecturerUniversity of Gothenburg // MERGE &amp; BECC."><strong>Heather Reese, Senior Lecturer, University of Gothenburg // MERGE &amp; BECC</strong></span>
+<span title="University of Gothenburg // MERGE &amp; BECC. Senior LecturerUniversity of Gothenburg."><strong>Heather Reese, Senior Lecturer, University of Gothenburg</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=FUWolocAAAAJ) * [ORCID](https://orcid.org/0000-0003-2128-7787)
 
