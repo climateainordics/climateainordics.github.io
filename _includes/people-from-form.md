@@ -126,6 +126,16 @@ education * [More info (researcher profile)](https://geraldinefauville.com) * [R
 Climate modeling *  Biodiversity *  Sustainable transport *  Sustainable cities *  Sustainable production *  Efficient or sustainable AI *  Environment impacts of AI * [More info (researcher profile)](https://www.sei.org/people/somya-joshi/) * [Research group](https://www.sei.org/search/Artificial%20Intelligence)
 
 
+<span title="ProfessorChalmers University of Technology."><strong>Patrick Eriksson, Professor, Chalmers University of Technology</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=sSKDx6IAAAAJ)
+
+
+<span title="Senior LecturerUniversity of Gothenburg // MERGE &amp; BECC."><strong>Heather Reese, Senior Lecturer, University of Gothenburg // MERGE &amp; BECC</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=FUWolocAAAAJ) * [ORCID](https://orcid.org/0000-0003-2128-7787)
+
+
 <span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. PhD, ResearcherRISE Research Institutes of Sweden."><strong>Smita Chakraborty, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
 <br />
 
@@ -389,6 +399,16 @@ Sustainable transport * [More info (researcher profile)](https://www.wirelesscar
 <span title="PhD StudentChalmers University of Technology."><strong>Markus Pettersson, PhD Student, Chalmers University of Technology</strong></span>
 <br />
 Earth observation *  Computer vision *  Machine learning *  Deep learning * [Publications (Scholar)](https://scholar.google.com/citations?user=dXybsfcAAAAJ) * [ORCID](https://orcid.org/0000-0003-4033-3873)
+
+
+<span title="PhD StudentChalmers University of Technology."><strong>Adrià Amell, PhD Student, Chalmers University of Technology</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=LQ8nvdQAAAAJ)
+
+
+<span title="PhD StudentChalmers University of Technology."><strong>Erik Holmgren, PhD Student, Chalmers University of Technology</strong></span>
+<br />
+
 
 
 ## Supporting Affiliates (Outside Nordics)
