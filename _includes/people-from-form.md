@@ -282,6 +282,11 @@ Earth observation *  Urban planning *  Sustainable cities *  Computer vision *  
 Earth observation *  Climate modeling *  Efficient or sustainable AI *  Machine learning *  Deep learning * [More info (researcher profile)](https://sighellan.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=oH9ZmGgAAAAJ)
 
 
+<span title="focus on AI for mapping and sustaniable management of forest resources. PhD, ResearcherNIBIO."><strong>Rasmus Astrup, PhD, Researcher, NIBIO</strong></span>
+<br />
+Earth observation *  Biodiversity *  Sustainable production *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.smartforest.no) * [Research group](https://SmartForest) * [Publications (Scholar)](https://scholar.google.com/citations?user=8agrzhcAAAAJ&amp;hl=en)
+
+
 <span title="I&#x27;m a PhD student at the Center for Mathematical Sciences focusing on anomaly detection and machine learning in earth observations and remote sensing. PhD StudentLund University."><strong>Oskar Åström, PhD Student, Lund University</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=D864NLwAAAAJ) * [ORCID](https://orcid.org/0009-0005-5507-4829)
