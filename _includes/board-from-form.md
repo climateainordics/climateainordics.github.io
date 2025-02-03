@@ -10,10 +10,10 @@ Earth observation *  Biodiversity *  Deep learning *  Efficient or sustainable A
 Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://aleksispi.github.io) * [Research group](https://dl-group.se) * [Publications (Scholar)](https://scholar.google.com/citations?user=paBGTgsAAAAJ&amp;hl=en) * [BlueSky](https://bsky.app/profile/aleksispi.bsky.social)
 
 
-![Ankit Kariryaa](/images/people/kariryaa.jpg)
-<span title="My research focuses on machine learning for earth observation. Earth system data is among the most unique and abundant multi-modal data, making it an ideal platform for novel machine learning research. My new position offers an opportunity to continue bringing unique and timely challenges of EO to the ML community and remarkable ML methods to the EO community. But I am happy to adorn different hats and move up or down the programming-stack to solve real-world problems. Assistant ProfessorUniversity of Copenhagen."><strong>Ankit Kariryaa, Assistant Professor, University of Copenhagen</strong></span>
+![Francesca Larosa](/images/people/larosa.jpg)
+<span title="Marie-Sklodowska Curie Fellow at KTH. Post DocKTH Royal Institute of Technology."><strong>Francesca Larosa, Post Doc, KTH Royal Institute of Technology</strong></span>
 <br />
-Earth observation *  Climate modeling *  Biodiversity *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://ankitkariryaa.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=lwSTZGgAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9284-7847) * [BlueSky](https://bsky.app/profile/ankitky.bsky.social)
+Efficient or sustainable AI *  NLP *  Machine learning *  climate policy * [More info (researcher profile)](https://sites.google.com/view/francescalarosa/home-page?authuser=0) * [Publications (Scholar)](https://scholar.google.com/citations?user=89qTlnEAAAAJ&amp;hl=it)
 
 
 ![Stefano Puliti](/images/people/puliti.jpg)
@@ -22,10 +22,10 @@ Earth observation *  Climate modeling *  Biodiversity *  Sustainable cities *  C
 Earth observation *  Biodiversity *  Computer vision *  Deep learning * [More info (researcher profile)](https://bsky.app/profile/stefanopuliti.bsky.social) * [Publications (Scholar)](https://scholar.google.com/citations?user=mrysxWoAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4624-8987) * [BlueSky](https://bsky.app/profile/stefanopuliti.bsky.social)
 
 
-![Francesca Larosa](/images/people/larosa.jpg)
-<span title="Marie-Sklodowska Curie Fellow at KTH. Post DocKTH Royal Institute of Technology."><strong>Francesca Larosa, Post Doc, KTH Royal Institute of Technology</strong></span>
+![Ankit Kariryaa](/images/people/kariryaa.jpg)
+<span title="My research focuses on machine learning for earth observation. Earth system data is among the most unique and abundant multi-modal data, making it an ideal platform for novel machine learning research. My new position offers an opportunity to continue bringing unique and timely challenges of EO to the ML community and remarkable ML methods to the EO community. But I am happy to adorn different hats and move up or down the programming-stack to solve real-world problems. Assistant ProfessorUniversity of Copenhagen."><strong>Ankit Kariryaa, Assistant Professor, University of Copenhagen</strong></span>
 <br />
-Efficient or sustainable AI *  NLP *  Machine learning *  climate policy * [More info (researcher profile)](https://sites.google.com/view/francescalarosa/home-page?authuser=0) * [Publications (Scholar)](https://scholar.google.com/citations?user=89qTlnEAAAAJ&amp;hl=it)
+Earth observation *  Climate modeling *  Biodiversity *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://ankitkariryaa.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=lwSTZGgAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9284-7847) * [BlueSky](https://bsky.app/profile/ankitky.bsky.social)
 
 
 ![John Martinsson](/images/people/martinsson.jpg)
