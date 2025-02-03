@@ -30,6 +30,12 @@ Earth observation *  Biodiversity *  Computer vision *  Deep learning * [More in
 Earth observation *  Climate modeling *  Biodiversity *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://ankitkariryaa.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=lwSTZGgAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9284-7847) * [BlueSky](https://bsky.app/profile/ankitky.bsky.social)
 
 
+![Sigrid Passano Hellan](/images/people/hellan.jpg)
+<span title="PhD, ResearcherNORCE Norwegian Research Centre / Bjerknes Centre for Climate Research."><strong>Sigrid Passano Hellan, PhD, Researcher, NORCE Norwegian Research Centre / Bjerknes Centre for Climate Research</strong></span>
+<br />
+Earth observation *  Climate modeling *  Efficient or sustainable AI *  Machine learning *  Deep learning * [More info (researcher profile)](https://sighellan.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=oH9ZmGgAAAAJ)
+
+
 ![John Martinsson](/images/people/martinsson.jpg)
 <span title="My research focuses on developing machine learning methods to enable efficient and accurate monitoring of natural environments through sound. PhD StudentRISE Research Institutes of Sweden."><strong>John Martinsson, PhD Student, RISE Research Institutes of Sweden</strong></span>
 <br />
@@ -277,11 +283,6 @@ Climate modeling *  Machine learning *  Deep learning *  Molecular modeling of a
 Earth observation *  Urban planning *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning * [Publications (Scholar)](https://scholar.google.com/citations?user=rQGuJAsAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-2318-8216)
 
 
-<span title="PhD, ResearcherNORCE Norwegian Research Centre / Bjerknes Centre for Climate Research."><strong>Sigrid Passano Hellan, PhD, Researcher, NORCE Norwegian Research Centre / Bjerknes Centre for Climate Research</strong></span>
-<br />
-Earth observation *  Climate modeling *  Efficient or sustainable AI *  Machine learning *  Deep learning * [More info (researcher profile)](https://sighellan.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=oH9ZmGgAAAAJ)
-
-
 <span title="focus on AI for mapping and sustaniable management of forest resources. PhD, ResearcherNIBIO."><strong>Rasmus Astrup, PhD, Researcher, NIBIO</strong></span>
 <br />
 Earth observation *  Biodiversity *  Sustainable production *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.smartforest.no) * [Research group](https://SmartForest) * [Publications (Scholar)](https://scholar.google.com/citations?user=8agrzhcAAAAJ&amp;hl=en)
@@ -425,6 +426,11 @@ Earth observation *  Computer vision *  Machine learning *  Deep learning * [Pub
 <span title="Environmental ConsultantUndeko."><strong>Daniel Emanuelsson, Environmental Consultant, Undeko</strong></span>
 <br />
 
+
+
+<span title="Associate professorKTH - Royal Institute of Technology - Geoinformatics Division."><strong>Andrea Nascetti, Associate professor, KTH - Royal Institute of Technology - Geoinformatics Division</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=Mdq6_jQAAAAJ)
 
 
 ## Supporting Affiliates (Outside Nordics)
