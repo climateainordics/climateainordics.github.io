@@ -16,6 +16,7 @@ Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep
 Earth observation *  Climate modeling *  Biodiversity *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://ankitkariryaa.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=lwSTZGgAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9284-7847) * [BlueSky](https://bsky.app/profile/ankitky.bsky.social)
 
 
+![Stefano Puliti](/images/people/puliti.jpg)
 <span title="Researcher at the interception of forest science, remote sensing, and AI. PhD, ResearcherNorwegian Institute of Bioeconomy Research (NIBIO)."><strong>Stefano Puliti, PhD, Researcher, Norwegian Institute of Bioeconomy Research (NIBIO)</strong></span>
 <br />
 Earth observation *  Biodiversity *  Computer vision *  Deep learning * [More info (researcher profile)](https://bsky.app/profile/stefanopuliti.bsky.social) * [Publications (Scholar)](https://scholar.google.com/citations?user=mrysxWoAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4624-8987) * [BlueSky](https://bsky.app/profile/stefanopuliti.bsky.social)

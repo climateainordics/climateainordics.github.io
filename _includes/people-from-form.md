@@ -18,6 +18,7 @@ Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep
 Earth observation *  Climate modeling *  Biodiversity *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://ankitkariryaa.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=lwSTZGgAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9284-7847) * [BlueSky](https://bsky.app/profile/ankitky.bsky.social)
 
 
+![Stefano Puliti](/images/people/puliti.jpg)
 <span title="Researcher at the interception of forest science, remote sensing, and AI. PhD, ResearcherNorwegian Institute of Bioeconomy Research (NIBIO)."><strong>Stefano Puliti, PhD, Researcher, Norwegian Institute of Bioeconomy Research (NIBIO)</strong></span>
 <br />
 Earth observation *  Biodiversity *  Computer vision *  Deep learning * [More info (researcher profile)](https://bsky.app/profile/stefanopuliti.bsky.social) * [Publications (Scholar)](https://scholar.google.com/citations?user=mrysxWoAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4624-8987) * [BlueSky](https://bsky.app/profile/stefanopuliti.bsky.social)
@@ -416,6 +417,11 @@ Earth observation *  Computer vision *  Machine learning *  Deep learning * [Pub
 
 
 
+<span title="Environmental ConsultantUndeko."><strong>Daniel Emanuelsson, Environmental Consultant, Undeko</strong></span>
+<br />
+
+
+
 ## Supporting Affiliates (Outside Nordics)
 <span title="I am a lecturer in Urban Planning at the University of Auckland, bringing over 13 years of experience in both research and practice. My focus is on addressing climate change challenges, enhancing urban resilience, promoting regeneration, and advocating for environmental justice. I am particularly interested in understanding and mitigating the risks that urban areas encounter, especially those related to climate change and natural hazards. My research examines how cities can adapt to these increasing threats, emphasising resilience, risk reduction, and sustainable planning to protect communities and infrastructure. Assistant ProfessorUniversity of Auckland."><strong>Iresh Jayawardena, Assistant Professor, University of Auckland</strong></span>
 <br />
@@ -500,4 +506,9 @@ Climate modeling *  Sustainable cities *  Efficient or sustainable AI
 <span title="ISGlobal and Pompeu Fabra University."><strong>Niti Mishra, ISGlobal and Pompeu Fabra University</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=6XTQUqkAAAAJ) * [ORCID](https://orcid.org/0000-0002-2939-9591)
+
+
+<span title=""><strong>Catherine Wang</strong></span>
+<br />
+
 
