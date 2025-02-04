@@ -188,7 +188,7 @@ Earth observation *  Climate modeling *  Efficient or sustainable AI *  NLP *  C
 Biodiversity *  Marine ecology *  Efficient or sustainable AI *  NLP *  Computer vision *  Deep learning *  Knowledge graphs *  Impact on climate change on health * [More info (researcher profile)](https://portal.research.lu.se/en/persons/sonja-aits) * [Research group](https://aitslab.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=KTS-NNAAAAAJ) * [ORCID](https://orcid.org/0000-0002-1321-0678)
 
 
-<span title="I work with statistical methods with different levels of complexity to understand climate change impacts on various processes and to forecast future impacts.  PhD, ResearcherSwedish university of agricultural sciences."><strong>Faranak Tootoonchi, PhD, Researcher, Swedish university of agricultural sciences</strong></span>
+<span title="I work with statistical methods with different levels of complexity to understand climate change impacts on various processes and to forecast future impacts.  PhD, ResearcherSwedish University of Agricultural Sciences."><strong>Faranak Tootoonchi, PhD, Researcher, Swedish University of Agricultural Sciences</strong></span>
 <br />
 Climate modeling *  Sustainable cities *  Sustainable production *  Machine learning *  climate impacts * [Research group](https://www.slu.se/en/ew-cv/faranak-tootoonchi/) * [Publications (Scholar)](https://scholar.google.com/citations?user=5XmN8AUAAAAJ) * [ORCID](https://orcid.org/0000-0001-5262-1712) * [BlueSky](https://bsky.app/profile/faranaktt.bsky.social)
 
@@ -223,7 +223,7 @@ Earth observation *  Climate modeling *  Urban planning *  Efficient or sustaina
 [Publications (Scholar)](https://scholar.google.com/citations?user=JqsCwRcAAAAJ) * [ORCID](https://orcid.org/0000-0003-4313-4538)
 
 
-<span title="Post DocCopenhagen University."><strong>Jaime Caballer Revenga, Post Doc, Copenhagen University</strong></span>
+<span title="Post DocUniversity of Copenhagen."><strong>Jaime Caballer Revenga, Post Doc, University of Copenhagen</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=wQfif-MAAAAJ) * [ORCID](https://orcid.org/0000-0002-9330-6572)
 
@@ -283,9 +283,14 @@ Climate modeling *  Machine learning *  Deep learning *  Molecular modeling of a
 Earth observation *  Urban planning *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning * [Publications (Scholar)](https://scholar.google.com/citations?user=rQGuJAsAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-2318-8216)
 
 
-<span title="focus on AI for mapping and sustaniable management of forest resources. PhD, ResearcherNIBIO."><strong>Rasmus Astrup, PhD, Researcher, NIBIO</strong></span>
+<span title="focus on AI for mapping and sustaniable management of forest resources. PhD, ResearcherNorwegian Institute of Bioeconomy Research (NIBIO)."><strong>Rasmus Astrup, PhD, Researcher, Norwegian Institute of Bioeconomy Research (NIBIO)</strong></span>
 <br />
-Earth observation *  Biodiversity *  Sustainable production *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.smartforest.no) * [Research group](https://SmartForest) * [Publications (Scholar)](https://scholar.google.com/citations?user=8agrzhcAAAAJ&amp;hl=en)
+Earth observation *  Biodiversity *  Sustainable production *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.smartforest.no) * [Research group](https://SmartForest) * [Publications (Scholar)](https://scholar.google.com/citations?user=8agrzhcAAAAJ)
+
+
+<span title="Studying individual and societal adaptation to ICT (including AI). PhD, ResearcherInternational Institute for Industrial Environmental Economics,Lund University."><strong>Matthias Lehner, PhD, Researcher, International Institute for Industrial Environmental Economics,Lund University</strong></span>
+<br />
+Sustainable cities *  Sustainable production * [More info (researcher profile)](https://www.iiiee.lu.se/matthias-lehner) * [Publications (Scholar)](https://scholar.google.com/citations?user=eNYb2FsAAAAJ) * [ORCID](https://orcid.org/0000-0003-1571-7453)
 
 
 <span title="I&#x27;m a PhD student at the Center for Mathematical Sciences focusing on anomaly detection and machine learning in earth observations and remote sensing. PhD StudentLund University."><strong>Oskar Åström, PhD Student, Lund University</strong></span>
@@ -428,7 +433,7 @@ Earth observation *  Computer vision *  Machine learning *  Deep learning * [Pub
 
 
 
-<span title="Associate professorKTH - Royal Institute of Technology - Geoinformatics Division."><strong>Andrea Nascetti, Associate professor, KTH - Royal Institute of Technology - Geoinformatics Division</strong></span>
+<span title="KTH - Royal Institute of Technology - Geoinformatics Division. Associate professorKTH Royal Institute of Technology."><strong>Andrea Nascetti, Associate professor, KTH Royal Institute of Technology</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=Mdq6_jQAAAAJ)
 
