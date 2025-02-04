@@ -519,7 +519,7 @@ Climate modeling *  Sustainable cities *  Efficient or sustainable AI
 [Publications (Scholar)](https://scholar.google.com/citations?user=4U84fR8AAAAJ) * [ORCID](https://orcid.org/0000-0002-8780-0697)
 
 
-<span title="ISGlobal and Pompeu Fabra University."><strong>Niti Mishra, ISGlobal and Pompeu Fabra University</strong></span>
+<span title="ISGlobal / Pompeu Fabra University."><strong>Niti Mishra, ISGlobal / Pompeu Fabra University</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=6XTQUqkAAAAJ) * [ORCID](https://orcid.org/0000-0002-2939-9591)
 
