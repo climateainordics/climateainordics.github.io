@@ -30,6 +30,12 @@ Earth observation *  Biodiversity *  Computer vision *  Deep learning * [More in
 Earth observation *  Climate modeling *  Biodiversity *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://ankitkariryaa.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=lwSTZGgAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9284-7847) * [BlueSky](https://bsky.app/profile/ankitky.bsky.social)
 
 
+![Hilda Sandström](/images/people/sandstrom.jpg)
+<span title="I am a computational chemist specializing in atmospheric chemistry and astrochemistry. Currently, I am a postdoctoral researcher at Aalto University and the Virtual laboratory for molecular level atmospheric transformations (VILMA) center of excellence in Espoo, Finland. We study how atmospheric particles form on a molecular level to understand human impact on air quality and climate. For my research, I utilize combinations of quantum chemistry and machine learning. I am currently a guest researcher at University of  Gothenburg .  Post DocAalto university."><strong>Hilda Sandström, Post Doc, Aalto university</strong></span>
+<br />
+Climate modeling *  Machine learning *  Deep learning *  Molecular modeling of atmospheric chemistry * [More info (researcher profile)](https://hilsan.github.io/) * [Research group](https://www.aalto.fi/en/department-of-applied-physics/computational-electronic-structure-theory-cest) * [Publications (Scholar)](https://scholar.google.com/citations?user=dU-qQwQAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0001-7845-1088)
+
+
 ![Sigrid Passano Hellan](/images/people/hellan.jpg)
 <span title="PhD, ResearcherNORCE Norwegian Research Centre / Bjerknes Centre for Climate Research."><strong>Sigrid Passano Hellan, PhD, Researcher, NORCE Norwegian Research Centre / Bjerknes Centre for Climate Research</strong></span>
 <br />
@@ -273,11 +279,6 @@ Earth observation *  Climate modeling *  Biodiversity *  Soundscape analysis *  
 [More info (researcher profile)](https://www.gu.se/en/about/find-staff/leongreen) * [Publications (Scholar)](https://scholar.google.com/citations?user=HbLZFxkAAAAJ) * [ORCID](https://orcid.org/0000-0002-3328-3655)
 
 
-<span title="I am a computational chemist specializing in atmospheric chemistry and astrochemistry. Currently, I am a postdoctoral researcher at Aalto University and the Virtual laboratory for molecular level atmospheric transformations (VILMA) center of excellence in Espoo, Finland. We study how atmospheric particles form on a molecular level to understand human impact on air quality and climate. For my research, I utilize combinations of quantum chemistry and machine learning. I am currently a guest researcher at University of  Gothenburg .  Post DocAalto university."><strong>Hilda Sandström, Post Doc, Aalto university</strong></span>
-<br />
-Climate modeling *  Machine learning *  Deep learning *  Molecular modeling of atmospheric chemistry * [More info (researcher profile)](https://hilsan.github.io/) * [Research group](https://www.aalto.fi/en/department-of-applied-physics/computational-electronic-structure-theory-cest) * [Publications (Scholar)](https://scholar.google.com/citations?user=dU-qQwQAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0001-7845-1088)
-
-
 <span title="PhD, ResearcherChalmers University of Technology."><strong>Mohammad Kakooei, PhD, Researcher, Chalmers University of Technology</strong></span>
 <br />
 Earth observation *  Urban planning *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning * [Publications (Scholar)](https://scholar.google.com/citations?user=rQGuJAsAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-2318-8216)
@@ -393,6 +394,11 @@ Climate modeling *  Biodiversity *  Urban planning * [More info (researcher prof
 
 
 
+<span title="University of Gothenburg."><strong>Ludwig Bengtsson, University of Gothenburg</strong></span>
+<br />
+
+
+
 <span title="PhD StudentLinköping University."><strong>Aprilia Nidia Rinasti, PhD Student, Linköping University</strong></span>
 <br />
 Earth observation *  Climate modeling *  Sustainable cities *  Computer vision *  Machine learning *  Deep learning * [ORCID](https://orcid.org/0000-0002-7437-1571)
@@ -436,6 +442,11 @@ Earth observation *  Computer vision *  Machine learning *  Deep learning * [Pub
 <span title="KTH - Royal Institute of Technology - Geoinformatics Division. Associate professorKTH Royal Institute of Technology."><strong>Andrea Nascetti, Associate professor, KTH Royal Institute of Technology</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=Mdq6_jQAAAAJ)
+
+
+<span title="PhD StudentChalmers."><strong>Hannah Frostenberg, PhD Student, Chalmers</strong></span>
+<br />
+[ORCID](https://orcid.org/0000-0002-0630-4123)
 
 
 ## Supporting Affiliates (Outside Nordics)
@@ -527,4 +538,9 @@ Climate modeling *  Sustainable cities *  Efficient or sustainable AI
 <span title=""><strong>Catherine Wang</strong></span>
 <br />
 
+
+
+<span title="PhD, ResearcherThe University of Edinburgh."><strong>Linus Ericsson, PhD, Researcher, The University of Edinburgh</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=QRW9NN0AAAAJ) * [ORCID](https://orcid.org/0000-0002-0634-5072)
 
