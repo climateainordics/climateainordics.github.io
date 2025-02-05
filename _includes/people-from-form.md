@@ -544,3 +544,8 @@ Climate modeling *  Sustainable cities *  Efficient or sustainable AI
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=QRW9NN0AAAAJ) * [ORCID](https://orcid.org/0000-0002-0634-5072)
 
+
+<span title="I have graduate-level expertise at the intersection of data science (computer vision) with marine sciences. PhD, ResearcherJomo Kenyatta University of Agriculture and Technology."><strong>Benson Mbani, PhD, Researcher, Jomo Kenyatta University of Agriculture and Technology</strong></span>
+<br />
+Earth observation *  Climate modeling *  Biodiversity *  Marine ecology *  NLP *  Computer vision *  Machine learning *  Deep learning * [Publications (Scholar)](https://scholar.google.com/citations?user=R5astmYAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-2348-6782)
+
