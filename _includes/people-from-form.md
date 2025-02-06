@@ -12,6 +12,7 @@ Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep
 
 
 ## Core Team
+![Nico Lang](/images/people/lang.jpg)
 <span title="Post DocUniversity of Copenhagen."><strong>Nico Lang, Post Doc, University of Copenhagen</strong></span>
 <br />
 Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep learning *  Remote sensing * [More info (researcher profile)](https://langnico.github.io/) * [Publications (Scholar)](https://scholar.google.ch/citations?user=bVZtKsQAAAAJ) * [ORCID](https://orcid.org/0000-0001-8434-027X) * [BlueSky](https://bsky.app/profile/nicolang.bsky.social)
