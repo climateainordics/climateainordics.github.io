@@ -1,4 +1,4 @@
-<label for="tagFilter">Filter affiliates:</label>
+<label for="tagFilter">Filter people:</label>
 <select id="tagFilter">
 <option value="all">Show All</option>
 <option value="Bayesian Optimisation">Bayesian Optimisation</option>
