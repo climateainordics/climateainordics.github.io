@@ -11,13 +11,13 @@
 <option value="Earth Observation">Earth Observation</option>
 <option value="Ecosystem Monitoring And Modelling">Ecosystem Monitoring And Modelling</option>
 <option value="Education">Education</option>
-<option value="Efficient Or Sustainable Ai">Efficient Or Sustainable Ai</option>
-<option value="Environment Impacts Of Ai">Environment Impacts Of Ai</option>
+<option value="Efficient Or Sustainable AI">Efficient Or Sustainable AI</option>
+<option value="Environment Impacts Of AI">Environment Impacts Of AI</option>
 <option value="Extreme Weather">Extreme Weather</option>
 <option value="Fluid Dynamics">Fluid Dynamics</option>
+<option value="GIS">GIS</option>
 <option value="Geomatics">Geomatics</option>
-<option value="Gis">Gis</option>
-<option value="Hpc">Hpc</option>
+<option value="HPC">HPC</option>
 <option value="Impact On Climate Change On Health">Impact On Climate Change On Health</option>
 <option value="Knowledge Graphs">Knowledge Graphs</option>
 <option value="Machine Learning">Machine Learning</option>
@@ -26,7 +26,7 @@
 <option value="Materials And Atmospheric Science">Materials And Atmospheric Science</option>
 <option value="Meteorology">Meteorology</option>
 <option value="Molecular Modeling Of Atmospheric Chemistry">Molecular Modeling Of Atmospheric Chemistry</option>
-<option value="Nlp">Nlp</option>
+<option value="NLP">NLP</option>
 <option value="Remote Sensing">Remote Sensing</option>
 <option value="Soundscape Analysis">Soundscape Analysis</option>
 <option value="Spatial Analysis">Spatial Analysis</option>

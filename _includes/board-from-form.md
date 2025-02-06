@@ -1,8 +1,8 @@
-<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Deep Learning,Efficient Or Sustainable Ai,Computer Vision,Machine Learning">
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Deep Learning,Efficient Or Sustainable AI,Computer Vision,Machine Learning">
 ![Olof Mogren](/images/people/mogren.png)
 <span title="Mogren defended his PhD in computer science at Chalmers University of Technology in 2018 with the thesis Representation Learning for Natural Language. Senior researcher, head of the https://dl-group.se, and responsible for deep learning research at RISE Research Institutes of Sweden. Olof develops and investigates machine learning based solutions to problems related to the environment and climate change. This includes stream flow forecasting, soundscape analysis for biodiversity monitoring, and AI for circular business models. Research DirectorRISE Research Institutes of Sweden / Co-founder of Climate AI Nordics."><strong>Olof Mogren, Research Director, RISE Research Institutes of Sweden / Co-founder of Climate AI Nordics</strong></span>
 <br />
-Earth Observation * Biodiversity * Deep Learning * Efficient Or Sustainable Ai * Computer Vision * Machine Learning * [More info (researcher profile)](https://mogren.ml/) * [Research group](https://dl-group.se/) * [Publications (Scholar)](https://scholar.google.com/citations?user=m_n28oAAAAAJ) * [ORCID](https://orcid.org/0000-0002-9567-2218) * [BlueSky](https://bsky.app/profile/mogren.ml)
+Earth Observation * Biodiversity * Deep Learning * Efficient Or Sustainable AI * Computer Vision * Machine Learning * [More info (researcher profile)](https://mogren.ml/) * [Research group](https://dl-group.se/) * [Publications (Scholar)](https://scholar.google.com/citations?user=m_n28oAAAAAJ) * [ORCID](https://orcid.org/0000-0002-9567-2218) * [BlueSky](https://bsky.app/profile/mogren.ml)
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Computer Vision,Machine Learning,Deep Learning">
@@ -19,11 +19,11 @@ Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Lea
 Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Learning * Remote Sensing * [More info (researcher profile)](https://langnico.github.io/) * [Publications (Scholar)](https://scholar.google.ch/citations?user=bVZtKsQAAAAJ) * [ORCID](https://orcid.org/0000-0001-8434-027X) * [BlueSky](https://bsky.app/profile/nicolang.bsky.social)
 </div>
 
-<div class="content" markdown="1" data-tags="Efficient Or Sustainable Ai,Nlp,Machine Learning,Climate Policy">
+<div class="content" markdown="1" data-tags="Efficient Or Sustainable AI,NLP,Machine Learning,Climate Policy">
 ![Francesca Larosa](/images/people/larosa.jpg)
 <span title="Marie-Sklodowska Curie Fellow at KTH. Post DocKTH Royal Institute of Technology."><strong>Francesca Larosa, Post Doc, KTH Royal Institute of Technology</strong></span>
 <br />
-Efficient Or Sustainable Ai * Nlp * Machine Learning * Climate Policy * [More info (researcher profile)](https://sites.google.com/view/francescalarosa/home-page?authuser=0) * [Publications (Scholar)](https://scholar.google.com/citations?user=89qTlnEAAAAJ&amp;hl=it)
+Efficient Or Sustainable AI * NLP * Machine Learning * Climate Policy * [More info (researcher profile)](https://sites.google.com/view/francescalarosa/home-page?authuser=0) * [Publications (Scholar)](https://scholar.google.com/citations?user=89qTlnEAAAAJ&amp;hl=it)
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Computer Vision,Deep Learning">
@@ -47,16 +47,16 @@ Earth Observation * Climate Modeling * Biodiversity * Sustainable Cities * Compu
 Climate Modeling * Machine Learning * Deep Learning * Molecular Modeling Of Atmospheric Chemistry * [More info (researcher profile)](https://hilsan.github.io/) * [Research group](https://www.aalto.fi/en/department-of-applied-physics/computational-electronic-structure-theory-cest) * [Publications (Scholar)](https://scholar.google.com/citations?user=dU-qQwQAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0001-7845-1088)
 </div>
 
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Efficient Or Sustainable Ai,Machine Learning,Deep Learning">
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Efficient Or Sustainable AI,Machine Learning,Deep Learning">
 ![Sigrid Passano Hellan](/images/people/hellan.jpg)
 <span title="PhD, ResearcherNORCE Norwegian Research Centre / Bjerknes Centre for Climate Research."><strong>Sigrid Passano Hellan, PhD, Researcher, NORCE Norwegian Research Centre / Bjerknes Centre for Climate Research</strong></span>
 <br />
-Earth Observation * Climate Modeling * Efficient Or Sustainable Ai * Machine Learning * Deep Learning * [More info (researcher profile)](https://sighellan.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=oH9ZmGgAAAAJ)
+Earth Observation * Climate Modeling * Efficient Or Sustainable AI * Machine Learning * Deep Learning * [More info (researcher profile)](https://sighellan.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=oH9ZmGgAAAAJ)
 </div>
 
-<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Marine Ecology,Efficient Or Sustainable Ai,Soundscape Analysis,Machine Learning,Deep Learning,Machine Listening">
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Marine Ecology,Efficient Or Sustainable AI,Soundscape Analysis,Machine Learning,Deep Learning,Machine Listening">
 ![John Martinsson](/images/people/martinsson.jpg)
 <span title="My research focuses on developing machine learning methods to enable efficient and accurate monitoring of natural environments through sound. PhD StudentRISE Research Institutes of Sweden."><strong>John Martinsson, PhD Student, RISE Research Institutes of Sweden</strong></span>
 <br />
-Earth Observation * Biodiversity * Marine Ecology * Efficient Or Sustainable Ai * Soundscape Analysis * Machine Learning * Deep Learning * Machine Listening * [More info (researcher profile)](https://johnmartinsson.org) * [Research group](https://dl-group.se) * [Publications (Scholar)](https://scholar.google.com/citations?user=sAMIwlMAAAAJ) * [ORCID](https://orcid.org/0000-0002-5032-4367) * [BlueSky](https://bsky.app/profile/johnmartinsson.org)
+Earth Observation * Biodiversity * Marine Ecology * Efficient Or Sustainable AI * Soundscape Analysis * Machine Learning * Deep Learning * Machine Listening * [More info (researcher profile)](https://johnmartinsson.org) * [Research group](https://dl-group.se) * [Publications (Scholar)](https://scholar.google.com/citations?user=sAMIwlMAAAAJ) * [ORCID](https://orcid.org/0000-0002-5032-4367) * [BlueSky](https://bsky.app/profile/johnmartinsson.org)
 </div>
