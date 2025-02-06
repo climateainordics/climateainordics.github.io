@@ -9,7 +9,8 @@ permalink: /partners/
 
 <style>
 img {
-  width: 12em;
+  max-width: 12em;
+  max-height: 6em;
   margin: 1em;
   margin-left: auto;
   margin-right: auto;
