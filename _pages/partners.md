@@ -36,7 +36,7 @@ AfriClimateAI is a grassroots community dedicated to harnessing the power of Art
 
 **[Visit africlimate.ai for more info!](https://africlimate.ai/)**
 
-## Contributors
+## Sponsors
 
 ![](/images/partners/rise.svg)
 
