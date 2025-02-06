@@ -18,6 +18,10 @@ img {
 Welcome to _Climate AI Nordics_.
 We're a network of researchers who work on problems related to tackling climate change using AI and machine learning. Climate AI Nordics acts as a hub, hosting and announcing news, seminars, and workshops. [Join us](/join/)!
 
+## Core Team
+
+{% include board-from-form.md %}
+
 {% include people-dropdown.md %}
 
 {% include people-from-form-count.md %}
