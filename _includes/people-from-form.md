@@ -54,6 +54,17 @@ Earth observation *  Climate modeling *  Efficient or sustainable AI *  Machine 
 Earth observation *  Biodiversity *  Marine ecology *  Efficient or sustainable AI *  Soundscape analysis *  Machine learning *  Deep learning *  Machine Listening * [More info (researcher profile)](https://johnmartinsson.org) * [Research group](https://dl-group.se) * [Publications (Scholar)](https://scholar.google.com/citations?user=sAMIwlMAAAAJ) * [ORCID](https://orcid.org/0000-0002-5032-4367) * [BlueSky](https://bsky.app/profile/johnmartinsson.org)
 
 
+## Recently Joined
+<span title="Studying individual and societal adaptation to ICT (including AI). PhD, ResearcherInternational Institute for Industrial Environmental Economics,Lund University."><strong>Matthias Lehner, PhD, Researcher, International Institute for Industrial Environmental Economics,Lund University</strong></span>
+<br />
+Sustainable cities *  Sustainable production * [More info (researcher profile)](https://www.iiiee.lu.se/matthias-lehner) * [Publications (Scholar)](https://scholar.google.com/citations?user=eNYb2FsAAAAJ) * [ORCID](https://orcid.org/0000-0003-1571-7453)
+
+
+<span title="PhD StudentChalmers."><strong>Hannah Frostenberg, PhD Student, Chalmers</strong></span>
+<br />
+[ORCID](https://orcid.org/0000-0002-0630-4123)
+
+
 ## Affiliates
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
 <br />
@@ -290,11 +301,6 @@ Earth observation *  Urban planning *  Sustainable cities *  Computer vision *  
 Earth observation *  Biodiversity *  Sustainable production *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.smartforest.no) * [Research group](https://SmartForest) * [Publications (Scholar)](https://scholar.google.com/citations?user=8agrzhcAAAAJ)
 
 
-<span title="Studying individual and societal adaptation to ICT (including AI). PhD, ResearcherInternational Institute for Industrial Environmental Economics,Lund University."><strong>Matthias Lehner, PhD, Researcher, International Institute for Industrial Environmental Economics,Lund University</strong></span>
-<br />
-Sustainable cities *  Sustainable production * [More info (researcher profile)](https://www.iiiee.lu.se/matthias-lehner) * [Publications (Scholar)](https://scholar.google.com/citations?user=eNYb2FsAAAAJ) * [ORCID](https://orcid.org/0000-0003-1571-7453)
-
-
 <span title="I&#x27;m a PhD student at the Center for Mathematical Sciences focusing on anomaly detection and machine learning in earth observations and remote sensing. PhD StudentLund University."><strong>Oskar Åström, PhD Student, Lund University</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=D864NLwAAAAJ) * [ORCID](https://orcid.org/0009-0005-5507-4829)
@@ -443,11 +449,6 @@ Earth observation *  Computer vision *  Machine learning *  Deep learning * [Pub
 <span title="KTH - Royal Institute of Technology - Geoinformatics Division. Associate professorKTH Royal Institute of Technology."><strong>Andrea Nascetti, Associate professor, KTH Royal Institute of Technology</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=Mdq6_jQAAAAJ)
-
-
-<span title="PhD StudentChalmers."><strong>Hannah Frostenberg, PhD Student, Chalmers</strong></span>
-<br />
-[ORCID](https://orcid.org/0000-0002-0630-4123)
 
 
 ## Supporting Affiliates (Outside Nordics)
