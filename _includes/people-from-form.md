@@ -1,7 +1,7 @@
-    <!-- Dropdown for selecting tags -->
-    <label for="tagFilter">Filter affiliates:</label>
-    <select id="tagFilter">
-        <option value="all">Show All</option>
+<!-- Dropdown for selecting tags -->
+<label for="tagFilter">Filter affiliates:</label>
+<select id="tagFilter">
+<option value="all">Show All</option>
 <option value="Bayesian optimisation">Bayesian optimisation</option>
 
 <option value="Biodiversity">Biodiversity</option>
@@ -84,7 +84,7 @@
 
 <option value="urban planning">urban planning</option>
 
-    </select>
+</select>
 
 <script>
         document.getElementById('tagFilter').addEventListener('change', function () {
@@ -98,7 +98,7 @@
                 }
             });
         });
-    </script>
+</script>
 
 ## Founding Team
 <div markdown="1" data-tags="Earth observation, Biodiversity, Deep learning, Efficient or sustainable AI, Computer vision, Machine learning">
