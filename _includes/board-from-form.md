@@ -10,6 +10,11 @@ Earth observation *  Biodiversity *  Deep learning *  Efficient or sustainable A
 Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://aleksispi.github.io) * [Research group](https://dl-group.se) * [Publications (Scholar)](https://scholar.google.com/citations?user=paBGTgsAAAAJ&amp;hl=en) * [BlueSky](https://bsky.app/profile/aleksispi.bsky.social)
 
 
+<span title="Post DocUniversity of Copenhagen."><strong>Nico Lang, Post Doc, University of Copenhagen</strong></span>
+<br />
+Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep learning *  Remote sensing * [More info (researcher profile)](https://langnico.github.io/) * [Publications (Scholar)](https://scholar.google.ch/citations?user=bVZtKsQAAAAJ) * [ORCID](https://orcid.org/0000-0001-8434-027X) * [BlueSky](https://bsky.app/profile/nicolang.bsky.social)
+
+
 ![Francesca Larosa](/images/people/larosa.jpg)
 <span title="Marie-Sklodowska Curie Fellow at KTH. Post DocKTH Royal Institute of Technology."><strong>Francesca Larosa, Post Doc, KTH Royal Institute of Technology</strong></span>
 <br />

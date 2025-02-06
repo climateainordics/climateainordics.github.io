@@ -12,6 +12,11 @@ Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep
 
 
 ## Core Team
+<span title="Post DocUniversity of Copenhagen."><strong>Nico Lang, Post Doc, University of Copenhagen</strong></span>
+<br />
+Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep learning *  Remote sensing * [More info (researcher profile)](https://langnico.github.io/) * [Publications (Scholar)](https://scholar.google.ch/citations?user=bVZtKsQAAAAJ) * [ORCID](https://orcid.org/0000-0001-8434-027X) * [BlueSky](https://bsky.app/profile/nicolang.bsky.social)
+
+
 ![Francesca Larosa](/images/people/larosa.jpg)
 <span title="Marie-Sklodowska Curie Fellow at KTH. Post DocKTH Royal Institute of Technology."><strong>Francesca Larosa, Post Doc, KTH Royal Institute of Technology</strong></span>
 <br />
@@ -212,11 +217,6 @@ Climate modeling *  Machine learning *  Deep learning * [Publications (Scholar)]
 <span title="Senior lecturer in mathematical statistics, with many years experience of applications in medicine and technical development, both internally and externally. Linda&#x27;s research focus is applied statistics in sustainability, medicine and technical development. PhD, ResearcherLund University."><strong>Linda Hartman, PhD, Researcher, Lund University</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=yY55qioAAAAJ) * [ORCID](https://orcid.org/0000-0002-1122-3109)
-
-
-<span title="Post DocUniversity of Copenhagen."><strong>Nico Lang, Post Doc, University of Copenhagen</strong></span>
-<br />
-Earth observation *  Biodiversity *  Computer vision *  Machine learning *  Deep learning *  Remote sensing * [More info (researcher profile)](https://langnico.github.io/) * [Publications (Scholar)](https://scholar.google.ch/citations?user=bVZtKsQAAAAJ) * [ORCID](https://orcid.org/0000-0001-8434-027X) * [BlueSky](https://bsky.app/profile/nicolang.bsky.social)
 
 
 <span title="I am a dedicated researcher with a PhD in Machine Learning, specializing in unsupervised learning techniques and their applications in remote sensing, automation, and medical imaging. With a strong background in Python, and AI frameworks, I am passionate about solving real-world problems through innovative data-driven solutions. Collaborative by nature, I thrive in dynamic environments and am eager to continue learning and contributing to impactful projects. PhD, ResearcherLuleå University of Technology."><strong>Nosheen Abid, PhD, Researcher, Luleå University of Technology</strong></span>
