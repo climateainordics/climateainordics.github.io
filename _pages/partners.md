@@ -9,12 +9,19 @@ permalink: /partners/
 
 <style>
 img {
-  width: 16em;
+  width: 12em;
   margin: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 </style>
 
 The following organizations are partners to Climate AI Nordics. We share similar goals and objectives and collaborate on selected activities.
+
+**Would you like to partner with us?**
+
+Get in touch! [contact@climateainordics.com](mailto:contact@climateainordics.com).
 
 ![](/images/partners/climes.png)
 
@@ -28,7 +35,10 @@ AfriClimateAI is a grassroots community dedicated to harnessing the power of Art
 
 **[Visit africlimate.ai for more info!](https://africlimate.ai/)**
 
-**Would you like to partner with us?**
+## Contributors
 
-Get in touch! [contact@climateainordics.com](mailto:contact@climateainordics.com).
+![](/images/partners/rise.svg)
+
+RISE is Sweden’s research institute and innovation partner. Through our international collaboration programmes with industry, academia and the public sector, we ensure the competitiveness of the Swedish business community on an international level and contribute to a sustainable society. Our almost 3300 employees engage in and support all types of innovation processes. RISE is an independent, State-owned research institute, which offers unique expertise and over 130 testbeds and demonstration environments for future-proof technologies, products and services.
+
 
