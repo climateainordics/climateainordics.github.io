@@ -64,12 +64,6 @@ Earth observation *  Biodiversity *  Marine ecology *  Efficient or sustainable 
 </div>
 
 ## Affiliates - Recently Joined
-<div markdown="1" data-tags="Sustainable cities, Sustainable production">
-<span title="Studying individual and societal adaptation to ICT (including AI). PhD, ResearcherInternational Institute for Industrial Environmental Economics,Lund University."><strong>Matthias Lehner, PhD, Researcher, International Institute for Industrial Environmental Economics,Lund University</strong></span>
-<br />
-Sustainable cities *  Sustainable production * [More info (researcher profile)](https://www.iiiee.lu.se/matthias-lehner) * [Publications (Scholar)](https://scholar.google.com/citations?user=eNYb2FsAAAAJ) * [ORCID](https://orcid.org/0000-0003-1571-7453)
-</div>
-
 <div markdown="1" data-tags="">
 <span title="PhD StudentChalmers."><strong>Hannah Frostenberg, PhD Student, Chalmers</strong></span>
 <br />
@@ -357,6 +351,12 @@ Earth observation *  Urban planning *  Sustainable cities *  Computer vision *  
 <span title="focus on AI for mapping and sustaniable management of forest resources. PhD, ResearcherNorwegian Institute of Bioeconomy Research (NIBIO)."><strong>Rasmus Astrup, PhD, Researcher, Norwegian Institute of Bioeconomy Research (NIBIO)</strong></span>
 <br />
 Earth observation *  Biodiversity *  Sustainable production *  Computer vision *  Machine learning *  Deep learning * [More info (researcher profile)](https://www.smartforest.no) * [Research group](https://SmartForest) * [Publications (Scholar)](https://scholar.google.com/citations?user=8agrzhcAAAAJ)
+</div>
+
+<div markdown="1" data-tags="Sustainable cities, Sustainable production">
+<span title="Studying individual and societal adaptation to ICT (including AI). PhD, ResearcherInternational Institute for Industrial Environmental Economics,Lund University."><strong>Matthias Lehner, PhD, Researcher, International Institute for Industrial Environmental Economics,Lund University</strong></span>
+<br />
+Sustainable cities *  Sustainable production * [More info (researcher profile)](https://www.iiiee.lu.se/matthias-lehner) * [Publications (Scholar)](https://scholar.google.com/citations?user=eNYb2FsAAAAJ) * [ORCID](https://orcid.org/0000-0003-1571-7453)
 </div>
 
 <div markdown="1" data-tags="">
