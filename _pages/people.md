@@ -22,11 +22,11 @@ Scroll past the Core Team, and you can filter researchers based on research inte
 
 ## Core Team
 
-{% include board-from-form.md %}
+{% include people-from-form-count.md %}
 
 {% include people-dropdown.md %}
 
-{% include people-from-form-count.md %}
+{% include board-from-form.md %}
 
 {% include people-from-form.md %}
 
