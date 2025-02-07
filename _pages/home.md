@@ -28,11 +28,11 @@ Climate AI Nordics strongly supports the pioneering work of the global non-profi
 Climate AI Nordics promotes the development of AI-based analytical tools and optimization techniques that can inform decision-making processes crucial for ensuring a sustainable future for generations to come. In particular, we recognize that technology, particularly AI-based solutions, can play a role in supporting efforts such as rewilding, rewetting, and reducing emissions and the reliance on fossil fuels.
 
 By bringing together researchers in the Nordic countries, Climate AI Nordics aims to accelerate progress in this critical field, enabling the sharing of expertise and resources to develop impactful AI solutions for climate change mitigation and adaptation.
+
 <!--
 * Foster collaboration and knowledge exchange through seminars and workshops.
 * Help develop AI-driven solutions that contribute to the creation of climate-friendly products and services, optimize processes for efficiency and sustainability, and promote justice in addressing the impacts of climate change.
-We hope that the collaborative nature of Climate AI Nordics will accelerate progress in this critical field, enabling the sharing of expertise and resources to develop impactful AI solutions for climate change mitigation and adaptation.
--->
+We hope that the collaborative nature of Climate AI Nordics will accelerate progress in this critical field, enabling the sharing of expertise and resources to develop impactful AI solutions for climate change mitigation and adaptation.-->
 
 [Join Climate AI Nordics now!](/join/)
 
