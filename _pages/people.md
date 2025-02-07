@@ -20,8 +20,6 @@ We're a network of researchers who work on problems related to tackling climate 
 
 Scroll past the Core Team, and you can filter researchers based on research interest.
 
-## Core Team
-
 {% include people-from-form-count.md %}
 
 {% include people-dropdown.md %}
