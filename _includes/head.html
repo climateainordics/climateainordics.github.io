@@ -21,9 +21,7 @@
 <meta http-equiv="cleartype" content="on">
 
 {% if social_media_image %}
-<meta name="og:image" content="{{ social_media_image }}">
-<meta name="image" content="{{ social_media_image }}">
+<meta property="og:image" name="image" content="{{ social_media_image }}">
 {% else %}
-<meta name="og:image" content="/images/climateainordics-logo-with-text-on-side-white-bg-1200x600.png">
-<meta name="image" content="/images/climateainordics-logo-with-text-on-side-white-bg-1200x600.png">
+<meta property="og:image" name="image" content="/images/climateainordics-logo-with-text-on-side-white-bg-1200x600.png">
 {% endif %}
