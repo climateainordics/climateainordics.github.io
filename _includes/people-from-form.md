@@ -594,3 +594,9 @@ Climate Modeling * Sustainable Cities * Efficient Or Sustainable AI
 <br />
 Earth Observation * Climate Modeling * Biodiversity * Marine Ecology * NLP * Computer Vision * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=R5astmYAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-2348-6782)
 </div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Computer Vision,Machine Learning,Deep Learning">
+<span title="PhD, ResearcherSwedish University of Agricultural Sciences."><strong>Magali Frauendorf, PhD, Researcher, Swedish University of Agricultural Sciences</strong></span>
+<br />
+Biodiversity * Computer Vision * Machine Learning * Deep Learning * [Research group](https://www.slu.se/en/ew-cv/magali-frauendorf/) * [Publications (Scholar)](https://scholar.google.com/citations?user=tfJ52c8AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-1608-8396) * [BlueSky](https://bsky.app/profile/mfrauendorf.bsky.social)
+</div>
