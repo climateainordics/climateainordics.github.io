@@ -606,3 +606,9 @@ Biodiversity * Computer Vision * Machine Learning * Deep Learning * [Research gr
 <br />
 Earth Observation * NLP * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://maciej.wielgosz.info/) * [Publications (Scholar)](https://scholar.google.co.uk/citations?user=j563WT8AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-4401-2957)
 </div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Sustainable Cities,Sustainable Production,Machine Learning">
+<span title="ResearcherUniversity of Hamburg."><strong>Swarnalee Mazumder, Researcher, University of Hamburg</strong></span>
+<br />
+Earth Observation * Climate Modeling * Biodiversity * Sustainable Cities * Sustainable Production * Machine Learning
+</div>
