@@ -1,3 +1,10 @@
+## Affiliates - Recently Joined
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Marine Ecology,Efficient Or Sustainable AI,Soundscape Analysis,Machine Learning,Deep Learning">
+<span title="AI researcher with expertise in audio signals and policy. PhD, ResearcherRISE."><strong>Delia Fano Yela, PhD, Researcher, RISE</strong></span>
+<br />
+Earth Observation * Biodiversity * Marine Ecology * Efficient Or Sustainable AI * Soundscape Analysis * Machine Learning * Deep Learning * [More info (researcher profile)](https://delialia.github.io/) * [Publications (Scholar)](https://scholar.google.co.uk/citations?user=fUp2rucAAAAJ)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -127,12 +134,6 @@ Climate Modeling * Biodiversity * Sustainable Transport * Sustainable Cities * S
 
 <div class="content" markdown="1" data-tags="">
 <span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. PhD, ResearcherRISE Research Institutes of Sweden."><strong>Smita Chakraborty, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
-<br />
-
-</div>
-
-<div class="content" markdown="1" data-tags="">
-<span title="AI researcher with expertise in audio signals. PhD, ResearcherRISE Research Institutes of Sweden."><strong>Delia Fano, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
 <br />
 
 </div>
