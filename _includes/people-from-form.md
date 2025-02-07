@@ -600,3 +600,9 @@ Earth Observation * Climate Modeling * Biodiversity * Marine Ecology * NLP * Com
 <br />
 Biodiversity * Computer Vision * Machine Learning * Deep Learning * [Research group](https://www.slu.se/en/ew-cv/magali-frauendorf/) * [Publications (Scholar)](https://scholar.google.com/citations?user=tfJ52c8AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-1608-8396) * [BlueSky](https://bsky.app/profile/mfrauendorf.bsky.social)
 </div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,NLP,Computer Vision,Machine Learning,Deep Learning">
+<span title="My expertise lies in the field of machine learning; I&#x27;m dealing with Point Cloud segmentation models. My primary focus is to address the challenges posed by sparse sections of point clouds, especially those that are crucial for forestry applications, like the sections near the base of tree trunks. While data from drones and airplanes is readily accessible, ensuring high semantic accuracy during processing can be quite intricate. Therefore, new methods in point cloud instance and semantic segmentation are needed. PhD, ResearcherNIBIO."><strong>Maciej Wielgosz, PhD, Researcher, NIBIO</strong></span>
+<br />
+Earth Observation * NLP * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://maciej.wielgosz.info/) * [Publications (Scholar)](https://scholar.google.co.uk/citations?user=j563WT8AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-4401-2957)
+</div>
