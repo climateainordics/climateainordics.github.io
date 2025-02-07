@@ -52,6 +52,6 @@ Planning and maintenance of the research network is carried out by our **core te
 
 ## What are the Nordics?
 
-Anyone active within AI for addressing climate change in any way is welcome to join Climate AI Nordics. We don't have a strict requirement for our members to be affiliated with a Nordic institution; neighbours are welcome! However, the content and the events in this network will be based in the Nordic countries. For those of you who are confused about what the Nordic countries are, we refer you to the informative Youtube video from CGP Grey discussing the Nordics, and Scandinavia.
+Anyone active within AI for addressing climate change or environmental issues more broadly is welcome to join Climate AI Nordics. Also, we don't have a strict requirement for our members to be affiliated with a Nordic institution; neighbours are welcome! However, the content and the events in this network will be based in the Nordic countries. For those of you who are confused about what the Nordic countries are, we refer you to the informative Youtube video from CGP Grey discussing the Nordics, and Scandinavia.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TsXMe8H6iyc?si=IJ9u3i-gEXubN9zq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
