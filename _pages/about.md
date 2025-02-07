@@ -31,12 +31,12 @@ We are a [network of researchers](/people/) dedicated to developing and utilizin
 
 Climate AI Nordics promotes the development of AI-based analytical tools and optimization techniques that can inform decision-making processes crucial for ensuring a sustainable future for generations to come. In particular, we recognize that technology, particularly AI-based solutions, can play a role in supporting efforts such as rewilding, rewetting, and reducing emissions and the reliance on fossil fuels.
 
-By bringing together researchers in the Nordic countries, Climate AI Nordics aims to:
+By bringing together researchers in the Nordic countries, Climate AI Nordics aims to accelerate progress in this critical field, enabling the sharing of expertise and resources to develop impactful AI solutions for climate change mitigation and adaptation.
 
+<!--
 * Foster collaboration and knowledge exchange through seminars and workshops.
 * Help develop AI-driven solutions that contribute to the creation of climate-friendly products and services, optimize processes for efficiency and sustainability, and promote justice in addressing the impacts of climate change.
-
-We hope that the collaborative nature of Climate AI Nordics will accelerate progress in this critical field, enabling the sharing of expertise and resources to develop impactful AI solutions for climate change mitigation and adaptation.
+We hope that the collaborative nature of Climate AI Nordics will accelerate progress in this critical field, enabling the sharing of expertise and resources to develop impactful AI solutions for climate change mitigation and adaptation.-->
 
 [Join Climate AI Nordics now!](/join/)
 
@@ -44,7 +44,7 @@ We hope that the collaborative nature of Climate AI Nordics will accelerate prog
 
 ## Core team
 
-Planning and maintenance of the research network is carried out by our **core team**. This includes planning events, collecting information for and running the web page, taking care of the social media channels, compiling and editing the newsletter. 
+Planning and maintenance of the research network is carried out by our **core team**. This includes planning events, collecting information for and running the webpage, taking care of our social media channels, and compiling and editing newsletters. 
 
 **Members of the core team:**
 
