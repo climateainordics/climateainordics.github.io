@@ -9,4 +9,4 @@ image: /images/partners/gwc.png
 
 We are excited to share our partnership with [Global Wetland Center](https://globalwetlandcenter.ku.dk/) 🌍✨!
 
-Read more on our [/partners/](partner page)!
+Read more on our [partner page](https://climateainordics.com/partners/)!
