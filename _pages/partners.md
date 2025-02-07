@@ -40,6 +40,8 @@ AfriClimateAI is a grassroots community dedicated to harnessing the power of Art
 
 The Global Wetland Center (GWC) is a collaborative initiative that involves experts and scientists from a diverse set of fields, including computer science & machine learning, ecology & natural resource management, as well as geography & remote sensing. Our center focuses on integrating wetlands into climate change mitigation strategies.
 
+**[Read more on GWC's web page!](https://globalwetlandcenter.ku.dk/)**
+
 ## Sponsors
 
 ![](/images/partners/rise.svg)
