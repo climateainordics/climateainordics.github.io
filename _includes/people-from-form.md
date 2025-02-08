@@ -612,3 +612,9 @@ Earth Observation * NLP * Computer Vision * Machine Learning * Deep Learning * [
 <br />
 Earth Observation * Climate Modeling * Biodiversity * Sustainable Cities * Sustainable Production * Machine Learning
 </div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Computer Vision,Machine Learning,Deep Learning">
+<span title="ResearcherFinnish Meteorological Institute."><strong>Ayush Prasad, Researcher, Finnish Meteorological Institute</strong></span>
+<br />
+Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.fi/citations?user=5rZmFXsAAAAJ&amp;hl=en) * [BlueSky](https://bsky.app/profile/ayushprd.bsky.social)
+</div>
