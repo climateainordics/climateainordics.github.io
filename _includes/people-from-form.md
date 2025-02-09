@@ -1,10 +1,3 @@
-## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Marine Ecology,Efficient Or Sustainable AI,Soundscape Analysis,Machine Learning,Deep Learning">
-<span title="AI researcher with expertise in audio signals and policy. PhD, ResearcherRISE."><strong>Delia Fano Yela, PhD, Researcher, RISE</strong></span>
-<br />
-Earth Observation * Biodiversity * Marine Ecology * Efficient Or Sustainable AI * Soundscape Analysis * Machine Learning * Deep Learning * [More info (researcher profile)](https://delialia.github.io/) * [Publications (Scholar)](https://scholar.google.co.uk/citations?user=fUp2rucAAAAJ)
-</div>
-
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -286,6 +279,12 @@ Earth Observation * Biodiversity * Sustainable Production * Computer Vision * Ma
 <span title="Studying individual and societal adaptation to ICT (including AI). PhD, ResearcherInternational Institute for Industrial Environmental Economics,Lund University."><strong>Matthias Lehner, PhD, Researcher, International Institute for Industrial Environmental Economics,Lund University</strong></span>
 <br />
 Sustainable Cities * Sustainable Production * [More info (researcher profile)](https://www.iiiee.lu.se/matthias-lehner) * [Publications (Scholar)](https://scholar.google.com/citations?user=eNYb2FsAAAAJ) * [ORCID](https://orcid.org/0000-0003-1571-7453)
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Marine Ecology,Efficient Or Sustainable AI,Soundscape Analysis,Machine Learning,Deep Learning">
+<span title="AI researcher with expertise in audio signals and policy. PhD, ResearcherRISE."><strong>Delia Fano Yela, PhD, Researcher, RISE</strong></span>
+<br />
+Earth Observation * Biodiversity * Marine Ecology * Efficient Or Sustainable AI * Soundscape Analysis * Machine Learning * Deep Learning * [More info (researcher profile)](https://delialia.github.io/) * [Publications (Scholar)](https://scholar.google.co.uk/citations?user=fUp2rucAAAAJ)
 </div>
 
 <div class="content" markdown="1" data-tags="">
