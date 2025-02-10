@@ -617,3 +617,9 @@ Earth Observation * Climate Modeling * Biodiversity * Sustainable Cities * Susta
 <br />
 Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.fi/citations?user=5rZmFXsAAAAJ&amp;hl=en) * [BlueSky](https://bsky.app/profile/ayushprd.bsky.social)
 </div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Computer Vision,Machine Learning,Deep Learning">
+<span title="Hi, I&#x27;m Lucia! I&#x27;m a PhD student in Computer Science at Harvard’s School for Engineering and Applied Sciences. I&#x27;m a researcher in Andrew Davies&#x27; lab at Harvard University and the Pioneer Centre for Artificial Intelligence in Denmark, affiliated with Christian Igel&#x27;s and Serge Belongie&#x27;s groups at the University of Copenhagen. I work on machine learning for Earth observation data, in particular remotely sensed imagery. I&#x27;m interested in computer vision, multimodality, active learning, dataset imbalance, and machine learning software for ecology. PhD StudentUniversity of Copenhagen."><strong>Lucia Gordon, PhD Student, University of Copenhagen</strong></span>
+<br />
+Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://lgordon99.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=DNO7ibYAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-3219-6960) * [BlueSky](https://bsky.app/profile/luciagordon.bsky.social)
+</div>
