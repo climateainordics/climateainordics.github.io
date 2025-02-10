@@ -28,7 +28,7 @@ Get in touch! [contact@climateainordics.com](mailto:contact@climateainordics.com
 
 The Swedish Centre for Impacts of Climate Extremes (climes) is a platform for research and training to promote scientific progress in the study of climate extremes and support societal resilience. The centre bridges the physical, medical, social and engineering sciences and focuses on three overarching themes: compiling data on impacts of climate extremes; investigating the societal and physical interplays determining the impacts of an extreme; and building policy-actionable scenarios of impacts of future extremes. The Centre is funded by the Swedish Research Council.
 
-**[Read more on climes' web page!](https://climes.se/)**
+**[Read more on climes' webpage!](https://climes.se/)**
 
 ![](/images/partners/africlimateai.png)
 
@@ -40,7 +40,13 @@ AfriClimateAI is a grassroots community dedicated to harnessing the power of Art
 
 The Global Wetland Center (GWC) is a collaborative initiative that involves experts and scientists from a diverse set of fields, including computer science & machine learning, ecology & natural resource management, as well as geography & remote sensing. Our center focuses on integrating wetlands into climate change mitigation strategies.
 
-**[Read more on GWC's web page!](https://globalwetlandcenter.ku.dk/)**
+**[Read more on GWC's webpage!](https://globalwetlandcenter.ku.dk/)**
+
+![](/images/partners/Klimatkollen_Black.png)
+
+Klimatkollen is a Swedish open source citizen platform visualizing climate data about municipalities and companies. The aim is to contribute to more engaged citizens, a more fact-based climate debate, and actions that reduce emissions in line with the Paris Agreement. Klimatkollen is run by the nonprofit organization Klimatbyrån.
+
+**[Read more on the Klimatkollen's webpage!](https://www.klimatkollen.se/in-english)**
 
 ## Sponsors
 
