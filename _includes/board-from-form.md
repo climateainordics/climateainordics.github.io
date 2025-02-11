@@ -13,6 +13,12 @@ Earth Observation * Biodiversity * Deep Learning * Efficient Or Sustainable AI *
 Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://aleksispi.github.io) * [Research group](https://dl-group.se) * [Publications (Scholar)](https://scholar.google.com/citations?user=paBGTgsAAAAJ&amp;hl=en) * [BlueSky](https://bsky.app/profile/aleksispi.bsky.social)
 </div>
 
+<div class="content" markdown="1" data-tags="">
+<span title="Alouette van Hove is a PhD candidate at the University of Oslo. Her research interests includes the development of a novel framework to estimate land surface fluxes at a regional scale. The framework makes use of sensor measurements from drones, data assimilation, atmospheric fluid dynamics modeling, and reinforcement learning techniques. The goal is to deliver high-resolution surface maps of greenhouse gas fluxes in northern landscapes for validation of climate models. PhD StudentUniversity of Oslo."><strong>Alouette van Hove, PhD Student, University of Oslo</strong></span>
+<br />
+
+</div>
+
 <div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Computer Vision,Machine Learning,Deep Learning,Remote Sensing">
 ![Nico Lang](/images/people/lang.jpg)
 <span title="Post DocUniversity of Copenhagen."><strong>Nico Lang, Post Doc, University of Copenhagen</strong></span>

@@ -349,12 +349,6 @@ Sustainable Cities * Sustainable Production * Efficient Or Sustainable AI * Mach
 </div>
 
 <div class="content" markdown="1" data-tags="">
-<span title="Alouette van Hove is a PhD candidate at the University of Oslo. Her research interests includes the development of a novel framework to estimate land surface fluxes at a regional scale. The framework makes use of sensor measurements from drones, data assimilation, atmospheric fluid dynamics modeling, and reinforcement learning techniques. The goal is to deliver high-resolution surface maps of greenhouse gas fluxes in northern landscapes for validation of climate models. PhD StudentUniversity of Oslo."><strong>Alouette van Hove, PhD Student, University of Oslo</strong></span>
-<br />
-
-</div>
-
-<div class="content" markdown="1" data-tags="">
 <span title="PhD StudentRISE Research Institutes of Sweden / Uppsala University."><strong>Maria Bånkesad, PhD Student, RISE Research Institutes of Sweden / Uppsala University</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=4tKNCSkAAAAJ) * [ORCID](https://orcid.org/0009-0007-5465-7170)
