@@ -1,3 +1,10 @@
+## Affiliates - Recently Joined
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Computer Vision,Machine Learning,Deep Learning">
+<span title="Hi, I&#x27;m Lucia! I&#x27;m a PhD student in Computer Science at Harvard’s School for Engineering and Applied Sciences. I&#x27;m a researcher in Andrew Davies&#x27; lab at Harvard University and the Pioneer Centre for Artificial Intelligence in Denmark, affiliated with Christian Igel&#x27;s and Serge Belongie&#x27;s groups at the University of Copenhagen. I work on machine learning for Earth observation data, in particular remotely sensed imagery. I&#x27;m interested in computer vision, multimodality, active learning, dataset imbalance, and machine learning software for ecology. PhD StudentUniversity of Copenhagen."><strong>Lucia Gordon, PhD Student, University of Copenhagen</strong></span>
+<br />
+Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://lgordon99.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=DNO7ibYAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-3219-6960) * [BlueSky](https://bsky.app/profile/luciagordon.bsky.social)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -285,6 +292,12 @@ Sustainable Cities * Sustainable Production * [More info (researcher profile)](h
 <span title="AI researcher with expertise in audio signals and policy. PhD, ResearcherRISE."><strong>Delia Fano Yela, PhD, Researcher, RISE</strong></span>
 <br />
 Earth Observation * Biodiversity * Marine Ecology * Efficient Or Sustainable AI * Soundscape Analysis * Machine Learning * Deep Learning * [More info (researcher profile)](https://delialia.github.io/) * [Publications (Scholar)](https://scholar.google.co.uk/citations?user=fUp2rucAAAAJ)
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Computer Vision,Machine Learning,Deep Learning">
+<span title="PhD, ResearcherSwedish University of Agricultural Sciences."><strong>Magali Frauendorf, PhD, Researcher, Swedish University of Agricultural Sciences</strong></span>
+<br />
+Biodiversity * Computer Vision * Machine Learning * Deep Learning * [Research group](https://www.slu.se/en/ew-cv/magali-frauendorf/) * [Publications (Scholar)](https://scholar.google.com/citations?user=tfJ52c8AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-1608-8396) * [BlueSky](https://bsky.app/profile/mfrauendorf.bsky.social)
 </div>
 
 <div class="content" markdown="1" data-tags="">
@@ -594,12 +607,6 @@ Climate Modeling * Sustainable Cities * Efficient Or Sustainable AI
 Earth Observation * Climate Modeling * Biodiversity * Marine Ecology * NLP * Computer Vision * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=R5astmYAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-2348-6782)
 </div>
 
-<div class="content" markdown="1" data-tags="Biodiversity,Computer Vision,Machine Learning,Deep Learning">
-<span title="PhD, ResearcherSwedish University of Agricultural Sciences."><strong>Magali Frauendorf, PhD, Researcher, Swedish University of Agricultural Sciences</strong></span>
-<br />
-Biodiversity * Computer Vision * Machine Learning * Deep Learning * [Research group](https://www.slu.se/en/ew-cv/magali-frauendorf/) * [Publications (Scholar)](https://scholar.google.com/citations?user=tfJ52c8AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-1608-8396) * [BlueSky](https://bsky.app/profile/mfrauendorf.bsky.social)
-</div>
-
 <div class="content" markdown="1" data-tags="Earth Observation,NLP,Computer Vision,Machine Learning,Deep Learning">
 <span title="My expertise lies in the field of machine learning; I&#x27;m dealing with Point Cloud segmentation models. My primary focus is to address the challenges posed by sparse sections of point clouds, especially those that are crucial for forestry applications, like the sections near the base of tree trunks. While data from drones and airplanes is readily accessible, ensuring high semantic accuracy during processing can be quite intricate. Therefore, new methods in point cloud instance and semantic segmentation are needed. PhD, ResearcherNIBIO."><strong>Maciej Wielgosz, PhD, Researcher, NIBIO</strong></span>
 <br />
@@ -616,10 +623,4 @@ Earth Observation * Climate Modeling * Biodiversity * Sustainable Cities * Susta
 <span title="ResearcherFinnish Meteorological Institute."><strong>Ayush Prasad, Researcher, Finnish Meteorological Institute</strong></span>
 <br />
 Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.fi/citations?user=5rZmFXsAAAAJ&amp;hl=en) * [BlueSky](https://bsky.app/profile/ayushprd.bsky.social)
-</div>
-
-<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Computer Vision,Machine Learning,Deep Learning">
-<span title="Hi, I&#x27;m Lucia! I&#x27;m a PhD student in Computer Science at Harvard’s School for Engineering and Applied Sciences. I&#x27;m a researcher in Andrew Davies&#x27; lab at Harvard University and the Pioneer Centre for Artificial Intelligence in Denmark, affiliated with Christian Igel&#x27;s and Serge Belongie&#x27;s groups at the University of Copenhagen. I work on machine learning for Earth observation data, in particular remotely sensed imagery. I&#x27;m interested in computer vision, multimodality, active learning, dataset imbalance, and machine learning software for ecology. PhD StudentUniversity of Copenhagen."><strong>Lucia Gordon, PhD Student, University of Copenhagen</strong></span>
-<br />
-Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://lgordon99.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=DNO7ibYAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-3219-6960) * [BlueSky](https://bsky.app/profile/luciagordon.bsky.social)
 </div>
