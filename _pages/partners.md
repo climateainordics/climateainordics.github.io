@@ -44,7 +44,7 @@ The Global Wetland Center (GWC) is a collaborative initiative that involves expe
 
 ![](/images/partners/Klimatkollen_Black.png)
 
-Klimatkollen is a Swedish open source citizen platform visualizing climate data about municipalities and companies. The aim is to contribute to more engaged citizens, a more fact-based climate debate, and actions that reduce emissions in line with the Paris Agreement. Klimatkollen is run by the nonprofit organization Klimatbyrån.
+Klimatkollen is a Swedish open source citizen platform visualizing climate data about municipalities and companies. The aim is to contribute to more engaged citizens, a more fact-based climate debate, and actions that reduce emissions in line with the Paris Agreement. Klimatkollen is run by the nonprofit organization Klimatbyrån. Check out [this Swedish text](https://www.mynewsdesk.com/se/klimatbyraan/pressreleases/klimatkollen-ny-partner-till-climate-ai-nordics-3368777) for more about the partnership.
 
 **[Read more on the Klimatkollen's webpage!](https://www.klimatkollen.se/in-english)**
 
