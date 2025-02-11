@@ -624,3 +624,9 @@ Earth Observation * Climate Modeling * Biodiversity * Sustainable Cities * Susta
 <br />
 Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.fi/citations?user=5rZmFXsAAAAJ&amp;hl=en) * [BlueSky](https://bsky.app/profile/ayushprd.bsky.social)
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Computer Vision,Machine Learning">
+<span title="CEO &amp; Cofounder of Unibloom - the predictive climate data &amp; modelling platform for seamless collaboration and decision making in food and CPG. IndustryUnibloom World."><strong>anna sandgren, Industry, Unibloom World</strong></span>
+<br />
+Climate Modeling * Computer Vision * Machine Learning * [More info (researcher profile)](https://unibloom.world) * [Research group](https://unibloom.world)
+</div>
