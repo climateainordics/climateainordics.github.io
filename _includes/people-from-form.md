@@ -1,10 +1,3 @@
-## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Computer Vision,Machine Learning,Deep Learning">
-<span title="Hi, I&#x27;m Lucia! I&#x27;m a PhD student in Computer Science at Harvard’s School for Engineering and Applied Sciences. I&#x27;m a researcher in Andrew Davies&#x27; lab at Harvard University and the Pioneer Centre for Artificial Intelligence in Denmark, affiliated with Christian Igel&#x27;s and Serge Belongie&#x27;s groups at the University of Copenhagen. I work on machine learning for Earth observation data, in particular remotely sensed imagery. I&#x27;m interested in computer vision, multimodality, active learning, dataset imbalance, and machine learning software for ecology. PhD StudentUniversity of Copenhagen."><strong>Lucia Gordon, PhD Student, University of Copenhagen</strong></span>
-<br />
-Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://lgordon99.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=DNO7ibYAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-3219-6960) * [BlueSky](https://bsky.app/profile/luciagordon.bsky.social)
-</div>
-
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -478,6 +471,12 @@ Earth Observation * Computer Vision * Machine Learning * Deep Learning * [Public
 <span title="PhD StudentChalmers."><strong>Hannah Frostenberg, PhD Student, Chalmers</strong></span>
 <br />
 [ORCID](https://orcid.org/0000-0002-0630-4123)
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Computer Vision,Machine Learning,Deep Learning">
+<span title="Hi, I&#x27;m Lucia! I&#x27;m a PhD student in Computer Science at Harvard’s School for Engineering and Applied Sciences. I&#x27;m a researcher in Andrew Davies&#x27; lab at Harvard University and the Pioneer Centre for Artificial Intelligence in Denmark, affiliated with Christian Igel&#x27;s and Serge Belongie&#x27;s groups at the University of Copenhagen. I work on machine learning for Earth observation data, in particular remotely sensed imagery. I&#x27;m interested in computer vision, multimodality, active learning, dataset imbalance, and machine learning software for ecology. PhD StudentUniversity of Copenhagen."><strong>Lucia Gordon, PhD Student, University of Copenhagen</strong></span>
+<br />
+Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://lgordon99.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=DNO7ibYAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-3219-6960) * [BlueSky](https://bsky.app/profile/luciagordon.bsky.social)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
