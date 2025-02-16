@@ -623,3 +623,9 @@ Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep
 <br />
 Climate Modeling * Computer Vision * Machine Learning * [More info (researcher profile)](https://unibloom.world) * [Research group](https://unibloom.world)
 </div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Computer Vision,Deep Learning">
+<span title="My main research interest is computer vision for Earth Observation, with a focus on large-scale mapping from satellite imagery. Post DocUniversity of Copenhagen."><strong>Dimitri Gominski, Post Doc, University of Copenhagen</strong></span>
+<br />
+Earth Observation * Computer Vision * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=E7PSiHkAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-8135-1341)
+</div>
