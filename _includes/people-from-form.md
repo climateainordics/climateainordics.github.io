@@ -307,6 +307,12 @@ Earth Observation * NLP * Computer Vision * Machine Learning * Deep Learning * [
 </div>
 
 <div class="content" markdown="1" data-tags="">
+<span title="Researcher at Rossby Centre, SMHI. Expert in machine learning for climate applications. PhD, ResearcherSMHI, Rossby Centre."><strong>Mikhail Ivanov, PhD, Researcher, SMHI, Rossby Centre</strong></span>
+<br />
+[ORCID](https://orcid.org/0000-0001-5234-7848)
+</div>
+
+<div class="content" markdown="1" data-tags="">
 <span title="I&#x27;m a PhD student at the Center for Mathematical Sciences focusing on anomaly detection and machine learning in earth observations and remote sensing. PhD StudentLund University."><strong>Oskar Åström, PhD Student, Lund University</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=D864NLwAAAAJ) * [ORCID](https://orcid.org/0009-0005-5507-4829)
@@ -493,7 +499,7 @@ Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep
 </div>
 
 <div class="content" markdown="1" data-tags="">
-<span title="1508 - a part of Knowit."><strong>Lisbeth Torp Christensen, 1508 - a part of Knowit</strong></span>
+<span title="Senior UX Designer1508."><strong>Lisbeth Torp Christensen, Senior UX Designer, 1508</strong></span>
 <br />
 
 </div>
@@ -505,9 +511,9 @@ Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Lea
 </div>
 
 <div class="content" markdown="1" data-tags="">
-<span title="SMHI, Rossby Centre."><strong>Mikhail Ivanov, SMHI, Rossby Centre</strong></span>
+<span title="PhD StudentUniversity of Copenhagen / Pioneer Centre for AI."><strong>Lucia Gordon, PhD Student, University of Copenhagen / Pioneer Centre for AI</strong></span>
 <br />
-
+[Publications (Scholar)](https://scholar.google.com/citations?user=DNO7ibYAAAAJ) * [ORCID](https://orcid.org/0000-0003-3219-6960)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
@@ -650,13 +656,7 @@ Climate Modeling * Computer Vision * Machine Learning * [More info (researcher p
 </div>
 
 <div class="content" markdown="1" data-tags="">
-<span title="Unibloom World."><strong>anna sandgren, Unibloom World</strong></span>
-<br />
-
-</div>
-
-<div class="content" markdown="1" data-tags="">
-<span title="University of Copenhagen."><strong>Lucia Gordon, University of Copenhagen</strong></span>
+<span title="Unibloom World."><strong>Anna Sandgren, Unibloom World</strong></span>
 <br />
 
 </div>
