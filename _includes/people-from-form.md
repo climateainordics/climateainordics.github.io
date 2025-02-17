@@ -5,6 +5,12 @@
 Earth Observation * Computer Vision * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=E7PSiHkAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-8135-1341)
 </div>
 
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Urban Planning,Machine Learning,Ecosystem Services">
+<span title="I am senior lecturer and subject representative of Geomatics at Karlstad university (Kau) as well as research coordinator for the NEOGEO research group there. My research interests lie mainly in method development within GIS and remote sensing frameworks from a sustainability and climate adaptation/mitigation perspective, with the overarching goal of improving the well-being of humans and other living organisms on our Earth through development of technical solutions and contributions to the scientific knowledge base.I hold a PhD in remote sensing and geographic information technology (GIT). Research DirectorKarlstad university."><strong>Jan Haas, Research Director, Karlstad university</strong></span>
+<br />
+Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Machine Learning * Ecosystem Services * [More info (researcher profile)](https://www.kau.se/en/researchers/jan-haas) * [ORCID](https://orcid.org/0000-0002-6140-2922)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -647,12 +653,6 @@ Earth Observation * Climate Modeling * Biodiversity * Sustainable Cities * Susta
 <span title="CEO &amp; Cofounder of Unibloom - the predictive climate data &amp; modelling platform for seamless collaboration and decision making in food and CPG. IndustryUnibloom World."><strong>Anna Sandgren, Industry, Unibloom World</strong></span>
 <br />
 Climate Modeling * Computer Vision * Machine Learning * [More info (researcher profile)](https://unibloom.world) * [Research group](https://unibloom.world)
-</div>
-
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Urban Planning,Machine Learning,Ecosystem Services">
-<span title="I am senior lecturer and subject representative of Geomatics at Karlstad university (Kau) as well as research coordinator for the NEOGEO research group there. My research interests lie mainly in method development within GIS and remote sensing frameworks from a sustainability and climate adaptation/mitigation perspective, with the overarching goal of improving the well-being of humans and other living organisms on our Earth through development of technical solutions and contributions to the scientific knowledge base.I hold a PhD in remote sensing and geographic information technology (GIT). Research DirectorKarlstad university."><strong>Jan Haas, Research Director, Karlstad university</strong></span>
-<br />
-Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Machine Learning * Ecosystem Services * [More info (researcher profile)](https://www.kau.se/en/researchers/jan-haas) * [ORCID](https://orcid.org/0000-0002-6140-2922)
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Efficient Or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
