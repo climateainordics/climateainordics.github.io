@@ -2,14 +2,15 @@
 <select id="tagFilter">
 <option value="all">Show All</option>
 <option value="Bayesian Optimisation">Bayesian Optimisation (1)</option>
-<option value="Biodiversity">Biodiversity (29)</option>
+<option value="Biodiversity">Biodiversity (30)</option>
 <option value="Climate Impacts">Climate Impacts (1)</option>
-<option value="Climate Modeling">Climate Modeling (27)</option>
+<option value="Climate Modeling">Climate Modeling (28)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
 <option value="Computer Vision">Computer Vision (37)</option>
 <option value="Deep Learning">Deep Learning (50)</option>
-<option value="Earth Observation">Earth Observation (38)</option>
+<option value="Earth Observation">Earth Observation (39)</option>
 <option value="Ecosystem Monitoring And Modelling">Ecosystem Monitoring And Modelling (1)</option>
+<option value="Ecosystem Services">Ecosystem Services (1)</option>
 <option value="Education">Education (1)</option>
 <option value="Efficient Or Sustainable AI">Efficient Or Sustainable AI (25)</option>
 <option value="Environment Impacts Of AI">Environment Impacts Of AI (1)</option>
@@ -20,7 +21,7 @@
 <option value="HPC">HPC (1)</option>
 <option value="Impact On Climate Change On Health">Impact On Climate Change On Health (1)</option>
 <option value="Knowledge Graphs">Knowledge Graphs (1)</option>
-<option value="Machine Learning">Machine Learning (53)</option>
+<option value="Machine Learning">Machine Learning (54)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (9)</option>
 <option value="Materials And Atmospheric Science">Materials And Atmospheric Science (1)</option>
@@ -34,7 +35,7 @@
 <option value="Sustainable Production">Sustainable Production (14)</option>
 <option value="Sustainable Space Exploration And Research">Sustainable Space Exploration And Research (1)</option>
 <option value="Sustainable Transport">Sustainable Transport (11)</option>
-<option value="Urban Planning">Urban Planning (11)</option>
+<option value="Urban Planning">Urban Planning (12)</option>
 <option value="Weather Forecasting">Weather Forecasting (1)</option></select>
 
 <script>
