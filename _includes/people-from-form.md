@@ -654,3 +654,15 @@ Climate Modeling * Computer Vision * Machine Learning * [More info (researcher p
 <br />
 Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Machine Learning * Ecosystem Services * [More info (researcher profile)](https://www.kau.se/en/researchers/jan-haas) * [ORCID](https://orcid.org/0000-0002-6140-2922)
 </div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Efficient Or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
+<span title="I am a postdoctoral researcher at the University of Edinburgh, specialising in representation learning, efficient architectures and adaptation across distribution shifts. My research explores applications in climate and healthcare, with a focus on responsible and impactful AI deployment. My work has been published work in top venues, including CVPR, NeurIPS and the IEEE Signal Processing Magazine. Post DocUniversity of Edinburgh."><strong>Linus Ericsson, Post Doc, University of Edinburgh</strong></span>
+<br />
+Earth Observation * Climate Modeling * Biodiversity * Efficient Or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://linusericsson.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=QRW9NN0AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-0634-5072) * [BlueSky](https://bsky.app/profile/linusericsson.bsky.social)
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity">
+<span title="Assistant ProfessorUniversity of Basel."><strong>Sabine Rumpf, Assistant Professor, University of Basel</strong></span>
+<br />
+Biodiversity * [Research group](https://eco.duw.unibas.ch/en/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=de&amp;user=UXJsjRgAAAAJ&amp;view_op=list_works) * [ORCID](https://orcid.org/0000-0001-5909-9568)
+</div>
