@@ -10,7 +10,12 @@ img {
   float: right;
   padding: 1em 0em 1em 1em;
 }
-.hidden { display: none; }
+.hidden {
+  display: none;
+}
+.content {
+  overflow: auto;
+}
 </style>
 
 
