@@ -510,12 +510,6 @@ Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep
 Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://lgordon99.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=DNO7ibYAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-3219-6960) * [BlueSky](https://bsky.app/profile/luciagordon.bsky.social)
 </div>
 
-<div class="content" markdown="1" data-tags="">
-<span title="PhD StudentUniversity of Copenhagen / Pioneer Centre for AI."><strong>Lucia Gordon, PhD Student, University of Copenhagen / Pioneer Centre for AI</strong></span>
-<br />
-[Publications (Scholar)](https://scholar.google.com/citations?user=DNO7ibYAAAAJ) * [ORCID](https://orcid.org/0000-0003-3219-6960)
-</div>
-
 ## Supporting Affiliates (Outside Nordics)
 <div class="content" markdown="1" data-tags="Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Efficient Or Sustainable AI">
 <span title="I am a lecturer in Urban Planning at the University of Auckland, bringing over 13 years of experience in both research and practice. My focus is on addressing climate change challenges, enhancing urban resilience, promoting regeneration, and advocating for environmental justice. I am particularly interested in understanding and mitigating the risks that urban areas encounter, especially those related to climate change and natural hazards. My research examines how cities can adapt to these increasing threats, emphasising resilience, risk reduction, and sustainable planning to protect communities and infrastructure. Assistant ProfessorUniversity of Auckland."><strong>Iresh Jayawardena, Assistant Professor, University of Auckland</strong></span>
@@ -653,10 +647,4 @@ Earth Observation * Climate Modeling * Biodiversity * Sustainable Cities * Susta
 <span title="CEO &amp; Cofounder of Unibloom - the predictive climate data &amp; modelling platform for seamless collaboration and decision making in food and CPG. IndustryUnibloom World."><strong>Anna Sandgren, Industry, Unibloom World</strong></span>
 <br />
 Climate Modeling * Computer Vision * Machine Learning * [More info (researcher profile)](https://unibloom.world) * [Research group](https://unibloom.world)
-</div>
-
-<div class="content" markdown="1" data-tags="">
-<span title="Unibloom World."><strong>Anna Sandgren, Unibloom World</strong></span>
-<br />
-
 </div>
