@@ -14,6 +14,7 @@ Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Lea
 </div>
 
 <div class="content" markdown="1" data-tags="">
+![Alouette van Hove](/images/people/alouette.jpg)
 <span title="Alouette van Hove is a PhD candidate at the University of Oslo. Her research interests includes the development of a novel framework to estimate land surface fluxes at a regional scale. The framework makes use of sensor measurements from drones, data assimilation, atmospheric fluid dynamics modeling, and reinforcement learning techniques. The goal is to deliver high-resolution surface maps of greenhouse gas fluxes in northern landscapes for validation of climate models. PhD StudentUniversity of Oslo."><strong>Alouette van Hove, PhD Student, University of Oslo</strong></span>
 <br />
 
