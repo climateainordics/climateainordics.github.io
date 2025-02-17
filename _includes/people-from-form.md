@@ -666,3 +666,9 @@ Earth Observation * Climate Modeling * Biodiversity * Efficient Or Sustainable A
 <br />
 Biodiversity * [Research group](https://eco.duw.unibas.ch/en/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=de&amp;user=UXJsjRgAAAAJ&amp;view_op=list_works) * [ORCID](https://orcid.org/0000-0001-5909-9568)
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Biodiversity,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
+<span title="Study arctic and antarctic ecosystems, bird migration, run a pan-Arctic acoustic recording network, develop deep learning tools for ecology. Associate ProfessorUniversité de Moncton."><strong>Nicolas Lecomte, Associate Professor, Université de Moncton</strong></span>
+<br />
+Climate Modeling * Biodiversity * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.ca/citations?user=AjCwDdQAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-8473-5375)
+</div>
