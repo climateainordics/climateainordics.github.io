@@ -5,12 +5,6 @@
 Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Machine Learning * Ecosystem Services * [More info (researcher profile)](https://www.kau.se/en/researchers/jan-haas) * [ORCID](https://orcid.org/0000-0002-6140-2922)
 </div>
 
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Efficient Or Sustainable AI,Machine Learning,Deep Learning">
-<span title="PhD StudentUniversity of Oslo."><strong>Alouette van Hove, PhD Student, University of Oslo</strong></span>
-<br />
-Earth Observation * Climate Modeling * Efficient Or Sustainable AI * Machine Learning * Deep Learning * [ORCID](https://orcid.org/0009-0004-4221-1647)
-</div>
-
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
