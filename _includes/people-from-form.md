@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Earth Observation,Computer Vision,Deep Learning">
-<span title="My main research interest is computer vision for Earth Observation, with a focus on large-scale mapping from satellite imagery. Post DocUniversity of Copenhagen."><strong>Dimitri Gominski, Post Doc, University of Copenhagen</strong></span>
-<br />
-Earth Observation * Computer Vision * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=E7PSiHkAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-8135-1341)
-</div>
-
 <div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Urban Planning,Machine Learning,Ecosystem Services">
 <span title="I am senior lecturer and subject representative of Geomatics at Karlstad university (Kau) as well as research coordinator for the NEOGEO research group there. My research interests lie mainly in method development within GIS and remote sensing frameworks from a sustainability and climate adaptation/mitigation perspective, with the overarching goal of improving the well-being of humans and other living organisms on our Earth through development of technical solutions and contributions to the scientific knowledge base.I hold a PhD in remote sensing and geographic information technology (GIT). Research DirectorKarlstad university."><strong>Jan Haas, Research Director, Karlstad university</strong></span>
 <br />
@@ -316,6 +310,12 @@ Earth Observation * NLP * Computer Vision * Machine Learning * Deep Learning * [
 <span title="Researcher at Rossby Centre, SMHI. Expert in machine learning for climate applications. PhD, ResearcherSMHI, Rossby Centre."><strong>Mikhail Ivanov, PhD, Researcher, SMHI, Rossby Centre</strong></span>
 <br />
 [ORCID](https://orcid.org/0000-0001-5234-7848)
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Computer Vision,Deep Learning">
+<span title="My main research interest is computer vision for Earth Observation, with a focus on large-scale mapping from satellite imagery. Post DocUniversity of Copenhagen."><strong>Dimitri Gominski, Post Doc, University of Copenhagen</strong></span>
+<br />
+Earth Observation * Computer Vision * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=E7PSiHkAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-8135-1341)
 </div>
 
 <div class="content" markdown="1" data-tags="">
