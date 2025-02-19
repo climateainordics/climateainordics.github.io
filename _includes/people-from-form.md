@@ -222,6 +222,12 @@ Earth Observation * Biodiversity * NLP * Machine Learning * Deep Learning * [Mor
 </div>
 
 <div class="content" markdown="1" data-tags="">
+<span title="Department of Earth Sciences, University of Gothenburg. Senior LecturerUniversity of Gothenburg."><strong>Céline Heuzé, Senior Lecturer, University of Gothenburg</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=6ccDAwQAAAAJ) * [ORCID](https://orcid.org/0000-0002-8850-5868) * [BlueSky](https://bsky.app/profile/clnhz.bsky.social)
+</div>
+
+<div class="content" markdown="1" data-tags="">
 <span title="PhD, ResearcherChalmers University of Technology."><strong>Santiago Arellano, PhD, Researcher, Chalmers University of Technology</strong></span>
 <br />
 [ORCID](https://orcid.org/0000-0002-0306-3782)
@@ -423,12 +429,6 @@ Efficient Or Sustainable AI * Machine Learning * Bayesian Optimisation * [Public
 <span title="StudentSödertörn University."><strong>Dawda Cham, Student, Södertörn University</strong></span>
 <br />
 Climate Modeling * Biodiversity * Urban Planning * [More info (researcher profile)](https://www.linkedin.com/in/dawda-cham-b29524102/)
-</div>
-
-<div class="content" markdown="1" data-tags="">
-<span title="Department of Earth Sciences, University of Gothenburg. Senior LecturerUniversity of Gothenburg."><strong>Céline Heuzé, Senior Lecturer, University of Gothenburg</strong></span>
-<br />
-[Publications (Scholar)](https://scholar.google.com/citations?user=6ccDAwQAAAAJ) * [ORCID](https://orcid.org/0000-0002-8850-5868) * [BlueSky](https://bsky.app/profile/clnhz.bsky.social)
 </div>
 
 <div class="content" markdown="1" data-tags="">
