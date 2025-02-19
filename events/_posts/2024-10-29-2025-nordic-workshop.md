@@ -117,7 +117,6 @@ We welcome poster presentations relevant to the workshop. Submit your poster whe
 * Stefano Puliti, NBIO
 * Ankit Kariryaa, University of Copenhagen
 * Puja Tripathy, PhD student at Indian Institute of Technology, Bombay
-* Martin Willbo, RISE
 * Anna Luise von Blohn, Remote Sensing Center for Earth System Research (RSC4Earth), Leipzig University
 * Ellen De Jonghe, Ghent University
 * Jaime Caballer Revenga, Copenhagen University
