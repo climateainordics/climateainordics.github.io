@@ -673,7 +673,7 @@ Climate Modeling * Biodiversity * Computer Vision * Soundscape Analysis * Machin
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Sustainable Cities,Efficient Or Sustainable AI,NLP,Deep Learning">
-<span title="I am a researcher and social entrepreneur at the interface between global sustainability, technology, policy and economics.  Research DirectorCopernicus Centre for Sustainable Development, Utrecht University also Exponential Roadmap Initiative."><strong>Owen Gaffney, Research Director, Copernicus Centre for Sustainable Development, Utrecht University also Exponential Roadmap Initiative</strong></span>
+<span title="I am a researcher and social entrepreneur at the interface between global sustainability, technology, policy and economics.  Research DirectorCopernicus Centre for Sustainable Development / Utrecht University / Exponential Roadmap Initiative."><strong>Owen Gaffney, Research Director, Copernicus Centre for Sustainable Development / Utrecht University / Exponential Roadmap Initiative</strong></span>
 <br />
 Earth Observation * Sustainable Cities * Efficient Or Sustainable AI * NLP * Deep Learning * [Publications (Scholar)](https://scholar.google.com/) * [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-6244-991X)
 </div>
