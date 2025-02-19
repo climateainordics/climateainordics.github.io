@@ -97,7 +97,7 @@ With over a decade of experience in community building and international develop
 
 *David Thulke is a PhD student within the Human Language Technology Group at the Chair of Computer Science 6 of the RWTH Aachen University supervised by Prof. Dr.-Ing. Hermann Ney. In addition to numerous other works on language models and retrieval augmented generation, he is the first author of ClimateGPT, a model family of domain-specific large language models for information retrieval and generation. He also works as a language processing scientist at AppTek.*
 
-**John Martinsson,** RISE Research Institutes of Sweden
+**John Martinsson,** RISE Research Institutes of Sweden: *Understanding the World Through Sound: Enhancing Biodiversity Monitoring*
 
 ![](/events/2025-nordic-workshop/martinsson.webp)
 
@@ -107,7 +107,6 @@ With over a decade of experience in community building and international develop
 
 We welcome poster presentations relevant to the workshop. Submit your poster when [registering for the event](https://forms.gle/vt7gMYwoR8tvGx9T7).
 
-* John Martinsson, RISE: *Understanding the World Through Sound: Enhancing Biodiversity Monitoring*
 * Sonja Aits, Lund University
 * Alouette van Hove, University of Oslo
 * Aleksis Pirinen, RISE
@@ -132,6 +131,15 @@ We welcome poster presentations relevant to the workshop. Submit your poster whe
 * Blanca Delgado-Márquez, University of Granada
 * Leon Green, University of Gothenburg
 * Luisa Delgado-Márquez, University of Granada
+* Filip Dorm, EPFL
+* Adrià Amell, Chalmers University of Technology
+* Patrick Eriksson, Chalmers University of Technology
+* Ramón Fuentes Franco, SMHI
+* Heather Reese, University of Gothenburg // MERGE & BECC
+* Nirdesh kumar Sharma, Iit delhi
+* Niti Mishra, ISGlobal and Pompeu Fabra University
+* Andrea Nascett, KTH - Royal Institute of Technology - Geoinformatics Division
+* Lucia Gordon, University of Copenhagen / Harvard
 
 ## Topics
 
