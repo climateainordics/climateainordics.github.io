@@ -120,12 +120,6 @@ Climate Modeling * Biodiversity * Sustainable Transport * Sustainable Cities * S
 </div>
 
 <div class="content" markdown="1" data-tags="">
-<span title="University of Gothenburg // MERGE &amp; BECC. Senior LecturerUniversity of Gothenburg."><strong>Heather Reese, Senior Lecturer, University of Gothenburg</strong></span>
-<br />
-[Publications (Scholar)](https://scholar.google.com/citations?user=FUWolocAAAAJ) * [ORCID](https://orcid.org/0000-0003-2128-7787)
-</div>
-
-<div class="content" markdown="1" data-tags="">
 <span title="KTH - Royal Institute of Technology - Geoinformatics Division. Associate ProfessorKTH Royal Institute of Technology."><strong>Andrea Nascetti, Associate Professor, KTH Royal Institute of Technology</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=Mdq6_jQAAAAJ)
@@ -273,6 +267,12 @@ Earth Observation * Climate Modeling * Biodiversity * Soundscape Analysis * Mach
 <span title="PhD, ResearcherChalmers University of Technology."><strong>Mohammad Kakooei, PhD, Researcher, Chalmers University of Technology</strong></span>
 <br />
 Earth Observation * Urban Planning * Sustainable Cities * Computer Vision * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=rQGuJAsAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-2318-8216)
+</div>
+
+<div class="content" markdown="1" data-tags="">
+<span title="University of Gothenburg // MERGE &amp; BECC. Senior LecturerUniversity of Gothenburg."><strong>Heather Reese, Senior Lecturer, University of Gothenburg</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=FUWolocAAAAJ) * [ORCID](https://orcid.org/0000-0003-2128-7787)
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Sustainable Production,Computer Vision,Machine Learning,Deep Learning">
