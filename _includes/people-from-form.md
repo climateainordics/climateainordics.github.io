@@ -77,12 +77,6 @@ Soundscape Analysis * Machine Learning * [Research group](https://research.tuni.
 [More info (researcher profile)](https://www.slu.se/en/ew-cv/william-lidberg/) * [Publications (Scholar)](https://scholar.google.com/citations?user=NEIwwaEAAAAJ) * [ORCID](https://orcid.org/0000-0001-5780-5596) * [BlueSky](https://bsky.app/profile/williamlidberg.bsky.social)
 </div>
 
-<div class="content" markdown="1" data-tags="Earth Observation,Computer Vision,Machine Learning">
-<span title="Assistant ProfessorLinköping University."><strong>Yonghao Xu, Assistant Professor, Linköping University</strong></span>
-<br />
-Earth Observation * Computer Vision * Machine Learning * [More info (researcher profile)](https://yonghaoxu.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=sQs2ztAAAAAJ) * [ORCID](https://orcid.org/0000-0002-6857-0152)
-</div>
-
 <div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Computer Vision,Machine Learning,Deep Learning">
 <span title="Associate ProfessorLinköping University."><strong>Fredrik Lindsten, Associate Professor, Linköping University</strong></span>
 <br />
@@ -123,6 +117,12 @@ Climate Modeling * Biodiversity * Sustainable Transport * Sustainable Cities * S
 <span title="KTH - Royal Institute of Technology - Geoinformatics Division. Associate ProfessorKTH Royal Institute of Technology."><strong>Andrea Nascetti, Associate Professor, KTH Royal Institute of Technology</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=Mdq6_jQAAAAJ)
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Urban Planning,Machine Learning,Ecosystem Services">
+<span title="I am senior lecturer and subject representative of Geomatics at Karlstad university (Kau) as well as research coordinator for the NEOGEO research group there. My research interests lie mainly in method development within GIS and remote sensing frameworks from a sustainability and climate adaptation/mitigation perspective, with the overarching goal of improving the well-being of humans and other living organisms on our Earth through development of technical solutions and contributions to the scientific knowledge base.I hold a PhD in remote sensing and geographic information technology (GIT). Research DirectorKarlstad university."><strong>Jan Haas, Research Director, Karlstad university</strong></span>
+<br />
+Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Machine Learning * Ecosystem Services * [More info (researcher profile)](https://www.kau.se/en/researchers/jan-haas) * [ORCID](https://orcid.org/0000-0002-6140-2922)
 </div>
 
 <div class="content" markdown="1" data-tags="">
@@ -257,6 +257,12 @@ Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Sustainab
 Earth Observation * Climate Modeling * Biodiversity * Soundscape Analysis * Machine Learning * Deep Learning * [More info (researcher profile)](https://edvinli.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=Ft52aSsAAAAJ) * [BlueSky](https://bsky.app/profile/edvinli.bsky.social)
 </div>
 
+<div class="content" markdown="1" data-tags="Earth Observation,Computer Vision,Machine Learning">
+<span title="Assistant ProfessorLinköping University."><strong>Yonghao Xu, Assistant Professor, Linköping University</strong></span>
+<br />
+Earth Observation * Computer Vision * Machine Learning * [More info (researcher profile)](https://yonghaoxu.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=sQs2ztAAAAAJ) * [ORCID](https://orcid.org/0000-0002-6857-0152)
+</div>
+
 <div class="content" markdown="1" data-tags="">
 <span title="PhD, ResearcherUniversity of Gothenburg."><strong>Leon Green, PhD, Researcher, University of Gothenburg</strong></span>
 <br />
@@ -315,12 +321,6 @@ Earth Observation * NLP * Computer Vision * Machine Learning * Deep Learning * [
 <span title="My main research interest is computer vision for Earth Observation, with a focus on large-scale mapping from satellite imagery. Post DocUniversity of Copenhagen."><strong>Dimitri Gominski, Post Doc, University of Copenhagen</strong></span>
 <br />
 Earth Observation * Computer Vision * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=E7PSiHkAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-8135-1341)
-</div>
-
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Urban Planning,Machine Learning,Ecosystem Services">
-<span title="I am senior lecturer and subject representative of Geomatics at Karlstad university (Kau) as well as research coordinator for the NEOGEO research group there. My research interests lie mainly in method development within GIS and remote sensing frameworks from a sustainability and climate adaptation/mitigation perspective, with the overarching goal of improving the well-being of humans and other living organisms on our Earth through development of technical solutions and contributions to the scientific knowledge base.I hold a PhD in remote sensing and geographic information technology (GIT). Research DirectorKarlstad university."><strong>Jan Haas, Research Director, Karlstad university</strong></span>
-<br />
-Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Machine Learning * Ecosystem Services * [More info (researcher profile)](https://www.kau.se/en/researchers/jan-haas) * [ORCID](https://orcid.org/0000-0002-6140-2922)
 </div>
 
 <div class="content" markdown="1" data-tags="">
