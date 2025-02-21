@@ -1,3 +1,16 @@
+## Affiliates - Recently Joined
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Sustainable Production,Marine Ecology,Efficient Or Sustainable AI,NLP,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
+<span title="I am a civil engineering student in AI and machine learning at Blekinge Institute of Technology, who wants to dedicate his life and career to solving environmental issues. StudentBlekinge Institute of Technology (Blekinge Tekniska Högskola)."><strong>Gustav Karlberg, Student, Blekinge Institute of Technology (Blekinge Tekniska Högskola)</strong></span>
+<br />
+Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Sustainable Production * Marine Ecology * Efficient Or Sustainable AI * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Computer Vision,Machine Learning,Deep Learning">
+<span title="My area of research lies at the intersection of Remote Sensing, Physical Geography, Applied Statistics and Applied Machine (Deep) Learning. Post DocAarhus-Biology  &amp; UCPH-Geoscience."><strong>Jaime Revenga, Post Doc, Aarhus-Biology  &amp; UCPH-Geoscience</strong></span>
+<br />
+Earth Observation * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.linkedin.com/in/jaime-c-revenga-8556b9167/) * [Research group](https://land-craft.dk/about-us/vision-and-mission) * [Publications (Scholar)](https://scholar.google.com/citations?user=wQfif-MAAAAJ&amp;hl=es) * [ORCID](https://orcid.org/0000-0002-9330-6572) * [BlueSky](https://bsky.app/profile/@jacabenga.bsky.social)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -123,6 +136,12 @@ Climate Modeling * Biodiversity * Sustainable Transport * Sustainable Cities * S
 <span title="I am senior lecturer and subject representative of Geomatics at Karlstad university (Kau) as well as research coordinator for the NEOGEO research group there. My research interests lie mainly in method development within GIS and remote sensing frameworks from a sustainability and climate adaptation/mitigation perspective, with the overarching goal of improving the well-being of humans and other living organisms on our Earth through development of technical solutions and contributions to the scientific knowledge base.I hold a PhD in remote sensing and geographic information technology (GIT). Research DirectorKarlstad university."><strong>Jan Haas, Research Director, Karlstad university</strong></span>
 <br />
 Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Machine Learning * Ecosystem Services * [More info (researcher profile)](https://www.kau.se/en/researchers/jan-haas) * [ORCID](https://orcid.org/0000-0002-6140-2922)
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Sustainable Cities,Efficient Or Sustainable AI,NLP,Deep Learning">
+<span title="I am a researcher and social entrepreneur at the interface between global sustainability, technology, policy and economics.  Research DirectorCopernicus Centre for Sustainable Development / Utrecht University / Exponential Roadmap Initiative."><strong>Owen Gaffney, Research Director, Copernicus Centre for Sustainable Development / Utrecht University / Exponential Roadmap Initiative</strong></span>
+<br />
+Earth Observation * Sustainable Cities * Efficient Or Sustainable AI * NLP * Deep Learning * [Publications (Scholar)](https://scholar.google.com/) * [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-6244-991X)
 </div>
 
 <div class="content" markdown="1" data-tags="">
@@ -672,8 +691,8 @@ Biodiversity * [Research group](https://eco.duw.unibas.ch/en/) * [Publications (
 Climate Modeling * Biodiversity * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.ca/citations?user=AjCwDdQAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-8473-5375)
 </div>
 
-<div class="content" markdown="1" data-tags="Earth Observation,Sustainable Cities,Efficient Or Sustainable AI,NLP,Deep Learning">
-<span title="I am a researcher and social entrepreneur at the interface between global sustainability, technology, policy and economics.  Research DirectorCopernicus Centre for Sustainable Development / Utrecht University / Exponential Roadmap Initiative."><strong>Owen Gaffney, Research Director, Copernicus Centre for Sustainable Development / Utrecht University / Exponential Roadmap Initiative</strong></span>
+<div class="content" markdown="1" data-tags="Biodiversity,Marine Ecology,NLP,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
+<span title="IndustryBoquila Foundation."><strong>José Díaz, Industry, Boquila Foundation</strong></span>
 <br />
-Earth Observation * Sustainable Cities * Efficient Or Sustainable AI * NLP * Deep Learning * [Publications (Scholar)](https://scholar.google.com/) * [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-6244-991X)
+Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning * [Research group](https://boquila.org/en)
 </div>
