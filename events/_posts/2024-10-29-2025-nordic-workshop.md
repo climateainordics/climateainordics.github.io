@@ -97,7 +97,7 @@ With over a decade of experience in community building and international develop
 
 *David Thulke is a PhD student within the Human Language Technology Group at the Chair of Computer Science 6 of the RWTH Aachen University supervised by Prof. Dr.-Ing. Hermann Ney. In addition to numerous other works on language models and retrieval augmented generation, he is the first author of ClimateGPT, a model family of domain-specific large language models for information retrieval and generation. He also works as a language processing scientist at AppTek.*
 
-**John Martinsson,** RISE Research Institutes of Sweden
+**John Martinsson,** RISE Research Institutes of Sweden: *Understanding the World Through Sound: Enhancing Biodiversity Monitoring*
 
 ![](/events/2025-nordic-workshop/martinsson.webp)
 
@@ -107,18 +107,16 @@ With over a decade of experience in community building and international develop
 
 We welcome poster presentations relevant to the workshop. Submit your poster when [registering for the event](https://forms.gle/vt7gMYwoR8tvGx9T7).
 
-* John Martinsson, RISE: *Understanding the World Through Sound: Enhancing Biodiversity Monitoring*
 * Sonja Aits, Lund University
 * Alouette van Hove, University of Oslo
 * Aleksis Pirinen, RISE
 * Anupama Kuttikkat Xavier, Royal Meteorological institute of Belgium
 * Murathan, Kurfalı, RISE
 * Nico Lang, University of Copenhagen
-* Carolyn	Rosten, Norwegian Institute for Nature Research
+* Carolyn Rosten, Norwegian Institute for Nature Research
 * Stefano Puliti, NBIO
 * Ankit Kariryaa, University of Copenhagen
 * Puja Tripathy, PhD student at Indian Institute of Technology, Bombay
-* Martin Willbo, RISE
 * Anna Luise von Blohn, Remote Sensing Center for Earth System Research (RSC4Earth), Leipzig University
 * Ellen De Jonghe, Ghent University
 * Jaime Caballer Revenga, Copenhagen University
@@ -127,6 +125,20 @@ We welcome poster presentations relevant to the workshop. Submit your poster whe
 * Dan Stowell, Tilburg University
 * Laura Helene Rasmussen, Copenhagen Data Lab, Department of Mathematical Sciences, University of Copenhagen
 * Benjamin Cretois, Norwegian Institute for Nature Research
+* Ashwin Mohanan, RISE
+* Tiffany Vlaar, University of Glasgow
+* Blanca Delgado-Márquez, University of Granada
+* Leon Green, University of Gothenburg
+* Luisa Delgado-Márquez, University of Granada
+* Filip Dorm, EPFL
+* Adrià Amell, Chalmers University of Technology
+* Patrick Eriksson, Chalmers University of Technology
+* Ramón Fuentes Franco, SMHI
+* Heather Reese, University of Gothenburg // MERGE & BECC
+* Nirdesh kumar Sharma, Iit delhi
+* Niti Mishra, ISGlobal and Pompeu Fabra University
+* Andrea Nascett, KTH - Royal Institute of Technology - Geoinformatics Division
+* Lucia Gordon, University of Copenhagen / Harvard
 
 ## Topics
 
@@ -158,7 +170,9 @@ The workshop is organized by [Climes, The Swedish Centre for Impacts of Climate 
 
 **Pricing**
 
-The first 65 participants will register for free, while further attendees will have to cover the cost for their seat. **A limited number of students can be reimbursed for travel and hotel for the workshop. Please provide a clear and concise motivation for this and a calculation of the costs for your trip, and send this to olof.mogren@ri.se by end of February 2025. Students will be chosen based on their research performance and their provided motivation.**
+The first 65 free seats for the workshop are now sold out, and the fee for registration is from now on SEK 1000. This includes lunch and coffee. The fee will have to be paid March 31 at the latest. **Last day of registration is March 16.**
+
+**A limited number of students can be reimbursed for travel and hotel for the workshop. Please provide a clear and concise motivation for this and a calculation of the costs for your trip, and send this to olof.mogren@ri.se by end of February 2025. Students will be chosen based on their research performance and their provided motivation.**
 
 [Click here to register for this event!](https://forms.gle/vt7gMYwoR8tvGx9T7)
 

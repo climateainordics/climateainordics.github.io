@@ -19,3 +19,11 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+{% if social_media_image %}
+<meta property="og:image" name="image" content="{{ social_media_image }}">
+{% elsif image %}
+<meta property="og:image" name="image" content="{{ image }}">
+{% else %}
+<meta property="og:image" name="image" content="/images/climateainordics-logo-with-text-on-side-white-bg-1200x600.png">
+{% endif %}

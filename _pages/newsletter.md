@@ -14,7 +14,10 @@ The newsletter is distributed to all members of Climate AI Nordics.
 ## Issues
 
 {% for p in site.categories.newsletter %}
-* {{p.date | date: '%Y-%m-%d'}}: {{ p.title }}\
+* {{p.date | date: '%Y-%m-%d'}}: {{ p.title }}
+
+{{ p.shortversion }}
+
 [(Read more)]({{ p.url }})
 {% endfor %}
 
