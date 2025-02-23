@@ -1,16 +1,3 @@
-## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Sustainable Production,Marine Ecology,Efficient Or Sustainable AI,NLP,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
-<span title="I am a civil engineering student in AI and machine learning at Blekinge Institute of Technology, who wants to dedicate his life and career to solving environmental issues. StudentBlekinge Institute of Technology (Blekinge Tekniska Högskola)."><strong>Gustav Karlberg, Student, Blekinge Institute of Technology (Blekinge Tekniska Högskola)</strong></span>
-<br />
-Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Sustainable Production * Marine Ecology * Efficient Or Sustainable AI * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning
-</div>
-
-<div class="content" markdown="1" data-tags="Earth Observation,Computer Vision,Machine Learning,Deep Learning">
-<span title="My area of research lies at the intersection of Remote Sensing, Physical Geography, Applied Statistics and Applied Machine (Deep) Learning. Post DocAarhus-Biology  &amp; UCPH-Geoscience."><strong>Jaime Revenga, Post Doc, Aarhus-Biology  &amp; UCPH-Geoscience</strong></span>
-<br />
-Earth Observation * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.linkedin.com/in/jaime-c-revenga-8556b9167/) * [Research group](https://land-craft.dk/about-us/vision-and-mission) * [Publications (Scholar)](https://scholar.google.com/citations?user=wQfif-MAAAAJ&amp;hl=es) * [ORCID](https://orcid.org/0000-0002-9330-6572) * [BlueSky](https://bsky.app/profile/@jacabenga.bsky.social)
-</div>
-
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -66,16 +53,16 @@ Earth Observation * Sustainable Transport * Sustainable Cities * Sustainable Pro
 Earth Observation * Climate Modeling * Urban Planning * Sustainable Cities * Sustainable Production * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.maths.lu.se/english/research/staff/alexandros-sopasakis/) * [Publications (Scholar)](https://scholar.google.com/citations?user=axig3d0AAAAJ) * [ORCID](https://orcid.org/0000-0001-9167-3590)
 </div>
 
-<div class="content" markdown="1" data-tags="Efficient Or Sustainable AI,Machine Learning,Deep Learning,Materials And Atmospheric Science">
+<div class="content" markdown="1" data-tags="Efficient or Sustainable AI,Machine Learning,Deep Learning,Materials and Atmospheric Science">
 <span title="I research AI for sustainable materials development and AI in atmospheric science . ProfessorAalto Univeristy."><strong>Patrick Rinke, Professor, Aalto Univeristy</strong></span>
 <br />
-Efficient Or Sustainable AI * Machine Learning * Deep Learning * Materials And Atmospheric Science * [Research group](https://www.aalto.fi/en/department-of-applied-physics/computational-electronic-structure-theory-cest) * [Publications (Scholar)](https://scholar.google.com/citations?user=TYHCEwQAAAAJ) * [ORCID](https://orcid.org/0000-0003-1898-723X)
+Efficient or Sustainable AI * Machine Learning * Deep Learning * Materials and Atmospheric Science * [Research group](https://www.aalto.fi/en/department-of-applied-physics/computational-electronic-structure-theory-cest) * [Publications (Scholar)](https://scholar.google.com/citations?user=TYHCEwQAAAAJ) * [ORCID](https://orcid.org/0000-0003-1898-723X)
 </div>
 
-<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Efficient Or Sustainable AI,Computer Vision,Machine Learning,Deep Learning,Ecosystem Monitoring And Modelling">
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning,Ecosystem Monitoring and Modelling">
 <span title="Christian Igel is a professor at DIKU, the Department of Computer Science at the University of Copenhagen. He is the director of the SCIENCE AI Centre. Furthermore, he is a co-lead of the Pioneer Centre for Artificial Intelligence, Denmark and a Fellow of ELLIS, European Lab for Learning and Intelligent Systems. Christian’s reserach interests include support vector machines and other kernel-based methods,evolution strategies for single- and multi-objective optimization and reinforcement learning, PAC-Bayesian analysis of ensemble methods, deep neural networks and stochastic neural networks, and applications of machine learning that help achieve the sustainable development goals. ProfessorUniversity of Copenhagen."><strong>Christian Igel, Professor, University of Copenhagen</strong></span>
 <br />
-Earth Observation * Biodiversity * Efficient Or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * Ecosystem Monitoring And Modelling * [More info (researcher profile)](https://christian-igel.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=d-jF4zIAAAAJ) * [ORCID](https://orcid.org/0000-0003-2868-0856)
+Earth Observation * Biodiversity * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * Ecosystem Monitoring and Modelling * [More info (researcher profile)](https://christian-igel.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=d-jF4zIAAAAJ) * [ORCID](https://orcid.org/0000-0003-2868-0856)
 </div>
 
 <div class="content" markdown="1" data-tags="Soundscape Analysis,Machine Learning">
@@ -96,10 +83,10 @@ Soundscape Analysis * Machine Learning * [Research group](https://research.tuni.
 Earth Observation * Climate Modeling * Biodiversity * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://lindsten.netlify.app/) * [Research group](https://liu.se/organisation/liu/ida/stima) * [Publications (Scholar)](https://scholar.google.com/citations?user=GylfPngAAAAJ&amp;hl=en)
 </div>
 
-<div class="content" markdown="1" data-tags="Urban Planning,Sustainable Transport,Sustainable Cities,Efficient Or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
+<div class="content" markdown="1" data-tags="Urban Planning,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
 <span title="I am the lead in AI and sustainability at the Finnish Center for Artificial Intelligence (FCAI) and a professor in computer science at the University of Finland. ProfessorFinnish Center for Artificial Intelligence / University of Helsinki."><strong>Laura Ruotsalainen, Professor, Finnish Center for Artificial Intelligence / University of Helsinki</strong></span>
 <br />
-Urban Planning * Sustainable Transport * Sustainable Cities * Efficient Or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://researchportal.helsinki.fi/en/persons/laura-ruotsalainen) * [Research group](https://www.helsinki.fi/en/researchgroups/spatiotemporal-data-analysis) * [Publications (Scholar)](https://scholar.google.fi/citations?view_op=list_works&amp;hl=fi&amp;hl=fi&amp;user=oKWnTMgAAAAJ) * [ORCID](https://orcid.org/0000-0002-4057-4143) * [BlueSky](https://bsky.app/profile/lrlaurahy.bsky.social)
+Urban Planning * Sustainable Transport * Sustainable Cities * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://researchportal.helsinki.fi/en/persons/laura-ruotsalainen) * [Research group](https://www.helsinki.fi/en/researchgroups/spatiotemporal-data-analysis) * [Publications (Scholar)](https://scholar.google.fi/citations?view_op=list_works&amp;hl=fi&amp;hl=fi&amp;user=oKWnTMgAAAAJ) * [ORCID](https://orcid.org/0000-0002-4057-4143) * [BlueSky](https://bsky.app/profile/lrlaurahy.bsky.social)
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Urban Planning,Sustainable Cities,Computer Vision,Machine Learning,Deep Learning">
@@ -114,10 +101,10 @@ Earth Observation * Urban Planning * Sustainable Cities * Computer Vision * Mach
 Education * [More info (researcher profile)](https://geraldinefauville.com) * [Research group](https://www.gu.se/en/research/oceanspeak-immersive-conversations-with-an-ai-virtual-seal-for-enhancing-ocean-literacy) * [Publications (Scholar)](https://scholar.google.com/citations?user=wVe76C8AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-5462-2591) * [BlueSky](https://bsky.app/profile/@gfauville.bsky.social)
 </div>
 
-<div class="content" markdown="1" data-tags="Climate Modeling,Biodiversity,Sustainable Transport,Sustainable Cities,Sustainable Production,Efficient Or Sustainable AI,Environment Impacts Of AI">
+<div class="content" markdown="1" data-tags="Climate Modeling,Biodiversity,Sustainable Transport,Sustainable Cities,Sustainable Production,Efficient or Sustainable AI,Environment Impacts of AI">
 <span title="Associate ProfessorStockholm Environment Institute."><strong>Somya Joshi, Associate Professor, Stockholm Environment Institute</strong></span>
 <br />
-Climate Modeling * Biodiversity * Sustainable Transport * Sustainable Cities * Sustainable Production * Efficient Or Sustainable AI * Environment Impacts Of AI * [More info (researcher profile)](https://www.sei.org/people/somya-joshi/) * [Research group](https://www.sei.org/search/Artificial%20Intelligence)
+Climate Modeling * Biodiversity * Sustainable Transport * Sustainable Cities * Sustainable Production * Efficient or Sustainable AI * Environment Impacts of AI * [More info (researcher profile)](https://www.sei.org/people/somya-joshi/) * [Research group](https://www.sei.org/search/Artificial%20Intelligence)
 </div>
 
 <div class="content" markdown="1" data-tags="">
@@ -138,10 +125,10 @@ Climate Modeling * Biodiversity * Sustainable Transport * Sustainable Cities * S
 Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Machine Learning * Ecosystem Services * [More info (researcher profile)](https://www.kau.se/en/researchers/jan-haas) * [ORCID](https://orcid.org/0000-0002-6140-2922)
 </div>
 
-<div class="content" markdown="1" data-tags="Earth Observation,Sustainable Cities,Efficient Or Sustainable AI,NLP,Deep Learning">
+<div class="content" markdown="1" data-tags="Earth Observation,Sustainable Cities,Efficient or Sustainable AI,NLP,Deep Learning">
 <span title="I am a researcher and social entrepreneur at the interface between global sustainability, technology, policy and economics.  Research DirectorCopernicus Centre for Sustainable Development / Utrecht University / Exponential Roadmap Initiative."><strong>Owen Gaffney, Research Director, Copernicus Centre for Sustainable Development / Utrecht University / Exponential Roadmap Initiative</strong></span>
 <br />
-Earth Observation * Sustainable Cities * Efficient Or Sustainable AI * NLP * Deep Learning * [Publications (Scholar)](https://scholar.google.com/) * [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-6244-991X)
+Earth Observation * Sustainable Cities * Efficient or Sustainable AI * NLP * Deep Learning * [Publications (Scholar)](https://scholar.google.com/) * [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-6244-991X)
 </div>
 
 <div class="content" markdown="1" data-tags="">
@@ -174,16 +161,16 @@ Earth Observation * Sustainable Cities * Efficient Or Sustainable AI * NLP * Dee
 Computer Vision * Machine Learning * Deep Learning * Fluid Dynamics * Meteorology * HPC * [More info (researcher profile)](https://fluid.quest) * [ORCID](https://orcid.org/0000-0002-2979-6327)
 </div>
 
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Efficient Or Sustainable AI,NLP,Computer Vision,Machine Learning,Deep Learning">
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Efficient or Sustainable AI,NLP,Computer Vision,Machine Learning,Deep Learning">
 <span title="PhD, ResearcherAI Sweden."><strong>Jorge Lazo, PhD, Researcher, AI Sweden</strong></span>
 <br />
-Earth Observation * Climate Modeling * Efficient Or Sustainable AI * NLP * Computer Vision * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=R2vPpCUAAAAJ)
+Earth Observation * Climate Modeling * Efficient or Sustainable AI * NLP * Computer Vision * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=R2vPpCUAAAAJ)
 </div>
 
-<div class="content" markdown="1" data-tags="Biodiversity,Marine Ecology,Efficient Or Sustainable AI,NLP,Computer Vision,Deep Learning,Knowledge Graphs,Impact On Climate Change On Health">
+<div class="content" markdown="1" data-tags="Biodiversity,Marine Ecology,Efficient or Sustainable AI,NLP,Computer Vision,Deep Learning,Knowledge Graphs,Impact On Climate Change On Health">
 <span title="Sonja leads a research group at the intersection of medicine, environmental science and data science at the Dept. of Experimental Medical Science, Cell Death, Lysosomes. They develop tools for text and image analysis and knowledge integration and apply them to research questions in medicine and environmental science. She also leads the computational research school COMPUTE and the &quot;AI in Medicine and Life Science&quot; focus area in AI Lund. Besides this, she is very engaged in open science and public outreach. PhD, ResearcherLund University."><strong>Sonja Aits, PhD, Researcher, Lund University</strong></span>
 <br />
-Biodiversity * Marine Ecology * Efficient Or Sustainable AI * NLP * Computer Vision * Deep Learning * Knowledge Graphs * Impact On Climate Change On Health * [More info (researcher profile)](https://portal.research.lu.se/en/persons/sonja-aits) * [Research group](https://aitslab.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=KTS-NNAAAAAJ) * [ORCID](https://orcid.org/0000-0002-1321-0678)
+Biodiversity * Marine Ecology * Efficient or Sustainable AI * NLP * Computer Vision * Deep Learning * Knowledge Graphs * Impact On Climate Change On Health * [More info (researcher profile)](https://portal.research.lu.se/en/persons/sonja-aits) * [Research group](https://aitslab.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=KTS-NNAAAAAJ) * [ORCID](https://orcid.org/0000-0002-1321-0678)
 </div>
 
 <div class="content" markdown="1" data-tags="Climate Modeling,Sustainable Cities,Sustainable Production,Machine Learning,Climate Impacts">
@@ -192,10 +179,10 @@ Biodiversity * Marine Ecology * Efficient Or Sustainable AI * NLP * Computer Vis
 Climate Modeling * Sustainable Cities * Sustainable Production * Machine Learning * Climate Impacts * [Research group](https://www.slu.se/en/ew-cv/faranak-tootoonchi/) * [Publications (Scholar)](https://scholar.google.com/citations?user=5XmN8AUAAAAJ) * [ORCID](https://orcid.org/0000-0001-5262-1712) * [BlueSky](https://bsky.app/profile/faranaktt.bsky.social)
 </div>
 
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Sustainable Production,Marine Ecology,Efficient Or Sustainable AI,NLP,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Sustainable Production,Marine Ecology,Efficient or Sustainable AI,NLP,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
 <span title="PhD, ResearcherUppsala University."><strong>Venugopal Thallam, PhD, Researcher, Uppsala University</strong></span>
 <br />
-Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Sustainable Production * Marine Ecology * Efficient Or Sustainable AI * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning * [Research group](https://www.uu.se/en/department/earth-sciences/research/air-water-and-landscape-science) * [Publications (Scholar)](https://scholar.google.com/citations?user=cIz45qQAAAAJ) * [ORCID](https://orcid.org/0000-0001-7771-1693)
+Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Sustainable Production * Marine Ecology * Efficient or Sustainable AI * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning * [Research group](https://www.uu.se/en/department/earth-sciences/research/air-water-and-landscape-science) * [Publications (Scholar)](https://scholar.google.com/citations?user=cIz45qQAAAAJ) * [ORCID](https://orcid.org/0000-0001-7771-1693)
 </div>
 
 <div class="content" markdown="1" data-tags="Climate Modeling,Machine Learning,Deep Learning">
@@ -210,10 +197,10 @@ Climate Modeling * Machine Learning * Deep Learning * [Publications (Scholar)](h
 [Publications (Scholar)](https://scholar.google.com/citations?user=yY55qioAAAAJ) * [ORCID](https://orcid.org/0000-0002-1122-3109)
 </div>
 
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Urban Planning,Efficient Or Sustainable AI,NLP,Computer Vision,Machine Learning,Deep Learning">
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Urban Planning,Efficient or Sustainable AI,NLP,Computer Vision,Machine Learning,Deep Learning">
 <span title="I am a dedicated researcher with a PhD in Machine Learning, specializing in unsupervised learning techniques and their applications in remote sensing, automation, and medical imaging. With a strong background in Python, and AI frameworks, I am passionate about solving real-world problems through innovative data-driven solutions. Collaborative by nature, I thrive in dynamic environments and am eager to continue learning and contributing to impactful projects. PhD, ResearcherLuleå University of Technology."><strong>Nosheen Abid, PhD, Researcher, Luleå University of Technology</strong></span>
 <br />
-Earth Observation * Climate Modeling * Urban Planning * Efficient Or Sustainable AI * NLP * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://ltu.se/personal/n/nosheen-abid) * [Research group](https://www.ltu.se/en/research/research-subjects/machine-learning) * [Publications (Scholar)](https://scholar.google.com/citations?user=tEs2Fr4AAAAJ&amp;hl=en)
+Earth Observation * Climate Modeling * Urban Planning * Efficient or Sustainable AI * NLP * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://ltu.se/personal/n/nosheen-abid) * [Research group](https://www.ltu.se/en/research/research-subjects/machine-learning) * [Publications (Scholar)](https://scholar.google.com/citations?user=tEs2Fr4AAAAJ&amp;hl=en)
 </div>
 
 <div class="content" markdown="1" data-tags="">
@@ -270,10 +257,10 @@ Soundscape Analysis * Biodiversity * Machine Listening * [Publications (Scholar)
 Biodiversity * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning * [More info (researcher profile)](https://bencretois.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=40ZX7XUAAAAJ) * [BlueSky](https://bsky.app/profile/bencretois.bsky.social)
 </div>
 
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Sustainable Production,Marine Ecology,Efficient Or Sustainable AI,NLP,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning,Sustainable Space Exploration And Research">
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Sustainable Production,Marine Ecology,Efficient or Sustainable AI,NLP,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning,Sustainable Space Exploration and Research">
 <span title="PhD, ResearcherRISE Research Institutes of Sweden."><strong>Chiara Ceccobello, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
 <br />
-Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Sustainable Production * Marine Ecology * Efficient Or Sustainable AI * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning * Sustainable Space Exploration And Research * [More info (researcher profile)](https://www.linkedin.com/in/chiaraceccobello/) * [ORCID](https://orcid.org/0000-0002-4767-9925)
+Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Sustainable Production * Marine Ecology * Efficient or Sustainable AI * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning * Sustainable Space Exploration and Research * [More info (researcher profile)](https://www.linkedin.com/in/chiaraceccobello/) * [ORCID](https://orcid.org/0000-0002-4767-9925)
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Soundscape Analysis,Machine Learning,Deep Learning">
@@ -318,10 +305,10 @@ Earth Observation * Biodiversity * Sustainable Production * Computer Vision * Ma
 Sustainable Cities * Sustainable Production * [More info (researcher profile)](https://www.iiiee.lu.se/matthias-lehner) * [Publications (Scholar)](https://scholar.google.com/citations?user=eNYb2FsAAAAJ) * [ORCID](https://orcid.org/0000-0003-1571-7453)
 </div>
 
-<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Marine Ecology,Efficient Or Sustainable AI,Soundscape Analysis,Machine Learning,Deep Learning">
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Marine Ecology,Efficient or Sustainable AI,Soundscape Analysis,Machine Learning,Deep Learning">
 <span title="AI researcher with expertise in audio signals and policy. PhD, ResearcherRISE."><strong>Delia Fano Yela, PhD, Researcher, RISE</strong></span>
 <br />
-Earth Observation * Biodiversity * Marine Ecology * Efficient Or Sustainable AI * Soundscape Analysis * Machine Learning * Deep Learning * [More info (researcher profile)](https://delialia.github.io/) * [Publications (Scholar)](https://scholar.google.co.uk/citations?user=fUp2rucAAAAJ)
+Earth Observation * Biodiversity * Marine Ecology * Efficient or Sustainable AI * Soundscape Analysis * Machine Learning * Deep Learning * [More info (researcher profile)](https://delialia.github.io/) * [Publications (Scholar)](https://scholar.google.co.uk/citations?user=fUp2rucAAAAJ)
 </div>
 
 <div class="content" markdown="1" data-tags="Biodiversity,Computer Vision,Machine Learning,Deep Learning">
@@ -346,6 +333,12 @@ Earth Observation * NLP * Computer Vision * Machine Learning * Deep Learning * [
 <span title="My main research interest is computer vision for Earth Observation, with a focus on large-scale mapping from satellite imagery. Post DocUniversity of Copenhagen."><strong>Dimitri Gominski, Post Doc, University of Copenhagen</strong></span>
 <br />
 Earth Observation * Computer Vision * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=E7PSiHkAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-8135-1341)
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Computer Vision,Machine Learning,Deep Learning">
+<span title="My area of research lies at the intersection of Remote Sensing, Physical Geography, Applied Statistics and Applied Machine (Deep) Learning. Post DocAarhus-Biology  &amp; UCPH-Geoscience."><strong>Jaime Revenga, Post Doc, Aarhus-Biology  &amp; UCPH-Geoscience</strong></span>
+<br />
+Earth Observation * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.linkedin.com/in/jaime-c-revenga-8556b9167/) * [Research group](https://land-craft.dk/about-us/vision-and-mission) * [Publications (Scholar)](https://scholar.google.com/citations?user=wQfif-MAAAAJ&amp;hl=es) * [ORCID](https://orcid.org/0000-0002-9330-6572) * [BlueSky](https://bsky.app/profile/@jacabenga.bsky.social)
 </div>
 
 <div class="content" markdown="1" data-tags="">
@@ -378,16 +371,16 @@ Earth Observation * Computer Vision * Deep Learning * [Publications (Scholar)](h
 Earth Observation * Climate Modeling * Sustainable Transport * Machine Learning * Deep Learning * Extreme Weather * [More info (researcher profile)](https://joeloskarsson.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=YQaxGpkAAAAJ) * [ORCID](https://orcid.org/0000-0002-8201-0282)
 </div>
 
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Sustainable Production,Efficient Or Sustainable AI,NLP,Computer Vision,Machine Learning,Deep Learning">
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Sustainable Production,Efficient or Sustainable AI,NLP,Computer Vision,Machine Learning,Deep Learning">
 <span title="Industry."><strong>Azalea Alothmani, Industry</strong></span>
 <br />
-Earth Observation * Climate Modeling * Sustainable Production * Efficient Or Sustainable AI * NLP * Computer Vision * Machine Learning * Deep Learning
+Earth Observation * Climate Modeling * Sustainable Production * Efficient or Sustainable AI * NLP * Computer Vision * Machine Learning * Deep Learning
 </div>
 
-<div class="content" markdown="1" data-tags="Sustainable Cities,Sustainable Production,Efficient Or Sustainable AI,Machine Learning,Deep Learning">
+<div class="content" markdown="1" data-tags="Sustainable Cities,Sustainable Production,Efficient or Sustainable AI,Machine Learning,Deep Learning">
 <span title="PhD student at Karlstad University working at the intersection of AI and Energy. Co-founder of AfriClimate AI (https://www.africlimate.ai) and co-chair of the Deep Learning Indaba (https://deeplearningindaba.com/2024/). PhD StudentKarlstad University."><strong>Amal Nammouchi, PhD Student, Karlstad University</strong></span>
 <br />
-Sustainable Cities * Sustainable Production * Efficient Or Sustainable AI * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.kau.se/en/researchers/amal-nammouchi) * [Research group](https://www.uu.se/forskning/solve#:~:text=SOLVE%20är%20ett%20konsortium%20av,solenergi%20i%20det%20svenska%20elnätet.) * [Publications (Scholar)](https://scholar.google.com/citations?user=CALEjIEAAAAJ)
+Sustainable Cities * Sustainable Production * Efficient or Sustainable AI * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.kau.se/en/researchers/amal-nammouchi) * [Research group](https://www.uu.se/forskning/solve#:~:text=SOLVE%20är%20ett%20konsortium%20av,solenergi%20i%20det%20svenska%20elnätet.) * [Publications (Scholar)](https://scholar.google.com/citations?user=CALEjIEAAAAJ)
 </div>
 
 <div class="content" markdown="1" data-tags="">
@@ -402,10 +395,10 @@ Sustainable Cities * Sustainable Production * Efficient Or Sustainable AI * Mach
 [Publications (Scholar)](https://scholar.google.com/citations?user=4tKNCSkAAAAJ) * [ORCID](https://orcid.org/0009-0007-5465-7170)
 </div>
 
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Sustainable Production,Marine Ecology,Efficient Or Sustainable AI,NLP,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Sustainable Production,Marine Ecology,Efficient or Sustainable AI,NLP,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
 <span title="Machine Learning, Graph Neural Networks, Algorithmic ML, Optimization, Deep Learning . ResearcherRISE Research Institutes of Sweden / KTH Royal Institute of Technology."><strong>Daniel F. Perez-Ramirez, Researcher, RISE Research Institutes of Sweden / KTH Royal Institute of Technology</strong></span>
 <br />
-Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Sustainable Production * Marine Ecology * Efficient Or Sustainable AI * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.linkedin.com/in/danfperam) * [Research group](https://www.ri.se/en/person/daniel-perez) * [Publications (Scholar)](https://scholar.google.com/citations?user=uwMPsjsAAAAJ) * [ORCID](https://orcid.org/0000-0002-1322-4367)
+Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Sustainable Production * Marine Ecology * Efficient or Sustainable AI * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.linkedin.com/in/danfperam) * [Research group](https://www.ri.se/en/person/daniel-perez) * [Publications (Scholar)](https://scholar.google.com/citations?user=uwMPsjsAAAAJ) * [ORCID](https://orcid.org/0000-0002-1322-4367)
 </div>
 
 <div class="content" markdown="1" data-tags="">
@@ -420,10 +413,10 @@ Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Sustainab
 Earth Observation * Climate Modeling * Machine Learning * Deep Learning * Weather Forecasting * [Research group](https://liu.se/en/organisation/liu/ida/stima) * [ORCID](https://orcid.org/0009-0008-7292-4356)
 </div>
 
-<div class="content" markdown="1" data-tags="Climate Modeling,Efficient Or Sustainable AI,Machine Learning,Deep Learning">
+<div class="content" markdown="1" data-tags="Climate Modeling,Efficient or Sustainable AI,Machine Learning,Deep Learning">
 <span title="I&#x27;m a PhD student at University of Helsinki, currently visiting the CMCC Foundation in Bologna, Italy. My research lies at the intersection of physics and deep learning. Right now I&#x27;m building a data-driven forecaster for the Mediterranean Sea using graph neural networks. PhD StudentUniversity of Helsinki."><strong>Daniel Holmberg, PhD Student, University of Helsinki</strong></span>
 <br />
-Climate Modeling * Efficient Or Sustainable AI * Machine Learning * Deep Learning * [More info (researcher profile)](https://danielholmberg.fi/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=oPncKzcAAAAJ) * [ORCID](https://orcid.org/0000-0001-5020-7438) * [BlueSky](https://bsky.app/profile/dholmberg.bsky.social)
+Climate Modeling * Efficient or Sustainable AI * Machine Learning * Deep Learning * [More info (researcher profile)](https://danielholmberg.fi/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=oPncKzcAAAAJ) * [ORCID](https://orcid.org/0000-0001-5020-7438) * [BlueSky](https://bsky.app/profile/dholmberg.bsky.social)
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Computer Vision,Machine Learning,Deep Learning">
@@ -432,16 +425,16 @@ Climate Modeling * Efficient Or Sustainable AI * Machine Learning * Deep Learnin
 Earth Observation * Computer Vision * Machine Learning * Deep Learning * [Research group](https://eo.dhigroup.com/) * [Publications (Scholar)](https://scholar.google.com/citations?user=qodHYCQAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0001-9907-0989)
 </div>
 
-<div class="content" markdown="1" data-tags="Earth Observation,Efficient Or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
+<div class="content" markdown="1" data-tags="Earth Observation,Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
 <span title="ResearcherRISE Research Institutes of Sweden."><strong>Martin Willbo, Researcher, RISE Research Institutes of Sweden</strong></span>
 <br />
-Earth Observation * Efficient Or Sustainable AI * Computer Vision * Machine Learning * Deep Learning
+Earth Observation * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning
 </div>
 
-<div class="content" markdown="1" data-tags="Efficient Or Sustainable AI,Machine Learning,Bayesian Optimisation">
+<div class="content" markdown="1" data-tags="Efficient or Sustainable AI,Machine Learning,Bayesian Optimisation">
 <span title="PhD StudentRISE Research Institutes of Sweden."><strong>Sanna Jarl, PhD Student, RISE Research Institutes of Sweden</strong></span>
 <br />
-Efficient Or Sustainable AI * Machine Learning * Bayesian Optimisation * [Publications (Scholar)](https://scholar.google.com/citations?user=I24YlG8AAAAJ&amp;hl=sv)
+Efficient or Sustainable AI * Machine Learning * Bayesian Optimisation * [Publications (Scholar)](https://scholar.google.com/citations?user=I24YlG8AAAAJ&amp;hl=sv)
 </div>
 
 <div class="content" markdown="1" data-tags="Climate Modeling,Biodiversity,Urban Planning">
@@ -468,10 +461,10 @@ Climate Modeling * Biodiversity * Urban Planning * [More info (researcher profil
 Earth Observation * Climate Modeling * Sustainable Cities * Computer Vision * Machine Learning * Deep Learning * [ORCID](https://orcid.org/0000-0002-7437-1571)
 </div>
 
-<div class="content" markdown="1" data-tags="Sustainable Transport,Sustainable Cities,Sustainable Production,Efficient Or Sustainable AI">
+<div class="content" markdown="1" data-tags="Sustainable Transport,Sustainable Cities,Sustainable Production,Efficient or Sustainable AI">
 <span title="I&#x27;m a sustainability consultant (former head of sustainability) that wish to stay close to science and find ways to leverage ai for climate action. Industry."><strong>Elin Engkvist, Industry</strong></span>
 <br />
-Sustainable Transport * Sustainable Cities * Sustainable Production * Efficient Or Sustainable AI
+Sustainable Transport * Sustainable Cities * Sustainable Production * Efficient or Sustainable AI
 </div>
 
 <div class="content" markdown="1" data-tags="Sustainable Transport">
@@ -534,11 +527,17 @@ Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep
 Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://lgordon99.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=DNO7ibYAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-3219-6960) * [BlueSky](https://bsky.app/profile/luciagordon.bsky.social)
 </div>
 
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Sustainable Production,Marine Ecology,Efficient or Sustainable AI,NLP,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
+<span title="I am a civil engineering student in AI and machine learning at Blekinge Institute of Technology, who wants to dedicate his life and career to solving environmental issues. StudentBlekinge Institute of Technology (Blekinge Tekniska Högskola)."><strong>Gustav Karlberg, Student, Blekinge Institute of Technology (Blekinge Tekniska Högskola)</strong></span>
+<br />
+Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Sustainable Production * Marine Ecology * Efficient or Sustainable AI * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning
+</div>
+
 ## Supporting Affiliates (Outside Nordics)
-<div class="content" markdown="1" data-tags="Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Efficient Or Sustainable AI">
+<div class="content" markdown="1" data-tags="Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI">
 <span title="I am a lecturer in Urban Planning at the University of Auckland, bringing over 13 years of experience in both research and practice. My focus is on addressing climate change challenges, enhancing urban resilience, promoting regeneration, and advocating for environmental justice. I am particularly interested in understanding and mitigating the risks that urban areas encounter, especially those related to climate change and natural hazards. My research examines how cities can adapt to these increasing threats, emphasising resilience, risk reduction, and sustainable planning to protect communities and infrastructure. Assistant ProfessorUniversity of Auckland."><strong>Iresh Jayawardena, Assistant Professor, University of Auckland</strong></span>
 <br />
-Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Efficient Or Sustainable AI * [More info (researcher profile)](https://profiles.auckland.ac.nz/i-jayawardena) * [Publications (Scholar)](https://scholar.google.com/citations?user=j8yEd4cAAAAJ) * [ORCID](https://orcid.org/0000-0002-5958-8668)
+Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Efficient or Sustainable AI * [More info (researcher profile)](https://profiles.auckland.ac.nz/i-jayawardena) * [Publications (Scholar)](https://scholar.google.com/citations?user=j8yEd4cAAAAJ) * [ORCID](https://orcid.org/0000-0002-5958-8668)
 </div>
 
 <div class="content" markdown="1" data-tags="">
@@ -571,10 +570,10 @@ Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Eff
 [ORCID](https://orcid.org/0009-0003-6502-3828)
 </div>
 
-<div class="content" markdown="1" data-tags="Climate Modeling,Biodiversity,Sustainable Transport,Sustainable Cities,Sustainable Production,Efficient Or Sustainable AI,NLP,Computer Vision,Machine Learning,Deep Learning">
+<div class="content" markdown="1" data-tags="Climate Modeling,Biodiversity,Sustainable Transport,Sustainable Cities,Sustainable Production,Efficient or Sustainable AI,NLP,Computer Vision,Machine Learning,Deep Learning">
 <span title="I am a researcher focused on studying sustainable AI development. PhD StudentIndian Institute of Information Technology, Kottayam."><strong>Jiby Mariya Jose, PhD Student, Indian Institute of Information Technology, Kottayam</strong></span>
 <br />
-Climate Modeling * Biodiversity * Sustainable Transport * Sustainable Cities * Sustainable Production * Efficient Or Sustainable AI * NLP * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://in.linkedin.com/in/jiby-mariya-jose-920b37227) * [Publications (Scholar)](https://scholar.google.com/citations?user=UPYmWtYAAAAJ)
+Climate Modeling * Biodiversity * Sustainable Transport * Sustainable Cities * Sustainable Production * Efficient or Sustainable AI * NLP * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://in.linkedin.com/in/jiby-mariya-jose-920b37227) * [Publications (Scholar)](https://scholar.google.com/citations?user=UPYmWtYAAAAJ)
 </div>
 
 <div class="content" markdown="1" data-tags="">
@@ -589,10 +588,10 @@ Climate Modeling * Biodiversity * Sustainable Transport * Sustainable Cities * S
 
 </div>
 
-<div class="content" markdown="1" data-tags="Climate Modeling,Biodiversity,Marine Ecology,Efficient Or Sustainable AI,Computer Vision,Soundscape Analysis,Deep Learning">
+<div class="content" markdown="1" data-tags="Climate Modeling,Biodiversity,Marine Ecology,Efficient or Sustainable AI,Computer Vision,Soundscape Analysis,Deep Learning">
 <span title="Assistant ProfessorUniversity of Glasgow."><strong>Tiffany Vlaar, Assistant Professor, University of Glasgow</strong></span>
 <br />
-Climate Modeling * Biodiversity * Marine Ecology * Efficient Or Sustainable AI * Computer Vision * Soundscape Analysis * Deep Learning * [More info (researcher profile)](https://tiffanyvlaar.github.io/research/)
+Climate Modeling * Biodiversity * Marine Ecology * Efficient or Sustainable AI * Computer Vision * Soundscape Analysis * Deep Learning * [More info (researcher profile)](https://tiffanyvlaar.github.io/research/)
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Computer Vision,Machine Learning,Deep Learning">
@@ -613,10 +612,10 @@ Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Lea
 [ORCID](https://orcid.org/0000-0002-7540-7898)
 </div>
 
-<div class="content" markdown="1" data-tags="Climate Modeling,Sustainable Cities,Efficient Or Sustainable AI">
+<div class="content" markdown="1" data-tags="Climate Modeling,Sustainable Cities,Efficient or Sustainable AI">
 <span title="ProfessorUnited Nations University / Ghent University."><strong>Bartel Van de Walle, Professor, United Nations University / Ghent University</strong></span>
 <br />
-Climate Modeling * Sustainable Cities * Efficient Or Sustainable AI
+Climate Modeling * Sustainable Cities * Efficient or Sustainable AI
 </div>
 
 <div class="content" markdown="1" data-tags="">
@@ -673,10 +672,10 @@ Earth Observation * Climate Modeling * Biodiversity * Sustainable Cities * Susta
 Climate Modeling * Computer Vision * Machine Learning * [More info (researcher profile)](https://unibloom.world) * [Research group](https://unibloom.world)
 </div>
 
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Efficient Or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
 <span title="I am a postdoctoral researcher at the University of Edinburgh, specialising in representation learning, efficient architectures and adaptation across distribution shifts. My research explores applications in climate and healthcare, with a focus on responsible and impactful AI deployment. My work has been published work in top venues, including CVPR, NeurIPS and the IEEE Signal Processing Magazine. Post DocUniversity of Edinburgh."><strong>Linus Ericsson, Post Doc, University of Edinburgh</strong></span>
 <br />
-Earth Observation * Climate Modeling * Biodiversity * Efficient Or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://linusericsson.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=QRW9NN0AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-0634-5072) * [BlueSky](https://bsky.app/profile/linusericsson.bsky.social)
+Earth Observation * Climate Modeling * Biodiversity * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://linusericsson.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=QRW9NN0AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-0634-5072) * [BlueSky](https://bsky.app/profile/linusericsson.bsky.social)
 </div>
 
 <div class="content" markdown="1" data-tags="Biodiversity">
