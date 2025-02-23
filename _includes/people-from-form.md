@@ -167,10 +167,10 @@ Computer Vision * Machine Learning * Deep Learning * Fluid Dynamics * Meteorolog
 Earth Observation * Climate Modeling * Efficient or Sustainable AI * NLP * Computer Vision * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=R2vPpCUAAAAJ)
 </div>
 
-<div class="content" markdown="1" data-tags="Biodiversity,Marine Ecology,Efficient or Sustainable AI,NLP,Computer Vision,Deep Learning,Knowledge Graphs,Impact On Climate Change On Health">
+<div class="content" markdown="1" data-tags="Biodiversity,Marine Ecology,Efficient or Sustainable AI,NLP,Computer Vision,Deep Learning,Knowledge Graphs,Impact on Climate Change on Health">
 <span title="Sonja leads a research group at the intersection of medicine, environmental science and data science at the Dept. of Experimental Medical Science, Cell Death, Lysosomes. They develop tools for text and image analysis and knowledge integration and apply them to research questions in medicine and environmental science. She also leads the computational research school COMPUTE and the &quot;AI in Medicine and Life Science&quot; focus area in AI Lund. Besides this, she is very engaged in open science and public outreach. PhD, ResearcherLund University."><strong>Sonja Aits, PhD, Researcher, Lund University</strong></span>
 <br />
-Biodiversity * Marine Ecology * Efficient or Sustainable AI * NLP * Computer Vision * Deep Learning * Knowledge Graphs * Impact On Climate Change On Health * [More info (researcher profile)](https://portal.research.lu.se/en/persons/sonja-aits) * [Research group](https://aitslab.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=KTS-NNAAAAAJ) * [ORCID](https://orcid.org/0000-0002-1321-0678)
+Biodiversity * Marine Ecology * Efficient or Sustainable AI * NLP * Computer Vision * Deep Learning * Knowledge Graphs * Impact on Climate Change on Health * [More info (researcher profile)](https://portal.research.lu.se/en/persons/sonja-aits) * [Research group](https://aitslab.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=KTS-NNAAAAAJ) * [ORCID](https://orcid.org/0000-0002-1321-0678)
 </div>
 
 <div class="content" markdown="1" data-tags="Climate Modeling,Sustainable Cities,Sustainable Production,Machine Learning,Climate Impacts">

@@ -19,7 +19,7 @@
 <option value="GIS">GIS (1)</option>
 <option value="Geomatics">Geomatics (1)</option>
 <option value="HPC">HPC (1)</option>
-<option value="Impact On Climate Change On Health">Impact On Climate Change On Health (1)</option>
+<option value="Impact on Climate Change on Health">Impact on Climate Change on Health (1)</option>
 <option value="Knowledge Graphs">Knowledge Graphs (1)</option>
 <option value="Machine Learning">Machine Learning (60)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
