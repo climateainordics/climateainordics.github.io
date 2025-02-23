@@ -16,9 +16,9 @@
 <option value="Environment Impacts of AI">Environment Impacts of AI (1)</option>
 <option value="Extreme Weather">Extreme Weather (1)</option>
 <option value="Fluid Dynamics">Fluid Dynamics (1)</option>
+<option value="GIS">GIS (1)</option>
 <option value="Geomatics">Geomatics (1)</option>
-<option value="Gis">Gis (1)</option>
-<option value="Hpc">Hpc (1)</option>
+<option value="HPC">HPC (1)</option>
 <option value="Impact On Climate Change On Health">Impact On Climate Change On Health (1)</option>
 <option value="Knowledge Graphs">Knowledge Graphs (1)</option>
 <option value="Machine Learning">Machine Learning (60)</option>

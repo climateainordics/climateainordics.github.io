@@ -35,10 +35,10 @@ Biodiversity * Marine Ecology * Computer Vision * Machine Learning * Deep Learni
 [Publications (Scholar)](https://scholar.google.com/citations?user=j4cTzn0AAAAJ) * [ORCID](https://orcid.org/0000-0002-2929-0529) * [BlueSky](https://bsky.app/profile/alansaid.com)
 </div>
 
-<div class="content" markdown="1" data-tags="Urban Planning,Machine Learning,Deep Learning,Spatial Analysis,Gis">
+<div class="content" markdown="1" data-tags="Urban Planning,Machine Learning,Deep Learning,Spatial Analysis,GIS">
 <span title="Ali Mansourian is a Professor of Geomatics at the Department of Physical Geography and Ecosystem Science, Lund University, Sweden. He is Director of Lund University GIS Centre, and coordinator of the “GIS &amp; RS Master Programme”. He is a member of United Nation&#x27;s Global Geospatial Information Management (UN GGIM) Academic Network, and former council member of European AGILE (Association of Geographic Information Laboratories in Europe).  Mansourian has established research directions in Geospatial Artificial Intelligence (GeoAI) - which is the intersection of GISceince and Artificial Intelligence (AI)-, Spatial Data Infrastructures (SDI), and Multi-Criteria Decision Analysis (MCDA). He has also a long-standing research line in applications of Geographic Information Systems (GIS) in climate, epidemiology and heath, disaster risk management, land-use planning, and environmental management.  In his records, he has also coordination of several large international and national research and capacity building projects, evaluation of major EU/EC research grants, scientific program committee chair and/or organiser of several international conferences and workshops, supervision of PhD students and postdoc researches,  invited evaluation committee of PhD theses, and publication of scientific journal/conference papers, books/book chapters, and technical reports. ProfessorLund University."><strong>Ali Mansourian, Professor, Lund University</strong></span>
 <br />
-Urban Planning * Machine Learning * Deep Learning * Spatial Analysis * Gis * [More info (researcher profile)](https://www.nateko.lu.se/ali-mansourian) * [Publications (Scholar)](https://scholar.google.com/citations?user=T6nSBNIAAAAJ) * [ORCID](https://orcid.org/0000-0001-6812-4307)
+Urban Planning * Machine Learning * Deep Learning * Spatial Analysis * GIS * [More info (researcher profile)](https://www.nateko.lu.se/ali-mansourian) * [Publications (Scholar)](https://scholar.google.com/citations?user=T6nSBNIAAAAJ) * [ORCID](https://orcid.org/0000-0001-6812-4307)
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Sustainable Transport,Sustainable Cities,Sustainable Production,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
@@ -155,10 +155,10 @@ Earth Observation * Sustainable Cities * Efficient or Sustainable AI * NLP * Dee
 
 </div>
 
-<div class="content" markdown="1" data-tags="Computer Vision,Machine Learning,Deep Learning,Fluid Dynamics,Meteorology,Hpc">
+<div class="content" markdown="1" data-tags="Computer Vision,Machine Learning,Deep Learning,Fluid Dynamics,Meteorology,HPC">
 <span title="PhD, ResearcherRISE Research Institutes of Sweden."><strong>Ashwin Vishnu Mohanan, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
 <br />
-Computer Vision * Machine Learning * Deep Learning * Fluid Dynamics * Meteorology * Hpc * [More info (researcher profile)](https://fluid.quest) * [ORCID](https://orcid.org/0000-0002-2979-6327)
+Computer Vision * Machine Learning * Deep Learning * Fluid Dynamics * Meteorology * HPC * [More info (researcher profile)](https://fluid.quest) * [ORCID](https://orcid.org/0000-0002-2979-6327)
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Efficient or Sustainable AI,NLP,Computer Vision,Machine Learning,Deep Learning">
