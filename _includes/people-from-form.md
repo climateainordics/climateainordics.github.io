@@ -5,6 +5,12 @@
 Earth Observation * Machine Learning * Deep Learning * Numerical Weather Prediction
 </div>
 
+<div class="content" markdown="1" data-tags="">
+<span title="PhD StudentUniversity of Copenhagen."><strong>Venkanna Babu Guthula, PhD Student, University of Copenhagen</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=LY1bSd8AAAAJ) * [ORCID](https://orcid.org/0000-0001-5902-5905)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -130,6 +136,12 @@ Climate Modeling * Biodiversity * Sustainable Transport * Sustainable Cities * S
 <span title="I am senior lecturer and subject representative of Geomatics at Karlstad university (Kau) as well as research coordinator for the NEOGEO research group there. My research interests lie mainly in method development within GIS and remote sensing frameworks from a sustainability and climate adaptation/mitigation perspective, with the overarching goal of improving the well-being of humans and other living organisms on our Earth through development of technical solutions and contributions to the scientific knowledge base.I hold a PhD in remote sensing and geographic information technology (GIT). Research DirectorKarlstad university."><strong>Jan Haas, Research Director, Karlstad university</strong></span>
 <br />
 Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Machine Learning * Ecosystem Services * [More info (researcher profile)](https://www.kau.se/en/researchers/jan-haas) * [ORCID](https://orcid.org/0000-0002-6140-2922)
+</div>
+
+<div class="content" markdown="1" data-tags="">
+<span title="ProfessorLund University."><strong>Maria Sandsten, Professor, Lund University</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=Rjt-J5YAAAAJ) * [ORCID](https://orcid.org/0000-0002-8117-9588)
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Sustainable Cities,Efficient or Sustainable AI,NLP,Deep Learning">
@@ -342,6 +354,12 @@ Earth Observation * NLP * Computer Vision * Machine Learning * Deep Learning * [
 Earth Observation * Computer Vision * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=E7PSiHkAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-8135-1341)
 </div>
 
+<div class="content" markdown="1" data-tags="">
+<span title="Post DocUniversity of Gothenburg."><strong>Cheng Shen, Post Doc, University of Gothenburg</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=ovcygYkAAAAJ) * [ORCID](https://orcid.org/0000-0003-1727-2638)
+</div>
+
 <div class="content" markdown="1" data-tags="Earth Observation,Computer Vision,Machine Learning,Deep Learning">
 <span title="My area of research lies at the intersection of Remote Sensing, Physical Geography, Applied Statistics and Applied Machine (Deep) Learning. Post DocAarhus-Biology  &amp; UCPH-Geoscience."><strong>Jaime Revenga, Post Doc, Aarhus-Biology  &amp; UCPH-Geoscience</strong></span>
 <br />
@@ -534,10 +552,22 @@ Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep
 Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://lgordon99.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=DNO7ibYAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-3219-6960) * [BlueSky](https://bsky.app/profile/luciagordon.bsky.social)
 </div>
 
+<div class="content" markdown="1" data-tags="">
+<span title="PhD StudentGothenburg University."><strong>Cas Renette, PhD Student, Gothenburg University</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=RXZ0hgEAAAAJ) * [ORCID](https://orcid.org/0000-0001-7775-1898)
+</div>
+
 <div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Sustainable Production,Marine Ecology,Efficient or Sustainable AI,NLP,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
 <span title="I am a civil engineering student in AI and machine learning at Blekinge Institute of Technology, who wants to dedicate his life and career to solving environmental issues. StudentBlekinge Institute of Technology (Blekinge Tekniska Högskola)."><strong>Gustav Karlberg, Student, Blekinge Institute of Technology (Blekinge Tekniska Högskola)</strong></span>
 <br />
 Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Sustainable Production * Marine Ecology * Efficient or Sustainable AI * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Marine Ecology,NLP,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
+<span title="IndustryBoquila Foundation."><strong>José Díaz, Industry, Boquila Foundation</strong></span>
+<br />
+Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning * [Research group](https://boquila.org/en)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
@@ -697,8 +727,8 @@ Biodiversity * [Research group](https://eco.duw.unibas.ch/en/) * [Publications (
 Climate Modeling * Biodiversity * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.ca/citations?user=AjCwDdQAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-8473-5375)
 </div>
 
-<div class="content" markdown="1" data-tags="Biodiversity,Marine Ecology,NLP,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
-<span title="IndustryBoquila Foundation."><strong>José Díaz, Industry, Boquila Foundation</strong></span>
+<div class="content" markdown="1" data-tags="">
+<span title="European Standardization Initiatives DirectorIEEE Standards Association."><strong>Irene Kitsara, European Standardization Initiatives Director, IEEE Standards Association</strong></span>
 <br />
-Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning * [Research group](https://boquila.org/en)
+
 </div>
