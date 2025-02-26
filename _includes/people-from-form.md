@@ -1,10 +1,3 @@
-## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="">
-<span title="PhD StudentUniversity of Copenhagen."><strong>Venkanna Babu Guthula, PhD Student, University of Copenhagen</strong></span>
-<br />
-[Publications (Scholar)](https://scholar.google.com/citations?user=LY1bSd8AAAAJ) * [ORCID](https://orcid.org/0000-0001-5902-5905)
-</div>
-
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -568,6 +561,12 @@ Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Sustainab
 <span title="IndustryBoquila Foundation."><strong>José Díaz, Industry, Boquila Foundation</strong></span>
 <br />
 Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning * [Research group](https://boquila.org/en)
+</div>
+
+<div class="content" markdown="1" data-tags="">
+<span title="PhD StudentUniversity of Copenhagen."><strong>Venkanna Babu Guthula, PhD Student, University of Copenhagen</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=LY1bSd8AAAAJ) * [ORCID](https://orcid.org/0000-0001-5902-5905)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
