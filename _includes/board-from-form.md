@@ -22,7 +22,7 @@ Earth Observation * Climate Modeling * Efficient or Sustainable AI * Machine Lea
 
 <div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Computer Vision,Machine Learning,Deep Learning,Remote Sensing">
 ![Nico Lang](/images/people/lang.jpg)
-<span title="Post DocUniversity of Copenhagen."><strong>Nico Lang, Post Doc, University of Copenhagen</strong></span>
+<span title="Assistant ProfessorGlobal Wetland Center / University of Copenhagen."><strong>Nico Lang, Assistant Professor, Global Wetland Center / University of Copenhagen</strong></span>
 <br />
 Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Learning * Remote Sensing * [More info (researcher profile)](https://langnico.github.io/) * [Publications (Scholar)](https://scholar.google.ch/citations?user=bVZtKsQAAAAJ) * [ORCID](https://orcid.org/0000-0001-8434-027X) * [BlueSky](https://bsky.app/profile/nicolang.bsky.social)
 </div>
