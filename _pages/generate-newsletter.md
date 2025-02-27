@@ -13,7 +13,11 @@ Welcome to the *Climate AI Nordics* Newsletter {{ "now" | date: "%B %Y" }}.
 
 **Email us at [contact@climateainordics.com](mailto:contact@climateainordics.com) to contribute your own relevant news! We will include news on our web page, [climateainordics.com](https://climateainordics.com), and in our newsletter. Some announcements will also be communicated in social media. Take the chance of showcasing your work or your events to the community!**
 
-Since the launch in October, the network has grown to 64 people spread over the Nordic countries. Do you know researchers who works in the intersection of AI and Climate Change? Tell them about Climate AI Nordics! [climateainordics.com/join](https://climateainordics.com/join).
+Since the launch in October, the network has grown to 
+{% include people_from_form_count_number_only_nordics.md %}
+people spread over the Nordic countries
+({% include people_from_form_count_number_total.md %}).
+Do you know researchers who works in the intersection of AI and Climate Change? Tell them about Climate AI Nordics! [climateainordics.com/join](https://climateainordics.com/join).
 
 {% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}
 {% capture previous_newsletter_time %}{{ page.previous_newsletter | date: '%s' }}{% endcapture %}
