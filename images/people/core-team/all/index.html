@@ -190,6 +190,11 @@ function blackPage() {
   blackPageVar = !blackPageVar;
 }
 function mouseuphandler(e) {
+  var selection = window.getSelection();
+  if(selection.toString().length > 0) {
+    //alert('there was something selected'+selection.toString().length);
+    return;
+  }
   e.pageX;
   width = document.getElementById(currentPageId).offsetWidth;
   //alert(width);
@@ -332,8 +337,8 @@ MathJax = {
 };
 </script>
 		<script id="MathJax-script" async="true" src="resources/tex-mml-svg.js"> </script>
-		<meta generator='pymdslides, git commit: "d7fec9e234c710d298403f71a3387932f303adf9" https://github.com/olofmogren/pymdslides/'>
-		<meta generation-date="2025-02-05 13:34:56.135213+01:00">
+		<meta generator='pymdslides, git commit: "796c1d0376bd40994891c26a914dfe0f46cc21d9" https://github.com/olofmogren/pymdslides/'>
+		<meta generation-date="2025-02-27 09:47:14.840888+01:00">
 	</head>
 	<body onhashchange="gotoHash();">
 		<div class="black_div" id="black_div"> </div>
@@ -349,13 +354,26 @@ MathJax = {
 		<div id="page-1" class="page_div page_hidden" style="background-color: white; ">
 			<div class="subcontainer" onmouseup="mouseuphandler(event);" style=" background-color: #ffffffff; font-size: 2.267cqw; ">
 				<img src="graphics/rise.png" style="position: absolute; left: 95.000%; top: 88.889%; width: 4.167%; height: 9.630%; z-index: 5;">
-				<img src="graphics/mogren.webp" style="position: absolute; left: 0.000%; top: 0.000%; width: 33.333%; height: 33.333%; object-fit: cover;">
-				<img src="graphics/pirinen.jpg" style="position: absolute; left: 33.333%; top: 0.000%; width: 33.333%; height: 33.333%; object-fit: cover;">
-				<img src="graphics/larosa.jpg" style="position: absolute; left: 66.667%; top: 0.000%; width: 33.333%; height: 33.333%; object-fit: cover;">
-				<img src="graphics/kariryaa.jpg" style="position: absolute; left: 0.000%; top: 33.333%; width: 33.333%; height: 33.333%; object-fit: cover;">
-				<img src="graphics/puliti.jpg" style="position: absolute; left: 33.333%; top: 33.333%; width: 33.333%; height: 33.333%; object-fit: cover;">
-				<img src="graphics/hellan.jpg" style="position: absolute; left: 66.667%; top: 33.333%; width: 33.333%; height: 33.333%; object-fit: cover;">
-				<img src="graphics/martinsson.webp" style="position: absolute; left: 0.000%; top: 66.667%; width: 33.333%; height: 33.333%; object-fit: cover;">
+				<img src="graphics/mogren.webp" style="position: absolute; left: 0.000%; top: 0.000%; width: 20.000%; height: 24.815%; object-fit: cover;">
+				<img src="graphics/pirinen-536x536.jpg" style="position: absolute; left: 20.000%; top: 0.000%; width: 20.000%; height: 24.815%; object-fit: cover;">
+				<img src="graphics/larosa.jpg" style="position: absolute; left: 40.000%; top: 0.000%; width: 20.000%; height: 24.815%; object-fit: cover;">
+				<img src="graphics/kariryaa.jpg" style="position: absolute; left: 60.000%; top: 0.000%; width: 20.000%; height: 24.815%; object-fit: cover;">
+				<img src="graphics/puliti.jpg" style="position: absolute; left: 80.000%; top: 0.000%; width: 20.000%; height: 24.815%; object-fit: cover;">
+				<img src="graphics/hellan.jpg" style="position: absolute; left: 0.000%; top: 24.815%; width: 20.000%; height: 24.815%; object-fit: cover;">
+				<img src="graphics/martinsson.webp" style="position: absolute; left: 20.000%; top: 24.815%; width: 20.000%; height: 24.815%; object-fit: cover;">
+				<img src="graphics/van-hove.jpg" style="position: absolute; left: 40.000%; top: 24.815%; width: 20.000%; height: 24.815%; object-fit: cover;">
+				<img src="graphics/lang.jpg" style="position: absolute; left: 60.000%; top: 24.815%; width: 20.000%; height: 24.815%; object-fit: cover;">
+				<img src="graphics/sandstrom.jpg" style="position: absolute; left: 80.000%; top: 24.815%; width: 20.000%; height: 24.815%; object-fit: cover;">
+				<img src="graphics/white.webp" style="position: absolute; left: 0.000%; top: 49.630%; width: 20.000%; height: 24.815%; object-fit: cover;">
+				<img src="graphics/white.webp" style="position: absolute; left: 20.000%; top: 49.630%; width: 20.000%; height: 24.815%; object-fit: cover;">
+				<img src="graphics/white.webp" style="position: absolute; left: 40.000%; top: 49.630%; width: 20.000%; height: 24.815%; object-fit: cover;">
+				<img src="graphics/white.webp" style="position: absolute; left: 60.000%; top: 49.630%; width: 20.000%; height: 24.815%; object-fit: cover;">
+				<img src="graphics/white.webp" style="position: absolute; left: 80.000%; top: 49.630%; width: 20.000%; height: 24.815%; object-fit: cover;">
+				<img src="graphics/white.webp" style="position: absolute; left: 0.000%; top: 74.444%; width: 20.000%; height: 24.815%; object-fit: cover;">
+				<img src="graphics/white.webp" style="position: absolute; left: 20.000%; top: 74.444%; width: 20.000%; height: 24.815%; object-fit: cover;">
+				<img src="graphics/white.webp" style="position: absolute; left: 40.000%; top: 74.444%; width: 20.000%; height: 24.815%; object-fit: cover;">
+				<img src="graphics/white.webp" style="position: absolute; left: 60.000%; top: 74.444%; width: 20.000%; height: 24.815%; object-fit: cover;">
+				<img src="graphics/white.webp" style="position: absolute; left: 80.000%; top: 74.444%; width: 20.000%; height: 24.815%; object-fit: cover;">
 				<div style="position: absolute; left: 6.250%; top: 8.148%; width: 87.500%; height: 11.481%; text-align: start; overflow: hidden; padding-top: 0; /* text-wrap: nowrap; */ color: #000000ff; ">
 					<h1 style="margin: 0; padding: 0;font-size: 4.800cqw; "></h1>
 				</div>
