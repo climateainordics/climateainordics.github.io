@@ -167,10 +167,6 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 {% unless items_listed %}There are no recent events at this time.{% endunless %}
 
-# Some members of the network did not receive last month's newsletter.
-
-Unfortunately, the November email got stuck in many people's spam folders. Either look there, or read the contents online: [climateainordics.com/newsletter/2024-11-22-november-2024/](https://climateainordics.com/newsletter/2024-11-22-november-2024/).
-
 # Spread the word!
 
 Climate AI Nordics is present on [LinkedIn](https://www.linkedin.com/company/climate-ai-nordics/) and [BlueSky](https://bsky.app/profile/climateainordics.com). Follow us and repost our stories so that we get the most impact! Also make sure to share your work with us, by sending us an email ([contact@climateainordics.com](mailto:contact@climateainordics.com)) or some other channel, and we'll add it to the news feed!
