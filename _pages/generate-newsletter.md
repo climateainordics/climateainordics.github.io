@@ -16,7 +16,7 @@ Welcome to the *Climate AI Nordics* Newsletter {{ "now" | date: "%B %Y" }}.
 Since the launch in October, the network has grown to 
 {% include people_from_form_count_number_only_nordics.md %}
 people spread over the Nordic countries
-({% include people_from_form_count_number_total.md %} including supporters outside the Nordics).
+({% include people_from_form_count_number_total.md %} including international supporting affiliates).
 Do you know researchers who works in the intersection of AI and Climate Change? Tell them about Climate AI Nordics! [climateainordics.com/join](https://climateainordics.com/join).
 
 {% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}
