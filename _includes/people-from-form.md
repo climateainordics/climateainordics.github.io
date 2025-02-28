@@ -731,3 +731,15 @@ Climate Modeling * Biodiversity * Computer Vision * Soundscape Analysis * Machin
 <br />
 
 </div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Computer Vision,Machine Learning,Deep Learning">
+<span title="I am a PhD candidate at Washington University working on multimodal learning and computer vision for remote sensing and ecology. PhD StudentWashington University in St Louis."><strong>Srikumar Sastry, PhD Student, Washington University in St Louis</strong></span>
+<br />
+Earth Observation * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://vishu26.github.io/) * [Research group](https://mvrl.cse.wustl.edu/) * [Publications (Scholar)](https://scholar.google.com/citations?user=A-nQa6EAAAAJ&amp;hl=en)
+</div>
+
+<div class="content" markdown="1" data-tags="Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
+<span title="PhD StudentWashington University in St. Louis."><strong>Anindya Sarkar, PhD Student, Washington University in St. Louis</strong></span>
+<br />
+Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://anindyasarkariith.github.io/) * [Publications (Scholar)](https://scholar.google.co.in/citations?user=2hQyYz0AAAAJ&amp;hl=en)
+</div>
