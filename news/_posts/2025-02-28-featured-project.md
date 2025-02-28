@@ -1,6 +1,6 @@
 ---
 title: "Featured Project: AI-based seabird monitoring at Stora Karlsö, Sweden"
-<!--shortversion: "In Featured Preprints, preprints from affiliated researchers are summarized and featured at Climate AI Nordics. This one features &quot;Continuous Ensemble Weather Forecasting with Diffusion Models&quot;, from Mdrik Lindsten."-->
+shortversion: "Read about an exciting project involving an both artificial intelligence and an artificial rock shelf!"
 <!--people:
 - Olof Mogren
 -->
