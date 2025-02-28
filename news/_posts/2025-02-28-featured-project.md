@@ -4,7 +4,7 @@ shortversion: "Read about an exciting project involving an both artificial intel
 people:
 - Aleksis Pirinen
 
-image: /images/posts/2025-02-28-featured-project.png
+<!--image: /images/posts/2025-02-28-featured-project.png-->
 ---
 Project actors: **Jonas Hentati Sundberg** (Swedish University of Agricultural Sciences) et al.
 
@@ -19,3 +19,5 @@ Near-term future work includes adding additional sensors to further improve the 
 At  [this webpage](http://www.balticseabird.com/auklab/) you can see what the artificial rock shelf looks like in 3D!
 
 For more information about the project, please refer to [this page](http://www.balticseabird.com/about-2/). Also, see [this publication](https://zslpublications.onlinelibrary.wiley.com/doi/pdf/10.1002/rse2.329) which describes some of the work. You can also reach out to [Jonas Hentati Sundberg](https://www.slu.se/cv/jonas-hentati-sundberg/) for more information.
+
+![Image](https://github.com/user-attachments/assets/94c5a033-5a73-41a5-8873-acdc0fb6e4d8)
