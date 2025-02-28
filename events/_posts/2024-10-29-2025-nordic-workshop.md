@@ -49,7 +49,7 @@ Together, we will help the Nordic AI community to find the most impactful direct
 *- I develop automatic processes to analyse large amounts of sound
 recordings - for example detecting the bird sounds in there and how they vary, how they relate to each other, how the birds' behaviour relates to the sounds they make. The research work is focussed on the machine learning and signal processing methods that can help with these questions. I also work with others to apply these methods to biodiversity monitoring.*
 
-*Dan is a Fellow of the Alan Turing Institute, working with OpenClimateFix and OpenStreetMap on addressing climate change through solar panel mapping.*
+*Dan also works with OpenClimateFix and OpenStreetMap on addressing climate change through solar panel mapping.*
 
 **Stefanos Georganos,** Karlstad University: Unequal Cities in a Changing Climate: AI and Geospatial Approaches to Urban Resilience
 
