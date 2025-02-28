@@ -1,9 +1,9 @@
 ---
 title: "Featured Project: AI-based seabird monitoring at Stora Karlsö, Sweden"
 shortversion: "Read about an exciting project involving an both artificial intelligence and an artificial rock shelf!"
-<!--people:
-- Olof Mogren
--->
+people:
+- Aleksis Pirinen
+
 image: /images/posts/2025-02-28-featured-project.png
 ---
 Project actors: **Jonas Hentati Sundberg** (Swedish University of Agricultural Sciences) et al.
