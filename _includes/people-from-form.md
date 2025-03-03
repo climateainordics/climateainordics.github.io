@@ -1,3 +1,22 @@
+## Affiliates - Recently Joined
+<div class="content" markdown="1" data-tags="">
+<span title="Tetra Pak."><strong>Na Lin, Tetra Pak</strong></span>
+<br />
+
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Urban Planning,Sustainable Cities,Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning,Sustainable Heating">
+<span title="With a background in theoretical physics and machine learning, I work as an analytics engineer at Aira, a Swedish company dedicated to replacing fossil-fueled heating systems in homes across Europe with heat pumps.  In Aira’s central data and optimization team, I work at the intersection of data engineering and data science, contributing to both infrastructure and analytical solutions. Our team develops and applies machine learning models to optimize heat pump performance and support business operations.  In 2021, I collaborated with SMHI on a project to digitize historical handwritten weather journals using a deep neural network. SMHI’s Ashwin Mohanan, who was also involved in this project, will be attending the conference as well. IndustryAira."><strong>Valter Fallenius, Industry, Aira</strong></span>
+<br />
+Earth Observation * Climate Modeling * Urban Planning * Sustainable Cities * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * Sustainable Heating * [More info (researcher profile)](https://www.airahome.com)
+</div>
+
+<div class="content" markdown="1" data-tags="Machine Learning,Deep Learning,Climate Impacts">
+<span title="I work on conflict forecasting using AI as part of the VIEWS project. I also work on the intersection of climate, conflict, and societal vulnerability. I try to understand how the impacts of armed conflict and climate extremes compound and mutually reinforce.  PhD, ResearcherPeace Research Institute Oslo (PRIO)."><strong>Paola Vesco, PhD, Researcher, Peace Research Institute Oslo (PRIO)</strong></span>
+<br />
+Machine Learning * Deep Learning * Climate Impacts * [More info (researcher profile)](https://www.prio.org/people/11220)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -742,16 +761,4 @@ Earth Observation * Computer Vision * Machine Learning * Deep Learning * [More i
 <span title="PhD StudentWashington University in St. Louis."><strong>Anindya Sarkar, PhD Student, Washington University in St. Louis</strong></span>
 <br />
 Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://anindyasarkariith.github.io/) * [Publications (Scholar)](https://scholar.google.co.in/citations?user=2hQyYz0AAAAJ&amp;hl=en)
-</div>
-
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Urban Planning,Sustainable Cities,Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning,Sustainable Heating">
-<span title="With a background in theoretical physics and machine learning, I work as an analytics engineer at Aira, a Swedish company dedicated to replacing fossil-fueled heating systems in homes across Europe with heat pumps.  In Aira’s central data and optimization team, I work at the intersection of data engineering and data science, contributing to both infrastructure and analytical solutions. Our team develops and applies machine learning models to optimize heat pump performance and support business operations.  In 2021, I collaborated with SMHI on a project to digitize historical handwritten weather journals using a deep neural network. SMHI’s Ashwin Mohanan, who was also involved in this project, will be attending the conference as well. IndustryAira."><strong>Valter Fallenius, Industry, Aira</strong></span>
-<br />
-Earth Observation * Climate Modeling * Urban Planning * Sustainable Cities * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * Sustainable Heating * [More info (researcher profile)](https://www.airahome.com)
-</div>
-
-<div class="content" markdown="1" data-tags="Machine Learning,Deep Learning,Climate Impacts">
-<span title="I work on conflict forecasting using AI as part of the VIEWS project. I also work on the intersection of climate, conflict, and societal vulnerability. I try to understand how the impacts of armed conflict and climate extremes compound and mutually reinforce.  PhD, ResearcherPeace Research Institute Oslo (PRIO)."><strong>Paola Vesco, PhD, Researcher, Peace Research Institute Oslo (PRIO)</strong></span>
-<br />
-Machine Learning * Deep Learning * Climate Impacts * [More info (researcher profile)](https://www.prio.org/people/11220)
 </div>
