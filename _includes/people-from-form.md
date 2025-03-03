@@ -749,3 +749,9 @@ Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning
 <br />
 Earth Observation * Climate Modeling * Urban Planning * Sustainable Cities * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * Sustainable Heating * [More info (researcher profile)](https://www.airahome.com)
 </div>
+
+<div class="content" markdown="1" data-tags="Machine Learning,Deep Learning,Climate Impacts">
+<span title="I work on conflict forecasting using AI as part of the VIEWS project. I also work on the intersection of climate, conflict, and societal vulnerability. I try to understand how the impacts of armed conflict and climate extremes compound and mutually reinforce.  PhD, ResearcherPeace Research Institute Oslo (PRIO)."><strong>Paola Vesco, PhD, Researcher, Peace Research Institute Oslo (PRIO)</strong></span>
+<br />
+Machine Learning * Deep Learning * Climate Impacts * [More info (researcher profile)](https://www.prio.org/people/11220)
+</div>

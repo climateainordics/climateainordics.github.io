@@ -3,11 +3,11 @@
 <option value="all">Show All</option>
 <option value="Bayesian Optimisation">Bayesian Optimisation (1)</option>
 <option value="Biodiversity">Biodiversity (35)</option>
-<option value="Climate Impacts">Climate Impacts (1)</option>
+<option value="Climate Impacts">Climate Impacts (2)</option>
 <option value="Climate Modeling">Climate Modeling (33)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
 <option value="Computer Vision">Computer Vision (45)</option>
-<option value="Deep Learning">Deep Learning (61)</option>
+<option value="Deep Learning">Deep Learning (62)</option>
 <option value="Earth Observation">Earth Observation (47)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
@@ -21,7 +21,7 @@
 <option value="HPC">HPC (1)</option>
 <option value="Impact on Climate Change on Health">Impact on Climate Change on Health (1)</option>
 <option value="Knowledge Graphs">Knowledge Graphs (1)</option>
-<option value="Machine Learning">Machine Learning (64)</option>
+<option value="Machine Learning">Machine Learning (65)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (11)</option>
 <option value="Materials and Atmospheric Science">Materials and Atmospheric Science (1)</option>
