@@ -17,6 +17,12 @@ Earth Observation * Climate Modeling * Urban Planning * Sustainable Cities * Eff
 Machine Learning * Deep Learning * Climate Impacts * [More info (researcher profile)](https://www.prio.org/people/11220)
 </div>
 
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Efficient or Sustainable AI,Machine Learning,Deep Learning">
+<span title="As an enthusiast in understanding the laws of nature, I focus on studying the earth and planetary system science and understanding climate, ocean and atmospheric dynamics using machine and deep learning techniques and advanced statistical, dynamical, and numerical models. I aimed to contribute to better forecasting and predicting weather and climate by improving algorithms, parameterization and deploying new techniques supported by good data management, computing, and accessibility. PhD, ResearcherUppsala University."><strong>Venugopal Thallam, PhD, Researcher, Uppsala University</strong></span>
+<br />
+Earth Observation * Climate Modeling * Efficient or Sustainable AI * Machine Learning * Deep Learning * [More info (researcher profile)](https://sites.google.com/view/vngp/home?authuser=2) * [Research group](https://mp.uu.se/en/web/profilsidor/start/-/emp/N18-1132) * [Publications (Scholar)](https://scholar.google.com/citations?user=cIz45qQAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-7771-1693) * [BlueSky](https://bsky.app/profile/vthandlam.bsky.social)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -202,12 +208,6 @@ Biodiversity * Marine Ecology * Efficient or Sustainable AI * NLP * Computer Vis
 <span title="I work with statistical methods with different levels of complexity to understand climate change impacts on various processes and to forecast future impacts.  PhD, ResearcherSwedish University of Agricultural Sciences."><strong>Faranak Tootoonchi, PhD, Researcher, Swedish University of Agricultural Sciences</strong></span>
 <br />
 Climate Modeling * Sustainable Cities * Sustainable Production * Machine Learning * Climate Impacts * [Research group](https://www.slu.se/en/ew-cv/faranak-tootoonchi/) * [Publications (Scholar)](https://scholar.google.com/citations?user=5XmN8AUAAAAJ) * [ORCID](https://orcid.org/0000-0001-5262-1712) * [BlueSky](https://bsky.app/profile/faranaktt.bsky.social)
-</div>
-
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Sustainable Production,Marine Ecology,Efficient or Sustainable AI,NLP,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
-<span title="PhD, ResearcherUppsala University."><strong>Venugopal Thallam, PhD, Researcher, Uppsala University</strong></span>
-<br />
-Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Sustainable Production * Marine Ecology * Efficient or Sustainable AI * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning * [Research group](https://www.uu.se/en/department/earth-sciences/research/air-water-and-landscape-science) * [Publications (Scholar)](https://scholar.google.com/citations?user=cIz45qQAAAAJ) * [ORCID](https://orcid.org/0000-0001-7771-1693)
 </div>
 
 <div class="content" markdown="1" data-tags="Climate Modeling,Machine Learning,Deep Learning">

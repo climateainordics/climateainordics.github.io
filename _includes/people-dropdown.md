@@ -2,11 +2,11 @@
 <select id="tagFilter">
 <option value="all">Show All</option>
 <option value="Bayesian Optimisation">Bayesian Optimisation (1)</option>
-<option value="Biodiversity">Biodiversity (35)</option>
+<option value="Biodiversity">Biodiversity (34)</option>
 <option value="Climate Impacts">Climate Impacts (2)</option>
 <option value="Climate Modeling">Climate Modeling (33)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
-<option value="Computer Vision">Computer Vision (45)</option>
+<option value="Computer Vision">Computer Vision (44)</option>
 <option value="Deep Learning">Deep Learning (62)</option>
 <option value="Earth Observation">Earth Observation (47)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
@@ -23,21 +23,21 @@
 <option value="Knowledge Graphs">Knowledge Graphs (1)</option>
 <option value="Machine Learning">Machine Learning (65)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
-<option value="Marine Ecology">Marine Ecology (11)</option>
+<option value="Marine Ecology">Marine Ecology (10)</option>
 <option value="Materials and Atmospheric Science">Materials and Atmospheric Science (1)</option>
 <option value="Meteorology">Meteorology (1)</option>
 <option value="Molecular Modeling of Atmospheric Chemistry">Molecular Modeling of Atmospheric Chemistry (1)</option>
-<option value="NLP">NLP (16)</option>
+<option value="NLP">NLP (15)</option>
 <option value="Numerical Weather Prediction">Numerical Weather Prediction (1)</option>
 <option value="Remote Sensing">Remote Sensing (1)</option>
-<option value="Soundscape Analysis">Soundscape Analysis (14)</option>
+<option value="Soundscape Analysis">Soundscape Analysis (13)</option>
 <option value="Spatial Analysis">Spatial Analysis (1)</option>
-<option value="Sustainable Cities">Sustainable Cities (22)</option>
+<option value="Sustainable Cities">Sustainable Cities (21)</option>
 <option value="Sustainable Heating">Sustainable Heating (1)</option>
-<option value="Sustainable Production">Sustainable Production (15)</option>
+<option value="Sustainable Production">Sustainable Production (14)</option>
 <option value="Sustainable Space Exploration and Research">Sustainable Space Exploration and Research (1)</option>
-<option value="Sustainable Transport">Sustainable Transport (12)</option>
-<option value="Urban Planning">Urban Planning (14)</option>
+<option value="Sustainable Transport">Sustainable Transport (11)</option>
+<option value="Urban Planning">Urban Planning (13)</option>
 <option value="Weather Forecasting">Weather Forecasting (1)</option></select>
 
 <script>
