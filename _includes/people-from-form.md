@@ -1,6 +1,6 @@
 ## Affiliates - Recently Joined
 <div class="content" markdown="1" data-tags="">
-<span title="Tetra Pak."><strong>Na Lin, Tetra Pak</strong></span>
+<span title="Climate ManagerTetra Pak."><strong>Na Lin, Climate Manager, Tetra Pak</strong></span>
 <br />
 
 </div>
