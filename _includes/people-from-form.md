@@ -743,3 +743,9 @@ Earth Observation * Computer Vision * Machine Learning * Deep Learning * [More i
 <br />
 Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://anindyasarkariith.github.io/) * [Publications (Scholar)](https://scholar.google.co.in/citations?user=2hQyYz0AAAAJ&amp;hl=en)
 </div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Urban Planning,Sustainable Cities,Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning,Sustainable Heating">
+<span title="With a background in theoretical physics and machine learning, I work as an analytics engineer at Aira, a Swedish company dedicated to replacing fossil-fueled heating systems in homes across Europe with heat pumps.  In Aira’s central data and optimization team, I work at the intersection of data engineering and data science, contributing to both infrastructure and analytical solutions. Our team develops and applies machine learning models to optimize heat pump performance and support business operations.  In 2021, I collaborated with SMHI on a project to digitize historical handwritten weather journals using a deep neural network. SMHI’s Ashwin Mohanan, who was also involved in this project, will be attending the conference as well. IndustryAira."><strong>Valter Fallenius, Industry, Aira</strong></span>
+<br />
+Earth Observation * Climate Modeling * Urban Planning * Sustainable Cities * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * Sustainable Heating * [More info (researcher profile)](https://www.airahome.com)
+</div>
