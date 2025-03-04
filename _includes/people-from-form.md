@@ -79,7 +79,7 @@ Earth Observation * Climate Modeling * Urban Planning * Sustainable Cities * Sus
 </div>
 
 <div class="content" markdown="1" data-tags="Efficient or Sustainable AI,Machine Learning,Deep Learning,Materials and Atmospheric Science">
-<span title="I research AI for sustainable materials development and AI in atmospheric science . ProfessorAalto Univeristy."><strong>Patrick Rinke, Professor, Aalto Univeristy</strong></span>
+<span title="I research AI for sustainable materials development and AI in atmospheric science . ProfessorAalto University."><strong>Patrick Rinke, Professor, Aalto University</strong></span>
 <br />
 Efficient or Sustainable AI * Machine Learning * Deep Learning * Materials and Atmospheric Science * [Research group](https://www.aalto.fi/en/department-of-applied-physics/computational-electronic-structure-theory-cest) * [Publications (Scholar)](https://scholar.google.com/citations?user=TYHCEwQAAAAJ) * [ORCID](https://orcid.org/0000-0003-1898-723X)
 </div>
@@ -367,7 +367,7 @@ Earth Observation * Computer Vision * Deep Learning * [Publications (Scholar)](h
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Computer Vision,Machine Learning,Deep Learning">
-<span title="My area of research lies at the intersection of Remote Sensing, Physical Geography, Applied Statistics and Applied Machine (Deep) Learning. Post DocAarhus-Biology  &amp; UCPH-Geoscience."><strong>Jaime Revenga, Post Doc, Aarhus-Biology  &amp; UCPH-Geoscience</strong></span>
+<span title="My area of research lies at the intersection of Remote Sensing, Physical Geography, Applied Statistics and Applied Machine (Deep) Learning. Post DocAarhus University / UCPH-Geoscience."><strong>Jaime Revenga, Post Doc, Aarhus University / UCPH-Geoscience</strong></span>
 <br />
 Earth Observation * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.linkedin.com/in/jaime-c-revenga-8556b9167/) * [Research group](https://land-craft.dk/about-us/vision-and-mission) * [Publications (Scholar)](https://scholar.google.com/citations?user=wQfif-MAAAAJ&amp;hl=es) * [ORCID](https://orcid.org/0000-0002-9330-6572) * [BlueSky](https://bsky.app/profile/@jacabenga.bsky.social)
 </div>
