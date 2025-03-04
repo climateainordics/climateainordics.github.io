@@ -145,7 +145,7 @@ Climate Modeling * Biodiversity * Sustainable Transport * Sustainable Cities * S
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Urban Planning,Machine Learning,Ecosystem Services">
-<span title="I am senior lecturer and subject representative of Geomatics at Karlstad university (Kau) as well as research coordinator for the NEOGEO research group there. My research interests lie mainly in method development within GIS and remote sensing frameworks from a sustainability and climate adaptation/mitigation perspective, with the overarching goal of improving the well-being of humans and other living organisms on our Earth through development of technical solutions and contributions to the scientific knowledge base.I hold a PhD in remote sensing and geographic information technology (GIT). Research DirectorKarlstad university."><strong>Jan Haas, Research Director, Karlstad university</strong></span>
+<span title="I am senior lecturer and subject representative of Geomatics at Karlstad university (Kau) as well as research coordinator for the NEOGEO research group there. My research interests lie mainly in method development within GIS and remote sensing frameworks from a sustainability and climate adaptation/mitigation perspective, with the overarching goal of improving the well-being of humans and other living organisms on our Earth through development of technical solutions and contributions to the scientific knowledge base.I hold a PhD in remote sensing and geographic information technology (GIT). Research DirectorKarlstad University."><strong>Jan Haas, Research Director, Karlstad University</strong></span>
 <br />
 Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Machine Learning * Ecosystem Services * [More info (researcher profile)](https://www.kau.se/en/researchers/jan-haas) * [ORCID](https://orcid.org/0000-0002-6140-2922)
 </div>
@@ -331,7 +331,7 @@ Sustainable Cities * Sustainable Production * [More info (researcher profile)](h
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Marine Ecology,Efficient or Sustainable AI,Soundscape Analysis,Machine Learning,Deep Learning">
-<span title="AI researcher with expertise in audio signals and policy. PhD, ResearcherRISE."><strong>Delia Fano Yela, PhD, Researcher, RISE</strong></span>
+<span title="AI researcher with expertise in audio signals and policy. PhD, ResearcherRISE Research Institutes of Sweden."><strong>Delia Fano Yela, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
 <br />
 Earth Observation * Biodiversity * Marine Ecology * Efficient or Sustainable AI * Soundscape Analysis * Machine Learning * Deep Learning * [More info (researcher profile)](https://delialia.github.io/) * [Publications (Scholar)](https://scholar.google.co.uk/citations?user=fUp2rucAAAAJ)
 </div>
@@ -349,7 +349,7 @@ Earth Observation * NLP * Computer Vision * Machine Learning * Deep Learning * [
 </div>
 
 <div class="content" markdown="1" data-tags="">
-<span title="Researcher at Rossby Centre, SMHI. Expert in machine learning for climate applications. PhD, ResearcherSMHI, Rossby Centre."><strong>Mikhail Ivanov, PhD, Researcher, SMHI, Rossby Centre</strong></span>
+<span title="Researcher at Rossby Centre, SMHI. Expert in machine learning for climate applications. PhD, ResearcherSMHI."><strong>Mikhail Ivanov, PhD, Researcher, SMHI</strong></span>
 <br />
 [ORCID](https://orcid.org/0000-0001-5234-7848)
 </div>
@@ -541,7 +541,7 @@ Earth Observation * Computer Vision * Machine Learning * Deep Learning * [Public
 </div>
 
 <div class="content" markdown="1" data-tags="">
-<span title="PhD StudentChalmers."><strong>Hannah Frostenberg, PhD Student, Chalmers</strong></span>
+<span title="PhD StudentChalmers University of Technology."><strong>Hannah Frostenberg, PhD Student, Chalmers University of Technology</strong></span>
 <br />
 [ORCID](https://orcid.org/0000-0002-0630-4123)
 </div>
@@ -565,7 +565,7 @@ Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Lea
 </div>
 
 <div class="content" markdown="1" data-tags="">
-<span title="PhD StudentGothenburg University."><strong>Cas Renette, PhD Student, Gothenburg University</strong></span>
+<span title="PhD StudentUniversity of Gothenburg."><strong>Cas Renette, PhD Student, University of Gothenburg</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=RXZ0hgEAAAAJ) * [ORCID](https://orcid.org/0000-0001-7775-1898)
 </div>
@@ -680,7 +680,7 @@ Climate Modeling * Sustainable Cities * Efficient or Sustainable AI
 </div>
 
 <div class="content" markdown="1" data-tags="">
-<span title="PhD StudentIit delhi."><strong>Nirdesh kumar Sharma, PhD Student, Iit delhi</strong></span>
+<span title="PhD StudentIndian Institute of Technology, Delhi."><strong>Nirdesh kumar Sharma, PhD Student, Indian Institute of Technology, Delhi</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=4U84fR8AAAAJ) * [ORCID](https://orcid.org/0000-0002-8780-0697)
 </div>
@@ -758,7 +758,7 @@ Earth Observation * Computer Vision * Machine Learning * Deep Learning * [More i
 </div>
 
 <div class="content" markdown="1" data-tags="Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
-<span title="PhD StudentWashington University in St. Louis."><strong>Anindya Sarkar, PhD Student, Washington University in St. Louis</strong></span>
+<span title="PhD StudentWashington University in St Louis."><strong>Anindya Sarkar, PhD Student, Washington University in St Louis</strong></span>
 <br />
 Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://anindyasarkariith.github.io/) * [Publications (Scholar)](https://scholar.google.co.in/citations?user=2hQyYz0AAAAJ&amp;hl=en)
 </div>
