@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="">
-<span title="Climate ManagerTetra Pak."><strong>Na Lin, Climate Manager, Tetra Pak</strong></span>
-<br />
-
-</div>
-
 <div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Urban Planning,Sustainable Cities,Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning,Sustainable Heating">
 <span title="With a background in theoretical physics and machine learning, I work as an analytics engineer at Aira, a Swedish company dedicated to replacing fossil-fueled heating systems in homes across Europe with heat pumps.  In Aira’s central data and optimization team, I work at the intersection of data engineering and data science, contributing to both infrastructure and analytical solutions. Our team develops and applies machine learning models to optimize heat pump performance and support business operations.  In 2021, I collaborated with SMHI on a project to digitize historical handwritten weather journals using a deep neural network. SMHI’s Ashwin Mohanan, who was also involved in this project, will be attending the conference as well. IndustryAira."><strong>Valter Fallenius, Industry, Aira</strong></span>
 <br />
@@ -586,6 +580,12 @@ Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Ma
 <span title="PhD StudentUniversity of Copenhagen."><strong>Venkanna Babu Guthula, PhD Student, University of Copenhagen</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=LY1bSd8AAAAJ) * [ORCID](https://orcid.org/0000-0001-5902-5905)
+</div>
+
+<div class="content" markdown="1" data-tags="">
+<span title="Climate ManagerTetra Pak."><strong>Na Lin, Climate Manager, Tetra Pak</strong></span>
+<br />
+
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
