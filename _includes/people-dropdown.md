@@ -2,7 +2,7 @@
 <select id="tagFilter">
 <option value="all">Show All</option>
 <option value="Bayesian Optimisation">Bayesian Optimisation (1)</option>
-<option value="Biodiversity">Biodiversity (35)</option>
+<option value="Biodiversity">Biodiversity (36)</option>
 <option value="Climate Impacts">Climate Impacts (2)</option>
 <option value="Climate Modeling">Climate Modeling (34)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
