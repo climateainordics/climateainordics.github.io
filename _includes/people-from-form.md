@@ -1,10 +1,3 @@
-## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Computer Vision,Machine Learning,Deep Learning">
-<span title="My area of research lies at the intersection of Remote Sensing, Physical Geography, Applied Statistics and Applied Machine (Deep) Learning. Post DocAarhus-Biology  &amp; UCPH-Geoscience."><strong>Jaime Revenga, Post Doc, Aarhus-Biology  &amp; UCPH-Geoscience</strong></span>
-<br />
-Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.linkedin.com/in/jaime-c-revenga-8556b9167/) * [Research group](https://land-craft.dk/about-us/vision-and-mission) * [Publications (Scholar)](https://scholar.google.com/citations?user=wQfif-MAAAAJ&amp;hl=es) * [ORCID](https://orcid.org/0000-0002-9330-6572) * [BlueSky](https://bsky.app/profile/@jacabenga.bsky.social)
-</div>
-
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -364,6 +357,12 @@ Machine Learning * Deep Learning * Climate Impacts * [More info (researcher prof
 <span title="As an enthusiast in understanding the laws of nature, I focus on studying the earth and planetary system science and understanding climate, ocean and atmospheric dynamics using machine and deep learning techniques and advanced statistical, dynamical, and numerical models. I aimed to contribute to better forecasting and predicting weather and climate by improving algorithms, parameterization and deploying new techniques supported by good data management, computing, and accessibility. PhD, ResearcherUppsala University."><strong>Venugopal Thallam, PhD, Researcher, Uppsala University</strong></span>
 <br />
 Earth Observation * Climate Modeling * Efficient or Sustainable AI * Machine Learning * Deep Learning * [More info (researcher profile)](https://sites.google.com/view/vngp/home?authuser=2) * [Research group](https://mp.uu.se/en/web/profilsidor/start/-/emp/N18-1132) * [Publications (Scholar)](https://scholar.google.com/citations?user=cIz45qQAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-7771-1693) * [BlueSky](https://bsky.app/profile/vthandlam.bsky.social)
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Computer Vision,Machine Learning,Deep Learning">
+<span title="My area of research lies at the intersection of Remote Sensing, Physical Geography, Applied Statistics and Applied Machine (Deep) Learning. Post DocAarhus-Biology  &amp; UCPH-Geoscience."><strong>Jaime Revenga, Post Doc, Aarhus-Biology  &amp; UCPH-Geoscience</strong></span>
+<br />
+Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.linkedin.com/in/jaime-c-revenga-8556b9167/) * [Research group](https://land-craft.dk/about-us/vision-and-mission) * [Publications (Scholar)](https://scholar.google.com/citations?user=wQfif-MAAAAJ&amp;hl=es) * [ORCID](https://orcid.org/0000-0002-9330-6572) * [BlueSky](https://bsky.app/profile/@jacabenga.bsky.social)
 </div>
 
 <div class="content" markdown="1" data-tags="">
