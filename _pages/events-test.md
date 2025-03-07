@@ -17,7 +17,7 @@ permalink: /events-test/
   {% endfor %}
 {% endcapture %}
 
-{% assign sorted_posts = posts | split: '|||||' | sort_natural %}
+{% assign sorted_posts = posts | split: '|||||' | shift | sort_natural %}
 
 {% for p in sorted_posts %}
 {% assign postarray = p | split: '#####' %}
