@@ -12,7 +12,7 @@ event_date: 2025-02-20
 event_time: "15:00"
 event_location: "RISE Lund Office (Scheelevägen 17)"
 image: /images/posts/2025-02-04-2025-02-20-tech-informed-nature-conservation-are-we.jpg
-youtube: https://www.youtube.com/watch?v=Gs3Tcfec6iY&list=PLqLiVcF3GKy0-jZFGg-VqLzh51LqCfduN&index=1
+youtube: 'https://www.youtube.com/watch?v=Gs3Tcfec6iY&list=PLqLiVcF3GKy0-jZFGg-VqLzh51LqCfduN&index=1'
 --- 
 Welcome to this week's Learning Machines seminar.
 

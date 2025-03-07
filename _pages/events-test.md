@@ -22,21 +22,22 @@ permalink: /events-test/
 {% for p in sorted_posts %}
 {% assign postarray = p | split: '#' %}
 {% assign event_date = postarray[0] %}
-{% assign title = postarray[1] %}
-{% assign image = postarray[2] %}
-{% assign shortversion = postarray[3] %}
-{% assign url = postarray[4] | strip %}
-{% assign youtube = postarray[5] | strip %}
+{% assign event_time = postarray[1] %}
+{% assign title = postarray[2] %}
+{% assign image = postarray[3] %}
+{% assign shortversion = postarray[4] %}
+{% assign url = postarray[5] | strip %}
+{% assign youtube = postarray[6] | strip %}
 
-{% capture eventtime %}{{ event_date | date: '%s'}}{% endcapture %}
+{% capture eventtimestamp %}{{ event_date | date: '%s'}}{% endcapture %}
 
 ## {{ title }}
 {% if image %}<img src="{{ image }}" style="float: right; width: 25%;" />{% endif %}
 
-<span style="color:grey;">**Event date:** *{{event_date | date: '%Y-%m-%d %H-%i'}}*</span>
+<span style="color:grey;">**Event date:** *{{event_date | date: '%Y-%m-%d'}} {{ event_time }}*</span>
 
-{% if eventtime < nowtime %}
-{% if youtube %}
+{% if eventtimestamp < nowtime %}
+{% if youtube != "" %}
 Click below to view the recording of this seminar!
 {% else %}
 This event has already happened. Stay tuned for more events like these!
