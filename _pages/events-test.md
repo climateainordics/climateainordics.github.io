@@ -13,34 +13,42 @@ permalink: /events-test/
 
 {% capture posts %}
   {% for post in site.categories.events %}
-    |{{ post.title }}#{{ post.event_date }}#{{ post.image }}#{{ post.shortversion }}#{{ post.url  }}
+    |{{post.event_date}}#{{ post.title }}#{{ post.image }}#{{ post.shortversion }}#{{ post.url  }}#{{ post.youtube }}
   {% endfor %}
 {% endcapture %}
 
-{% assign sorted_posts_old = posts | split: '|' | sort: "event_date" | shift | reverse %}
-{% assign sorted_posts = posts | split: '|' | sort_natural: "event_date"  %}
+{% assign sorted_posts = posts | split: '|' | sort_natural %}
 
 {% for p in sorted_posts %}
 {% assign postarray = p | split: '#' %}
-{% assign title = postarray[0] %}
-{% assign event_date = postarray[1] %}
+{% assign event_date = postarray[0] %}
+{% assign title = postarray[1] %}
 {% assign image = postarray[2] %}
 {% assign shortversion = postarray[3] %}
 {% assign url = postarray[4] | strip %}
+{% assign youtube = postarray[5] | strip %}
 
 {% capture eventtime %}{{ event_date | date: '%s'}}{% endcapture %}
 
 ## {{ title }}
 {% if image %}<img src="{{ image }}" style="float: right; width: 25%;" />{% endif %}
 
-<span style="color:grey;">**Event date:** *{{event_date | date: '%Y-%m-%d'}}*</span>
+<span style="color:grey;">**Event date:** *{{event_date | date: '%Y-%m-%d %H-%i'}}*</span>
 
-event_date: "{{ event_date }}"
-
-{% if eventtime < nowtime %}This event has already happened. Stay tuned for more events like these!{% endif %}
+{% if eventtime < nowtime %}
+{% if youtube %}
+Click below to view the recording of this seminar!
+{% else %}
+This event has already happened. Stay tuned for more events like these!
+{% endif %}
+{% endif %}
 {{ shortversion }}
 
+{% if youtube %}
+**[View recorded seminar!]({{ url }})**
+{% else %}
 **[Read more!]({{ url }})**
+{% endif %}
 
 {% endfor %}
 
