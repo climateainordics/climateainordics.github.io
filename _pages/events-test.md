@@ -13,14 +13,14 @@ permalink: /events-test/
 
 {% capture posts %}
   {% for post in site.categories.events %}
-    |{{post.event_date}}#{{ post.title }}#{{ post.image }}#{{ post.shortversion }}#{{ post.url  }}#{{ post.youtube }}
+    |||||{{post.event_date}}#####{{ post.title }}#####{{ post.image }}#####{{ post.shortversion }}#####{{ post.url  }}#####{{ post.youtube }}
   {% endfor %}
 {% endcapture %}
 
-{% assign sorted_posts = posts | split: '|' | sort_natural %}
+{% assign sorted_posts = posts | split: '|||||' | sort_natural %}
 
 {% for p in sorted_posts %}
-{% assign postarray = p | split: '#' %}
+{% assign postarray = p | split: '#####' %}
 {% assign event_date = postarray[0] %}
 {% assign event_time = postarray[1] %}
 {% assign title = postarray[2] %}
