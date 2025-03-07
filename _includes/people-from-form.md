@@ -768,3 +768,9 @@ Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning
 <br />
 Climate Modeling * Biodiversity * Urban Planning * Sustainable Production * Marine Ecology * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.linkedin.com/in/muhammad-ahmed-892330194?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app) * [ORCID](https://orcid.org/0009-0003-3843-0057)
 </div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Machine Learning,Deep Learning">
+<span title="I am a geographer and environmental scientist with a research focus on landscape dynamics and human-environment interactions across multiple scales. I examine the drivers and impacts of land-use change, aiming to bridge scientific knowledge and policy for sustainable landscape management. My interdisciplinary approach integrates large-scale Earth observation, machine learning, and ecosystem monitoring tools, which enables me to observe and interpret complex patterns of environmental change.  PhD, ResearcherLund University."><strong>Hakim Abdi, PhD, Researcher, Lund University</strong></span>
+<br />
+Earth Observation * Biodiversity * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.hakimabdi.com) * [Publications (Scholar)](https://scholar.google.se/citations?user=ppOH_fQAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-6486-8747) * [BlueSky](https://bsky.app/profile/hakimabdi.bsky.social)
+</div>

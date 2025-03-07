@@ -2,13 +2,13 @@
 <select id="tagFilter">
 <option value="all">Show All</option>
 <option value="Bayesian Optimisation">Bayesian Optimisation (1)</option>
-<option value="Biodiversity">Biodiversity (36)</option>
+<option value="Biodiversity">Biodiversity (37)</option>
 <option value="Climate Impacts">Climate Impacts (2)</option>
 <option value="Climate Modeling">Climate Modeling (34)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
 <option value="Computer Vision">Computer Vision (44)</option>
-<option value="Deep Learning">Deep Learning (63)</option>
-<option value="Earth Observation">Earth Observation (47)</option>
+<option value="Deep Learning">Deep Learning (64)</option>
+<option value="Earth Observation">Earth Observation (48)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
 <option value="Education">Education (1)</option>
@@ -21,7 +21,7 @@
 <option value="HPC">HPC (1)</option>
 <option value="Impact on Climate Change on Health">Impact on Climate Change on Health (1)</option>
 <option value="Knowledge Graphs">Knowledge Graphs (1)</option>
-<option value="Machine Learning">Machine Learning (66)</option>
+<option value="Machine Learning">Machine Learning (67)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (11)</option>
 <option value="Materials and Atmospheric Science">Materials and Atmospheric Science (1)</option>
