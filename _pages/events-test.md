@@ -13,7 +13,7 @@ permalink: /events-test/
 
 {% capture posts %}
   {% for post in site.categories.events %}
-    |||||{{post.event_date}}#####{{ post.title }}#####{{ post.image }}#####{{ post.shortversion }}#####{{ post.url  }}#####{{ post.youtube }}
+    |||||{{post.event_date}}#####{{ post.event_time }}#####{{ post.title }}#####{{ post.image }}#####{{ post.shortversion }}#####{{ post.url  }}#####{{ post.youtube }}
   {% endfor %}
 {% endcapture %}
 
