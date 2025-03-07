@@ -45,7 +45,7 @@ This event has already happened. Stay tuned for more events like these!
 {% endif %}
 {{ shortversion }}
 
-{% if youtube %}
+{% if youtube != "" %}
 **[View recorded seminar!]({{ url }})**
 {% else %}
 **[Read more!]({{ url }})**
