@@ -121,36 +121,32 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 
 ## 16:10 - 17:45 Poster presentations
 
-* Sonja Aits, Lund University
-* Alouette van Hove, University of Oslo
-* Aleksis Pirinen, RISE
-* Anupama Kuttikkat Xavier, Royal Meteorological institute of Belgium
-* Murathan, Kurfalı, RISE
-* Nico Lang, University of Copenhagen
-* Carolyn Rosten, Norwegian Institute for Nature Research
-* Stefano Puliti, NBIO
-* Ankit Kariryaa, University of Copenhagen
-* Puja Tripathy, PhD student at Indian Institute of Technology, Bombay
-* Anna Luise von Blohn, Remote Sensing Center for Earth System Research (RSC4Earth), Leipzig University
-* Ellen De Jonghe, Ghent University
-* Jaime Caballer Revenga, Copenhagen University
-* Francesca Larosa, Royal Institute of Technology (KTH)
-* Céline Heuzé, University of Gothenburg: *LSTM and Random Forest for extreme sea level*
-* Dan Stowell, Tilburg University
-* Laura Helene Rasmussen, Copenhagen Data Lab, Department of Mathematical Sciences, University of Copenhagen
-* Benjamin Cretois, Norwegian Institute for Nature Research
-* Ashwin Mohanan, RISE
-* Tiffany Vlaar, University of Glasgow
-* Blanca Delgado-Márquez, University of Granada
-* Leon Green, University of Gothenburg
-* Luisa Delgado-Márquez, University of Granada
-* Filip Dorm, EPFL
-* Adrià Amell, Chalmers University of Technology
-* Patrick Eriksson, Chalmers University of Technology
-* Ramón Fuentes Franco, SMHI
-* Heather Reese, University of Gothenburg // MERGE & BECC
-* Nirdesh kumar Sharma, Iit delhi
-* Niti Mishra, ISGlobal and Pompeu Fabra University
-* Andrea Nascett, KTH - Royal Institute of Technology - Geoinformatics Division
-* Lucia Gordon, University of Copenhagen / Harvard
-
+| Speaker | Title |
+| ------- | ----- |
+| Ramon Fuentes Franco | Pan-European high-resolution downscaling using deep learning |
+| Puja Tripathy | Enhancing Hyperlocal Extreme Rainfall Forecasts for Mumbai |
+| Celine Heuze | Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest |
+| Murathan Kurfali | ClimateEval: A Comprehensive Benchmark for Climate Change NLP |
+| Anapuma Xavier | Comparative predictability of eastern and western north pacific blocking events |
+| Filip Dorm | Large language models possess some ecological knowledge, but how much? |
+| Aleksis Pirinen | |
+| Sonja Aits | |
+| Alan Said | | |
+| Stefano Puliti | |
+| Ankit Kariryaa | |
+| Ellen Dejonghe | |
+| Jaime Caballer Revenga | Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories |
+| Francesca Larosa | |
+| Laura Helene Rasmussen | Quantifying the variability of winter climate in the Arctic |
+| Anna Luise Von Blohn | |
+| Carolyn Rosten | |
+| Benjamin Cretois | |
+| Ashwin Mohanan | Dawsonia: Digitizing handwritten observations in weather journals |
+| Tiffany Vlaar | |
+| Blanca Delgado-Márquez | |
+| Luisa Delgado-Márquez | |
+| Leon Green | Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm. |
+| Adrià Amell | RainOverAfrica.AI: nowcasting precipitation from geostationary imagery |
+| Patrick Eriksson | Providing space-borne ML-based atmospheric data with case-specific uncertainties |
+| Ramon Fuentesfranco | |
+| Heather Reese | Subarctic tundra change mapping with Earth Observation and machine learning |
