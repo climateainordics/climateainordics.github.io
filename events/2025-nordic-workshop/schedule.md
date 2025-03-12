@@ -54,7 +54,7 @@ img {
 | Filip Dorm | Large language models possess some ecological knowledge, but how much? |
 | Aleksis Pirinen | |
 | Sonja Aits | |
-| Alan Said | | |
+| Alan Said | |
 | Stefano Puliti | |
 | Ankit Kariryaa | |
 | Ellen Dejonghe | |
