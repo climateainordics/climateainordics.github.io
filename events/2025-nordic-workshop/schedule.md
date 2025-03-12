@@ -41,7 +41,7 @@ img {
 | 15:50 | Oral: [David Thulke](#david) | Assessing and Improving ClimateGPT's Faithfulness in Retrieval Augmented Generation |
 | 16:10 | [Posters and mingle](#posters) |  |
 | 17:45 | Concluding remarks |  |
-| 18:00 | Relocation to dinner | |
+| 18:00 | Dinner | |
 
 ## Speaker instructions.
 
