@@ -1,6 +1,6 @@
 ## Affiliates - Recently Joined
 <div class="content" markdown="1" data-tags="">
-<span title="PhD, ResearcherNILU, The climate and environmental research institute."><strong>https://scholar.google.com/citations?user=hZ6VUu8AAAAJ Belaid, PhD, Researcher, NILU, The climate and environmental research institute</strong></span>
+<span title="PhD, ResearcherNILU, The climate and environmental research institute."><strong>Mohamed-Bachir Belaid, PhD, Researcher, NILU, The climate and environmental research institute</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=hZ6VUu8AAAAJ) * [ORCID](https://orcid.org/0000-0002-8686-8489)
 </div>
