@@ -70,8 +70,9 @@ img {
 | 23  | Jaime Caballer Revenga | Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories |
 | 24  | Carolyn Rosten | TBA |
 | 25  | Alan Said | TBA |
-| 26  | Tiffany Vlaar | TBA |
-| 27  | Anapuma Xavier | Comparative predictability of eastern and western north pacific blocking events |
+| 26  | Dan Stowell | Bioacoustic AI for nature: how can it tread lightly? |
+| 27  | Tiffany Vlaar | TBA |
+| 28  | Anapuma Xavier | Comparative predictability of eastern and western north pacific blocking events |
 
 
 ## Speaker instructions.
