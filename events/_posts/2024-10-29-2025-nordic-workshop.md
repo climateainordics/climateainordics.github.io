@@ -48,119 +48,23 @@ Together, we will help the Nordic AI community to find the most impactful direct
 
 ## Oral presentations
 
-**Dan Stowell,** Tilburg University
+For more information about the program, check the [detailed schedule](/events/2025-nordic-workshop/schedule).
 
-![](/events/2025-nordic-workshop/stowell.jpg)
-
-*Dan Stowell is an Associate Professor of AI & Biodiversity working in the Netherlands (Tilburg University, Naturalis Biodiversity Centre, JADS). His research is about machine listening and computational bioacoustics - which means using computation (especially machine learning) to understand animal sounds and other sound signals.*
-
-*- I develop automatic processes to analyse large amounts of sound
-recordings - for example detecting the bird sounds in there and how they vary, how they relate to each other, how the birds' behaviour relates to the sounds they make. The research work is focussed on the machine learning and signal processing methods that can help with these questions. I also work with others to apply these methods to biodiversity monitoring.*
-
-*Dan also works with OpenClimateFix and OpenStreetMap on addressing climate change through solar panel mapping.*
-
-**Stefanos Georganos,** Karlstad University: Unequal Cities in a Changing Climate: AI and Geospatial Approaches to Urban Resilience
-
-![](/events/2025-nordic-workshop/georganos.jpg)
-
-*Stefanos Georganos is an Associate Professor in Geomatics at Karlstad University. He does research in quantitative human geography, remote sensing, spatial epidemiology, demography and machine learning. He is particularly interested in the use of geo-information for helping address the UN Sustainable Development Goals, with a geographical interest in sub-Saharan African cities. His latest research unravels the potential of machine and deep learnning and Earth Observation to detect, measure and characterize socio-economic inequalities in deprived urban areas in support of the most vulnerable populations.*
-
-**Alouette van Hove,** University of Oslo
-
-![](/events/2025-nordic-workshop/van-hove.jpg)
-
-*Alouette van Hove is a PhD candidate at the University of Oslo. Her research interests includes the development of a novel framework to estimate land surface fluxes at a regional scale. The framework makes use of sensor measurements from drones, data assimilation, atmospheric fluid dynamics modeling, and reinforcement learning techniques. The goal is to deliver high-resolution surface maps of greenhouse gas fluxes in northern landscapes for validation of climate models.*
-
-**Edmond Sacre,** Swedish University of Agricultural Sciences
-
-![](/events/2025-nordic-workshop/sacre.jpg)
-
-*E. Sacre is a researcher at the Swedish University of Agricultural Sciences (SLU) within the Department of Aquatic Resources (SLU Aqua). He obtained his PhD in 2019 at James Cook University, Australia, within the Australian Research Council Centre of Excellence for Coral Studies. At SLU Aqua, Edmond works within the Unit for Conservation and Marine Spatial Planning where he has been employed since 2019. He is involved in a variety of national and international projects focused on species distribution modeling, spatial conservation planning, cumulative impact assessment, and connectivity modeling. These projects include Protect Baltic (EU-Horizon), Western Indian Ocean Symphony (Swedish Agency for Marine and Water Management), and other national mapping projects.*
-
-**Shorouq Zahra,** RISE Research Institutes of Sweden
-
-![](/events/2025-nordic-workshop/zahra.jpg)
-
-*Shorouq Zahra a research engineer and developer at RISE Research Institutes of Sweden, with a focus on NLP, conversational AI, and MLOps. She has been engaged in the work "Using LLMs to Build a Database of Climate Extreme Impacts", presented at ClimateNLP 2024, proposing a method for building large-scale databases of climate extreme impacts from online textual sources, using LLMs for information extraction in combination with more traditional NLP techniques to improve accuracy and consistency.*
-
-**Nico Lang,** University of Copenhagen and Pioneer Centre for AI
-
-![](/events/2025-nordic-workshop/lang.jpg)
-
-*Nico is a Postdoc at the University of Copenhagen associated with the Pioneer Centre for AI, where he is co-advised by Serge Belongie and Christian Igel. He has received a PhD from ETH Zurich, under the supervision of Konrad Schindler and Jan Dirk Wegner. His research interests are at the intersection of computer vision, machine learning, and remote sensing, currently focusing on open-world recognition, fine-grained categorization, and representation learning with multi-modal data. More information can be found on his website: [langnico.github.io](https://langnico.github.io/)*
-
-**Amal Nammouchi,** Karlstad University and AfriClimate AI
-
-![](/events/2025-nordic-workshop/nammouchi.jpg)
-
-*Amal is a PhD candidate at Karlstad University, focusing on robust optimization and control models for renewable energy communities under uncertainty.
-She is a co-founder of AfriClimate AI, a community-driven non-profit organization that brings AI-powered solutions to climate challenges across Africa through capacity building, research, and innovation.
-With over a decade of experience in community building and international development, Amal has held numerous leadership roles, including Vice President of JCI El Alia (twice), Chairwoman of IEEE SUPCOM SB, General chair of the IndabaX Tunisia 2019, and Committee Chair at the Deep Learning Indaba 2024, helping foster the next generation of AI talent in Africa.*
-
-[See the recording of Amal's webinar talk on "Leveraging AI OLeveraging AI for Climate Resilience in Africa: Challenges, Opportunities, and the Need for Collaboratio", from 2025-01-30!](https://climateainordics.com/events/2024-12-06-2025-01-30-leveraging-ai-for-climate-resilience-in)
-
-**David Thulke,** RWTH Aachen University
-
-![](/events/2025-nordic-workshop/thulke.jpg)
-
-*David Thulke is a PhD student within the Human Language Technology Group at the Chair of Computer Science 6 of the RWTH Aachen University supervised by Prof. Dr.-Ing. Hermann Ney. In addition to numerous other works on language models and retrieval augmented generation, he is the first author of ClimateGPT, a model family of domain-specific large language models for information retrieval and generation. He also works as a language processing scientist at AppTek.*
-
-**John Martinsson,** RISE Research Institutes of Sweden: *Understanding the World Through Sound: Enhancing Biodiversity Monitoring*
-
-![](/events/2025-nordic-workshop/martinsson.webp)
-
-*John Martinsson is a researcher specializing in machine listening-using machine learning to analyze audio data-and its application to bioacoustics and biodiversity monitoring. A key focus of his research is on streamlining the often labor-intensive process of labeling bioacoustic data, and on creating robust models that perform effectively even with limited labeled data. More information on his website: [johnmartinsson.org](https://johnmartinsson.org/).*
-
-## Poster presentations
-
-We welcome poster presentations relevant to the workshop. Submit your poster when [registering for the event](https://forms.gle/vt7gMYwoR8tvGx9T7).
-
-* Sonja Aits, Lund University
-* Alouette van Hove, University of Oslo
-* Aleksis Pirinen, RISE
-* Anupama Kuttikkat Xavier, Royal Meteorological institute of Belgium
-* Murathan, Kurfalı, RISE
-* Nico Lang, University of Copenhagen
-* Carolyn Rosten, Norwegian Institute for Nature Research
-* Stefano Puliti, NBIO
-* Ankit Kariryaa, University of Copenhagen
-* Puja Tripathy, PhD student at Indian Institute of Technology, Bombay
-* Anna Luise von Blohn, Remote Sensing Center for Earth System Research (RSC4Earth), Leipzig University
-* Ellen De Jonghe, Ghent University
-* Jaime Caballer Revenga, Copenhagen University
-* Francesca Larosa, Royal Institute of Technology (KTH)
-* Céline Heuzé, University of Gothenburg: *LSTM and Random Forest for extreme sea level*
-* Dan Stowell, Tilburg University
-* Laura Helene Rasmussen, Copenhagen Data Lab, Department of Mathematical Sciences, University of Copenhagen
-* Benjamin Cretois, Norwegian Institute for Nature Research
-* Ashwin Mohanan, RISE
-* Tiffany Vlaar, University of Glasgow
-* Blanca Delgado-Márquez, University of Granada
-* Leon Green, University of Gothenburg
-* Luisa Delgado-Márquez, University of Granada
-* Filip Dorm, EPFL
-* Adrià Amell, Chalmers University of Technology
-* Patrick Eriksson, Chalmers University of Technology
-* Ramón Fuentes Franco, SMHI
-* Heather Reese, University of Gothenburg // MERGE & BECC
-* Nirdesh kumar Sharma, Iit delhi
-* Niti Mishra, ISGlobal and Pompeu Fabra University
-* Andrea Nascett, KTH - Royal Institute of Technology - Geoinformatics Division
-* Lucia Gordon, University of Copenhagen / Harvard
+* **Dan Stowell,** Tilburg University
+* **Stefanos Georganos,** Karlstad University: Unequal Cities in a Changing Climate: AI and Geospatial Approaches to Urban Resilience
+* **Alouette van Hove,** University of Oslo
+* **Edmond Sacre,** Swedish University of Agricultural Sciences
+* **Shorouq Zahra,** RISE Research Institutes of Sweden
+* **Nico Lang,** University of Copenhagen and Pioneer Centre for AI
+* **Amal Nammouchi,** Karlstad University and AfriClimate AI
+* **David Thulke,** RWTH Aachen University
+* **John Martinsson,** RISE Research Institutes of Sweden: *Understanding the World Through Sound: Enhancing Biodiversity Monitoring*
 
 ## Topics
 
 The workshop will feature presentations about Earth observation, computer vision, soundscape analysis, natural language processing, geometric machine learning, optimization, natural language processing, and multimodal modeling for climate related applications. Applications in green infrastructure, species distribution modeling, biodiversity monitoring.
 
-We invite **poster presentations**. In addition to the topics mentioned above, we also welcome presentations about the following topics.
-
-* The role of policy change
-* The use of AI to tackle climate change within
-    - built environments
-    - transport
-    - material
-    - product development
-* AI method developments that benefits AI applications within climate change mitigation and adaptation
+Further topics of interest: The role of policy change, the use of AI to tackle climate change within built environments, transport, material, and product development. AI method development that benefits AI applications within climate change mitigation and adaptation.
 
 ## Workshop information
 
