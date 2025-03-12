@@ -57,12 +57,12 @@ img {
 | 9   | Patrick Eriksson | Providing space-borne ML-based atmospheric data with case-specific uncertainties |
 | 10  | Ramon Fuentes Franco | Pan-European high-resolution downscaling using deep learning |
 | 12  | Lucia Gordon |  |
-| 13  | Leon Green | Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm. |
-| 14  | Celine Heuze | Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest |
+| 13  | Leon Green, Emil Burman, Linnéa Svensson, Jannes Germishuys, Victor Anton, Matthias Obst | Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm. |
+| 14  | Celine Heuzé, L. Carlstedt, L. Poropat, H. Reese | Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest |
 | 15  | Ankit Kariryaa | TBA |
 | 16  | Murathan Kurfali | ClimateEval: A Comprehensive Benchmark for Climate Change NLP |
 | 17  | Francesca Larosa | TBA |
-| 18  | Ashwin Mohanan | Dawsonia: Digitizing handwritten observations in weather journals |
+| 18  | Ashwin Mohanan, Josefina Algotsson, Juan Sanchez Nieto, Pierre Meyrat, Valter Fallenius, Heiner KörnichA | Dawsonia: Digitizing handwritten observations in weather journals |
 | 19  | Andrea Nascetti | TBA |
 | 20  | Aleksis Pirinen, Olof Mogren | TBA |
 | 21  | Stefano Puliti | TBA |
@@ -73,7 +73,7 @@ img {
 | 26  | Alan Said | TBA |
 | 27  | Dan Stowell | Bioacoustic AI for nature: how can it tread lightly? |
 | 28  | Tiffany Vlaar | TBA |
-| 29  | Anapuma Xavier | Comparative predictability of eastern and western north pacific blocking events |
+| 29  | Anapuma Xavier, Oisín Hamilton, Davide Faranda, Stephane Vannitsem | Comparative predictability of eastern and western north pacific blocking events |
 
 
 ## Speaker instructions.
