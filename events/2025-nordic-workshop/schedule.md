@@ -63,7 +63,7 @@ img {
 | 16  | Murathan Kurfali | ClimateEval: A Comprehensive Benchmark for Climate Change NLP |
 | 17  | Francesca Larosa | TBA |
 | 18  | Ashwin Mohanan, Josefina Algotsson, Juan Sanchez Nieto, Pierre Meyrat, Valter Fallenius, Heiner KörnichA | Dawsonia: Digitizing handwritten observations in weather journals |
-| 19  | Andrea Nascetti | TBA |
+| 19  | Andrea Nascetti, et al. | PANGEA: A Global And Inclusive Benchmark For Geospatial Foundation Models |
 | 20  | Aleksis Pirinen, Olof Mogren | TBA |
 | 21  | Stefano Puliti | TBA |
 | 22  | Laura Helene Rasmussen | Quantifying the variability of winter climate in the Arctic |
