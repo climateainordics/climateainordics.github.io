@@ -63,16 +63,17 @@ img {
 | 16  | Murathan Kurfali | ClimateEval: A Comprehensive Benchmark for Climate Change NLP |
 | 17  | Francesca Larosa | TBA |
 | 18  | Ashwin Mohanan | Dawsonia: Digitizing handwritten observations in weather journals |
-| 19  | Aleksis Pirinen | TBA |
-| 20  | Stefano Puliti | TBA |
-| 21  | Laura Helene Rasmussen | Quantifying the variability of winter climate in the Arctic |
-| 22  | Heather Reese | Subarctic tundra change mapping with Earth Observation and machine learning |
-| 23  | Jaime Caballer Revenga | Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories |
-| 24  | Carolyn Rosten | TBA |
-| 25  | Alan Said | TBA |
-| 26  | Dan Stowell | Bioacoustic AI for nature: how can it tread lightly? |
-| 27  | Tiffany Vlaar | TBA |
-| 28  | Anapuma Xavier | Comparative predictability of eastern and western north pacific blocking events |
+| 19  | Andrea Nascetti | TBA |
+| 20  | Aleksis Pirinen | TBA |
+| 21  | Stefano Puliti | TBA |
+| 22  | Laura Helene Rasmussen | Quantifying the variability of winter climate in the Arctic |
+| 23  | Heather Reese | Subarctic tundra change mapping with Earth Observation and machine learning |
+| 24  | Jaime Caballer Revenga | Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories |
+| 25  | Carolyn Rosten | TBA |
+| 26  | Alan Said | TBA |
+| 27  | Dan Stowell | Bioacoustic AI for nature: how can it tread lightly? |
+| 28  | Tiffany Vlaar | TBA |
+| 29  | Anapuma Xavier | Comparative predictability of eastern and western north pacific blocking events |
 
 
 ## Speaker instructions.
