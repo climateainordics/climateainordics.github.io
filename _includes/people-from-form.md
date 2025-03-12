@@ -1,4 +1,10 @@
 ## Affiliates - Recently Joined
+<div class="content" markdown="1" data-tags="">
+<span title="PhD, ResearcherNILU, The climate and environmental research institute."><strong>https://scholar.google.com/citations?user=hZ6VUu8AAAAJ Belaid, PhD, Researcher, NILU, The climate and environmental research institute</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=hZ6VUu8AAAAJ) * [ORCID](https://orcid.org/0000-0002-8686-8489)
+</div>
+
 <div class="content" markdown="1" data-tags="Biodiversity,Soundscape Analysis,Machine Learning">
 <span title="PhD, ResearcherSwedish University of Agricultural Sciences."><strong>Sheila Holmes, PhD, Researcher, Swedish University of Agricultural Sciences</strong></span>
 <br />
@@ -376,12 +382,6 @@ Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Lea
 <span title="I am a geographer and environmental scientist with a research focus on landscape dynamics and human-environment interactions across multiple scales. I examine the drivers and impacts of land-use change, aiming to bridge scientific knowledge and policy for sustainable landscape management. My interdisciplinary approach integrates large-scale Earth observation, machine learning, and ecosystem monitoring tools, which enables me to observe and interpret complex patterns of environmental change.  PhD, ResearcherLund University."><strong>Hakim Abdi, PhD, Researcher, Lund University</strong></span>
 <br />
 Earth Observation * Biodiversity * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.hakimabdi.com) * [Publications (Scholar)](https://scholar.google.com/citations?user=ppOH_fQAAAAJ) * [ORCID](https://orcid.org/0000-0001-6486-8747) * [BlueSky](https://bsky.app/profile/hakimabdi.bsky.social)
-</div>
-
-<div class="content" markdown="1" data-tags="">
-<span title="PhD, ResearcherNILU, The climate and environmental research institute."><strong>https://scholar.google.com/citations?user=hZ6VUu8AAAAJ Belaid, PhD, Researcher, NILU, The climate and environmental research institute</strong></span>
-<br />
-[Publications (Scholar)](https://scholar.google.com/citations?user=hZ6VUu8AAAAJ) * [ORCID](https://orcid.org/0000-0002-8686-8489)
 </div>
 
 <div class="content" markdown="1" data-tags="">
