@@ -792,3 +792,9 @@ Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning
 <br />
 Climate Modeling * Biodiversity * Urban Planning * Sustainable Production * Marine Ecology * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.linkedin.com/in/muhammad-ahmed-892330194?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app) * [ORCID](https://orcid.org/0009-0003-3843-0057)
 </div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Marine Ecology,NLP,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
+<span title="Machine Learning; Bioacoustic Analysis; Speech analysis. ProfessorFriedrich-Alexander-Universität Erlangen-Nürnberg, Germany."><strong>Elmar Nöth, Professor, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany</strong></span>
+<br />
+Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning
+</div>
