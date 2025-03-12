@@ -56,21 +56,22 @@ img {
 | 8   | Filip Dorm | Large language models possess some ecological knowledge, but how much? |
 | 9   | Patrick Eriksson | Providing space-borne ML-based atmospheric data with case-specific uncertainties |
 | 10  | Ramon Fuentes Franco | Pan-European high-resolution downscaling using deep learning |
-| 12  | Leon Green | Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm. |
-| 13  | Celine Heuze | Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest |
-| 14  | Ankit Kariryaa | TBA |
-| 15  | Murathan Kurfali | ClimateEval: A Comprehensive Benchmark for Climate Change NLP |
-| 16  | Francesca Larosa | TBA |
-| 17  | Ashwin Mohanan | Dawsonia: Digitizing handwritten observations in weather journals |
-| 18  | Aleksis Pirinen | TBA |
-| 19  | Stefano Puliti | TBA |
-| 20  | Laura Helene Rasmussen | Quantifying the variability of winter climate in the Arctic |
-| 21  | Heather Reese | Subarctic tundra change mapping with Earth Observation and machine learning |
-| 22  | Jaime Caballer Revenga | Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories |
-| 23  | Carolyn Rosten | TBA |
-| 24  | Alan Said | TBA |
-| 25  | Tiffany Vlaar | TBA |
-| 26  | Anapuma Xavier | Comparative predictability of eastern and western north pacific blocking events |
+| 12  | Lucia Gordon |  |
+| 13  | Leon Green | Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm. |
+| 14  | Celine Heuze | Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest |
+| 15  | Ankit Kariryaa | TBA |
+| 16  | Murathan Kurfali | ClimateEval: A Comprehensive Benchmark for Climate Change NLP |
+| 17  | Francesca Larosa | TBA |
+| 18  | Ashwin Mohanan | Dawsonia: Digitizing handwritten observations in weather journals |
+| 19  | Aleksis Pirinen | TBA |
+| 20  | Stefano Puliti | TBA |
+| 21  | Laura Helene Rasmussen | Quantifying the variability of winter climate in the Arctic |
+| 22  | Heather Reese | Subarctic tundra change mapping with Earth Observation and machine learning |
+| 23  | Jaime Caballer Revenga | Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories |
+| 24  | Carolyn Rosten | TBA |
+| 25  | Alan Said | TBA |
+| 26  | Tiffany Vlaar | TBA |
+| 27  | Anapuma Xavier | Comparative predictability of eastern and western north pacific blocking events |
 
 
 ## Speaker instructions.
