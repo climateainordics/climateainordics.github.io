@@ -794,7 +794,7 @@ Climate Modeling * Biodiversity * Urban Planning * Sustainable Production * Mari
 </div>
 
 <div class="content" markdown="1" data-tags="Biodiversity,Marine Ecology,NLP,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
-<span title="Machine Learning; Bioacoustic Analysis; Speech analysis. ProfessorFriedrich-Alexander-Universität Erlangen-Nürnberg, Germany."><strong>Elmar Nöth, Professor, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany</strong></span>
+<span title="Machine Learning; Bioacoustic Analysis; Speech analysis. ProfessorFriedrich-Alexander-Universität Erlangen-Nürnberg."><strong>Elmar Nöth, Professor, Friedrich-Alexander-Universität Erlangen-Nürnberg</strong></span>
 <br />
 Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning
 </div>
