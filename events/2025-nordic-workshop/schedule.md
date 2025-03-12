@@ -95,6 +95,7 @@ For speakers, see presentation instructions [here](speaker-instructions.html).
 *Oisin Mac Aodha is a Reader (aka Associate Professor) in Machine Learning in the School of Informatics at the University of Edinburgh (UoE). He was a Turing Fellow from 2021 to 2024, currently an ELLIS Scholar, and a founder of the Turing interest group on biodiversity monitoring and forecasting. Oisin's current research interests are in the areas of computer vision and machine learning, with a specific emphasis on 3D understanding, human-in-the-loop methods, and computational challenges in biodiversity monitoring.*
 
 [Back to top of page](#top)
+
 <a name="edmond"></a>
 **10:00 Oral: Edmond Sacre,** Swedish University of Agricultural Sciences
 
@@ -107,6 +108,7 @@ For speakers, see presentation instructions [here](speaker-instructions.html).
 *E. Sacre is a researcher at the Swedish University of Agricultural Sciences (SLU) within the Department of Aquatic Resources (SLU Aqua). He obtained his PhD in 2019 at James Cook University, Australia, within the Australian Research Council Centre of Excellence for Coral Studies. At SLU Aqua, Edmond works within the Unit for Conservation and Marine Spatial Planning where he has been employed since 2019. He is involved in a variety of national and international projects focused on species distribution modeling, spatial conservation planning, cumulative impact assessment, and connectivity modeling. These projects include Protect Baltic (EU-Horizon), Western Indian Ocean Symphony (Swedish Agency for Marine and Water Management), and other national mapping projects.*
 
 [Back to top of page](#top)
+
 <a name="amal"></a>
 **10:20 Oral: Amal Nammouchi,** Karlstad University and AfriClimate AI
 
@@ -123,6 +125,7 @@ With over a decade of experience in community building and international develop
 [See the recording of Amal's webinar talk on "Leveraging AI OLeveraging AI for Climate Resilience in Africa: Challenges, Opportunities, and the Need for Collaboratio", from 2025-01-30!](https://climateainordics.com/events/2024-12-06-2025-01-30-leveraging-ai-for-climate-resilience-in)
 
 [Back to top of page](#top)
+
 <a name="dan"></a>
 **11:10 Oral: Dan Stowell,** Tilburg University
 
@@ -140,6 +143,7 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 *Dan also works with OpenClimateFix and OpenStreetMap on addressing climate change through solar panel mapping.*
 
 [Back to top of page](#top)
+
 <a name="john"></a>
 **11:40 Oral: John Martinsson,** RISE Research Institutes of Sweden: *Understanding the World Through Sound: Enhancing Biodiversity Monitoring*
 
@@ -152,6 +156,7 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 *John Martinsson is a researcher specializing in machine listening-using machine learning to analyze audio data-and its application to bioacoustics and biodiversity monitoring. A key focus of his research is on streamlining the often labor-intensive process of labeling bioacoustic data, and on creating robust models that perform effectively even with limited labeled data. More information on his website: [johnmartinsson.org](https://johnmartinsson.org/).*
 
 [Back to top of page](#top)
+
 <a name="christian"></a>
 **13:15 Keynote: Christian Igel,** University of Copenhagen
 
@@ -164,6 +169,7 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 *Christian Igel is a professor at DIKU, the Department of Computer Science at the University of Copenhagen. He is the director of the SCIENCE AI Centre. Furthermore, he is a co-lead of the Pioneer Centre for Artificial Intelligence, Denmark and a Fellow of ELLIS, European Lab for Learning and Intelligent Systems. Christian's reserach interests include support vector machines and other kernel-based methods,evolution strategies for single- and multi-objective optimization and reinforcement learning, PAC-Bayesian analysis of ensemble methods, deep neural networks and stochastic neural networks, and applications of machine learning that help achieve the sustainable development goals.*
 
 [Back to top of page](#top)
+
 <a name="nico"></a>
 **14:00 Oral: Nico Lang,** University of Copenhagen and Pioneer Centre for AI
 
@@ -176,6 +182,7 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 *Nico is a Postdoc at the University of Copenhagen associated with the Pioneer Centre for AI, where he is co-advised by Serge Belongie and Christian Igel. He has received a PhD from ETH Zurich, under the supervision of Konrad Schindler and Jan Dirk Wegner. His research interests are at the intersection of computer vision, machine learning, and remote sensing, currently focusing on open-world recognition, fine-grained categorization, and representation learning with multi-modal data. More information can be found on his website: [langnico.github.io](https://langnico.github.io/)*
 
 [Back to top of page](#top)
+
 <a name="stefanos"></a>
 **14:20 Oral: Stefanos Georganos,** Karlstad University: Unequal Cities in a Changing Climate: AI and Geospatial Approaches to Urban Resilience
 
@@ -188,6 +195,7 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 *Stefanos Georganos is an Associate Professor in Geomatics at Karlstad University. He does research in quantitative human geography, remote sensing, spatial epidemiology, demography and machine learning. He is particularly interested in the use of geo-information for helping address the UN Sustainable Development Goals, with a geographical interest in sub-Saharan African cities. His latest research unravels the potential of machine and deep learnning and Earth Observation to detect, measure and characterize socio-economic inequalities in deprived urban areas in support of the most vulnerable populations.*
 
 [Back to top of page](#top)
+
 <a name="alouette"></a>
 **15:10 Oral: Alouette van Hove,** University of Oslo
 
@@ -200,6 +208,7 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 *Alouette van Hove is a PhD candidate at the University of Oslo. Her research interests includes the development of a novel framework to estimate land surface fluxes at a regional scale. The framework makes use of sensor measurements from drones, data assimilation, atmospheric fluid dynamics modeling, and reinforcement learning techniques. The goal is to deliver high-resolution surface maps of greenhouse gas fluxes in northern landscapes for validation of climate models.*
 
 [Back to top of page](#top)
+
 <a name="shorouq"></a>
 **15:30 Oral: Shorouq Zahra,** RISE Research Institutes of Sweden
 
@@ -212,6 +221,7 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 *Shorouq Zahra a research engineer and developer at RISE Research Institutes of Sweden, with a focus on NLP, conversational AI, and MLOps. She has been engaged in the work "Using LLMs to Build a Database of Climate Extreme Impacts", presented at ClimateNLP 2024, proposing a method for building large-scale databases of climate extreme impacts from online textual sources, using LLMs for information extraction in combination with more traditional NLP techniques to improve accuracy and consistency.*
 
 [Back to top of page](#top)
+
 <a name="david"></a>
 **15:50 Oral: David Thulke,** RWTH Aachen University
 
@@ -224,4 +234,5 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 *David Thulke is a PhD student within the Human Language Technology Group at the Chair of Computer Science 6 of the RWTH Aachen University supervised by Prof. Dr.-Ing. Hermann Ney. In addition to numerous other works on language models and retrieval augmented generation, he is the first author of ClimateGPT, a model family of domain-specific large language models for information retrieval and generation. He also works as a language processing scientist at AppTek.*
 
 [Back to top of page](#top)
+
 
