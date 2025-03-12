@@ -64,7 +64,7 @@ img {
 | 17  | Francesca Larosa | TBA |
 | 18  | Ashwin Mohanan | Dawsonia: Digitizing handwritten observations in weather journals |
 | 19  | Andrea Nascetti | TBA |
-| 20  | Aleksis Pirinen | TBA |
+| 20  | Aleksis Pirinen, Olof Mogren | TBA |
 | 21  | Stefano Puliti | TBA |
 | 22  | Laura Helene Rasmussen | Quantifying the variability of winter climate in the Arctic |
 | 23  | Heather Reese | Subarctic tundra change mapping with Earth Observation and machine learning |
