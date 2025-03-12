@@ -1,6 +1,7 @@
 <label for="tagFilter">Filter people:</label>
 <select id="tagFilter">
 <option value="all">Show All</option>
+<option value="Atmospheric Science">Atmospheric Science (1)</option>
 <option value="Bayesian Optimisation">Bayesian Optimisation (1)</option>
 <option value="Biodiversity">Biodiversity (38)</option>
 <option value="Climate Impacts">Climate Impacts (2)</option>
@@ -24,7 +25,7 @@
 <option value="Machine Learning">Machine Learning (68)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (11)</option>
-<option value="Materials and Atmospheric Science">Materials and Atmospheric Science (1)</option>
+<option value="Materials">Materials (1)</option>
 <option value="Meteorology">Meteorology (1)</option>
 <option value="Molecular Modeling of Atmospheric Chemistry">Molecular Modeling of Atmospheric Chemistry (1)</option>
 <option value="NLP">NLP (16)</option>
