@@ -52,26 +52,26 @@ img {
 | Murathan Kurfali | ClimateEval: A Comprehensive Benchmark for Climate Change NLP |
 | Anapuma Xavier | Comparative predictability of eastern and western north pacific blocking events |
 | Filip Dorm | Large language models possess some ecological knowledge, but how much? |
-| Aleksis Pirinen | |
-| Sonja Aits | |
-| Alan Said | |
-| Stefano Puliti | |
-| Ankit Kariryaa | |
-| Ellen Dejonghe | |
+| Aleksis Pirinen | TBA |
+| Sonja Aits | TBA |
+| Alan Said | TBA |
+| Stefano Puliti | TBA |
+| Ankit Kariryaa | TBA |
+| Ellen Dejonghe | TBA |
 | Jaime Caballer Revenga | Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories |
-| Francesca Larosa | |
+| Francesca Larosa | TBA |
 | Laura Helene Rasmussen | Quantifying the variability of winter climate in the Arctic |
-| Anna Luise Von Blohn | |
-| Carolyn Rosten | |
-| Benjamin Cretois | |
+| Anna Luise Von Blohn | TBA |
+| Carolyn Rosten | TBA |
+| Benjamin Cretois | TBA |
 | Ashwin Mohanan | Dawsonia: Digitizing handwritten observations in weather journals |
-| Tiffany Vlaar | |
-| Blanca Delgado-Márquez | |
-| Luisa Delgado-Márquez | |
+| Tiffany Vlaar | TBA |
+| Blanca Delgado-Márquez | TBA |
+| Luisa Delgado-Márquez | TBA |
 | Leon Green | Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm. |
 | Adrià Amell | RainOverAfrica.AI: nowcasting precipitation from geostationary imagery |
 | Patrick Eriksson | Providing space-borne ML-based atmospheric data with case-specific uncertainties |
-| Ramon Fuentesfranco | |
+| Ramon Fuentesfranco | TBA |
 | Heather Reese | Subarctic tundra change mapping with Earth Observation and machine learning |
 
 ## Speaker instructions.
