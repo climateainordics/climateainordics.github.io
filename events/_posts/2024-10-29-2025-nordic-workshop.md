@@ -26,7 +26,11 @@ Together, we will help the Nordic AI community to find the most impactful direct
 
 ## Shedule
 
-[Click here to see the workshop schedule](schedule.html).
+[Click here to see the workshop schedule](/events/2025-nordic-workshop/schedule).
+
+## Speaker instructions 
+
+[Click here to see the speaker instructions](/events/2025-nordic-workshop/speaker-instructions).
 
 ## Keynotes
 

@@ -6,6 +6,15 @@ people:
 image: /images/nordic-workshop-1200x846.png
 ---
 
+<style>
+img {
+  width: 12em;
+  float: right;
+  padding: 1em 0em 1em 1em;
+}
+</style>
+
+
 # 2025 Nordic workshop on AI for climate change
 
 ## Schedule
