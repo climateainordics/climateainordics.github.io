@@ -44,35 +44,34 @@ img {
 <a name="posters"></a>
 ## 16:10 - 17:45 Poster presentations
 
-| Speaker | Title |
-| ------- | ----- |
-| Ramon Fuentes Franco | Pan-European high-resolution downscaling using deep learning |
-| Puja Tripathy | Enhancing Hyperlocal Extreme Rainfall Forecasts for Mumbai |
-| Celine Heuze | Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest |
-| Murathan Kurfali | ClimateEval: A Comprehensive Benchmark for Climate Change NLP |
-| Anapuma Xavier | Comparative predictability of eastern and western north pacific blocking events |
-| Filip Dorm | Large language models possess some ecological knowledge, but how much? |
-| Aleksis Pirinen | TBA |
-| Sonja Aits | TBA |
-| Alan Said | TBA |
-| Stefano Puliti | TBA |
-| Ankit Kariryaa | TBA |
-| Ellen Dejonghe | TBA |
-| Jaime Caballer Revenga | Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories |
-| Francesca Larosa | TBA |
-| Laura Helene Rasmussen | Quantifying the variability of winter climate in the Arctic |
-| Anna Luise Von Blohn | TBA |
-| Carolyn Rosten | TBA |
-| Benjamin Cretois | TBA |
-| Ashwin Mohanan | Dawsonia: Digitizing handwritten observations in weather journals |
-| Tiffany Vlaar | TBA |
-| Blanca Delgado-Márquez | TBA |
-| Luisa Delgado-Márquez | TBA |
-| Leon Green | Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm. |
-| Adrià Amell | RainOverAfrica.AI: nowcasting precipitation from geostationary imagery |
-| Patrick Eriksson | Providing space-borne ML-based atmospheric data with case-specific uncertainties |
-| Ramon Fuentesfranco | TBA |
-| Heather Reese | Subarctic tundra change mapping with Earth Observation and machine learning |
+| No. | Speaker | Title |
+|---- | -------------------------- | --------------------------------------------------------------- |
+| 1   | Sonja Aits | TBA |
+| 2   | Adrià Amell | RainOverAfrica.AI: nowcasting precipitation from geostationary imagery |
+| 3   | Anna Luise Von Blohn | TBA |
+| 4   | Benjamin Cretois | TBA |
+| 5   | Ellen Dejonghe | TBA |
+| 6   | Blanca Delgado-Márquez | TBA |
+| 7   | Luisa Delgado-Márquez | TBA |
+| 8   | Filip Dorm | Large language models possess some ecological knowledge, but how much? |
+| 9   | Patrick Eriksson | Providing space-borne ML-based atmospheric data with case-specific uncertainties |
+| 10  | Ramon Fuentes Franco | Pan-European high-resolution downscaling using deep learning |
+| 12  | Leon Green | Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm. |
+| 13  | Celine Heuze | Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest |
+| 14  | Ankit Kariryaa | TBA |
+| 15  | Murathan Kurfali | ClimateEval: A Comprehensive Benchmark for Climate Change NLP |
+| 16  | Francesca Larosa | TBA |
+| 17  | Ashwin Mohanan | Dawsonia: Digitizing handwritten observations in weather journals |
+| 18  | Aleksis Pirinen | TBA |
+| 19  | Stefano Puliti | TBA |
+| 20  | Laura Helene Rasmussen | Quantifying the variability of winter climate in the Arctic |
+| 21  | Heather Reese | Subarctic tundra change mapping with Earth Observation and machine learning |
+| 22  | Jaime Caballer Revenga | Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories |
+| 23  | Carolyn Rosten | TBA |
+| 24  | Alan Said | TBA |
+| 25  | Tiffany Vlaar | TBA |
+| 26  | Anapuma Xavier | Comparative predictability of eastern and western north pacific blocking events |
+
 
 ## Speaker instructions.
 
