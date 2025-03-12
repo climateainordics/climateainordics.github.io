@@ -50,14 +50,14 @@ Together, we will help the Nordic AI community to find the most impactful direct
 
 For more information about the program, check the [detailed schedule](/events/2025-nordic-workshop/schedule).
 
-* **Dan Stowell,** Tilburg University
-* **Stefanos Georganos,** Karlstad University: Unequal Cities in a Changing Climate: AI and Geospatial Approaches to Urban Resilience
-* **Alouette van Hove,** University of Oslo
-* **Edmond Sacre,** Swedish University of Agricultural Sciences
-* **Shorouq Zahra,** RISE Research Institutes of Sweden
-* **Nico Lang,** University of Copenhagen and Pioneer Centre for AI
-* **Amal Nammouchi,** Karlstad University and AfriClimate AI
-* **David Thulke,** RWTH Aachen University
+* **Dan Stowell,** Tilburg University: *Bioacoustic AI for nature: how can it tread lightly?*
+* **Stefanos Georganos,** Karlstad University: *Unequal Cities in a Changing Climate: AI and Geospatial Approaches to Urban Resilience*
+* **Alouette van Hove,** University of Oslo: *Navigating methane plumes: A journey from drone observations to flux estimates*
+* **Edmond Sacre,** Swedish University of Agricultural Sciences: *Mapping and conservation of aquatic species - potential advances with deep learning*
+* **Shorouq Zahra,** RISE Research Institutes of Sweden: *The challenges of using LLMs to extract data on extreme climate events*
+* **Nico Lang,** University of Copenhagen and Pioneer Centre for AI: *TBA*
+* **Amal Nammouchi,** Karlstad University and AfriClimate AI: *TBA*
+* **David Thulke,** RWTH Aachen University: *Assessing and Improving ClimateGPT's Faithfulness in Retrieval Augmented Generation*
 * **John Martinsson,** RISE Research Institutes of Sweden: *Understanding the World Through Sound: Enhancing Biodiversity Monitoring*
 
 ## Poster presentations
