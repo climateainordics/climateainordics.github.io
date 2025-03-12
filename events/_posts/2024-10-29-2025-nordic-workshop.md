@@ -60,6 +60,10 @@ For more information about the program, check the [detailed schedule](/events/20
 * **David Thulke,** RWTH Aachen University
 * **John Martinsson,** RISE Research Institutes of Sweden: *Understanding the World Through Sound: Enhancing Biodiversity Monitoring*
 
+## Poster presentations
+
+The workshop will also have a poster session with 30 posters, check the [schedule](/events/2025-nordic-workshop/schedule) for details.
+
 ## Topics
 
 The workshop will feature presentations about Earth observation, computer vision, soundscape analysis, natural language processing, geometric machine learning, optimization, natural language processing, and multimodal modeling for climate related applications. Applications in green infrastructure, species distribution modeling, biodiversity monitoring.
