@@ -1,4 +1,16 @@
 ## Affiliates - Recently Joined
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Machine Learning,Deep Learning">
+<span title="I am a geographer and environmental scientist with a research focus on landscape dynamics and human-environment interactions across multiple scales. I examine the drivers and impacts of land-use change, aiming to bridge scientific knowledge and policy for sustainable landscape management. My interdisciplinary approach integrates large-scale Earth observation, machine learning, and ecosystem monitoring tools, which enables me to observe and interpret complex patterns of environmental change.  PhD, ResearcherLund University."><strong>Hakim Abdi, PhD, Researcher, Lund University</strong></span>
+<br />
+Earth Observation * Biodiversity * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.hakimabdi.com) * [Publications (Scholar)](https://scholar.google.com/citations?user=ppOH_fQAAAAJ) * [ORCID](https://orcid.org/0000-0001-6486-8747) * [BlueSky](https://bsky.app/profile/hakimabdi.bsky.social)
+</div>
+
+<div class="content" markdown="1" data-tags="">
+<span title="PhD StudentNorwegian Computing Center."><strong>Silius Vandeskog, PhD Student, Norwegian Computing Center</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.no/citations?user=-dQ-jsgAAAAJ&amp;hl=no) * [ORCID](https://orcid.org/0000-0001-5996-4988)
+</div>
+
 <div class="content" markdown="1" data-tags="">
 <span title="PhD, ResearcherNILU, The climate and environmental research institute."><strong>Mohamed-Bachir Belaid, PhD, Researcher, NILU, The climate and environmental research institute</strong></span>
 <br />
@@ -378,12 +390,6 @@ Earth Observation * Climate Modeling * Efficient or Sustainable AI * Machine Lea
 Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.linkedin.com/in/jaime-c-revenga-8556b9167/) * [Research group](https://land-craft.dk/about-us/vision-and-mission) * [Publications (Scholar)](https://scholar.google.com/citations?user=wQfif-MAAAAJ&amp;hl=es) * [ORCID](https://orcid.org/0000-0002-9330-6572) * [BlueSky](https://bsky.app/profile/@jacabenga.bsky.social)
 </div>
 
-<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Machine Learning,Deep Learning">
-<span title="I am a geographer and environmental scientist with a research focus on landscape dynamics and human-environment interactions across multiple scales. I examine the drivers and impacts of land-use change, aiming to bridge scientific knowledge and policy for sustainable landscape management. My interdisciplinary approach integrates large-scale Earth observation, machine learning, and ecosystem monitoring tools, which enables me to observe and interpret complex patterns of environmental change.  PhD, ResearcherLund University."><strong>Hakim Abdi, PhD, Researcher, Lund University</strong></span>
-<br />
-Earth Observation * Biodiversity * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.hakimabdi.com) * [Publications (Scholar)](https://scholar.google.com/citations?user=ppOH_fQAAAAJ) * [ORCID](https://orcid.org/0000-0001-6486-8747) * [BlueSky](https://bsky.app/profile/hakimabdi.bsky.social)
-</div>
-
 <div class="content" markdown="1" data-tags="">
 <span title="I&#x27;m a PhD student at the Center for Mathematical Sciences focusing on anomaly detection and machine learning in earth observations and remote sensing. PhD StudentLund University."><strong>Oskar Åström, PhD Student, Lund University</strong></span>
 <br />
@@ -604,12 +610,6 @@ Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Ma
 <span title="With a background in theoretical physics and machine learning, I work as an analytics engineer at Aira, a Swedish company dedicated to replacing fossil-fueled heating systems in homes across Europe with heat pumps.  In Aira’s central data and optimization team, I work at the intersection of data engineering and data science, contributing to both infrastructure and analytical solutions. Our team develops and applies machine learning models to optimize heat pump performance and support business operations.  In 2021, I collaborated with SMHI on a project to digitize historical handwritten weather journals using a deep neural network. SMHI’s Ashwin Mohanan, who was also involved in this project, will be attending the conference as well. IndustryAira."><strong>Valter Fallenius, Industry, Aira</strong></span>
 <br />
 Earth Observation * Climate Modeling * Urban Planning * Sustainable Cities * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * Sustainable Heating * [More info (researcher profile)](https://www.airahome.com)
-</div>
-
-<div class="content" markdown="1" data-tags="">
-<span title="PhD StudentNorwegian Computing Center."><strong>Silius Vandeskog, PhD Student, Norwegian Computing Center</strong></span>
-<br />
-[Publications (Scholar)](https://scholar.google.no/citations?user=-dQ-jsgAAAAJ&amp;hl=no) * [ORCID](https://orcid.org/0000-0001-5996-4988)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
