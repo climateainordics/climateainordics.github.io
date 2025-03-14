@@ -46,34 +46,34 @@ img {
 
 | No. | Speaker | Title |
 |---- | -------------------------- | --------------------------------------------------------------- |
-| 1   | Sonja Aits | TBA |
-| 2   | Adrià Amell | RainOverAfrica.AI: nowcasting precipitation from geostationary imagery |
-| 3   | Anna Luise Von Blohn | TBA |
-| 4   | Benjamin Cretois | TBA |
-| 5   | Ellen Dejonghe | TBA |
-| 6   | Blanca Delgado-Márquez | TBA |
-| 7   | Luisa Delgado-Márquez | TBA |
-| 8   | Filip Dorm | Large language models possess some ecological knowledge, but how much? |
-| 9   | Patrick Eriksson | Providing space-borne ML-based atmospheric data with case-specific uncertainties |
-| 10  | Ramon Fuentes Franco | Pan-European high-resolution downscaling using deep learning |
-| 12  | Lucia Gordon |  |
-| 13  | Leon Green | Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm. |
-| 14  | Celine Heuzé | Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest |
-| 15  | Ankit Kariryaa | TBA |
-| 16  | Murathan Kurfali | ClimateEval: A Comprehensive Benchmark for Climate Change NLP |
-| 17  | Francesca Larosa | TBA |
-| 18  | Ashwin Mohanan | Dawsonia: Digitizing handwritten observations in weather journals |
-| 19  | Andrea Nascetti | PANGEA: A Global And Inclusive Benchmark For Geospatial Foundation Models |
-| 20  | Aleksis Pirinen, Olof Mogren | TBA |
-| 21  | Stefano Puliti | TBA |
-| 22  | Laura Helene Rasmussen | Quantifying the variability of winter climate in the Arctic |
-| 23  | Heather Reese | Subarctic tundra change mapping with Earth Observation and machine learning |
-| 24  | Jaime Caballer Revenga | Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories |
-| 25  | Carolyn Rosten | TBA |
-| 26  | Alan Said | TBA |
-| 27  | Dan Stowell | Bioacoustic AI for nature: how can it tread lightly? |
-| 28  | Tiffany Vlaar | TBA |
-| 29  | Anapuma Xavier | Comparative predictability of eastern and western north pacific blocking events |
+| 1   | [Sonja Aits](#sonja) | TBA |
+| 2   | [Adrià Amell](#adria) | RainOverAfrica.AI: nowcasting precipitation from geostationary imagery |
+| 3   | [Anna Luise Von Blohn](#anna) | TBA |
+| 4   | [Benjamin Cretois](#benjamin) | TBA |
+| 5   | [Ellen Dejonghe](#ellen) | TBA |
+| 6   | [Blanca Delgado-Márquez](#blanca) | TBA |
+| 7   | [Luisa Delgado-Márquez](#luisa) | TBA |
+| 8   | [Filip Dorm](#filip) | Large language models possess some ecological knowledge, but how much? |
+| 9   | [Patrick Eriksson](#patrick) | Providing space-borne ML-based atmospheric data with case-specific uncertainties |
+| 10  | [Ramon Fuentes Franco](#ramon) | Pan-European high-resolution downscaling using deep learning |
+| 11  | [Lucia Gordon](#lucia) |  |
+| 12  | [Leon Green](#leon) | Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm. |
+| 13  | [Celine Heuzé](#celine) | Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest |
+| 14  | [Ankit Kariryaa](#ankit) | TBA |
+| 15  | [Murathan Kurfali](#murathan) | ClimateEval: A Comprehensive Benchmark for Climate Change NLP |
+| 16  | [Francesca Larosa](#francesca) | TBA |
+| 17  | [Ashwin Mohanan](#ashwin) | Dawsonia: Digitizing handwritten observations in weather journals |
+| 18  | [Andrea Nascetti](#andrea) | PANGEA: A Global And Inclusive Benchmark For Geospatial Foundation Models |
+| 19  | [Aleksis Pirinen, Olof Mogren](#aleksis) | TBA |
+| 20  | [Stefano Puliti](#puliti) | TBA |
+| 21  | [Laura Helene Rasmussen](#laura) | Quantifying the variability of winter climate in the Arctic |
+| 22  | [Heather Reese](#heather) | Subarctic tundra change mapping with Earth Observation and machine learning |
+| 23  | [Jaime Caballer Revenga](#jaime) | Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories |
+| 24  | [Carolyn Rosten](#carolyn) | TBA |
+| 25  | [Alan Said](#alan) | TBA |
+| 26  | [Dan Stowell](#dan) | Bioacoustic AI for nature: how can it tread lightly? |
+| 27  | [Tiffany Vlaar](#tiffany) | TBA |
+| 28  | [Anupama Xavier](#anupama) | Comparative predictability of eastern and western north pacific blocking events |
 
 
 ## Speaker instructions.
@@ -237,4 +237,230 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 
 [Back to top of page](#top)
 
+
+## Poster presentation details
+
+<a name="sonja"></a>
+**1. Sonja Aits**<br />
+**Title**: TBA<br />
+**Abstract**: TBA
+
+[Back to top of page](#top)
+
+<a name="adria"></a>
+**2. Adrià Amell**<br />
+**Title**: RainOverAfrica.AI: nowcasting precipitation from geostationary imagery<br />
+**Abstract**: Geostationary satellites offer an unrivalled spatiotemporal coverage, but their measurements have often been considered only complementary for the complex problem of estimating precipitation from space. We present Rain over Africa (RoA), a method based on a neural network and geostationary imagery that can provide not only continuous precipitation estimates over the entire African continent but also case-specific uncertainties, facilitating the detection of extreme events. Anyone can produce RoA estimates with a latency of about one minute after the dissemination of satellite data, enabling resilience planning through near real-time monitoring. This nowcasting aspect of RoA is not at the expense of accuracy, since it results superior to established higher latency products.	
+
+[Back to top of page](#top)
+
+<a name="anna"></a>
+**3. Anna Luise Von Blohn**<br />
+**Title**: <br />
+**Abstract**: TBA
+
+[Back to top of page](#top)
+
+<a name="benjamin"></a>
+**4. Benjamin Cretois**<br />
+**Title**: <br />
+**Abstract**: TBA
+
+[Back to top of page](#top)
+
+<a name="ellen"></a>
+**5. Ellen Dejonghe**	<br />
+**Title**: TBA<br />
+**Abstract**: TBA
+
+
+[Back to top of page](#top)
+
+<a name="blanca"></a>
+**6. Blanca Delgado-Márquez**<br />
+**Title**: <br />
+**Abstract**: TBA
+
+[Back to top of page](#top)
+
+<a name="luisa"></a>
+**7. Luisa Delgado-Márquez**	<br />
+**Title**: <br />
+**Abstract**: TBA
+
+
+[Back to top of page](#top)
+
+<a name="filip"></a>
+**8. Filip Dorm**<br />
+**Title**: Large language models possess some ecological knowledge, but how much?<br />
+**Abstract**: Large Language Models (LLMs) have garnered attention for their potential at question answering across multiple different domains. However, despite the promise demonstrated, there has only been limited exploration of their effectiveness in the context of ecological knowledge. We investigate the ecological knowledge and potential reasoning abilities of two LLMs, Gemini 1.5 Pro and GPT-4o, across a suite of ecologically focused tasks. Our tasks quantitatively assess a models’ ability to predict species presence at locations, generate range maps, list critically endangered species, classify threats, and estimate species traits. We compare model performance against expert-derived data to quantify their accuracy and reliability using a new benchmark dataset we introduce. We show that while the LLMs tested outperform naive baselines, they still exhibit significant limitations, particularly in generating spatially accurate range maps and classifying threats. Our findings underscore both the potential and challenges of using LLMs in ecological applications, highlighting the need for further refinement, including domain-specific fine-tuning, to better approximate ecological reasoning. Our new benchmark dataset will enable researchers to make progress on this task by providing a repeatable way to evaluate future models.	
+
+[Back to top of page](#top)
+
+<a name="patrick"></a>
+**9. Patrick Eriksson** <br />
+**Title**: Providing space-borne ML-based atmospheric data with case-specific uncertainties<br />
+**Abstract**: Only satellite measurements enable regional and global observations of quantities such as rainfall or cloudiness. However, there is often not a unique solution to the problem of translating the quantities measured by space-borne instruments into geophysical values. Traditional approaches to the problem fail to provide statistically sound estimates for many properties or are too expensive. At the Division of Geoscience and Remote Sensing of Chalmers University of Technology, we have been working with the flexibility of quantile regression neural networks to provide affordable but accurate statistical descriptions of space-borne estimates of precipitation and atmospheric ice densities, both a cornerstone of climate studies.	
+
+[Back to top of page](#top)
+
+<a name="ramon"></a>
+**10. Ramon Fuentes Franco**<br />
+**Title**: Pan-European high-resolution downscaling using deep learning<br />
+**Abstract**: This study assesses the performance of a deep convolutional neural network in predicting near-surface air temperature (T2m) and total precipitation (P) over Europe, comparing its results with the Copernicus European Regional Reanalysis (CERRA) and the dynamical regional model HCLIM simulations. The ML-model accurately captures broad seasonal temperature and precipitation patterns, with minor biases in summer and more pronounced warm biases in winter. While the model effectively reproduces the probability density functions (PDFs) of daily temperature and precipitation, it underestimates extreme cold events and in some regions also the high precipitation extremes. Climate indices, including cold extremes (TM2PCTL), warm extremes (TM98PCTL), consecutive dry days (CDD), and consecutive wet days (CWD), highlight that the ML-model aligns closely with CERRA, though it slightly underestimates CDD and overestimates CWD, particularly in mountainous and Mediterranean regions. Analysis of spatio-temporal variability demonstrates high correlations with CERRA for temperature, exceeding 0.99 for spatial correlations and 0.95 for temporal correlations, while correlations for precipitation are lower, with underestimated temporal variability. The ML-model generally outperforms HCLIM, particularly in aligning with observed data, although challenges remain in capturing extremes and reducing biases in certain regions. These results further highlight the potential of the ML-model for regional climate downscaling and impact studies, while emphasizing the need for further refinement to enhance its representation of extreme events and improve spatial accuracy.	
+
+[Back to top of page](#top)
+
+<a name="lucia"></a>
+**11. Lucia Gordon**<br />
+**Title**: <br />
+**Abstract**: TBA
+
+
+[Back to top of page](#top)
+
+<a name="leon"></a>
+**12. Leon Green**<br />
+**Title**: Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm.<br />
+**Abstract**: Introductions of invasive species in the marine environment is increasing along with global shipping intensity. Climate change exarcebates this, while also stressing native communitites of animals making them more susceptible. To understand the impacts on biodiversity from these cumulative stressors, society needs to harness cost-effective monitoring solutions. A promising method that can yield high accuracy data is computer vision paired with deep-learning to construct object-detection models. This approach is gaining momentum in ecology, and several identification technologies are available to utilize for this approach. For animal detection and identification, the most used algorithms are from the deep neural-network (DNN) based YOLO series. In short, the algorithm is fed training images (input), and depending on how well it classifies an object (the output), the connection through this network is reinforced or weakened to improve the likelihood of input and output matching the next time. Here, we present an object-detection model created to automatically identify and track Swedens first invasive marine fish (the round goby) from underwater video. Importantly, it is also able to distinguish the species from the very similar native black goby and other commonly encountered animals. This model has been created using the with support from an online citizen science community, where people classify fish from videos and photos. These classification were then used to train the object-detection model using deep-learning neural networks in PyTorch using the ultralythics YOLOv8 package. Through this computer vision AI, we have created an accurate method to monitor small, well camouflaged invasive fish in the wild to determine impacts from biological invasions.	
+
+[Back to top of page](#top)
+
+<a name="celine"></a>
+**13. Celine Heuze** <br/>
+**Title**: Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest<br />
+**Abstract**: Northern Europe is particularly vulnerable to extreme sea level events as most of its large population, financial and logistics centres are located by the coastline. Policy makers need information to plan for near- and longer-term events. There is a consensus that for Europe, in response to climate change, changes to extreme sea level will be caused by mean sea level rise rather than changes in its drivers, meaning that determining current drivers will aid such planning. Here we determine from explainable AI the meteorological and hydrological drivers of high frequency extreme sea level at nine locations on the wider North Sea – Baltic coast using Long Short Term Memory (LSTM, a type of deep recurrent neural network) and the simpler Random Forest regression on hourly tide gauge data. LSTM is optimised for targeting the excess values, or periods of prolonged high sea level; Random Forest, the block maxima, or most extreme peaks in sea level. Through permutation feature of the LSTM, we show that the most important driver of the periods of high sea level over the region is the westerly winds, whereas the Random Forest reveals that the driver of the most extreme peaks depends on the geometry of the local coastline. LSTM is most accurate overall, although predicting the highest values without overfitting the model remains challenging. Despite being less accurate, Random Forest agrees well with the LSTM findings, making it suitable for predictions of extreme sea level events at locations with short and/or patchy tide gauge observations.
+
+More information at https://egusphere.copernicus.org/preprints/2025/egusphere-2025-700/
+
+[Back to top of page](#top)
+
+<a name="ankit"></a>
+**14. Ankit Kariryaa**	<br />
+**Title**: TBA<br />
+**Abstract**: TBA
+
+
+[Back to top of page](#top)
+
+<a name="murathan"></a>
+**15. Murathan Kurfali**<br />
+**Title**: ClimateEval: A Comprehensive Benchmark for Climate Change NLP<br />
+**Abstract**: We introduce ClimateEval, a comprehensive benchmark designed to evaluate natural language processing models across a broad range of tasks related to climate change. ClimateEval aggregates existing datasets along with a newly developed news classification dataset, created specifically for this release. This results in a benchmark of 25 tasks based on 13 datasets, covering key aspects of climate discourse, including text classification, question answering, and information extraction. Our benchmark provides a standardized evaluation suite for systematically assessing the performance of large language models (LLMs) on these tasks. Additionally, we conduct an extensive evaluation of open-source LLMs (ranging from 2B to 70B parameters) in both zero-shot and few-shot settings, analyzing their strengths and limitations in the domain of climate change.
+
+[Back to top of page](#top)
+
+<a name="francesca"></a>
+**16. Francesca Larosa**<br />
+**Title**: TBA<br />
+**Abstract**: TBA
+
+
+[Back to top of page](#top)
+
+<a name="ashwin"></a>
+**17. Ashwin Mohanan**<br />
+**Title**: Dawsonia: Digitizing handwritten observations in weather journals<br />
+**Abstract**: Nearly all meteorological agencies in the world, including SMHI, possesses troves of archived observations spanning decades in paper format. Dawsonia is a proof-of-concept application which combines accurate computer vision algorithms and machine learning models to handle different forms of tabular data, convert handwritten text and produce machine-readable files. This would aid and accelerate the digitization work from the paper archives into data, which is done manually as of now. As a result of the project, SMHI aims at digitizing numerous historical weather observations that will help a better understanding of the climate, especially of the occurrence of extreme weather events.
+
+The method implemented in Dawsonia is presented along with the development process. We also describe how the machine learning models were trained on LUMI, an EuroHPC supercomputer with technical support from ENCCS.
+
+Repository: https://git.smhi.se/ai-for-obs/dawsonia
+Documentation: https://dawsonia.readthedocs.io/
+Demo: https://hf.co/spaces/ai-for-obs/dawsonia-demo"	
+
+[Back to top of page](#top)
+
+<a name="andrea"></a>
+**18. Andrea Nascetti**<br />
+**Title**: PANGEA: A Global And Inclusive Benchmark For Geospatial Foundation Models<br />
+**Abstract**: Geospatial Foundation Models (GFMs) have emerged as a promising technology for extracting representations from Earth observation (EO) data, with applications spanning urban planning, agriculture, disaster response, and more. These models, trained on large-scale EO datasets, aim to extract fundamental geospatial features that can be applied to a range of downstream tasks. However, the rapid development of GFMs has outpaced the establishment of a robust and standardized evaluation methodology, hindering the ability to effectively assess their real-world applicability. Existing works often evaluate on suboptimal downstream datasets and tasks, that are often too easy (e.g., EuroSAT, which reports >99% accuracy) or too narrow, limiting the usefulness of the evaluations to assess real-world applicability of GFMs.These benchmarks overlook critical factors, such as the diversity of sensor types, spatial resolutions, temporal dynamics, and geographical representation, limiting their capacity to evaluate the true potential of GFMs. For instance, the PhilEO Bench [1], though a valuable contribution, evaluates models only through the lens of Sentinel-2 data, limiting the breadth of the conclusions that can be drawn from this benchmark. In comparison, GEO-Bench [2] and SustainBench [3], include data from multiple sensors; however, they cover only land observations, ignore marine environments, consider only uni-modal datasets, and focus on unitemporal applications. 
+
+To address this gap, we propose PANGAEA, a comprehensive and globally inclusive benchmark for GFMs. PANGAEA is designed to evaluate models across a diverse set of tasks. It spans multiple domains, while incorporating datasets with diverse temporal configurations, spatial resolutions, and sensor modalities. 
+
+A representative set of models was selected for evaluation on our benchmark, guided by criteria emphasizing methodological diversity, impact, and reproducibility. This included approaches such as multi-modal contrastive learning, masked image modeling, and supervised training. Our analysis highlights key factors influencing GFM performance, including the characteristics of pre-training datasets, such as sensor spectral and spatial resolutions. Models trained on datasets with richer spectral and spatial detail excel in tasks requiring those features. However, GFMs do not consistently outperform task-specific supervised models, particularly when there is a mismatch between pre-training and downstream data characteristics (e.g., RGB vs. multispectral). Similar trends are observed across applications such as time-series analysis, crop monitoring, and canopy height prediction. 
+
+To promote transparency and collaboration, we provide a fully open-source evaluation framework, enabling reproducibility and fostering trust in GFM evaluations. This benchmark is designed to be modular and extensible, accommodating new datasets, tasks, and models as the field evolves. Our contributions include a robust and easy-to-use codebase for standardized benchmarking, a diverse evaluation protocol covering a wide range of datasets and sensor types, and insights into GFM performance gaps. "	
+
+[Back to top of page](#top)
+
+<a name="aleksis"></a>
+**19. Aleksis Pirinen and Olof Mogren**<br />
+**Title**: TBA<br />
+**Abstract**: TBA
+
+[Back to top of page](#top)
+
+<a name="puliti"></a>
+**20. Stefano Puliti**<br />
+**Title**: TBA<br />
+**Abstract**: TBA
+
+
+[Back to top of page](#top)
+
+<a name="laura"></a>
+**21. Laura Helene Rasmussen**<br />
+**Title**: Quantifying the variability of winter climate in the Arctic<br />
+**Abstract**: Studies show that a trend towards warmer ecosystems in the Arctic in the 90s and early 2000s has disappeared, however, this does not mean that climate has stabilized. Variability in climate has increased rapidly, and long-term monitoring programs show that winters, spring seasons and summers have become so much more variable that the ecosystems, which are used to more stable, reliable conditions, have an even harder time to adapt compared to a stable trend of e.g. earlier snowmelt.
+
+In this project, we take the focus off of the trend and instead focus on developing a quantitative measure of variability in winter climate. We asked arctic ecosystem scientists, arctic local governmental offices and Arctic indigenous groups to help us identify the most important winter phenomena, whose variability matters to them, and which would be useful to include in a Winter Variability Index (WVI).
+
+We then extracted these phenomena from a pan-Arctic in situ measured data set, reduced dimensions and extracted features in order to identify patterns in variability such as e.g. geographic patterns or climatological patterns. Next step is to classify the Arctic into groups based on their WVI and use the extracted patterns to develop a tool that local authorities, scientists or Arctic peoples can use to compare their own data or area to the rest of the Arctic."	
+
+[Back to top of page](#top)
+
+<a name="heather"></a>
+**22. Heather Reese**<br />
+**Title**: Subarctic tundra change mapping with Earth Observation and machine learning<br />
+**Abstract**: Climate changes in subarctic Sweden include warmer temperatures, change in snow cover and precipitation, and change in season length. This exerts pressure on tundra vegetation, leading over time to increased vegetation biomass (e.g., shrubification) as well as decreased biomass (e.g., due to frost drought). Earth observation (EO) data from satellites in combination with other geographic data facilitate the identification of vegetation change as well as potential drivers of these changes. Using a Random Forest algorithm together with Landsat and Sentinel-2 EO data,  climate-induced changes around the Latnjajaure research station, near Abisko, Sweden, are mapped and important parameters for change are identified. 	
+
+[Back to top of page](#top)
+
+<a name="jaime"></a>
+**23. Jaime Caballer Revenga**<br />
+**Title**: Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories<br />
+**Abstract**: This study explores two related approaches for vegetation type classification and clustering of vegetation cover types using the hyperspectral images (HSI) collected by the program AVIRIS-NG (JPL-NASA), 
+using self-supervised learning (SSL) methods, particularly focusing on the spectral trajectory of pixels over time - caused by phenological changes. The study site is Dangermond Preserve (Santa Barbara, California, USA), where three main vegetation types cover this (Mediterranean-climatic) region: (i) shrubland, (ii) grassland and (iii) deciduous oak forests.
+
+We first investigate the use of 3 SSL methods (Barlow Twins, MoCo-V2 and SwAV) for pixel-wise vegetation type classification. . The three methods use Resnet50 as backbone, and have been trained for classification of RGB histology data. The task aims to (i) transfer the pretrained models to segmentation and (ii) test the robustness of SSL methods against the impact of senescence of vegetation on the spectral reflectance signal across different vegetation types. The study utilizes geographically rectified surface reflectance L2A data from the Dangermond Preserve, with a time span covering 13 consecutive dates corresponding to aerial surveys throughout the growing season (February to September 2022). The objective of this experiment is to understand how model performance evolves over time and whether including specific temporal points, such as the transition between phenophases, improves segmentation accuracy for particular vegetation types.
+
+Then, we explore clustering of "spectrally-similar" pixels to identify whether these clusters correspond to functional vegetation groups, as inspired by the concept of "spectral species." Instead of using traditional PCA, which sacrifices dimensionality, this study employs SSL to train the models on unlabeled data with specific augmentations to cluster pixels according to defined spectral criteria. Afterward, via linear probing and shallow classifiers, are used to evaluate the clustering results. This experiment aims to assess the ability of the model to identify spectral clusters in vegetation data and their functional relevance.
+
+Furthermore, a sub-experiment analyzes the clustering potential of both the reflectance signature and the ""reflectance trajectory"" of pixels across multiple dates. The findings reveal how spectral trajectories, particularly those showing seasonal transitions, may enhance clustering and segmentation performance.
+
+By integrating temporal data and spectral features, this study aims to advance methods for vegetation cover classification and spectral clustering, offering new insights into the role of spectral trajectories and
+phenological changes in remote sensing analysis.
+
+[Back to top of page](#top)
+
+<a name="carolyn"></a>
+**24. Carolyn Rosten**<br />
+**Title**: <br />
+**Abstract**: TBA
+
+[Back to top of page](#top)
+
+<a name="alan"></a>
+**25. Alan Said**<br />
+**Title**: TBA<br />
+**Abstract**: TBA
+
+
+[Back to top of page](#top)
+
+<a name="tiffany"></a>
+**27. Tiffany Vlaar**<br />
+**Title**: <br />
+**Abstract**: TBA
+
+[Back to top of page](#top)
+
+<a name="anupama"></a>
+**28. Anupama Xavier**<br />
+**Title**: Comparative predictability of eastern and western north pacific blocking events<br />
+**Abstract**: North Pacific blocking patterns, defined by persistent high-pressure systems that disrupt atmospheric circulation, are pivotal elements of mid-latitude weather dynamics. These blocking events play a significant role in shaping regional weather extremes, such as prolonged cold spells or heatwaves, and can redirect storm tracks across the Pacific. For instance, the 2021 Pacific Northwest heatwave demonstrated the profound impact of blocking on terrestrial temperatures, where an upstream cyclone acted as a diabatic source of wave activity, intensifying the blocking system. This led to heat-trapping stable stratification, which elevated surface temperatures to unprecedented levels (Neal et al., 2022). Similarly, marine heatwaves in the Northeast Pacific have been linked to high-latitude blocking events, which weaken westerly winds, suppress southward Ekman transport, and enhance ocean stratification, thereby increasing sea surface temperatures (Niu et al., 2023). The predictability of North Pacific blocking events is governed by the intricate interplay of large-scale atmospheric dynamics, ocean-atmosphere interactions, and internal variability (Smith et al., 2020). This study investigates the differences in predictability between eastern and western North Pacific blocking events, using a modified version of the Davini et al. (2012) blocking index to distinguish their geographical locations. Identified blocking events were tracked using a block-tracking algorithm until they dissipated. Predictability was assessed by identifying an analogue pair for each blocking event. Specifically, after classifying blocks as eastern or western, geopotential height maps for each event were compared to all other days in the dataset. The analogue pair for an event was defined as the day with the smallest root mean square (RMS) distance. Predictability was then evaluated by averaging the error evolution of the tracks between events in each analogue pair. Using CMIP6 model simulations, the study revealed that eastern blocks are significantly more persistent and stable than their western counterparts. Eastern blocks exhibited longer durations and greater resistance to atmospheric variability, resulting in improved forecast accuracy. In contrast, western blocks were found to be more transient and challenging to predict due to their susceptibility to dynamic instabilities.	
+
+[Back to top of page](#top)
 
