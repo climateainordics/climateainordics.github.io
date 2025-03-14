@@ -13,7 +13,7 @@
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
 <option value="Education">Education (1)</option>
-<option value="Efficient or Sustainable AI">Efficient or Sustainable AI (31)</option>
+<option value="Efficient or Sustainable AI">Efficient or Sustainable AI (32)</option>
 <option value="Environment Impacts of AI">Environment Impacts of AI (1)</option>
 <option value="Extreme Weather">Extreme Weather (1)</option>
 <option value="Fluid Dynamics">Fluid Dynamics (1)</option>
@@ -22,23 +22,25 @@
 <option value="HPC">HPC (1)</option>
 <option value="Impact on Climate Change on Health">Impact on Climate Change on Health (1)</option>
 <option value="Knowledge Graphs">Knowledge Graphs (1)</option>
-<option value="Machine Learning">Machine Learning (70)</option>
+<option value="Machine Learning">Machine Learning (71)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (13)</option>
 <option value="Materials">Materials (1)</option>
 <option value="Meteorology">Meteorology (1)</option>
 <option value="Molecular Modeling of Atmospheric Chemistry">Molecular Modeling of Atmospheric Chemistry (1)</option>
-<option value="NLP">NLP (17)</option>
+<option value="NLP">NLP (18)</option>
 <option value="Numerical Weather Prediction">Numerical Weather Prediction (1)</option>
 <option value="Remote Sensing">Remote Sensing (1)</option>
 <option value="Soundscape Analysis">Soundscape Analysis (16)</option>
 <option value="Spatial Analysis">Spatial Analysis (1)</option>
-<option value="Sustainable Cities">Sustainable Cities (21)</option>
+<option value="Sustainable Cities">Sustainable Cities (22)</option>
 <option value="Sustainable Heating">Sustainable Heating (1)</option>
 <option value="Sustainable Production">Sustainable Production (15)</option>
 <option value="Sustainable Space Exploration and Research">Sustainable Space Exploration and Research (1)</option>
 <option value="Sustainable Transport">Sustainable Transport (11)</option>
-<option value="Urban Planning">Urban Planning (15)</option>
+<option value="Urban Planning">Urban Planning (16)</option>
+<option value="Visual Analytics">Visual Analytics (1)</option>
+<option value="Visualization">Visualization (1)</option>
 <option value="Weather Forecasting">Weather Forecasting (1)</option></select>
 
 <script>
