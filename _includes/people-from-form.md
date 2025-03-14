@@ -23,6 +23,12 @@ Earth Observation * Biodiversity * Machine Learning * Deep Learning * [More info
 Biodiversity * Soundscape Analysis * Machine Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=b4uuKFAAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-6420-5510)
 </div>
 
+<div class="content" markdown="1" data-tags="Biodiversity,Marine Ecology,Computer Vision,Machine Learning">
+<span title="Post DocDepartment of Environmental Science, Stockholm University."><strong>Hoi Shing Lo, Post Doc, Department of Environmental Science, Stockholm University</strong></span>
+<br />
+Biodiversity * Marine Ecology * Computer Vision * Machine Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=QmxKUXUAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-9613-0218)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
