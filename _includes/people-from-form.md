@@ -1,11 +1,5 @@
 ## Affiliates - Recently Joined
 <div class="content" markdown="1" data-tags="">
-<span title="PhD StudentNorwegian Computing Center."><strong>Silius Vandeskog, PhD Student, Norwegian Computing Center</strong></span>
-<br />
-[Publications (Scholar)](https://scholar.google.no/citations?user=-dQ-jsgAAAAJ&amp;hl=no) * [ORCID](https://orcid.org/0000-0001-5996-4988)
-</div>
-
-<div class="content" markdown="1" data-tags="">
 <span title="PhD, ResearcherNILU, The climate and environmental research institute."><strong>Mohamed-Bachir Belaid, PhD, Researcher, NILU, The climate and environmental research institute</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=hZ6VUu8AAAAJ) * [ORCID](https://orcid.org/0000-0002-8686-8489)
@@ -622,6 +616,12 @@ Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Ma
 <span title="With a background in theoretical physics and machine learning, I work as an analytics engineer at Aira, a Swedish company dedicated to replacing fossil-fueled heating systems in homes across Europe with heat pumps.  In Aira’s central data and optimization team, I work at the intersection of data engineering and data science, contributing to both infrastructure and analytical solutions. Our team develops and applies machine learning models to optimize heat pump performance and support business operations.  In 2021, I collaborated with SMHI on a project to digitize historical handwritten weather journals using a deep neural network. SMHI’s Ashwin Mohanan, who was also involved in this project, will be attending the conference as well. IndustryAira."><strong>Valter Fallenius, Industry, Aira</strong></span>
 <br />
 Earth Observation * Climate Modeling * Urban Planning * Sustainable Cities * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * Sustainable Heating * [More info (researcher profile)](https://www.airahome.com)
+</div>
+
+<div class="content" markdown="1" data-tags="">
+<span title="PhD StudentNorwegian Computing Center."><strong>Silius Vandeskog, PhD Student, Norwegian Computing Center</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.no/citations?user=-dQ-jsgAAAAJ&amp;hl=no) * [ORCID](https://orcid.org/0000-0001-5996-4988)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
