@@ -31,14 +31,14 @@
 <option value="NLP">NLP (17)</option>
 <option value="Numerical Weather Prediction">Numerical Weather Prediction (1)</option>
 <option value="Remote Sensing">Remote Sensing (1)</option>
-<option value="Soundscape Analysis">Soundscape Analysis (15)</option>
+<option value="Soundscape Analysis">Soundscape Analysis (16)</option>
 <option value="Spatial Analysis">Spatial Analysis (1)</option>
 <option value="Sustainable Cities">Sustainable Cities (21)</option>
 <option value="Sustainable Heating">Sustainable Heating (1)</option>
 <option value="Sustainable Production">Sustainable Production (15)</option>
 <option value="Sustainable Space Exploration and Research">Sustainable Space Exploration and Research (1)</option>
 <option value="Sustainable Transport">Sustainable Transport (11)</option>
-<option value="Urban Planning">Urban Planning (14)</option>
+<option value="Urban Planning">Urban Planning (15)</option>
 <option value="Weather Forecasting">Weather Forecasting (1)</option></select>
 
 <script>
