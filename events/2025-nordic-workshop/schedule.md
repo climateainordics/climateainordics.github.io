@@ -19,27 +19,27 @@ img {
 
 *This schedule is a work in progress. Expect changes.*
 
-| Time | Speaker | Title |
-| ---- | ------- | ----- |
-| 9:00 | Coffee/find your seat | | 
-| 9:10 | Olof Mogren | Opening remarks |
-| 9:15 | Keynote 1: [Oisin Mac Aodha](#oisin) | AI-Powered Biodiversity Monitoring |
-| 10:00 | Oral: [Edmond Sacre](#edmond) | Mapping and conservation of aquatic species - potential advances with deep learning |
-| 10:20 | Oral: [Amal Nammouchi](#amal) | TBA |
-| 10:40 | Coffee break |  |
-| 11:10 | Oral: [Dan Stowell](#dan) | Bioacoustic AI for nature: how can it tread lightly? |
-| 11:40 | Oral: [John Martinsson](#john) | Understanding the World Through Sound: Enhancing Biodiversity Monitoring |
-| 12:00 | Lunch |  |
-| 13:15 | Keynote 2: [Christian Igel](#christian) | Deep learning for large-scale ecosystem monitoring |
-| 14:00 | Oral: [Nico Lang](#nico) | TBA |
-| 14:20 | Oral: [Stefanos Georganos](#stefanos) | Unequal Cities in a Changing Climate: AI and Geospatial Approaches to Urban Resilience |
-| 14:40 | Coffee |  |
-| 15:10 | Oral: [Alouette van Hove](#alouette) | Navigating methane plumes: A journey from drone observations to flux estimates |
-| 15:30 | Oral: [Shorouq Zahra](#shorouq) | The challenges of using LLMs to extract data on extreme climate events |
-| 15:50 | Oral: [David Thulke](#david) | Assessing and Improving ClimateGPT's Faithfulness in Retrieval Augmented Generation |
-| 16:10 | [Posters and mingle](#posters) |  |
-| 17:45 | Concluding remarks |  |
-| 18:00 | Dinner | |
+| Time | Category | Speaker | Title |
+| ---- | --- | ------- | ----- |
+| 9:00 | | Coffee/find your seat | | 
+| 9:10 | | Olof Mogren | Opening remarks |
+| 9:15 | Keynote 1 | [Oisin Mac Aodha](#oisin) | AI-Powered Biodiversity Monitoring |
+| 10:00 | Oral | [Edmond Sacre](#edmond) | Mapping and conservation of aquatic species - potential advances with deep learning |
+| 10:20 | Oral | [Amal Nammouchi](#amal) | TBA |
+| 10:40 | | Coffee break |  |
+| 11:10 | Oral | [Dan Stowell](#dan) | Bioacoustic AI for nature: how can it tread lightly? |
+| 11:40 | Oral | [John Martinsson](#john) | Understanding the World Through Sound: Enhancing Biodiversity Monitoring |
+| 12:00 | | Lunch |  |
+| 13:15 | Keynote 2 | [Christian Igel](#christian) | Deep learning for large-scale ecosystem monitoring |
+| 14:00 | Oral | [Nico Lang](#nico) | TBA |
+| 14:20 | Oral | [Stefanos Georganos](#stefanos) | Unequal Cities in a Changing Climate: AI and Geospatial Approaches to Urban Resilience |
+| 14:40 | | Coffee |  |
+| 15:10 | Oral | [Alouette van Hove](#alouette) | Navigating methane plumes: A journey from drone observations to flux estimates |
+| 15:30 | Oral | [Shorouq Zahra](#shorouq) | The challenges of using LLMs to extract data on extreme climate events |
+| 15:50 | Oral | [David Thulke](#david) | Assessing and Improving ClimateGPT's Faithfulness in Retrieval Augmented Generation |
+| 16:10 | | [Posters and mingle](#posters) |  |
+| 17:45 | | Concluding remarks |  |
+| 18:00 | | Dinner | |
 
 <a name="posters"></a>
 ## 16:10 - 17:45 Poster presentations
