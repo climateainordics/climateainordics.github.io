@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Machine Learning,Deep Learning">
-<span title="I am a geographer and environmental scientist with a research focus on landscape dynamics and human-environment interactions across multiple scales. I examine the drivers and impacts of land-use change, aiming to bridge scientific knowledge and policy for sustainable landscape management. My interdisciplinary approach integrates large-scale Earth observation, machine learning, and ecosystem monitoring tools, which enables me to observe and interpret complex patterns of environmental change.  PhD, ResearcherLund University."><strong>Hakim Abdi, PhD, Researcher, Lund University</strong></span>
-<br />
-Earth Observation * Biodiversity * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.hakimabdi.com) * [Publications (Scholar)](https://scholar.google.com/citations?user=ppOH_fQAAAAJ) * [ORCID](https://orcid.org/0000-0001-6486-8747) * [BlueSky](https://bsky.app/profile/hakimabdi.bsky.social)
-</div>
-
 <div class="content" markdown="1" data-tags="">
 <span title="PhD StudentNorwegian Computing Center."><strong>Silius Vandeskog, PhD Student, Norwegian Computing Center</strong></span>
 <br />
@@ -394,6 +388,12 @@ Earth Observation * Climate Modeling * Efficient or Sustainable AI * Machine Lea
 <span title="My area of research lies at the intersection of Remote Sensing, Physical Geography, Applied Statistics and Applied Machine (Deep) Learning. Post DocAarhus-Biology  &amp; UCPH-Geoscience."><strong>Jaime Revenga, Post Doc, Aarhus-Biology  &amp; UCPH-Geoscience</strong></span>
 <br />
 Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.linkedin.com/in/jaime-c-revenga-8556b9167/) * [Research group](https://land-craft.dk/about-us/vision-and-mission) * [Publications (Scholar)](https://scholar.google.com/citations?user=wQfif-MAAAAJ&amp;hl=es) * [ORCID](https://orcid.org/0000-0002-9330-6572) * [BlueSky](https://bsky.app/profile/@jacabenga.bsky.social)
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Machine Learning,Deep Learning">
+<span title="I am a geographer and environmental scientist with a research focus on landscape dynamics and human-environment interactions across multiple scales. I examine the drivers and impacts of land-use change, aiming to bridge scientific knowledge and policy for sustainable landscape management. My interdisciplinary approach integrates large-scale Earth observation, machine learning, and ecosystem monitoring tools, which enables me to observe and interpret complex patterns of environmental change.  PhD, ResearcherLund University."><strong>Hakim Abdi, PhD, Researcher, Lund University</strong></span>
+<br />
+Earth Observation * Biodiversity * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.hakimabdi.com) * [Publications (Scholar)](https://scholar.google.com/citations?user=ppOH_fQAAAAJ) * [ORCID](https://orcid.org/0000-0001-6486-8747) * [BlueSky](https://bsky.app/profile/hakimabdi.bsky.social)
 </div>
 
 <div class="content" markdown="1" data-tags="">
