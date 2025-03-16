@@ -25,7 +25,7 @@ img {
 | 9:10 | | Olof Mogren | Opening remarks |
 | 9:15 | Keynote | [Oisin Mac Aodha](#oisin) | AI-Powered Biodiversity Monitoring |
 | 10:00 | Oral | [Edmond Sacre](#edmond) | Mapping and conservation of aquatic species - potential advances with deep learning |
-| 10:20 | Oral | [Amal Nammouchi](#amal) | TBA |
+| 10:20 | Oral | TBA | TBA |
 | 10:40 | | Coffee break |  |
 | 11:10 | Oral | [Dan Stowell](#dan) | Bioacoustic AI for nature: how can it tread lightly? |
 | 11:40 | Oral | [John Martinsson](#john) | Understanding the World Through Sound: Enhancing Biodiversity Monitoring |
@@ -108,23 +108,6 @@ For speakers, see presentation instructions [here](speaker-instructions.html).
 **Abstract**: In the field of conservation planning, a great deal of effort and research has gone into the spatial modelling (i.e. mapping) of species, habitats, and other ecological processes. These models and data are a crucial component of conservation decision making, such as where to place protected areas and where to focus habitat restoration efforts. However, producing such maps is often challenging where data are limited. This is particularly true in aquatic environments, which are inherently more difficult to sample and remotely observe. To date, species distribution models have typically employed traditional statistical or machine learning techniques. There exists, therefore, great potential to improve these methods using more advance deep learning methods, which could lead to great improvements in map accuracy and, therefore, better conservation decisions. These powerful methods could also be used not only to produce maps of species distributions today, but also to predict where species may occur in the future under different climate scenarios, and where they might have occurred in the past.
 
 *E. Sacre is a researcher at the Swedish University of Agricultural Sciences (SLU) within the Department of Aquatic Resources (SLU Aqua). He obtained his PhD in 2019 at James Cook University, Australia, within the Australian Research Council Centre of Excellence for Coral Studies. At SLU Aqua, Edmond works within the Unit for Conservation and Marine Spatial Planning where he has been employed since 2019. He is involved in a variety of national and international projects focused on species distribution modeling, spatial conservation planning, cumulative impact assessment, and connectivity modeling. These projects include Protect Baltic (EU-Horizon), Western Indian Ocean Symphony (Swedish Agency for Marine and Water Management), and other national mapping projects.*
-
-[Back to top of page](#top)
-
-<a name="amal"></a>
-**10:20 Oral: Amal Nammouchi,** Karlstad University and AfriClimate AI
-
-![](/events/2025-nordic-workshop/nammouchi.jpg)
-
-**Title**: TBA
-
-**Abstract**: TBA
-
-*Amal is a PhD candidate at Karlstad University, focusing on robust optimization and control models for renewable energy communities under uncertainty.
-She is a co-founder of AfriClimate AI, a community-driven non-profit organization that brings AI-powered solutions to climate challenges across Africa through capacity building, research, and innovation.
-With over a decade of experience in community building and international development, Amal has held numerous leadership roles, including Vice President of JCI El Alia (twice), Chairwoman of IEEE SUPCOM SB, General chair of the IndabaX Tunisia 2019, and Committee Chair at the Deep Learning Indaba 2024, helping foster the next generation of AI talent in Africa.*
-
-[See the recording of Amal's webinar talk on "Leveraging AI OLeveraging AI for Climate Resilience in Africa: Challenges, Opportunities, and the Need for Collaboratio", from 2025-01-30!](https://climateainordics.com/events/2024-12-06-2025-01-30-leveraging-ai-for-climate-resilience-in)
 
 [Back to top of page](#top)
 
