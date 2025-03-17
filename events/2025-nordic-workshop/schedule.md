@@ -46,34 +46,34 @@ img {
 
 | No. | Speaker | Title |
 |---- | -------------------------- | --------------------------------------------------------------- |
-| 1   | [Sonja Aits](#sonja) | TBA |
-| 2   | [Adrià Amell](#adria) | RainOverAfrica.AI: nowcasting precipitation from geostationary imagery |
-| 3   | [Anna Luise Von Blohn](#anna) | TBA |
-| 4   | [Benjamin Cretois](#benjamin) | TBA |
-| 5   | [Ellen Dejonghe](#ellen) | TBA |
-| 6   | [Blanca Delgado-Márquez](#blanca) | TBA |
-| 7   | [Luisa Delgado-Márquez](#luisa) | TBA |
-| 8   | [Filip Dorm](#filip) | Large language models possess some ecological knowledge, but how much? |
-| 9   | [Patrick Eriksson](#patrick) | Providing space-borne ML-based atmospheric data with case-specific uncertainties |
-| 10  | [Ramon Fuentes Franco](#ramon) | Pan-European high-resolution downscaling using deep learning |
-| 11  | [Lucia Gordon](#lucia) |  |
-| 12  | [Leon Green](#leon) | Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm. |
-| 13  | [Celine Heuzé](#celine) | Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest |
-| 14  | [Ankit Kariryaa](#ankit) | TBA |
-| 15  | [Murathan Kurfali](#murathan) | ClimateEval: A Comprehensive Benchmark for Climate Change NLP |
-| 16  | [Francesca Larosa](#francesca) | TBA |
-| 17  | [Ashwin Mohanan](#ashwin) | Dawsonia: Digitizing handwritten observations in weather journals |
-| 18  | [Andrea Nascetti](#andrea) | PANGEA: A Global And Inclusive Benchmark For Geospatial Foundation Models |
-| 19  | [Aleksis Pirinen, Olof Mogren](#aleksis) | TBA |
-| 20  | [Stefano Puliti](#puliti) | TBA |
-| 21  | [Laura Helene Rasmussen](#laura) | Quantifying the variability of winter climate in the Arctic |
-| 22  | [Heather Reese](#heather) | Subarctic tundra change mapping with Earth Observation and machine learning |
-| 23  | [Jaime Caballer Revenga](#jaime) | Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories |
-| 24  | [Carolyn Rosten](#carolyn) | TBA |
-| 25  | [Alan Said](#alan) | TBA |
-| 26  | [Dan Stowell](#dan) | Bioacoustic AI for nature: how can it tread lightly? |
-| 27  | [Tiffany Vlaar](#tiffany) | TBA |
-| 28  | [Anupama Xavier](#anupama) | Comparative predictability of eastern and western north pacific blocking events |
+| 1   | [Sonja Aits](#sonja) | [TBA](#sonja) |
+| 2   | [Adrià Amell](#adria) | [RainOverAfrica.AI: nowcasting precipitation from geostationary imagery](#adria) |
+| 3   | [Anna Luise Von Blohn](#anna) | [TBA](#anna) |
+| 4   | [Benjamin Cretois](#benjamin) | [TBA](#benjamin) |
+| 5   | [Ellen Dejonghe](#ellen) | [TBA](#ellen) |
+| 6   | [Blanca Delgado-Márquez](#blanca) | [TBA](#blanca) |
+| 7   | [Luisa Delgado-Márquez](#luisa) | [TBA](#luisa) |
+| 8   | [Filip Dorm](#filip) | [Large language models possess some ecological knowledge, but how much?](#filip) |
+| 9   | [Patrick Eriksson](#patrick) | [Providing space-borne ML-based atmospheric data with case-specific uncertainties](#patrick) |
+| 10  | [Ramon Fuentes Franco](#ramon) | [Pan-European high-resolution downscaling using deep learning](#ramon) |
+| 11  | [Lucia Gordon](#lucia) | [TBA](#lucia) |
+| 12  | [Leon Green](#leon) | [Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm](#leon) |
+| 13  | [Celine Heuzé](#celine) | [Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest](#celine) |
+| 14  | [Ankit Kariryaa](#ankit) | [TBA](#ankit) |
+| 15  | [Murathan Kurfali](#murathan) | [ClimateEval: A Comprehensive Benchmark for Climate Change NLP](#murathan) |
+| 16  | [Francesca Larosa](#francesca) | [TBA](#francesca) |
+| 17  | [Ashwin Mohanan](#ashwin) | [Dawsonia: Digitizing handwritten observations in weather journals](#ashwin) |
+| 18  | [Andrea Nascetti](#andrea) | [PANGEA: A Global And Inclusive Benchmark For Geospatial Foundation Models](#andrea) |
+| 19  | [Aleksis Pirinen, Olof Mogren](#aleksis) | [TBA](#aleksis) |
+| 20  | [Stefano Puliti](#puliti) | [TBA](#puliti) |
+| 21  | [Laura Helene Rasmussen](#laura) | [Quantifying the variability of winter climate in the Arctic](#laura) |
+| 22  | [Heather Reese](#heather) | [Subarctic tundra change mapping with Earth Observation and machine learning](#heather) |
+| 23  | [Jaime Caballer Revenga](#jaime) | [Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories](#jaime) |
+| 24  | [Carolyn Rosten](#carolyn) | [TBA](#carolyn) |
+| 25  | [Alan Said](#alan) | [TBA](#alan) |
+| 26  | [Dan Stowell](#dan) | [Bioacoustic AI for nature: how can it tread lightly?](#dan) |
+| 27  | [Tiffany Vlaar](#tiffany) | [TBA](#tiffany) |
+| 28  | [Anupama Xavier](#anupama) | [Comparative predictability of eastern and western north pacific blocking events](#anupama) |
 
 
 ## Speaker instructions.
