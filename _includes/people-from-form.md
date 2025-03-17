@@ -582,6 +582,12 @@ Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep
 Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://lgordon99.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=DNO7ibYAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-3219-6960) * [BlueSky](https://bsky.app/profile/luciagordon.bsky.social)
 </div>
 
+<div class="content" markdown="1" data-tags="Climate Modeling,Computer Vision,Machine Learning">
+<span title="CEO &amp; Cofounder of Unibloom - the predictive climate data &amp; modelling platform for seamless collaboration and decision making in food and CPG. IndustryUnibloom World."><strong>Anna Sandgren, Industry, Unibloom World</strong></span>
+<br />
+Climate Modeling * Computer Vision * Machine Learning * [More info (researcher profile)](https://unibloom.world) * [Research group](https://unibloom.world)
+</div>
+
 <div class="content" markdown="1" data-tags="">
 <span title="PhD StudentUniversity of Gothenburg."><strong>Cas Renette, PhD Student, University of Gothenburg</strong></span>
 <br />
@@ -755,12 +761,6 @@ Earth Observation * Climate Modeling * Biodiversity * Sustainable Cities * Susta
 <span title="Badarawa youth development association."><strong>Bello Naim, Badarawa youth development association</strong></span>
 <br />
 
-</div>
-
-<div class="content" markdown="1" data-tags="Climate Modeling,Computer Vision,Machine Learning">
-<span title="CEO &amp; Cofounder of Unibloom - the predictive climate data &amp; modelling platform for seamless collaboration and decision making in food and CPG. IndustryUnibloom World."><strong>Anna Sandgren, Industry, Unibloom World</strong></span>
-<br />
-Climate Modeling * Computer Vision * Machine Learning * [More info (researcher profile)](https://unibloom.world) * [Research group](https://unibloom.world)
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
