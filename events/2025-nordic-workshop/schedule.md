@@ -31,7 +31,7 @@ img {
 | 11:40 | Oral | [John Martinsson](#john) | Understanding the World Through Sound: Enhancing Biodiversity Monitoring |
 | 12:00 | | Lunch |  |
 | 13:15 | Keynote | [Christian Igel](#christian) | Deep learning for large-scale ecosystem monitoring |
-| 14:00 | Oral | [Nico Lang](#nico) | TBA |
+| 14:00 | Oral | [Nico Lang](#nico) | Learning From Global Earth Observation Data |
 | 14:20 | Oral | [Stefanos Georganos](#stefanos) | Unequal Cities in a Changing Climate: AI and Geospatial Approaches to Urban Resilience |
 | 14:40 | | Coffee |  |
 | 15:10 | Oral | [Alouette van Hove](#alouette) | Navigating methane plumes: A journey from drone observations to flux estimates |
@@ -160,11 +160,11 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 
 ![](/events/2025-nordic-workshop/lang.jpg)
 
-**Title**: TBA
+**Title**: Learning From Global Earth Observation Data
 
-**Abstract**: TBA
+**Abstract**: The volume of unlabeled Earth observation (EO) data is huge. To interpret this vast amount of data, efficient modelling approaches are needed that can generalize to large geographic areas and are robust to inherent noise. Data-driven approaches promise great potential for interpreting and combining data from different space missions. In this talk, I will present our work on global canopy height mapping with optical satellite images and sparse spaceborne lidar data and discuss a recent project called MMEarth that explored multi-modal pretext tasks for learning representations that are suitable for a range of downstream tasks with limited training data. 
 
-*Nico is a Postdoc at the University of Copenhagen associated with the Pioneer Centre for AI, where he is co-advised by Serge Belongie and Christian Igel. He has received a PhD from ETH Zurich, under the supervision of Konrad Schindler and Jan Dirk Wegner. His research interests are at the intersection of computer vision, machine learning, and remote sensing, currently focusing on open-world recognition, fine-grained categorization, and representation learning with multi-modal data. More information can be found on his website: [langnico.github.io](https://langnico.github.io/)*
+*Nico is an Assistant Professor at the University of Copenhagen associated with the Global Wetland Centre and the Pioneer Centre for AI, where he is co-advised by Serge Belongie and Christian Igel. He has received a PhD from ETH Zurich, under the supervision of Konrad Schindler and Jan Dirk Wegner. His research interests are at the intersection of computer vision and remote sensing, currently focusing on open-world recognition, fine-grained categorization, and representation learning with multi-modal data. More information can be found on his website: https://langnico.github.io/*
 
 [Back to top of page](#top)
 
