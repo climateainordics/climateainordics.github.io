@@ -25,7 +25,7 @@ img {
 | 9:10 | | Olof Mogren | Opening remarks |
 | 9:15 | Keynote | [Oisin Mac Aodha](#oisin) | [AI-Powered Biodiversity Monitoring](#oisin) |
 | 10:00 | Oral | [Edmond Sacre](#edmond) | [Mapping and conservation of aquatic species - potential advances with deep learning](#edmond) |
-| 10:20 | Oral | TBA | TBA |
+| 10:20 | Oral | [Hilda Sandström](#hilda) | [TBA](#hilda) |
 | 10:40 | | Coffee break |  |
 | 11:10 | Oral | [Dan Stowell](#dan) | [Bioacoustic AI for nature: how can it tread lightly?](#dan) |
 | 11:40 | Oral | [John Martinsson](#john) | [Understanding the World Through Sound: Enhancing Biodiversity Monitoring](#john) |
@@ -108,6 +108,19 @@ For speakers, see presentation instructions [here](speaker-instructions.html).
 **Abstract**: In the field of conservation planning, a great deal of effort and research has gone into the spatial modelling (i.e. mapping) of species, habitats, and other ecological processes. These models and data are a crucial component of conservation decision making, such as where to place protected areas and where to focus habitat restoration efforts. However, producing such maps is often challenging where data are limited. This is particularly true in aquatic environments, which are inherently more difficult to sample and remotely observe. To date, species distribution models have typically employed traditional statistical or machine learning techniques. There exists, therefore, great potential to improve these methods using more advance deep learning methods, which could lead to great improvements in map accuracy and, therefore, better conservation decisions. These powerful methods could also be used not only to produce maps of species distributions today, but also to predict where species may occur in the future under different climate scenarios, and where they might have occurred in the past.
 
 *E. Sacre is a researcher at the Swedish University of Agricultural Sciences (SLU) within the Department of Aquatic Resources (SLU Aqua). He obtained his PhD in 2019 at James Cook University, Australia, within the Australian Research Council Centre of Excellence for Coral Studies. At SLU Aqua, Edmond works within the Unit for Conservation and Marine Spatial Planning where he has been employed since 2019. He is involved in a variety of national and international projects focused on species distribution modeling, spatial conservation planning, cumulative impact assessment, and connectivity modeling. These projects include Protect Baltic (EU-Horizon), Western Indian Ocean Symphony (Swedish Agency for Marine and Water Management), and other national mapping projects.*
+
+[Back to top of page](#top)
+
+<a name="hilda"></a>
+**10:00 Oral: Hilda Sandström,** Aalto University
+
+![](/events/2025-nordic-workshop/sandstrom.jpg)
+
+**Title**: TBA
+
+**Abstract**: TBA
+
+*Hilda Sandström is a computational chemist specializing in atmospheric chemistry and astrochemistry. She obtained her graduate degree from Chalmers University of Technology in computational chemistry applied to the (astro-) chemistry of hydrogen cyanide and its polymers. Since two years, she is a postdoctoral researcher at Aalto University and the Virtual laboratory for molecular level atmospheric transformations (VILMA) center of excellence in Espoo, Finland.*
 
 [Back to top of page](#top)
 
