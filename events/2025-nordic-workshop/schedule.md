@@ -71,6 +71,7 @@ img {
 | 23  | [Jaime Caballer Revenga](#jaime) | [Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories](#jaime) |
 | 24  | [Carolyn Rosten](#carolyn) | [TBA](#carolyn) |
 | 25  | [Alan Said](#alan) | [TBA](#alan) |
+| 25  | [Hui Zhang](#hui) | [TBA](#hui) |
 | 26  | [Dan Stowell](#dan) | [Bioacoustic AI for nature: how can it tread lightly?](#dan) |
 | 27  | [Tiffany Vlaar](#tiffany) | [TBA](#tiffany) |
 | 28  | [Anupama Xavier](#anupama) | [Comparative predictability of eastern and western north pacific blocking events](#anupama) |
@@ -440,6 +441,14 @@ phenological changes in remote sensing analysis.
 
 <a name="alan"></a>
 **25. Alan Said**<br />
+**Title**: TBA<br />
+**Abstract**: TBA
+
+
+[Back to top of page](#top)
+
+<a name="hui"></a>
+**25. Hui Zhang**<br />
 **Title**: TBA<br />
 **Abstract**: TBA
 
