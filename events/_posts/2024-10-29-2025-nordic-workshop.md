@@ -89,6 +89,6 @@ The first 65 free seats for the workshop are now sold out, and the fee for regis
 
 A limited number of students can be reimbursed for travel and hotel for the workshop. The deadline for applications have now run out and we have contacted the students who were selected for funding.
 
-**Registration is now closed**
+[Click here to register for this event!](https://forms.gle/vt7gMYwoR8tvGx9T7)
 
-The deadline for registering to this workshop was March 16. For questions, contact the organizers.
+The deadline for registering to this workshop is March 31. For questions, contact the organizers.
