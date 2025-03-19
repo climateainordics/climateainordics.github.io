@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Biodiversity,Soundscape Analysis,Machine Learning">
-<span title="PhD, ResearcherSwedish University of Agricultural Sciences."><strong>Sheila Holmes, PhD, Researcher, Swedish University of Agricultural Sciences</strong></span>
-<br />
-Biodiversity * Soundscape Analysis * Machine Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=b4uuKFAAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-6420-5510)
-</div>
-
 <div class="content" markdown="1" data-tags="Biodiversity,Marine Ecology,Computer Vision,Machine Learning">
 <span title="Post DocDepartment of Environmental Science, Stockholm University."><strong>Hoi Shing Lo, Post Doc, Department of Environmental Science, Stockholm University</strong></span>
 <br />
@@ -412,6 +406,12 @@ Earth Observation * Biodiversity * Machine Learning * Deep Learning * [More info
 <span title="PhD, ResearcherNILU, The climate and environmental research institute."><strong>Mohamed-Bachir Belaid, PhD, Researcher, NILU, The climate and environmental research institute</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=hZ6VUu8AAAAJ) * [ORCID](https://orcid.org/0000-0002-8686-8489)
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Soundscape Analysis,Machine Learning">
+<span title="PhD, ResearcherSwedish University of Agricultural Sciences."><strong>Sheila Holmes, PhD, Researcher, Swedish University of Agricultural Sciences</strong></span>
+<br />
+Biodiversity * Soundscape Analysis * Machine Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=b4uuKFAAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-6420-5510)
 </div>
 
 <div class="content" markdown="1" data-tags="">
