@@ -52,6 +52,8 @@ Klimatkollen is a Swedish open source citizen platform visualizing climate data 
 <img class="logo" src="/images/partners/ellis.png" />
 
 
+The ELLIS Machine Learning for Earth and Climate Sciences Program, part of a pan-European AI network of excellence, is dedicated to modeling and understanding the Earth system through advanced machine learning and process understanding techniques, including spatio-temporal anomaly detection, dynamic forecasting, hybrid physics-ML modeling, causal inference, and data-model fusion. By benchmarking both synthetic and real datasets, the program drives innovative research in Earth and climate sciences while reinforcing Europe’s leadership and sovereignty in modern, human-centered AI.
+
 **[Read more on the ELLIS Machine Learning for Earth and Climate Sciences Program's webpage!](https://ellis.eu/programs/machine-learning-for-earth-and-climate-sciences)**
 
 ## Sponsors
