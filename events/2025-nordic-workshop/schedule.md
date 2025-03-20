@@ -56,7 +56,7 @@ img {
 | 8   | [Filip Dorm](#filip) | [Large language models possess some ecological knowledge, but how much?](#filip) |
 | 9   | [Patrick Eriksson](#patrick) | [Providing space-borne ML-based atmospheric data with case-specific uncertainties](#patrick) |
 | 10  | [Ramon Fuentes Franco](#ramon) | [Pan-European high-resolution downscaling using deep learning](#ramon) |
-| 11  | [Lucia Gordon](#lucia) | [TBA](#lucia) |
+| 11  | [Lucia Gordon](#lucia) | [MMEarth-Bench: Global Environmental Tasks for Multimodal Geospatial Models](#lucia) |
 | 12  | [Leon Green](#leon) | [Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm](#leon) |
 | 13  | [Celine Heuzé](#celine) | [Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest](#celine) |
 | 14  | [Ankit Kariryaa](#ankit) | [TBA](#ankit) |
@@ -311,8 +311,8 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 
 <a name="lucia"></a>
 **11. Lucia Gordon**<br />
-**Title**: <br />
-**Abstract**: TBA
+**Title**: MMEarth-Bench: Global Environmental Tasks for Multimodal Geospatial Models<br />
+**Abstract**: Pretraining deep neural networks in a self-supervised manner on large datasets can produce models that generalize to a variety of downstream tasks. This is especially beneficial for environmental monitoring tasks where reference data is often limited, preventing the application of supervised learning. Models that can interpret multimodal data to resolve ambiguities of single-modality inputs may have improved prediction capabilities on remote sensing tasks.Our work fills an important gap in existing benchmark datasets for geospatial models. First, our benchmark focuses on the natural world, whereas many existing datasets focus on the built-up world. Second, existing datasets tend to be local or cover relatively small geographic regions in the global North. However, evaluating and distinguishing performance among pretrained models that aim to contribute to planet-scale environmental monitoring requires downstream tasks that are distributed around the globe. Third, existing datasets include only a few modalities as input (e.g., RGB, Sentinel-1 (S1) SAR, and Sentinel-2 (S2) optical images), even though many additional data modalities are relevant to environmental prediction tasks.We present MMEarth-Bench, a collection of datasets for various global-scale environmental monitoring tasks. MMEarth-Bench consists of five downstream tasks of high relevance to climate change mitigation and biodiversity conservation: aboveground biomass, species occurrence, soil nitrogen, soil organic carbon, and soil pH. Each downstream task dataset is aligned with the twelve modalities comprising the MMEarth dataset, designed for global multimodal pretraining, including S2 optical images, S1 SAR, elevation, canopy height, landcover, climate variables, location, and time. We use MMEarth-Bench to evaluate pretrained models, often called “foundation models,” that make use of multiple modalities during inference, as opposed to utilizing just a single modality such as optical images. We demonstrate the importance of making use of many modalities at test time in environmental monitoring tasks and also evaluate the geographic generalization capabilities of existing models.
 
 
 [Back to top of page](#top)
