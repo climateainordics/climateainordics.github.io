@@ -48,6 +48,12 @@ Klimatkollen is a Swedish open source citizen platform visualizing climate data 
 
 **[Read more on the Klimatkollen's webpage!](https://www.klimatkollen.se/in-english)**
 
+
+<img class="logo" src="/images/partners/ellis.png" />
+
+
+**[Read more on the ELLIS Machine Learning for Earth and Climate Sciences Program's webpage!](https://ellis.eu/programs/machine-learning-for-earth-and-climate-sciences)**
+
 ## Sponsors
 
 <img class="logo" src="/images/partners/rise.svg" />
