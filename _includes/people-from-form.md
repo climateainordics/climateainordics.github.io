@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Urban Planning,Sustainable Cities,Efficient or Sustainable AI,NLP,Machine Learning,Visualization,Visual Analytics">
-<span title="Associate ProfessorLinköping University."><strong>Katerina Vrotsou, Associate Professor, Linköping University</strong></span>
-<br />
-Urban Planning * Sustainable Cities * Efficient or Sustainable AI * NLP * Machine Learning * Visualization * Visual Analytics * [Publications (Scholar)](https://scholar.google.com/citations?user=DrLZ3O4AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4761-8601)
-</div>
-
 <div class="content" markdown="1" data-tags="">
 <span title="PhD StudentUniversity of Copenhagen."><strong>Hui Zhang, PhD Student, University of Copenhagen</strong></span>
 <br />
@@ -166,6 +160,12 @@ Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Machine L
 <span title="I am a researcher and social entrepreneur at the interface between global sustainability, technology, policy and economics.  Research DirectorCopernicus Centre for Sustainable Development / Utrecht University / Exponential Roadmap Initiative."><strong>Owen Gaffney, Research Director, Copernicus Centre for Sustainable Development / Utrecht University / Exponential Roadmap Initiative</strong></span>
 <br />
 Earth Observation * Sustainable Cities * Efficient or Sustainable AI * NLP * Deep Learning * [Publications (Scholar)](https://scholar.google.com/) * [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-6244-991X)
+</div>
+
+<div class="content" markdown="1" data-tags="Urban Planning,Sustainable Cities,Efficient or Sustainable AI,NLP,Machine Learning,Visualization,Visual Analytics">
+<span title="Associate ProfessorLinköping University."><strong>Katerina Vrotsou, Associate Professor, Linköping University</strong></span>
+<br />
+Urban Planning * Sustainable Cities * Efficient or Sustainable AI * NLP * Machine Learning * Visualization * Visual Analytics * [Publications (Scholar)](https://scholar.google.com/citations?user=DrLZ3O4AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4761-8601)
 </div>
 
 <div class="content" markdown="1" data-tags="">
