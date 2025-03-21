@@ -834,3 +834,9 @@ Climate Modeling * Biodiversity * Urban Planning * Sustainable Production * Mari
 <br />
 Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning
 </div>
+
+<div class="content" markdown="1" data-tags="Sustainable Cities,Sustainable Energy">
+<span title="Industryrebase.energy."><strong>Sebastian Haglund, Industry, rebase.energy</strong></span>
+<br />
+Sustainable Cities * Sustainable Energy
+</div>

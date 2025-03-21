@@ -33,7 +33,8 @@
 <option value="Remote Sensing">Remote Sensing (1)</option>
 <option value="Soundscape Analysis">Soundscape Analysis (16)</option>
 <option value="Spatial Analysis">Spatial Analysis (1)</option>
-<option value="Sustainable Cities">Sustainable Cities (22)</option>
+<option value="Sustainable Cities">Sustainable Cities (23)</option>
+<option value="Sustainable Energy">Sustainable Energy (1)</option>
 <option value="Sustainable Heating">Sustainable Heating (1)</option>
 <option value="Sustainable Production">Sustainable Production (15)</option>
 <option value="Sustainable Space Exploration and Research">Sustainable Space Exploration and Research (1)</option>
