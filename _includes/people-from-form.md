@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Biodiversity,Marine Ecology,Computer Vision,Machine Learning">
-<span title="Post DocDepartment of Environmental Science, Stockholm University."><strong>Hoi Shing Lo, Post Doc, Department of Environmental Science, Stockholm University</strong></span>
-<br />
-Biodiversity * Marine Ecology * Computer Vision * Machine Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=QmxKUXUAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-9613-0218)
-</div>
-
 <div class="content" markdown="1" data-tags="Urban Planning,Sustainable Cities,Efficient or Sustainable AI,NLP,Machine Learning,Visualization,Visual Analytics">
 <span title="Associate ProfessorLinköping University."><strong>Katerina Vrotsou, Associate Professor, Linköping University</strong></span>
 <br />
@@ -412,6 +406,12 @@ Earth Observation * Biodiversity * Machine Learning * Deep Learning * [More info
 <span title="PhD, ResearcherSwedish University of Agricultural Sciences."><strong>Sheila Holmes, PhD, Researcher, Swedish University of Agricultural Sciences</strong></span>
 <br />
 Biodiversity * Soundscape Analysis * Machine Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=b4uuKFAAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-6420-5510)
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Marine Ecology,Computer Vision,Machine Learning">
+<span title="Post DocDepartment of Environmental Science, Stockholm University."><strong>Hoi Shing Lo, Post Doc, Department of Environmental Science, Stockholm University</strong></span>
+<br />
+Biodiversity * Marine Ecology * Computer Vision * Machine Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=QmxKUXUAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-9613-0218)
 </div>
 
 <div class="content" markdown="1" data-tags="">
