@@ -23,6 +23,12 @@ Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep
 Climate Modeling * Machine Learning * Use of Weather and Climate Data Outside of Academia * [More info (researcher profile)](https://sites.google.com/view/etiennedunnsigouin/)
 </div>
 
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Marine Ecology,Machine Learning,Stochastic Modelling and Distributions">
+<span title="Research and development engineer at RISE working with Earth Observation and geospatial data in different areas of application.  ResearcherRISE."><strong>Jesper Dejby, Researcher, RISE</strong></span>
+<br />
+Earth Observation * Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Marine Ecology * Machine Learning * Stochastic Modelling and Distributions * [ORCID](https://orcid.org/0009-0003-4402-6747)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
