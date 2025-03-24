@@ -1,17 +1,5 @@
 ## Affiliates - Recently Joined
 <div class="content" markdown="1" data-tags="">
-<span title="PhD StudentUniversity of Copenhagen."><strong>Hui Zhang, PhD Student, University of Copenhagen</strong></span>
-<br />
-
-</div>
-
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Computer Vision,Machine Learning,Deep Learning">
-<span title="PhD StudentUniversity of Copenhagen."><strong>Hui Zhang, PhD Student, University of Copenhagen</strong></span>
-<br />
-Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep Learning
-</div>
-
-<div class="content" markdown="1" data-tags="">
 <span title="Machine Learning Section, Department of Computer Science, University of Copenhagen; and Pioneer Center for AI. ResearcherUniversity of Copenhagen / Pioneer Center for AI."><strong>Mikolaj Mazurczyk, Researcher, University of Copenhagen / Pioneer Center for AI</strong></span>
 <br />
 
@@ -658,6 +646,18 @@ Earth Observation * Climate Modeling * Urban Planning * Sustainable Cities * Eff
 <span title="PhD StudentNorwegian Computing Center."><strong>Silius Vandeskog, PhD Student, Norwegian Computing Center</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.no/citations?user=-dQ-jsgAAAAJ&amp;hl=no) * [ORCID](https://orcid.org/0000-0001-5996-4988)
+</div>
+
+<div class="content" markdown="1" data-tags="">
+<span title="PhD StudentUniversity of Copenhagen."><strong>Hui Zhang, PhD Student, University of Copenhagen</strong></span>
+<br />
+
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Computer Vision,Machine Learning,Deep Learning">
+<span title="PhD StudentUniversity of Copenhagen."><strong>Hui Zhang, PhD Student, University of Copenhagen</strong></span>
+<br />
+Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep Learning
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
