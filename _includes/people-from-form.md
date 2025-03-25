@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="">
-<span title="Machine Learning Section, Department of Computer Science, University of Copenhagen; and Pioneer Center for AI. ResearcherUniversity of Copenhagen / Pioneer Center for AI."><strong>Mikolaj Mazurczyk, Researcher, University of Copenhagen / Pioneer Center for AI</strong></span>
-<br />
-
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Modeling,Machine Learning,Use of Weather and Climate Data Outside of Academia">
 <span title="PhD, ResearcherNORCE Norwegian Research Centre."><strong>Etienne Dunn-Sigouin, PhD, Researcher, NORCE Norwegian Research Centre</strong></span>
 <br />
@@ -658,6 +652,12 @@ Earth Observation * Climate Modeling * Urban Planning * Sustainable Cities * Eff
 <span title="PhD StudentUniversity of Copenhagen."><strong>Hui Zhang, PhD Student, University of Copenhagen</strong></span>
 <br />
 Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep Learning
+</div>
+
+<div class="content" markdown="1" data-tags="">
+<span title="Machine Learning Section, Department of Computer Science, University of Copenhagen; and Pioneer Center for AI. ResearcherUniversity of Copenhagen / Pioneer Center for AI."><strong>Mikolaj Mazurczyk, Researcher, University of Copenhagen / Pioneer Center for AI</strong></span>
+<br />
+
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
