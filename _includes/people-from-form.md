@@ -648,12 +648,6 @@ Earth Observation * Climate Modeling * Urban Planning * Sustainable Cities * Eff
 [Publications (Scholar)](https://scholar.google.no/citations?user=-dQ-jsgAAAAJ&amp;hl=no) * [ORCID](https://orcid.org/0000-0001-5996-4988)
 </div>
 
-<div class="content" markdown="1" data-tags="">
-<span title="PhD StudentUniversity of Copenhagen."><strong>Hui Zhang, PhD Student, University of Copenhagen</strong></span>
-<br />
-
-</div>
-
 <div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Computer Vision,Machine Learning,Deep Learning">
 <span title="PhD StudentUniversity of Copenhagen."><strong>Hui Zhang, PhD Student, University of Copenhagen</strong></span>
 <br />
