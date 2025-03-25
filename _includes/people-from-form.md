@@ -6,13 +6,19 @@
 </div>
 
 <div class="content" markdown="1" data-tags="Climate Modeling,Machine Learning,Use of Weather and Climate Data Outside of Academia">
-<span title="PhD, ResearcherNORCE Norwegian Research Centre AS."><strong>Etienne Dunn-Sigouin, PhD, Researcher, NORCE Norwegian Research Centre AS</strong></span>
+<span title="PhD, ResearcherNORCE Norwegian Research Centre."><strong>Etienne Dunn-Sigouin, PhD, Researcher, NORCE Norwegian Research Centre</strong></span>
 <br />
 Climate Modeling * Machine Learning * Use of Weather and Climate Data Outside of Academia * [More info (researcher profile)](https://sites.google.com/view/etiennedunnsigouin/)
 </div>
 
+<div class="content" markdown="1" data-tags="Sustainable Cities,Sustainable Energy">
+<span title="Industryrebase.energy."><strong>Sebastian Haglund, Industry, rebase.energy</strong></span>
+<br />
+Sustainable Cities * Sustainable Energy
+</div>
+
 <div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Marine Ecology,Machine Learning,Stochastic Modelling and Distributions">
-<span title="Research and development engineer at RISE working with Earth Observation and geospatial data in different areas of application.  ResearcherRISE."><strong>Jesper Dejby, Researcher, RISE</strong></span>
+<span title="Research and development engineer at RISE working with Earth Observation and geospatial data in different areas of application.  ResearcherRISE Research Institutes of Sweden."><strong>Jesper Dejby, Researcher, RISE Research Institutes of Sweden</strong></span>
 <br />
 Earth Observation * Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Marine Ecology * Machine Learning * Stochastic Modelling and Distributions * [ORCID](https://orcid.org/0009-0003-4402-6747)
 </div>
@@ -247,7 +253,7 @@ Machine Learning * Deep Learning * [ORCID](https://orcid.org/0000-0001-6529-1142
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,NLP,Machine Learning,Deep Learning">
-<span title="Interested in assessing resilience of social and ecological systems. PhD, ResearcherStockholm Resilience Centre, Stockholm University."><strong>Juan Rocha, PhD, Researcher, Stockholm Resilience Centre, Stockholm University</strong></span>
+<span title="Interested in assessing resilience of social and ecological systems. PhD, ResearcherStockholm Resilience Centre / Stockholm University."><strong>Juan Rocha, PhD, Researcher, Stockholm Resilience Centre / Stockholm University</strong></span>
 <br />
 Earth Observation * Biodiversity * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.juanrocha.se) * [Publications (Scholar)](https://scholar.google.com/citations?user=IHiMTFYAAAAJ) * [ORCID](https://orcid.org/0000-0003-2322-5459)
 </div>
@@ -325,7 +331,7 @@ Earth Observation * Biodiversity * Sustainable Production * Computer Vision * Ma
 </div>
 
 <div class="content" markdown="1" data-tags="Sustainable Cities,Sustainable Production">
-<span title="Studying individual and societal adaptation to ICT (including AI). PhD, ResearcherInternational Institute for Industrial Environmental Economics,Lund University."><strong>Matthias Lehner, PhD, Researcher, International Institute for Industrial Environmental Economics,Lund University</strong></span>
+<span title="Studying individual and societal adaptation to ICT (including AI) at International Institute for Industrial Environmental Economics, Lund University. PhD, ResearcherLund University."><strong>Matthias Lehner, PhD, Researcher, Lund University</strong></span>
 <br />
 Sustainable Cities * Sustainable Production * [More info (researcher profile)](https://www.iiiee.lu.se/matthias-lehner) * [Publications (Scholar)](https://scholar.google.com/citations?user=eNYb2FsAAAAJ) * [ORCID](https://orcid.org/0000-0003-1571-7453)
 </div>
@@ -343,7 +349,7 @@ Biodiversity * Computer Vision * Machine Learning * Deep Learning * [Research gr
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,NLP,Computer Vision,Machine Learning,Deep Learning">
-<span title="My expertise lies in the field of machine learning; I&#x27;m dealing with Point Cloud segmentation models. My primary focus is to address the challenges posed by sparse sections of point clouds, especially those that are crucial for forestry applications, like the sections near the base of tree trunks. While data from drones and airplanes is readily accessible, ensuring high semantic accuracy during processing can be quite intricate. Therefore, new methods in point cloud instance and semantic segmentation are needed. PhD, ResearcherNIBIO."><strong>Maciej Wielgosz, PhD, Researcher, NIBIO</strong></span>
+<span title="My expertise lies in the field of machine learning; I&#x27;m dealing with Point Cloud segmentation models. My primary focus is to address the challenges posed by sparse sections of point clouds, especially those that are crucial for forestry applications, like the sections near the base of tree trunks. While data from drones and airplanes is readily accessible, ensuring high semantic accuracy during processing can be quite intricate. Therefore, new methods in point cloud instance and semantic segmentation are needed. PhD, ResearcherNorwegian Institute of Bioeconomy Research (NIBIO)."><strong>Maciej Wielgosz, PhD, Researcher, Norwegian Institute of Bioeconomy Research (NIBIO)</strong></span>
 <br />
 Earth Observation * NLP * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://maciej.wielgosz.info/) * [Publications (Scholar)](https://scholar.google.co.uk/citations?user=j563WT8AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-4401-2957)
 </div>
@@ -409,7 +415,7 @@ Biodiversity * Soundscape Analysis * Machine Learning * [Publications (Scholar)]
 </div>
 
 <div class="content" markdown="1" data-tags="Biodiversity,Marine Ecology,Computer Vision,Machine Learning">
-<span title="Post DocDepartment of Environmental Science, Stockholm University."><strong>Hoi Shing Lo, Post Doc, Department of Environmental Science, Stockholm University</strong></span>
+<span title="Department of Environmental Science, Stockholm University. Post DocStockholm University."><strong>Hoi Shing Lo, Post Doc, Stockholm University</strong></span>
 <br />
 Biodiversity * Marine Ecology * Computer Vision * Machine Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=QmxKUXUAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-9613-0218)
 </div>
@@ -613,7 +619,7 @@ Climate Modeling * Computer Vision * Machine Learning * [More info (researcher p
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Sustainable Production,Marine Ecology,Efficient or Sustainable AI,NLP,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
-<span title="I am a civil engineering student in AI and machine learning at Blekinge Institute of Technology, who wants to dedicate his life and career to solving environmental issues. StudentBlekinge Institute of Technology (Blekinge Tekniska Högskola)."><strong>Gustav Karlberg, Student, Blekinge Institute of Technology (Blekinge Tekniska Högskola)</strong></span>
+<span title="I am a civil engineering student in AI and machine learning at Blekinge Institute of Technology, who wants to dedicate his life and career to solving environmental issues. StudentBlekinge Institute of Technology."><strong>Gustav Karlberg, Student, Blekinge Institute of Technology</strong></span>
 <br />
 Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Sustainable Production * Marine Ecology * Efficient or Sustainable AI * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning
 </div>
@@ -839,10 +845,4 @@ Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Ma
 <span title="PhD, ResearcherHelmholtz-Zentrum Hereon (GERICS)."><strong>Farhan Saleem, PhD, Researcher, Helmholtz-Zentrum Hereon (GERICS)</strong></span>
 <br />
 
-</div>
-
-<div class="content" markdown="1" data-tags="Sustainable Cities,Sustainable Energy">
-<span title="Industryrebase.energy."><strong>Sebastian Haglund, Industry, rebase.energy</strong></span>
-<br />
-Sustainable Cities * Sustainable Energy
 </div>
