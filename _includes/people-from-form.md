@@ -846,3 +846,9 @@ Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Ma
 <br />
 
 </div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Urban Planning,Sustainable Cities,Sustainable Production,Marine Ecology,Efficient or Sustainable AI,NLP,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
+<span title="Senior Scientist. PhD, ResearcherRISE Research Institutes of Sweden."><strong>Cheryl Marie Cordeiro, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
+<br />
+Earth Observation * Biodiversity * Urban Planning * Sustainable Cities * Sustainable Production * Marine Ecology * Efficient or Sustainable AI * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning * [More info (researcher profile)](https://cheryl-marie-cordeiro.com/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=CepVwXsAAAAJ) * [ORCID](https://orcid.org/0000-0001-6713-5100)
+</div>
