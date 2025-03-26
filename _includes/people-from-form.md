@@ -17,6 +17,12 @@ Sustainable Cities * Sustainable Energy
 Earth Observation * Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Marine Ecology * Machine Learning * Stochastic Modelling and Distributions * [ORCID](https://orcid.org/0009-0003-4402-6747)
 </div>
 
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Urban Planning,Sustainable Cities,Sustainable Production,Marine Ecology,Efficient or Sustainable AI,NLP,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
+<span title="Senior Scientist. PhD, ResearcherRISE Research Institutes of Sweden."><strong>Cheryl Marie Cordeiro, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
+<br />
+Earth Observation * Biodiversity * Urban Planning * Sustainable Cities * Sustainable Production * Marine Ecology * Efficient or Sustainable AI * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning * [More info (researcher profile)](https://cheryl-marie-cordeiro.com/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=CepVwXsAAAAJ) * [ORCID](https://orcid.org/0000-0001-6713-5100)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -845,10 +851,4 @@ Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Ma
 <span title="PhD, ResearcherHelmholtz-Zentrum Hereon (GERICS)."><strong>Farhan Saleem, PhD, Researcher, Helmholtz-Zentrum Hereon (GERICS)</strong></span>
 <br />
 
-</div>
-
-<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Urban Planning,Sustainable Cities,Sustainable Production,Marine Ecology,Efficient or Sustainable AI,NLP,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
-<span title="Senior Scientist. PhD, ResearcherRISE Research Institutes of Sweden."><strong>Cheryl Marie Cordeiro, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
-<br />
-Earth Observation * Biodiversity * Urban Planning * Sustainable Cities * Sustainable Production * Marine Ecology * Efficient or Sustainable AI * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning * [More info (researcher profile)](https://cheryl-marie-cordeiro.com/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=CepVwXsAAAAJ) * [ORCID](https://orcid.org/0000-0001-6713-5100)
 </div>
