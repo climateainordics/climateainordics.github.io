@@ -23,6 +23,12 @@ Earth Observation * Biodiversity * Urban Planning * Sustainable Transport * Sust
 Earth Observation * Biodiversity * Urban Planning * Sustainable Cities * Sustainable Production * Marine Ecology * Efficient or Sustainable AI * NLP * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning * [More info (researcher profile)](https://cheryl-marie-cordeiro.com/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=CepVwXsAAAAJ) * [ORCID](https://orcid.org/0000-0001-6713-5100)
 </div>
 
+<div class="content" markdown="1" data-tags="Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
+<span title="My research lies at the intersection of sustainability and AI. I focus both on leveraging AI to tackle complex sustainability challenges through interdisciplinary collaborations and on examining AI’s own sustainability – analyzing its environmental footprint, resource demands, and long-term implications for responsible development. Assistant ProfessorUniversity of Copenhagen."><strong>Raghavendra Selvan, Assistant Professor, University of Copenhagen</strong></span>
+<br />
+Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://raghavian.github.io/) * [Research group](https://raghavian.github.io/people/) * [Publications (Scholar)](https://scholar.google.com/citations?user=R9VBQ54AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4302-0207)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -851,10 +857,4 @@ Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Ma
 <span title="PhD, ResearcherHelmholtz-Zentrum Hereon (GERICS)."><strong>Farhan Saleem, PhD, Researcher, Helmholtz-Zentrum Hereon (GERICS)</strong></span>
 <br />
 
-</div>
-
-<div class="content" markdown="1" data-tags="Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
-<span title="My research lies at the intersection of sustainability and AI. I focus both on leveraging AI to tackle complex sustainability challenges through interdisciplinary collaborations and on examining AI’s own sustainability – analyzing its environmental footprint, resource demands, and long-term implications for responsible development. Assistant ProfessorUniversity of Copenhagen."><strong>Raghavendra Selvan, Assistant Professor, University of Copenhagen</strong></span>
-<br />
-Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://raghavian.github.io/) * [Research group](https://raghavian.github.io/people/) * [Publications (Scholar)](https://scholar.google.com/citations?user=R9VBQ54AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4302-0207)
 </div>
