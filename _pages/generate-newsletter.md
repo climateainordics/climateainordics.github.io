@@ -46,7 +46,11 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% endif %}
 
 {% if p.event_date %}*{{ p.event_date }}*{% else %}*{{ p.date | date: '%Y-%m-%d' }}*{% endif %} {{ p.shortversion }}<br />
+{% if p.youtube != '' %}
+**[(View video)](https://climateainordics.com{{ p.url }})**
+{% else %}
 **[(Read more)](https://climateainordics.com{{ p.url }})**
+{% endif %}
 {% endif %}
 {% endfor %}
 
@@ -77,7 +81,11 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% endif %}
 
 {{printdate}} {{ p.shortversion }}<br />
+{% if p.youtube != '' %}
+**[(View video)](https://climateainordics.com{{ p.url }})**
+{% else %}
 **[(Read more)](https://climateainordics.com{{ p.url }})**
+{% endif %}
 {% endunless %}
 {% endfor %}
 
