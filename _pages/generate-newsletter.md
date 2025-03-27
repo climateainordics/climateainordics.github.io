@@ -11,8 +11,6 @@ body{font-family: arial, sans-serif;} img{ float: right; width: 8em; margin: 0.4
 
 Welcome to the *Climate AI Nordics* Newsletter {{ "now" | date: "%B %Y" }}.
 
-**Email us at [contact@climateainordics.com](mailto:contact@climateainordics.com) to contribute your own relevant news! We will include news on our web page, [climateainordics.com](https://climateainordics.com), and in our newsletter. Some announcements will also be communicated in social media. Take the chance of showcasing your work or your events to the community!**
-
 Since the launch in October, the network has grown to 
 {% include people_from_form_count_number_only_nordics.md %}
 people spread over the Nordic countries
@@ -169,16 +167,16 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 # Spread the word!
 
-Climate AI Nordics is present on [LinkedIn](https://www.linkedin.com/company/climate-ai-nordics/) and [BlueSky](https://bsky.app/profile/climateainordics.com). Follow us and repost our stories so that we get the most impact! Also make sure to share your work with us, by sending us an email ([contact@climateainordics.com](mailto:contact@climateainordics.com)) or some other channel, and we'll add it to the news feed!
+Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/climate-ai-nordics/) and [BlueSky](https://bsky.app/profile/climateainordics.com). Climate AI Nordics will have the most impact if you repost and like our stories! Also make sure to share your work with us, by sending us an email ([contact@climateainordics.com](mailto:contact@climateainordics.com)), posting in our Slack or some other channel, and we'll add it to the news feed! Take the chance of showcasing your work or your events to the community!**
 
-*Climate AI Nordics is a [network of researchers](/people/) dedicated to developing and utilizing AI technologies to address the urgent global challenge of climate change. Our researchers focus on creating and promoting AI solutions that support both climate change mitigation, reducing the severity of climate change, and adaptation, adjusting to the effects of climate change. We are already in a climate emergency which is causing biodiversity loss, extreme weather events, and human suffering, and this necessitates a multifaceted approach involving both policy change, limitations on activities contributing to climate change, and bolstering societal resilience against climate-related events.*
+**[Climate AI Nordics](https://climateainordics.com/)** is a network of [researchers](https://climateainordics.com//people/) working to harness AI in tackling the climate crisis through both mitigation and adaptation.
 
-*Climate AI Nordics promotes the development of AI-based analytical tools and optimization techniques that can inform decision-making processes crucial for ensuring a sustainable future for generations to come. In particular, we recognize that technology, particularly AI-based solutions, can play a role in supporting efforts such as rewilding, rewetting, and reducing emissions and the reliance on fossil fuels.*
+We promote AI-based tools and optimization methods that support sustainable decision-making—helping reduce emissions, restore ecosystems, and build climate resilience.
 
-*By bringing together researchers in the Nordic countries, Climate AI Nordics aims to:*
+Our goals:
 
-* *Foster collaboration and knowledge exchange through seminars and workshops.*
-* *Help develop AI-driven solutions that contribute to the creation of climate-friendly products and services, optimize processes for efficiency and sustainability, and promote justice in addressing the impacts of climate change.*
+- *Connect Nordic researchers through seminars and workshops*
+- *Develop AI-driven solutions for sustainability, climate justice, and green innovation*
 
-*We hope that the collaborative nature of Climate AI Nordics will accelerate progress in this critical field, enabling the sharing of expertise and resources to develop impactful AI solutions for climate change mitigation and adaptation.*
+Together, we aim to accelerate progress by sharing knowledge, tools, and expertise for impactful climate action.
 
