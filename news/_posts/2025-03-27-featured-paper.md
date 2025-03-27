@@ -8,6 +8,7 @@ people:
 image: /images/posts/2025-03-27-featured-paper.png
 image_alt: "Figure 1: The Deep Learning model life cycle. (Wright et al., 2024\)"
 ---
+
 Authors: **Dustin Wright, Christian Igel, Gabrielle Samuel and Raghavendra Selvan<br />
 University of Copenhagen and King’s College London**
 
