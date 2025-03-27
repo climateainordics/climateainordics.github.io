@@ -858,3 +858,15 @@ Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Ma
 <br />
 
 </div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Urban Planning,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
+<span title="Industry."><strong>Sonja Sandström, Industry</strong></span>
+<br />
+Earth Observation * Climate Modeling * Urban Planning * Sustainable Transport * Sustainable Cities * Efficient or Sustainable AI * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Sustainable Transport,Sustainable Cities,Computer Vision,Machine Learning,Deep Learning">
+<span title="ML │ DL enthusiast &amp; passionate skier. Remote Sensing ConsultantNorconsult Sverige AB."><strong>Svetlana Serikova, Remote Sensing Consultant, Norconsult Sverige AB</strong></span>
+<br />
+Earth Observation * Climate Modeling * Sustainable Transport * Sustainable Cities * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://github.com/kardemummabulle) * [ORCID](https://orcid.org/0000-0002-2319-8190)
+</div>
