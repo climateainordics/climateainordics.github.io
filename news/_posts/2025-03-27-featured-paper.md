@@ -6,7 +6,7 @@ socialmedia: "This perspective paper discusses several reasons why it is crucial
 people:
 - Nico Lang
 image: /images/posts/2025-03-27-featured-paper.png
-imagealt: "Figure 1: The Deep Learning model life cycle. (Wright et al., 2024\)"
+imagealt: "Figure 1: The Deep Learning model life cycle. (Wright et al., 2024)"
 ---
 
 Authors: **Dustin Wright, Christian Igel, Gabrielle Samuel and Raghavendra Selvan<br />
