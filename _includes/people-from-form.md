@@ -852,3 +852,9 @@ Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Ma
 <br />
 
 </div>
+
+<div class="content" markdown="1" data-tags="Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
+<span title="My research lies at the intersection of sustainability and AI. I focus both on leveraging AI to tackle complex sustainability challenges through interdisciplinary collaborations and on examining AI’s own sustainability – analyzing its environmental footprint, resource demands, and long-term implications for responsible development. Assistant ProfessorUniversity of Copenhagen."><strong>Raghavendra Selvan, Assistant Professor, University of Copenhagen</strong></span>
+<br />
+Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://raghavian.github.io/) * [Research group](https://raghavian.github.io/people/) * [Publications (Scholar)](https://scholar.google.com/citations?user=R9VBQ54AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4302-0207)
+</div>
