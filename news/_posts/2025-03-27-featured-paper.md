@@ -6,7 +6,7 @@ socialmedia: "This perspective paper discusses several reasons why it is crucial
 people:
 - Nico Lang
 image: /images/posts/2025-03-27-featured-paper.png
-image_alt: "Figure 1: The Deep Learning model life cycle. (Wright et al., 2024\)"
+imagealt: "Figure 1: The Deep Learning model life cycle. (Wright et al., 2024\)"
 ---
 
 Authors: **Dustin Wright, Christian Igel, Gabrielle Samuel and Raghavendra Selvan<br />
@@ -34,4 +34,4 @@ The hardware platforms that power ML systems have broad environmental impacts, c
 **Beyond efficiency: Systems thinking**
 As AI tools are becoming more and more prominent in our daily lives, we need to develop ML systems that take into account environmental, economical, and social aspects of sustainability. Therefore, we need to carefully reconsider the system boundaries to provide holistic assessments that allow us to make progress towards the sustainable development goals. As a way forward, the authors propose to use *systems thinking* as conceptual framework to deal with the complexity of ML.
 
-*“A key feature of systems thinking is the insight that complex systems are more than the sum of their parts. This is revealed through the systems lens, which looks at the behavior of the entire system as a whole, relating the components of the system to each other through causal feedback loops.” (Wright et al., 2025\)*
+*"A key feature of systems thinking is the insight that complex systems are more than the sum of their parts. This is revealed through the systems lens, which looks at the behavior of the entire system as a whole, relating the components of the system to each other through causal feedback loops." (Wright et al., 2025\)*
