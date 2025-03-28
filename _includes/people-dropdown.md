@@ -22,7 +22,7 @@
 <option value="HPC">HPC (1)</option>
 <option value="Impact on Climate Change on Health">Impact on Climate Change on Health (1)</option>
 <option value="Knowledge Graphs">Knowledge Graphs (1)</option>
-<option value="Machine Learning">Machine Learning (79)</option>
+<option value="Machine Learning">Machine Learning (80)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (15)</option>
 <option value="Materials">Materials (1)</option>
@@ -37,7 +37,7 @@
 <option value="Sustainable Cities">Sustainable Cities (27)</option>
 <option value="Sustainable Energy">Sustainable Energy (1)</option>
 <option value="Sustainable Heating">Sustainable Heating (1)</option>
-<option value="Sustainable Production">Sustainable Production (16)</option>
+<option value="Sustainable Production">Sustainable Production (17)</option>
 <option value="Sustainable Space Exploration and Research">Sustainable Space Exploration and Research (1)</option>
 <option value="Sustainable Transport">Sustainable Transport (14)</option>
 <option value="Urban Planning">Urban Planning (19)</option>

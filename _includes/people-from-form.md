@@ -876,3 +876,9 @@ Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Ma
 <br />
 
 </div>
+
+<div class="content" markdown="1" data-tags="Sustainable Production,Machine Learning">
+<span title="Post DocAalto University."><strong>Armi Tiihonen, Post Doc, Aalto University</strong></span>
+<br />
+Sustainable Production * Machine Learning * [Publications (Scholar)](https://scholar.google.fi/citations?user=0pLOTKcAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9753-6802)
+</div>
