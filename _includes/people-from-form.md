@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Sustainable Cities,Sustainable Energy">
-<span title="Industryrebase.energy."><strong>Sebastian Haglund, Industry, rebase.energy</strong></span>
-<br />
-Sustainable Cities * Sustainable Energy
-</div>
-
 <div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Marine Ecology,Machine Learning,Stochastic Modelling and Distributions">
 <span title="Research and development engineer at RISE working with Earth Observation and geospatial data in different areas of application.  ResearcherRISE Research Institutes of Sweden."><strong>Jesper Dejby, Researcher, RISE Research Institutes of Sweden</strong></span>
 <br />
@@ -694,6 +688,12 @@ Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep
 <span title="Machine Learning Section, Department of Computer Science, University of Copenhagen; and Pioneer Center for AI. ResearcherUniversity of Copenhagen / Pioneer Center for AI."><strong>Mikolaj Mazurczyk, Researcher, University of Copenhagen / Pioneer Center for AI</strong></span>
 <br />
 
+</div>
+
+<div class="content" markdown="1" data-tags="Sustainable Cities,Sustainable Energy">
+<span title="Industryrebase.energy."><strong>Sebastian Haglund, Industry, rebase.energy</strong></span>
+<br />
+Sustainable Cities * Sustainable Energy
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
