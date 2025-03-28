@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Climate Modeling,Machine Learning,Use of Weather and Climate Data Outside of Academia">
-<span title="PhD, ResearcherNORCE Norwegian Research Centre."><strong>Etienne Dunn-Sigouin, PhD, Researcher, NORCE Norwegian Research Centre</strong></span>
-<br />
-Climate Modeling * Machine Learning * Use of Weather and Climate Data Outside of Academia * [More info (researcher profile)](https://sites.google.com/view/etiennedunnsigouin/)
-</div>
-
 <div class="content" markdown="1" data-tags="Sustainable Cities,Sustainable Energy">
 <span title="Industryrebase.energy."><strong>Sebastian Haglund, Industry, rebase.energy</strong></span>
 <br />
@@ -442,6 +436,12 @@ Biodiversity * Soundscape Analysis * Machine Learning * [Publications (Scholar)]
 <span title="Department of Environmental Science, Stockholm University. Post DocStockholm University."><strong>Hoi Shing Lo, Post Doc, Stockholm University</strong></span>
 <br />
 Biodiversity * Marine Ecology * Computer Vision * Machine Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=QmxKUXUAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-9613-0218)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Machine Learning,Use of Weather and Climate Data Outside of Academia">
+<span title="PhD, ResearcherNORCE Norwegian Research Centre."><strong>Etienne Dunn-Sigouin, PhD, Researcher, NORCE Norwegian Research Centre</strong></span>
+<br />
+Climate Modeling * Machine Learning * Use of Weather and Climate Data Outside of Academia * [More info (researcher profile)](https://sites.google.com/view/etiennedunnsigouin/)
 </div>
 
 <div class="content" markdown="1" data-tags="">
