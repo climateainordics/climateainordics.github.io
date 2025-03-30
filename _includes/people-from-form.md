@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Marine Ecology,Machine Learning,Stochastic Modelling and Distributions">
-<span title="Research and development engineer at RISE working with Earth Observation and geospatial data in different areas of application.  ResearcherRISE Research Institutes of Sweden."><strong>Jesper Dejby, Researcher, RISE Research Institutes of Sweden</strong></span>
-<br />
-Earth Observation * Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Marine Ecology * Machine Learning * Stochastic Modelling and Distributions * [ORCID](https://orcid.org/0009-0003-4402-6747)
-</div>
-
 <div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Urban Planning,Sustainable Cities,Sustainable Production,Marine Ecology,Efficient or Sustainable AI,NLP,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
 <span title="Senior Scientist. PhD, ResearcherRISE Research Institutes of Sweden."><strong>Cheryl Marie Cordeiro, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
 <br />
@@ -694,6 +688,12 @@ Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep
 <span title="Industryrebase.energy."><strong>Sebastian Haglund, Industry, rebase.energy</strong></span>
 <br />
 Sustainable Cities * Sustainable Energy
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Marine Ecology,Machine Learning,Stochastic Modelling and Distributions">
+<span title="Research and development engineer at RISE working with Earth Observation and geospatial data in different areas of application.  ResearcherRISE Research Institutes of Sweden."><strong>Jesper Dejby, Researcher, RISE Research Institutes of Sweden</strong></span>
+<br />
+Earth Observation * Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Marine Ecology * Machine Learning * Stochastic Modelling and Distributions * [ORCID](https://orcid.org/0009-0003-4402-6747)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
