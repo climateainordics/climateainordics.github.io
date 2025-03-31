@@ -1,22 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Climate Modeling,Machine Learning,Use of Weather and Climate Data Outside of Academia">
-<span title="PhD, ResearcherNORCE Norwegian Research Centre."><strong>Etienne Dunn-Sigouin, PhD, Researcher, NORCE Norwegian Research Centre</strong></span>
-<br />
-Climate Modeling * Machine Learning * Use of Weather and Climate Data Outside of Academia * [More info (researcher profile)](https://sites.google.com/view/etiennedunnsigouin/)
-</div>
-
-<div class="content" markdown="1" data-tags="Sustainable Cities,Sustainable Energy">
-<span title="Industryrebase.energy."><strong>Sebastian Haglund, Industry, rebase.energy</strong></span>
-<br />
-Sustainable Cities * Sustainable Energy
-</div>
-
-<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Marine Ecology,Machine Learning,Stochastic Modelling and Distributions">
-<span title="Research and development engineer at RISE working with Earth Observation and geospatial data in different areas of application.  ResearcherRISE Research Institutes of Sweden."><strong>Jesper Dejby, Researcher, RISE Research Institutes of Sweden</strong></span>
-<br />
-Earth Observation * Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Marine Ecology * Machine Learning * Stochastic Modelling and Distributions * [ORCID](https://orcid.org/0009-0003-4402-6747)
-</div>
-
 <div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Urban Planning,Sustainable Cities,Sustainable Production,Marine Ecology,Efficient or Sustainable AI,NLP,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
 <span title="Senior Scientist. PhD, ResearcherRISE Research Institutes of Sweden."><strong>Cheryl Marie Cordeiro, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
 <br />
@@ -45,6 +27,12 @@ Earth Observation * Climate Modeling * Sustainable Transport * Sustainable Citie
 <span title="I work on climate modelling, specifically climate supermodelling, meaning I try to combine physical and AI forecast models into a hybrid model. PhD, ResearcherUniversity of Bergen."><strong>Francine Schevenhoven, PhD, Researcher, University of Bergen</strong></span>
 <br />
 Climate Modeling * Efficient or Sustainable AI * Machine Learning
+</div>
+
+<div class="content" markdown="1" data-tags="Sustainable Production,Machine Learning">
+<span title="Post DocAalto University."><strong>Armi Tiihonen, Post Doc, Aalto University</strong></span>
+<br />
+Sustainable Production * Machine Learning * [Publications (Scholar)](https://scholar.google.fi/citations?user=0pLOTKcAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9753-6802)
 </div>
 
 ## Affiliates
@@ -444,6 +432,12 @@ Biodiversity * Soundscape Analysis * Machine Learning * [Publications (Scholar)]
 Biodiversity * Marine Ecology * Computer Vision * Machine Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=QmxKUXUAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-9613-0218)
 </div>
 
+<div class="content" markdown="1" data-tags="Climate Modeling,Machine Learning,Use of Weather and Climate Data Outside of Academia">
+<span title="PhD, ResearcherNORCE Norwegian Research Centre."><strong>Etienne Dunn-Sigouin, PhD, Researcher, NORCE Norwegian Research Centre</strong></span>
+<br />
+Climate Modeling * Machine Learning * Use of Weather and Climate Data Outside of Academia * [More info (researcher profile)](https://sites.google.com/view/etiennedunnsigouin/)
+</div>
+
 <div class="content" markdown="1" data-tags="">
 <span title="I&#x27;m a PhD student at the Center for Mathematical Sciences focusing on anomaly detection and machine learning in earth observations and remote sensing. PhD StudentLund University."><strong>Oskar Åström, PhD Student, Lund University</strong></span>
 <br />
@@ -690,6 +684,18 @@ Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep
 
 </div>
 
+<div class="content" markdown="1" data-tags="Sustainable Cities,Sustainable Energy">
+<span title="Industryrebase.energy."><strong>Sebastian Haglund, Industry, rebase.energy</strong></span>
+<br />
+Sustainable Cities * Sustainable Energy
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Marine Ecology,Machine Learning,Stochastic Modelling and Distributions">
+<span title="Research and development engineer at RISE working with Earth Observation and geospatial data in different areas of application.  ResearcherRISE Research Institutes of Sweden."><strong>Jesper Dejby, Researcher, RISE Research Institutes of Sweden</strong></span>
+<br />
+Earth Observation * Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Marine Ecology * Machine Learning * Stochastic Modelling and Distributions * [ORCID](https://orcid.org/0009-0003-4402-6747)
+</div>
+
 ## Supporting Affiliates (Outside Nordics)
 <div class="content" markdown="1" data-tags="Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI">
 <span title="I am a lecturer in Urban Planning at the University of Auckland, bringing over 13 years of experience in both research and practice. My focus is on addressing climate change challenges, enhancing urban resilience, promoting regeneration, and advocating for environmental justice. I am particularly interested in understanding and mitigating the risks that urban areas encounter, especially those related to climate change and natural hazards. My research examines how cities can adapt to these increasing threats, emphasising resilience, risk reduction, and sustainable planning to protect communities and infrastructure. Assistant ProfessorUniversity of Auckland."><strong>Iresh Jayawardena, Assistant Professor, University of Auckland</strong></span>
@@ -875,4 +881,16 @@ Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Ma
 <span title="PhD, ResearcherHelmholtz-Zentrum Hereon (GERICS)."><strong>Farhan Saleem, PhD, Researcher, Helmholtz-Zentrum Hereon (GERICS)</strong></span>
 <br />
 
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Machine Learning,Deep Learning,Species Distribution Modelling">
+<span title="PhD, ResearcherNIBIO."><strong>Zsofia Koma, PhD, Researcher, NIBIO</strong></span>
+<br />
+Earth Observation * Biodiversity * Machine Learning * Deep Learning * Species Distribution Modelling * [Publications (Scholar)](https://scholar.google.com/citations?user=DhzY3egAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-0003-8258)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Biodiversity,Efficient or Sustainable AI,AI For Climate Education">
+<span title="Educator, researcher, game creator and AI experimenter - Climate change and Sustainable Development. PhD, ResearcherEnvironment for Development, University of Gothenburg."><strong>Erik Sterner, PhD, Researcher, Environment for Development, University of Gothenburg</strong></span>
+<br />
+Climate Modeling * Biodiversity * Efficient or Sustainable AI * AI For Climate Education * [More info (researcher profile)](https://www.gu.se/en/about/find-staff/eriksterner) * [Research group](https://www.efdinitiative.org/) * [Publications (Scholar)](https://scholar.google.com/citations?user=o4Ls5IEAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0002-5616-9150)
 </div>
