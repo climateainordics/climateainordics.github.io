@@ -894,3 +894,9 @@ Earth Observation * Biodiversity * Machine Learning * Deep Learning * Species Di
 <br />
 Climate Modeling * Biodiversity * Efficient or Sustainable AI * AI For Climate Education * [More info (researcher profile)](https://www.gu.se/en/about/find-staff/eriksterner) * [Research group](https://www.efdinitiative.org/) * [Publications (Scholar)](https://scholar.google.com/citations?user=o4Ls5IEAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0002-5616-9150)
 </div>
+
+<div class="content" markdown="1" data-tags="Urban Planning,Sustainable Cities,Sustainable Production">
+<span title="Social scientist working with climate governance in Nordic cities, especially interested in the place for sustainable consumption and production in urban planning. PhD, ResearcherNORCE."><strong>Jesse Schrage, PhD, Researcher, NORCE</strong></span>
+<br />
+Urban Planning * Sustainable Cities * Sustainable Production * [Research group](https://www.norceresearch.no/en/persons/jesse-schrage/41836750) * [Publications (Scholar)](https://scholar.google.no/citations?user=B5g2uDQAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-7638-6347)
+</div>
