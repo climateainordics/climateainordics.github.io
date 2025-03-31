@@ -229,7 +229,7 @@ Climate Modeling * Sustainable Cities * Sustainable Production * Machine Learnin
 </div>
 
 <div class="content" markdown="1" data-tags="Climate Modeling,Machine Learning,Deep Learning">
-<span title="My research consistently targets the physical mechanisms that enable climate predictability. This includes understanding how tropical dynamics influence atmospheric circulation over the Western Arctic and the North Atlantic-European sector. I have developed an experimental teleconnection-based seasonal prediction system at SMHI, designed to make teleconnections operationally useful for seasonal forecasting. This system exemplifies his ability to translate scientific discoveries into practical tools for climate.  I contribute to making a physically based application of machine learning methods to improve climate predictability, for example, designing deep convolutional neural networks (CNNs) for various applications: 1) downscaling coarse-resolution datasets, 2)detecting extreme events in large datasets, and 3) improving seasonal forecasts. I am a work package leader of two Horizon Europe projects (OptimESM and AI4PEX) in which we leverage ML-based solutions. Rossby Centre, SMHI. PhD, ResearcherSMHI."><strong>Ramón Fuentes Franco, PhD, Researcher, SMHI</strong></span>
+<span title="My research consistently targets the physical mechanisms that enable climate predictability. This includes understanding how tropical dynamics influence atmospheric circulation over the Western Arctic and the North Atlantic-European sector. I have developed an experimental teleconnection-based seasonal prediction system at SMHI, designed to make teleconnections operationally useful for seasonal forecasting. This system exemplifies his ability to translate scientific discoveries into practical tools for climate.  I contribute to making a physically based application of machine learning methods to improve climate predictability, for example, designing deep convolutional neural networks (CNNs) for various applications: 1) downscaling coarse-resolution datasets, 2)detecting extreme events in large datasets, and 3) improving seasonal forecasts. I am a work package leader of two Horizon Europe projects (OptimESM and AI4PEX) in which we leverage ML-based solutions. Rossby Centre, SMHI. PhD, ResearcherSwedish Meteorological and Hydrological Institute (SMHI)."><strong>Ramón Fuentes Franco, PhD, Researcher, Swedish Meteorological and Hydrological Institute (SMHI)</strong></span>
 <br />
 Climate Modeling * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=zjajzQEAAAAJ) * [ORCID](https://orcid.org/0000-0002-3085-0175)
 </div>
@@ -367,7 +367,7 @@ Earth Observation * NLP * Computer Vision * Machine Learning * Deep Learning * [
 </div>
 
 <div class="content" markdown="1" data-tags="">
-<span title="Researcher at Rossby Centre, SMHI. Expert in machine learning for climate applications. PhD, ResearcherSMHI."><strong>Mikhail Ivanov, PhD, Researcher, SMHI</strong></span>
+<span title="Researcher at Rossby Centre, SMHI. Expert in machine learning for climate applications. PhD, ResearcherSwedish Meteorological and Hydrological Institute (SMHI)."><strong>Mikhail Ivanov, PhD, Researcher, Swedish Meteorological and Hydrological Institute (SMHI)</strong></span>
 <br />
 [ORCID](https://orcid.org/0000-0001-5234-7848)
 </div>
@@ -385,7 +385,7 @@ Earth Observation * Computer Vision * Deep Learning * [Publications (Scholar)](h
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Machine Learning,Deep Learning,Numerical Weather Prediction">
-<span title="PhD, ResearcherSwedish Meteorological and Hydrological Institute."><strong>Tomas Landelius, PhD, Researcher, Swedish Meteorological and Hydrological Institute</strong></span>
+<span title="PhD, ResearcherSwedish Meteorological and Hydrological Institute (SMHI)."><strong>Tomas Landelius, PhD, Researcher, Swedish Meteorological and Hydrological Institute (SMHI)</strong></span>
 <br />
 Earth Observation * Machine Learning * Deep Learning * Numerical Weather Prediction
 </div>
@@ -896,7 +896,7 @@ Climate Modeling * Biodiversity * Efficient or Sustainable AI * AI For Climate E
 </div>
 
 <div class="content" markdown="1" data-tags="Urban Planning,Sustainable Cities,Sustainable Production">
-<span title="Social scientist working with climate governance in Nordic cities, especially interested in the place for sustainable consumption and production in urban planning. PhD, ResearcherNORCE."><strong>Jesse Schrage, PhD, Researcher, NORCE</strong></span>
+<span title="Social scientist working with climate governance in Nordic cities, especially interested in the place for sustainable consumption and production in urban planning. PhD, ResearcherNORCE Norwegian Research Centre."><strong>Jesse Schrage, PhD, Researcher, NORCE Norwegian Research Centre</strong></span>
 <br />
 Urban Planning * Sustainable Cities * Sustainable Production * [Research group](https://www.norceresearch.no/en/persons/jesse-schrage/41836750) * [Publications (Scholar)](https://scholar.google.no/citations?user=B5g2uDQAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-7638-6347)
 </div>
