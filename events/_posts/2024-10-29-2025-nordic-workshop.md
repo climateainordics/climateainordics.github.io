@@ -85,10 +85,8 @@ The workshop is organized by [Climes, The Swedish Centre for Impacts of Climate 
 
 **Pricing**
 
-The first 65 free seats for the workshop are now sold out, and the fee for registration is from now on SEK 1000. This includes lunch and coffee. The fee will have to be paid March 31 at the latest.
+The fee for registration is SEK 1000, including lunch and coffee. Invoices will be sent out to attendees subject to the registration fee.
 
-A limited number of students can be reimbursed for travel and hotel for the workshop. The deadline for applications have now run out and we have contacted the students who were selected for funding.
+A limited number of students will be reimbursed for travel and hotel for the workshop. The deadline for applications have now run out and we have contacted the students who were selected for funding.
 
-[Click here to register for this event!](https://forms.gle/vt7gMYwoR8tvGx9T7)
-
-The deadline for registering to this workshop is March 31. For questions, contact the organizers.
+The deadline for registering to this workshop was March 31. For questions, contact the organizers.
