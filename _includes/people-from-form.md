@@ -900,3 +900,9 @@ Climate Modeling * Biodiversity * Efficient or Sustainable AI * AI For Climate E
 <br />
 Urban Planning * Sustainable Cities * Sustainable Production * [Research group](https://www.norceresearch.no/en/persons/jesse-schrage/41836750) * [Publications (Scholar)](https://scholar.google.no/citations?user=B5g2uDQAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-7638-6347)
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Machine Learning">
+<span title="PhD, ResearcherFinnish Meteorological Institute."><strong>Noora Hyttinen, PhD, Researcher, Finnish Meteorological Institute</strong></span>
+<br />
+Climate Modeling * Machine Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=J_wClYAAAAAJ&amp;hl=fi&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-6025-5959)
+</div>
