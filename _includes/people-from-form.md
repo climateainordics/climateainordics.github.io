@@ -35,6 +35,48 @@ Climate Modeling * Efficient or Sustainable AI * Machine Learning
 Sustainable Production * Machine Learning * [Publications (Scholar)](https://scholar.google.fi/citations?user=0pLOTKcAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9753-6802)
 </div>
 
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Machine Learning,Deep Learning,Species Distribution Modelling">
+<span title="PhD, ResearcherNIBIO."><strong>Zsofia Koma, PhD, Researcher, NIBIO</strong></span>
+<br />
+Earth Observation * Biodiversity * Machine Learning * Deep Learning * Species Distribution Modelling * [Publications (Scholar)](https://scholar.google.com/citations?user=DhzY3egAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-0003-8258)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Biodiversity,Efficient or Sustainable AI,AI For Climate Education">
+<span title="Educator, researcher, game creator and AI experimenter - Climate change and Sustainable Development. PhD, ResearcherEnvironment for Development, University of Gothenburg."><strong>Erik Sterner, PhD, Researcher, Environment for Development, University of Gothenburg</strong></span>
+<br />
+Climate Modeling * Biodiversity * Efficient or Sustainable AI * AI For Climate Education * [More info (researcher profile)](https://www.gu.se/en/about/find-staff/eriksterner) * [Research group](https://www.efdinitiative.org/) * [Publications (Scholar)](https://scholar.google.com/citations?user=o4Ls5IEAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0002-5616-9150)
+</div>
+
+<div class="content" markdown="1" data-tags="Urban Planning,Sustainable Cities,Sustainable Production">
+<span title="Social scientist working with climate governance in Nordic cities, especially interested in the place for sustainable consumption and production in urban planning. PhD, ResearcherNORCE Norwegian Research Centre."><strong>Jesse Schrage, PhD, Researcher, NORCE Norwegian Research Centre</strong></span>
+<br />
+Urban Planning * Sustainable Cities * Sustainable Production * [Research group](https://www.norceresearch.no/en/persons/jesse-schrage/41836750) * [Publications (Scholar)](https://scholar.google.no/citations?user=B5g2uDQAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-7638-6347)
+</div>
+
+<div class="content" markdown="1" data-tags="">
+<span title="PhD, ResearcherNorsk Regnesentral."><strong>Johannes Voll Kolstø, PhD, Researcher, Norsk Regnesentral</strong></span>
+<br />
+[ORCID](https://orcid.org/0009-0003-5532-0925)
+</div>
+
+<div class="content" markdown="1" data-tags="">
+<span title="Post DocLund University."><strong>Nitin Chaudhary, Post Doc, Lund University</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=klN2PwMAAAAJ) * [ORCID](https://orcid.org/0000-0001-7001-3155)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Machine Learning">
+<span title="PhD, ResearcherFinnish Meteorological Institute."><strong>Noora Hyttinen, PhD, Researcher, Finnish Meteorological Institute</strong></span>
+<br />
+Climate Modeling * Machine Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=J_wClYAAAAAJ&amp;hl=fi&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-6025-5959)
+</div>
+
+<div class="content" markdown="1" data-tags="Molecular Modeling of Atmospheric Chemistry">
+<span title="PhD, ResearcherUniversity of Helsinki."><strong>Nanna Myllys, PhD, Researcher, University of Helsinki</strong></span>
+<br />
+Molecular Modeling of Atmospheric Chemistry * [Research group](https://www.helsinki.fi/molas) * [Publications (Scholar)](https://scholar.google.com/citations?user=uySoFa4AAAAJ&amp;hl=fi&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-0384-7277)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -881,34 +923,4 @@ Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Ma
 <span title="PhD, ResearcherHelmholtz-Zentrum Hereon (GERICS)."><strong>Farhan Saleem, PhD, Researcher, Helmholtz-Zentrum Hereon (GERICS)</strong></span>
 <br />
 
-</div>
-
-<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Machine Learning,Deep Learning,Species Distribution Modelling">
-<span title="PhD, ResearcherNIBIO."><strong>Zsofia Koma, PhD, Researcher, NIBIO</strong></span>
-<br />
-Earth Observation * Biodiversity * Machine Learning * Deep Learning * Species Distribution Modelling * [Publications (Scholar)](https://scholar.google.com/citations?user=DhzY3egAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-0003-8258)
-</div>
-
-<div class="content" markdown="1" data-tags="Climate Modeling,Biodiversity,Efficient or Sustainable AI,AI For Climate Education">
-<span title="Educator, researcher, game creator and AI experimenter - Climate change and Sustainable Development. PhD, ResearcherEnvironment for Development, University of Gothenburg."><strong>Erik Sterner, PhD, Researcher, Environment for Development, University of Gothenburg</strong></span>
-<br />
-Climate Modeling * Biodiversity * Efficient or Sustainable AI * AI For Climate Education * [More info (researcher profile)](https://www.gu.se/en/about/find-staff/eriksterner) * [Research group](https://www.efdinitiative.org/) * [Publications (Scholar)](https://scholar.google.com/citations?user=o4Ls5IEAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0002-5616-9150)
-</div>
-
-<div class="content" markdown="1" data-tags="Urban Planning,Sustainable Cities,Sustainable Production">
-<span title="Social scientist working with climate governance in Nordic cities, especially interested in the place for sustainable consumption and production in urban planning. PhD, ResearcherNORCE Norwegian Research Centre."><strong>Jesse Schrage, PhD, Researcher, NORCE Norwegian Research Centre</strong></span>
-<br />
-Urban Planning * Sustainable Cities * Sustainable Production * [Research group](https://www.norceresearch.no/en/persons/jesse-schrage/41836750) * [Publications (Scholar)](https://scholar.google.no/citations?user=B5g2uDQAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-7638-6347)
-</div>
-
-<div class="content" markdown="1" data-tags="Climate Modeling,Machine Learning">
-<span title="PhD, ResearcherFinnish Meteorological Institute."><strong>Noora Hyttinen, PhD, Researcher, Finnish Meteorological Institute</strong></span>
-<br />
-Climate Modeling * Machine Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=J_wClYAAAAAJ&amp;hl=fi&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-6025-5959)
-</div>
-
-<div class="content" markdown="1" data-tags="Molecular Modeling of Atmospheric Chemistry">
-<span title="PhD, ResearcherUniversity of Helsinki."><strong>Nanna Myllys, PhD, Researcher, University of Helsinki</strong></span>
-<br />
-Molecular Modeling of Atmospheric Chemistry * [Research group](https://www.helsinki.fi/molas) * [Publications (Scholar)](https://scholar.google.com/citations?user=uySoFa4AAAAJ&amp;hl=fi&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-0384-7277)
 </div>
