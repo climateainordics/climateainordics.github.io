@@ -906,3 +906,9 @@ Urban Planning * Sustainable Cities * Sustainable Production * [Research group](
 <br />
 Climate Modeling * Machine Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=J_wClYAAAAAJ&amp;hl=fi&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-6025-5959)
 </div>
+
+<div class="content" markdown="1" data-tags="Molecular Modeling of Atmospheric Chemistry">
+<span title="PhD, ResearcherUniversity of Helsinki."><strong>Nanna Myllys, PhD, Researcher, University of Helsinki</strong></span>
+<br />
+Molecular Modeling of Atmospheric Chemistry * [Research group](https://www.helsinki.fi/molas) * [Publications (Scholar)](https://scholar.google.com/citations?user=uySoFa4AAAAJ&amp;hl=fi&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-0384-7277)
+</div>
