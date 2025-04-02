@@ -924,3 +924,9 @@ Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Ma
 <br />
 
 </div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,NLP,Machine Learning,Deep Learning">
+<span title="Mohammad Hassan Shakil is a Research Fellow at the Norwegian University of Science and Technology (NTNU), Norway. Prior to joining NTNU, he worked as an Assistant Professor at East Delta University, Bangladesh, for two years. He also served as an Assistant Lecturer/Tutor at Taylor’s University, Malaysia from 2018 to 2021. His research interests include the application of Artificial Intelligence and Machine Learning in Sustainable Finance. PhD StudentNorwegian University of Science and Technology."><strong>Mohammad Hassan Shakil, PhD Student, Norwegian University of Science and Technology</strong></span>
+<br />
+Biodiversity * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.linkedin.com/in/mohammadhassanshakil/) * [Research group](https://www.ntnu.edu/employees/hassan.shakil) * [Publications (Scholar)](https://scholar.google.com/citations?user=jeLQ5RQAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-7625-8353) * [BlueSky](https://bsky.app/profile/hassanshakil.bsky.social)
+</div>
