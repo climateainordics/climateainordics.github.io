@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Climate Modeling,Efficient or Sustainable AI,Machine Learning">
-<span title="I work on climate modelling, specifically climate supermodelling, meaning I try to combine physical and AI forecast models into a hybrid model. PhD, ResearcherUniversity of Bergen."><strong>Francine Schevenhoven, PhD, Researcher, University of Bergen</strong></span>
-<br />
-Climate Modeling * Efficient or Sustainable AI * Machine Learning
-</div>
-
 <div class="content" markdown="1" data-tags="Sustainable Production,Machine Learning">
 <span title="Post DocAalto University."><strong>Armi Tiihonen, Post Doc, Aalto University</strong></span>
 <br />
@@ -466,6 +460,12 @@ Earth Observation * Biodiversity * Urban Planning * Sustainable Cities * Sustain
 <span title="My research lies at the intersection of sustainability and AI. I focus both on leveraging AI to tackle complex sustainability challenges through interdisciplinary collaborations and on examining AI’s own sustainability – analyzing its environmental footprint, resource demands, and long-term implications for responsible development. Assistant ProfessorUniversity of Copenhagen."><strong>Raghavendra Selvan, Assistant Professor, University of Copenhagen</strong></span>
 <br />
 Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://raghavian.github.io/) * [Research group](https://raghavian.github.io/people/) * [Publications (Scholar)](https://scholar.google.com/citations?user=R9VBQ54AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4302-0207)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Efficient or Sustainable AI,Machine Learning">
+<span title="I work on climate modelling, specifically climate supermodelling, meaning I try to combine physical and AI forecast models into a hybrid model. PhD, ResearcherUniversity of Bergen."><strong>Francine Schevenhoven, PhD, Researcher, University of Bergen</strong></span>
+<br />
+Climate Modeling * Efficient or Sustainable AI * Machine Learning
 </div>
 
 <div class="content" markdown="1" data-tags="">
