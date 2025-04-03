@@ -1,16 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Urban Planning,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
-<span title="Industry."><strong>Sonja Sandström, Industry</strong></span>
-<br />
-Earth Observation * Climate Modeling * Urban Planning * Sustainable Transport * Sustainable Cities * Efficient or Sustainable AI * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning
-</div>
-
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Sustainable Transport,Sustainable Cities,Computer Vision,Machine Learning,Deep Learning">
-<span title="ML │ DL enthusiast &amp; passionate skier. Remote Sensing ConsultantNorconsult Sverige AB."><strong>Svetlana Serikova, Remote Sensing Consultant, Norconsult Sverige AB</strong></span>
-<br />
-Earth Observation * Climate Modeling * Sustainable Transport * Sustainable Cities * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://github.com/kardemummabulle) * [ORCID](https://orcid.org/0000-0002-2319-8190)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Modeling,Efficient or Sustainable AI,Machine Learning">
 <span title="I work on climate modelling, specifically climate supermodelling, meaning I try to combine physical and AI forecast models into a hybrid model. PhD, ResearcherUniversity of Bergen."><strong>Francine Schevenhoven, PhD, Researcher, University of Bergen</strong></span>
 <br />
@@ -736,6 +724,18 @@ Sustainable Cities * Sustainable Energy
 <span title="Research and development engineer at RISE working with Earth Observation and geospatial data in different areas of application.  ResearcherRISE Research Institutes of Sweden."><strong>Jesper Dejby, Researcher, RISE Research Institutes of Sweden</strong></span>
 <br />
 Earth Observation * Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Marine Ecology * Machine Learning * Stochastic Modelling and Distributions * [ORCID](https://orcid.org/0009-0003-4402-6747)
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Urban Planning,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI,Computer Vision,Soundscape Analysis,Machine Learning,Deep Learning">
+<span title="Industry."><strong>Sonja Sandström, Industry</strong></span>
+<br />
+Earth Observation * Climate Modeling * Urban Planning * Sustainable Transport * Sustainable Cities * Efficient or Sustainable AI * Computer Vision * Soundscape Analysis * Machine Learning * Deep Learning
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Sustainable Transport,Sustainable Cities,Computer Vision,Machine Learning,Deep Learning">
+<span title="ML │ DL enthusiast &amp; passionate skier. Remote Sensing ConsultantNorconsult Sverige AB."><strong>Svetlana Serikova, Remote Sensing Consultant, Norconsult Sverige AB</strong></span>
+<br />
+Earth Observation * Climate Modeling * Sustainable Transport * Sustainable Cities * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://github.com/kardemummabulle) * [ORCID](https://orcid.org/0000-0002-2319-8190)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
