@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Sustainable Production,Machine Learning">
-<span title="Post DocAalto University."><strong>Armi Tiihonen, Post Doc, Aalto University</strong></span>
-<br />
-Sustainable Production * Machine Learning * [Publications (Scholar)](https://scholar.google.fi/citations?user=0pLOTKcAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9753-6802)
-</div>
-
 <div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Machine Learning,Deep Learning,Species Distribution Modelling">
 <span title="PhD, ResearcherNIBIO."><strong>Zsofia Koma, PhD, Researcher, NIBIO</strong></span>
 <br />
@@ -45,6 +39,12 @@ Climate Modeling * Machine Learning * [Publications (Scholar)](https://scholar.g
 <span title="PhD, ResearcherUniversity of Helsinki."><strong>Nanna Myllys, PhD, Researcher, University of Helsinki</strong></span>
 <br />
 Molecular Modeling of Atmospheric Chemistry * [Research group](https://www.helsinki.fi/molas) * [Publications (Scholar)](https://scholar.google.com/citations?user=uySoFa4AAAAJ&amp;hl=fi&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-0384-7277)
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,NLP,Machine Learning,Deep Learning">
+<span title="Mohammad Hassan Shakil is a Research Fellow at the Norwegian University of Science and Technology (NTNU), Norway. Prior to joining NTNU, he worked as an Assistant Professor at East Delta University, Bangladesh, for two years. He also served as an Assistant Lecturer/Tutor at Taylor’s University, Malaysia from 2018 to 2021. His research interests include the application of Artificial Intelligence and Machine Learning in Sustainable Finance. PhD StudentNorwegian University of Science and Technology."><strong>Mohammad Hassan Shakil, PhD Student, Norwegian University of Science and Technology</strong></span>
+<br />
+Biodiversity * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.linkedin.com/in/mohammadhassanshakil/) * [Research group](https://www.ntnu.edu/employees/hassan.shakil) * [Publications (Scholar)](https://scholar.google.com/citations?user=jeLQ5RQAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-7625-8353) * [BlueSky](https://bsky.app/profile/hassanshakil.bsky.social)
 </div>
 
 ## Affiliates
@@ -466,6 +466,12 @@ Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning
 <span title="I work on climate modelling, specifically climate supermodelling, meaning I try to combine physical and AI forecast models into a hybrid model. PhD, ResearcherUniversity of Bergen."><strong>Francine Schevenhoven, PhD, Researcher, University of Bergen</strong></span>
 <br />
 Climate Modeling * Efficient or Sustainable AI * Machine Learning
+</div>
+
+<div class="content" markdown="1" data-tags="Sustainable Production,Machine Learning">
+<span title="Post DocAalto University."><strong>Armi Tiihonen, Post Doc, Aalto University</strong></span>
+<br />
+Sustainable Production * Machine Learning * [Publications (Scholar)](https://scholar.google.fi/citations?user=0pLOTKcAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9753-6802)
 </div>
 
 <div class="content" markdown="1" data-tags="">
@@ -923,10 +929,4 @@ Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Ma
 <span title="PhD, ResearcherHelmholtz-Zentrum Hereon (GERICS)."><strong>Farhan Saleem, PhD, Researcher, Helmholtz-Zentrum Hereon (GERICS)</strong></span>
 <br />
 
-</div>
-
-<div class="content" markdown="1" data-tags="Biodiversity,NLP,Machine Learning,Deep Learning">
-<span title="Mohammad Hassan Shakil is a Research Fellow at the Norwegian University of Science and Technology (NTNU), Norway. Prior to joining NTNU, he worked as an Assistant Professor at East Delta University, Bangladesh, for two years. He also served as an Assistant Lecturer/Tutor at Taylor’s University, Malaysia from 2018 to 2021. His research interests include the application of Artificial Intelligence and Machine Learning in Sustainable Finance. PhD StudentNorwegian University of Science and Technology."><strong>Mohammad Hassan Shakil, PhD Student, Norwegian University of Science and Technology</strong></span>
-<br />
-Biodiversity * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.linkedin.com/in/mohammadhassanshakil/) * [Research group](https://www.ntnu.edu/employees/hassan.shakil) * [Publications (Scholar)](https://scholar.google.com/citations?user=jeLQ5RQAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-7625-8353) * [BlueSky](https://bsky.app/profile/hassanshakil.bsky.social)
 </div>
