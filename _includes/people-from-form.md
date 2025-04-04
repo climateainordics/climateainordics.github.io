@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Machine Learning,Deep Learning,Species Distribution Modelling">
-<span title="PhD, ResearcherNIBIO."><strong>Zsofia Koma, PhD, Researcher, NIBIO</strong></span>
-<br />
-Earth Observation * Biodiversity * Machine Learning * Deep Learning * Species Distribution Modelling * [Publications (Scholar)](https://scholar.google.com/citations?user=DhzY3egAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-0003-8258)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Modeling,Biodiversity,Efficient or Sustainable AI,AI For Climate Education">
 <span title="Educator, researcher, game creator and AI experimenter - Climate change and Sustainable Development. PhD, ResearcherEnvironment for Development, University of Gothenburg."><strong>Erik Sterner, PhD, Researcher, Environment for Development, University of Gothenburg</strong></span>
 <br />
@@ -472,6 +466,12 @@ Climate Modeling * Efficient or Sustainable AI * Machine Learning
 <span title="Post DocAalto University."><strong>Armi Tiihonen, Post Doc, Aalto University</strong></span>
 <br />
 Sustainable Production * Machine Learning * [Publications (Scholar)](https://scholar.google.fi/citations?user=0pLOTKcAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9753-6802)
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Machine Learning,Deep Learning,Species Distribution Modelling">
+<span title="PhD, ResearcherNIBIO."><strong>Zsofia Koma, PhD, Researcher, NIBIO</strong></span>
+<br />
+Earth Observation * Biodiversity * Machine Learning * Deep Learning * Species Distribution Modelling * [Publications (Scholar)](https://scholar.google.com/citations?user=DhzY3egAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-0003-8258)
 </div>
 
 <div class="content" markdown="1" data-tags="">
