@@ -930,3 +930,9 @@ Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Ma
 <br />
 
 </div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Urban Planning,Sustainable Transport,Sustainable Cities,Machine Learning">
+<span title="Doria Adman is a young architect and urban planner working for the German Cooperation as a technical expert. Her tasks focus mainly on supporting Algerian municipalities in assessing climate risks, developing climate resilience plans, and mobilizing climate finance to implement urban climate adaptation actions. Her expertise extends beyond architecture to encompass environmental issues, heritage, urban governance, and gender-sensitive urban mobility. She also holds an additional master’s degree in architectural and urban heritage and has worked on participatory urban governance projects, gaining experience in GIS and citizen engagement. Technical advisor in urban planning and local developmentGIZ Algeria."><strong>Doria Adman, Technical advisor in urban planning and local development, GIZ Algeria</strong></span>
+<br />
+Earth Observation * Climate Modeling * Urban Planning * Sustainable Transport * Sustainable Cities * Machine Learning
+</div>
