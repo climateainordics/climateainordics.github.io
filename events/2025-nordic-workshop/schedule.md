@@ -65,7 +65,7 @@ img {
 | 17  | [Ashwin Mohanan](#ashwin) | [Dawsonia: Digitizing handwritten observations in weather journals](#ashwin) |
 | 18  | [Andrea Nascetti](#andrea) | [PANGEA: A Global And Inclusive Benchmark For Geospatial Foundation Models](#andrea) |
 | 19  | [Aleksis Pirinen, Olof Mogren](#aleksis) | [TBA](#aleksis) |
-| 20  | [Stefano Puliti](#puliti) | [TBA](#puliti) |
+| 20  | [Stefano Puliti](#puliti) | [Leveraging NFI Image Data for Large-Scale Forest Biodiversity Monitoring](#puliti) |
 | 21  | [Laura Helene Rasmussen](#laura) | [Quantifying the variability of winter climate in the Arctic](#laura) |
 | 22  | [Heather Reese](#heather) | [Subarctic tundra change mapping with Earth Observation and machine learning](#heather) |
 | 23  | [Jaime Caballer Revenga](#jaime) | [Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories](#jaime) |
@@ -390,8 +390,8 @@ To promote transparency and collaboration, we provide a fully open-source evalua
 
 <a name="puliti"></a>
 **20. Stefano Puliti**<br />
-**Title**: TBA<br />
-**Abstract**: TBA
+**Title**: Leveraging NFI image data for large-scale forest biodiversity monitoring<br />
+**Abstract**: National Forest Inventory (NFI) images provide a unique opportunity for systematic and unbiased biodiversity assessments across large spatial scales. Building on our previous work, we expand the use of NFI image data by integrating smartphone-captured forest scenes to enhance forest scene understanding and the estimation of key biodiversity variables, such as species richness and abundance. Unlike citizen science data, NFI images follow a structured sampling design, ensuring comprehensive national coverage and robust biodiversity estimates. As part of the Small4Good EU project, we utilize NFI datasets spanning European biomes, including extensive image collections from the Norwegian, Swiss, and Spanish NFIs—comprising approximately 70K plots and 280K images. A subset of these images is currently being annotated to train supervised forest vision models. By leveraging existing (e.g. iNaturalist) and new deep learning models and image-based biodiversity large-scale estimation, this research aims to advance automated biodiversity monitoring, providing scalable and reproducible methods for ecosystem assessment and conservation planning.
 
 
 [Back to top of page](#top)
