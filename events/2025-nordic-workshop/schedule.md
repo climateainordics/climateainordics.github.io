@@ -70,7 +70,7 @@ img {
 | 22  | [Heather Reese](#heather) | [Subarctic tundra change mapping with Earth Observation and machine learning](#heather) |
 | 23  | [Jaime Caballer Revenga](#jaime) | [Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories](#jaime) |
 | 24  | [Carolyn Rosten](#carolyn) | [TBA](#carolyn) |
-| 25  | [Alan Said](#alan) | [TBA](#alan) |
+| 25  | [Alan Said](#alan) | [Accountability and sustainability in AI: reducing the environmental footprint of ai research](#alan) |
 | 26  | [Hui Zhang](#hui) | [TBA](#hui) |
 | 27  | [Dan Stowell](#dan) | [Bioacoustic AI for nature: how can it tread lightly?](#dan) |
 | 28  | [Anupama Xavier](#anupama) | [Comparative predictability of eastern and western north pacific blocking events](#anupama) |
@@ -440,8 +440,10 @@ phenological changes in remote sensing analysis.
 
 <a name="alan"></a>
 **25. Alan Said**<br />
-**Title**: TBA<br />
-**Abstract**: TBA
+**Title**: Accountability and sustainability in AI: reducing the environmental footprint of ai research<br />
+**Abstract**: Artificial intelligence continues to drive transformative advances across diverse sectors, from healthcare and transportation to digital services. However, the rapid growth and complexity of AI technologies result in considerable environmental impacts, driven by increased computational demands and associated carbon emissions. Recent studies highlight that typical AI experiments, particularly involving deep-learning models, have significant carbon footprints, underscoring the critical need for sustainability in AI development.
+
+Broad strategies to measure, understand, and reduce AI’s ecological impact include optimizing model efficiency, adopting streamlined and resource-conscious algorithms, and implementing comprehensive energy profiling. Open-source tools and frameworks supporting these methods enable transparent reporting and reproducible research. Embedding accountability, transparency, and sustainability into the foundation of AI research aligns technological innovation with global environmental goals, promoting responsible and sustainable advancements in AI.
 
 
 [Back to top of page](#top)
