@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Climate Modeling,Biodiversity,Efficient or Sustainable AI,AI For Climate Education">
-<span title="Educator, researcher, game creator and AI experimenter - Climate change and Sustainable Development. PhD, ResearcherEnvironment for Development, University of Gothenburg."><strong>Erik Sterner, PhD, Researcher, Environment for Development, University of Gothenburg</strong></span>
-<br />
-Climate Modeling * Biodiversity * Efficient or Sustainable AI * AI For Climate Education * [More info (researcher profile)](https://www.gu.se/en/about/find-staff/eriksterner) * [Research group](https://www.efdinitiative.org/) * [Publications (Scholar)](https://scholar.google.com/citations?user=o4Ls5IEAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0002-5616-9150)
-</div>
-
 <div class="content" markdown="1" data-tags="Urban Planning,Sustainable Cities,Sustainable Production">
 <span title="Social scientist working with climate governance in Nordic cities, especially interested in the place for sustainable consumption and production in urban planning. PhD, ResearcherNORCE Norwegian Research Centre."><strong>Jesse Schrage, PhD, Researcher, NORCE Norwegian Research Centre</strong></span>
 <br />
@@ -472,6 +466,12 @@ Sustainable Production * Machine Learning * [Publications (Scholar)](https://sch
 <span title="PhD, ResearcherNIBIO."><strong>Zsofia Koma, PhD, Researcher, NIBIO</strong></span>
 <br />
 Earth Observation * Biodiversity * Machine Learning * Deep Learning * Species Distribution Modelling * [Publications (Scholar)](https://scholar.google.com/citations?user=DhzY3egAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-0003-8258)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Biodiversity,Efficient or Sustainable AI,AI For Climate Education">
+<span title="Educator, researcher, game creator and AI experimenter - Climate change and Sustainable Development. PhD, ResearcherEnvironment for Development, University of Gothenburg."><strong>Erik Sterner, PhD, Researcher, Environment for Development, University of Gothenburg</strong></span>
+<br />
+Climate Modeling * Biodiversity * Efficient or Sustainable AI * AI For Climate Education * [More info (researcher profile)](https://www.gu.se/en/about/find-staff/eriksterner) * [Research group](https://www.efdinitiative.org/) * [Publications (Scholar)](https://scholar.google.com/citations?user=o4Ls5IEAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0002-5616-9150)
 </div>
 
 <div class="content" markdown="1" data-tags="">
