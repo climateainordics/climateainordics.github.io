@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="">
-<span title="Post DocLund University."><strong>Nitin Chaudhary, Post Doc, Lund University</strong></span>
-<br />
-[Publications (Scholar)](https://scholar.google.com/citations?user=klN2PwMAAAAJ) * [ORCID](https://orcid.org/0000-0001-7001-3155)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Modeling,Machine Learning">
 <span title="PhD, ResearcherFinnish Meteorological Institute."><strong>Noora Hyttinen, PhD, Researcher, Finnish Meteorological Institute</strong></span>
 <br />
@@ -472,6 +466,12 @@ Urban Planning * Sustainable Cities * Sustainable Production * [Research group](
 <span title="PhD, ResearcherNorwegian Computing Center."><strong>Johannes Voll Kolstø, PhD, Researcher, Norwegian Computing Center</strong></span>
 <br />
 [ORCID](https://orcid.org/0009-0003-5532-0925)
+</div>
+
+<div class="content" markdown="1" data-tags="">
+<span title="Post DocLund University."><strong>Nitin Chaudhary, Post Doc, Lund University</strong></span>
+<br />
+[Publications (Scholar)](https://scholar.google.com/citations?user=klN2PwMAAAAJ) * [ORCID](https://orcid.org/0000-0001-7001-3155)
 </div>
 
 <div class="content" markdown="1" data-tags="">
