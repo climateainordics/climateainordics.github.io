@@ -1,11 +1,5 @@
 ## Affiliates - Recently Joined
 <div class="content" markdown="1" data-tags="">
-<span title="PhD, ResearcherNorwegian Computing Center."><strong>Johannes Voll Kolstø, PhD, Researcher, Norwegian Computing Center</strong></span>
-<br />
-[ORCID](https://orcid.org/0009-0003-5532-0925)
-</div>
-
-<div class="content" markdown="1" data-tags="">
 <span title="Post DocLund University."><strong>Nitin Chaudhary, Post Doc, Lund University</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=klN2PwMAAAAJ) * [ORCID](https://orcid.org/0000-0001-7001-3155)
@@ -472,6 +466,12 @@ Climate Modeling * Biodiversity * Efficient or Sustainable AI * AI For Climate E
 <span title="Social scientist working with climate governance in Nordic cities, especially interested in the place for sustainable consumption and production in urban planning. PhD, ResearcherNORCE Norwegian Research Centre."><strong>Jesse Schrage, PhD, Researcher, NORCE Norwegian Research Centre</strong></span>
 <br />
 Urban Planning * Sustainable Cities * Sustainable Production * [Research group](https://www.norceresearch.no/en/persons/jesse-schrage/41836750) * [Publications (Scholar)](https://scholar.google.no/citations?user=B5g2uDQAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-7638-6347)
+</div>
+
+<div class="content" markdown="1" data-tags="">
+<span title="PhD, ResearcherNorwegian Computing Center."><strong>Johannes Voll Kolstø, PhD, Researcher, Norwegian Computing Center</strong></span>
+<br />
+[ORCID](https://orcid.org/0009-0003-5532-0925)
 </div>
 
 <div class="content" markdown="1" data-tags="">
