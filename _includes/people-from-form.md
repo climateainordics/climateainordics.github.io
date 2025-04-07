@@ -6,7 +6,7 @@ Urban Planning * Sustainable Cities * Sustainable Production * [Research group](
 </div>
 
 <div class="content" markdown="1" data-tags="">
-<span title="PhD, ResearcherNorsk Regnesentral."><strong>Johannes Voll Kolstø, PhD, Researcher, Norsk Regnesentral</strong></span>
+<span title="PhD, ResearcherNorwegian Computing Center."><strong>Johannes Voll Kolstø, PhD, Researcher, Norwegian Computing Center</strong></span>
 <br />
 [ORCID](https://orcid.org/0009-0003-5532-0925)
 </div>
