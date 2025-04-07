@@ -854,7 +854,7 @@ Climate Modeling * Sustainable Cities * Efficient or Sustainable AI
 </div>
 
 <div class="content" markdown="1" data-tags="">
-<span title="PhD, ResearcherThe University of Edinburgh."><strong>Linus Ericsson, PhD, Researcher, The University of Edinburgh</strong></span>
+<span title="PhD, ResearcherUniversity of Edinburgh."><strong>Linus Ericsson, PhD, Researcher, University of Edinburgh</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=QRW9NN0AAAAJ) * [ORCID](https://orcid.org/0000-0002-0634-5072)
 </div>
