@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Molecular Modeling of Atmospheric Chemistry">
-<span title="PhD, ResearcherUniversity of Helsinki."><strong>Nanna Myllys, PhD, Researcher, University of Helsinki</strong></span>
-<br />
-Molecular Modeling of Atmospheric Chemistry * [Research group](https://www.helsinki.fi/molas) * [Publications (Scholar)](https://scholar.google.com/citations?user=uySoFa4AAAAJ&amp;hl=fi&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-0384-7277)
-</div>
-
 <div class="content" markdown="1" data-tags="Biodiversity,NLP,Machine Learning,Deep Learning">
 <span title="Mohammad Hassan Shakil is a Research Fellow at the Norwegian University of Science and Technology (NTNU), Norway. Prior to joining NTNU, he worked as an Assistant Professor at East Delta University, Bangladesh, for two years. He also served as an Assistant Lecturer/Tutor at Taylor’s University, Malaysia from 2018 to 2021. His research interests include the application of Artificial Intelligence and Machine Learning in Sustainable Finance. PhD StudentNorwegian University of Science and Technology."><strong>Mohammad Hassan Shakil, PhD Student, Norwegian University of Science and Technology</strong></span>
 <br />
@@ -472,6 +466,12 @@ Urban Planning * Sustainable Cities * Sustainable Production * [Research group](
 <span title="PhD, ResearcherFinnish Meteorological Institute."><strong>Noora Hyttinen, PhD, Researcher, Finnish Meteorological Institute</strong></span>
 <br />
 Climate Modeling * Machine Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=J_wClYAAAAAJ&amp;hl=fi&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-6025-5959)
+</div>
+
+<div class="content" markdown="1" data-tags="Molecular Modeling of Atmospheric Chemistry">
+<span title="PhD, ResearcherUniversity of Helsinki."><strong>Nanna Myllys, PhD, Researcher, University of Helsinki</strong></span>
+<br />
+Molecular Modeling of Atmospheric Chemistry * [Research group](https://www.helsinki.fi/molas) * [Publications (Scholar)](https://scholar.google.com/citations?user=uySoFa4AAAAJ&amp;hl=fi&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-0384-7277)
 </div>
 
 <div class="content" markdown="1" data-tags="">
