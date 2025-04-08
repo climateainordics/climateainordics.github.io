@@ -936,3 +936,9 @@ Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Ma
 <br />
 Earth Observation * Climate Modeling * Urban Planning * Sustainable Transport * Sustainable Cities * Machine Learning
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,NLP,Machine Learning,Deep Learning">
+<span title="Postdoctoral Researcher at the KAIST. Developer of KARINA, the first deep learning-based global weather forecast model in Korea. Post DocKorea Advanced Institute of Science and Technology."><strong>Minjong Cheon, Post Doc, Korea Advanced Institute of Science and Technology</strong></span>
+<br />
+Climate Modeling * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://jmj2316.notion.site/Minjong-Cheon-8fb77c0f123c4924a5e80a437e2124b1) * [Publications (Scholar)](https://scholar.google.com/citations?user=UZAaM7oAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0001-7589-4078)
+</div>
