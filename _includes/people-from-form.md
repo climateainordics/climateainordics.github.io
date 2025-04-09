@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Biodiversity,NLP,Machine Learning,Deep Learning">
-<span title="Mohammad Hassan Shakil is a Research Fellow at the Norwegian University of Science and Technology (NTNU), Norway. Prior to joining NTNU, he worked as an Assistant Professor at East Delta University, Bangladesh, for two years. He also served as an Assistant Lecturer/Tutor at Taylor’s University, Malaysia from 2018 to 2021. His research interests include the application of Artificial Intelligence and Machine Learning in Sustainable Finance. PhD StudentNorwegian University of Science and Technology."><strong>Mohammad Hassan Shakil, PhD Student, Norwegian University of Science and Technology</strong></span>
-<br />
-Biodiversity * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.linkedin.com/in/mohammadhassanshakil/) * [Research group](https://www.ntnu.edu/employees/hassan.shakil) * [Publications (Scholar)](https://scholar.google.com/citations?user=jeLQ5RQAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-7625-8353) * [BlueSky](https://bsky.app/profile/hassanshakil.bsky.social)
-</div>
-
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -742,6 +736,12 @@ Earth Observation * Climate Modeling * Urban Planning * Sustainable Transport * 
 <span title="ML │ DL enthusiast &amp; passionate skier. Remote Sensing ConsultantNorconsult Sverige AB."><strong>Svetlana Serikova, Remote Sensing Consultant, Norconsult Sverige AB</strong></span>
 <br />
 Earth Observation * Climate Modeling * Sustainable Transport * Sustainable Cities * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://github.com/kardemummabulle) * [ORCID](https://orcid.org/0000-0002-2319-8190)
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,NLP,Machine Learning,Deep Learning">
+<span title="Mohammad Hassan Shakil is a Research Fellow at the Norwegian University of Science and Technology (NTNU), Norway. Prior to joining NTNU, he worked as an Assistant Professor at East Delta University, Bangladesh, for two years. He also served as an Assistant Lecturer/Tutor at Taylor’s University, Malaysia from 2018 to 2021. His research interests include the application of Artificial Intelligence and Machine Learning in Sustainable Finance. PhD StudentNorwegian University of Science and Technology."><strong>Mohammad Hassan Shakil, PhD Student, Norwegian University of Science and Technology</strong></span>
+<br />
+Biodiversity * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.linkedin.com/in/mohammadhassanshakil/) * [Research group](https://www.ntnu.edu/employees/hassan.shakil) * [Publications (Scholar)](https://scholar.google.com/citations?user=jeLQ5RQAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-7625-8353) * [BlueSky](https://bsky.app/profile/hassanshakil.bsky.social)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
