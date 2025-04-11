@@ -1,3 +1,10 @@
+## Affiliates - Recently Joined
+<div class="content" markdown="1" data-tags="Earth Observation,Urban Planning,Computer Vision,Machine Learning">
+<span title="Data scientist interested in geo data analysis and AI applicacions. Researcher."><strong>Karen Baca, Researcher</strong></span>
+<br />
+Earth Observation * Urban Planning * Computer Vision * Machine Learning
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -940,10 +947,4 @@ Earth Observation * Climate Modeling * Urban Planning * Sustainable Transport * 
 <span title="Postdoctoral Researcher at the KAIST. Developer of KARINA, the first deep learning-based global weather forecast model in Korea. Post DocKorea Advanced Institute of Science and Technology."><strong>Minjong Cheon, Post Doc, Korea Advanced Institute of Science and Technology</strong></span>
 <br />
 Climate Modeling * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://jmj2316.notion.site/Minjong-Cheon-8fb77c0f123c4924a5e80a437e2124b1) * [Publications (Scholar)](https://scholar.google.com/citations?user=UZAaM7oAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0001-7589-4078)
-</div>
-
-<div class="content" markdown="1" data-tags="Earth Observation,Urban Planning,Computer Vision,Machine Learning">
-<span title="Data scientist interested in geo data analysis and AI applicacions. Researcher."><strong>Karen Baca, Researcher</strong></span>
-<br />
-Earth Observation * Urban Planning * Computer Vision * Machine Learning
 </div>
