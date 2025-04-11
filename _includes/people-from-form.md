@@ -941,3 +941,9 @@ Earth Observation * Climate Modeling * Urban Planning * Sustainable Transport * 
 <br />
 Climate Modeling * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://jmj2316.notion.site/Minjong-Cheon-8fb77c0f123c4924a5e80a437e2124b1) * [Publications (Scholar)](https://scholar.google.com/citations?user=UZAaM7oAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0001-7589-4078)
 </div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Urban Planning,Computer Vision,Machine Learning">
+<span title="Data scientist interested in geo data analysis and AI applicacions. Researcher."><strong>Karen Baca, Researcher</strong></span>
+<br />
+Earth Observation * Urban Planning * Computer Vision * Machine Learning
+</div>
