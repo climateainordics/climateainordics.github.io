@@ -70,7 +70,7 @@ img {
 | 22  | [Heather Reese](#heather) | [Subarctic tundra change mapping with Earth Observation and machine learning](#heather) |
 | 23  | [Jaime Caballer Revenga](#jaime) | [Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories](#jaime) |
 | 24  | [Alan Said](#alan) | [Accountability and sustainability in AI: reducing the environmental footprint of ai research](#alan) |
-| 25  | [Hui Zhang](#hui) | [TBA](#hui) |
+| 25  | [Hui Zhang](#hui) | [Towards vertical vegetation structure models](#hui) |
 | 26  | [Dan Stowell](#dan) | [Bioacoustic AI for nature: how can it tread lightly?](#dan) |
 | 27  | [Anupama Xavier](#anupama) | [Comparative predictability of eastern and western north pacific blocking events](#anupama) |
 
@@ -435,8 +435,22 @@ Broad strategies to measure, understand, and reduce AI’s ecological impact inc
 
 <a name="hui"></a>
 **24. Hui Zhang**<br />
-**Title**: TBA<br />
-**Abstract**: TBA
+**Title**: Towards vertical vegetation structure models<br />
+**Abstract**: 
+Vertical vegetation structure provides critical insights into understory dynamics that cannot be captured by
+canopy top height alone. This structural information has the potential to reveal nuanced ecosystem response
+to gradual climate shifts and disturbances such as wildfires, deforestation, and forest degradation. However,
+existing global-scale studies mainly focus on canopy top height or single descriptors of vertical structure
+at low spatial resolution. Here, we address this gap by integrating full-waveform lidar observations from
+the Global Ecosystem Dynamics Investigation (GEDI) into wall-to-wall forest monitoring using Sentinel-2
+optical images. Existing canopy top height maps use different relative height metrics as a proxy for canopy
+top height, which makes them hard to compare. By estimating the full vertical profile from Sentinel-2 input
+images, we can now compare our resulting 3D map with all existing canopy top height definitions. Our
+results show that our vertical vegetation structure model performs favorably against the state-of-the-art
+canopy top height maps, while providing structure data beyond the top height. We see great potential in
+these fully vertical structure maps for advancing habitat stratification and biodiversity conservation and for
+reducing the uncertainty in aboveground carbon stock estimation.
+
 
 
 [Back to top of page](#top)
