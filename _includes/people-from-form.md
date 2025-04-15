@@ -948,3 +948,9 @@ Earth Observation * Climate Modeling * Urban Planning * Sustainable Transport * 
 <br />
 Climate Modeling * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://jmj2316.notion.site/Minjong-Cheon-8fb77c0f123c4924a5e80a437e2124b1) * [Publications (Scholar)](https://scholar.google.com/citations?user=UZAaM7oAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0001-7589-4078)
 </div>
+
+<div class="content" markdown="1" data-tags="Efficient or Sustainable AI,NLP,Computer Vision,Machine Learning,Deep Learning">
+<span title="Post DocAalto University."><strong>Alexander Nikitin, Post Doc, Aalto University</strong></span>
+<br />
+Efficient or Sustainable AI * NLP * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://anikitin.me)
+</div>
