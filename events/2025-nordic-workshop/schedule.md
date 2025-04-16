@@ -51,28 +51,27 @@ img {
 | 3   | [Anna Luise Von Blohn](#anna) | [TBA](#anna) |
 | 4   | [Benjamin Cretois](#benjamin) | [TBA](#benjamin) |
 | 5   | [Ellen Dejonghe](#ellen) | [TBA](#ellen) |
-| 6   | [Blanca Delgado-Márquez](#blanca) | [TBA](#blanca) |
-| 7   | [Luisa Delgado-Márquez](#luisa) | [TBA](#luisa) |
-| 8   | [Filip Dorm](#filip) | [Large language models possess some ecological knowledge, but how much?](#filip) |
-| 9   | [Patrick Eriksson](#patrick) | [Providing space-borne ML-based atmospheric data with case-specific uncertainties](#patrick) |
-| 10  | [Ramon Fuentes Franco](#ramon) | [Pan-European high-resolution downscaling using deep learning](#ramon) |
-| 11  | [Lucia Gordon](#lucia) | [MMEarth-Bench: Global Environmental Tasks for Multimodal Geospatial Models](#lucia) |
-| 12  | [Leon Green](#leon) | [Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm](#leon) |
-| 13  | [Céline Heuzé](#celine) | [Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest](#celine) |
-| 14  | [Ankit Kariryaa](#ankit) | [TBA](#ankit) |
-| 15  | [Murathan Kurfali](#murathan) | [ClimateEval: A Comprehensive Benchmark for Climate Change NLP](#murathan) |
-| 16  | [Francesca Larosa](#francesca) | [TBA](#francesca) |
-| 17  | [Ashwin Mohanan](#ashwin) | [Dawsonia: Digitizing handwritten observations in weather journals](#ashwin) |
-| 18  | [Andrea Nascetti](#andrea) | [PANGEA: A Global And Inclusive Benchmark For Geospatial Foundation Models](#andrea) |
-| 19  | [Aleksis Pirinen, Olof Mogren](#aleksis) | [TBA](#aleksis) |
-| 20  | [Stefano Puliti](#puliti) | [Leveraging NFI Image Data for Large-Scale Forest Biodiversity Monitoring](#puliti) |
-| 21  | [Laura Helene Rasmussen](#laura) | [Quantifying the variability of winter climate in the Arctic](#laura) |
-| 22  | [Heather Reese](#heather) | [Subarctic tundra change mapping with Earth Observation and machine learning](#heather) |
-| 23  | [Jaime Caballer Revenga](#jaime) | [Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories](#jaime) |
-| 24  | [Alan Said](#alan) | [Accountability and sustainability in AI: reducing the environmental footprint of ai research](#alan) |
-| 25  | [Hui Zhang](#hui) | [Towards vertical vegetation structure models](#hui) |
-| 26  | [Dan Stowell](#dan) | [Bioacoustic AI for nature: how can it tread lightly?](#dan) |
-| 27  | [Anupama Xavier](#anupama) | [Comparative predictability of eastern and western north pacific blocking events](#anupama) |
+| 6   | [Luisa Delgado-Márquez](#luisa) | [TBA](#luisa) |
+| 7   | [Filip Dorm](#filip) | [Large language models possess some ecological knowledge, but how much?](#filip) |
+| 8   | [Patrick Eriksson](#patrick) | [Providing space-borne ML-based atmospheric data with case-specific uncertainties](#patrick) |
+| 9  | [Ramon Fuentes Franco](#ramon) | [Pan-European high-resolution downscaling using deep learning](#ramon) |
+| 10  | [Lucia Gordon](#lucia) | [MMEarth-Bench: Global Environmental Tasks for Multimodal Geospatial Models](#lucia) |
+| 11  | [Leon Green](#leon) | [Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm](#leon) |
+| 12  | [Céline Heuzé](#celine) | [Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest](#celine) |
+| 13  | [Ankit Kariryaa](#ankit) | [TBA](#ankit) |
+| 14  | [Murathan Kurfali](#murathan) | [ClimateEval: A Comprehensive Benchmark for Climate Change NLP](#murathan) |
+| 15  | [Francesca Larosa](#francesca) | [TBA](#francesca) |
+| 16  | [Ashwin Mohanan](#ashwin) | [Dawsonia: Digitizing handwritten observations in weather journals](#ashwin) |
+| 17  | [Andrea Nascetti](#andrea) | [PANGEA: A Global And Inclusive Benchmark For Geospatial Foundation Models](#andrea) |
+| 18  | [Aleksis Pirinen, Olof Mogren](#aleksis) | [TBA](#aleksis) |
+| 19  | [Stefano Puliti](#puliti) | [Leveraging NFI Image Data for Large-Scale Forest Biodiversity Monitoring](#puliti) |
+| 20  | [Laura Helene Rasmussen](#laura) | [Quantifying the variability of winter climate in the Arctic](#laura) |
+| 21  | [Heather Reese](#heather) | [Subarctic tundra change mapping with Earth Observation and machine learning](#heather) |
+| 22  | [Jaime Caballer Revenga](#jaime) | [Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories](#jaime) |
+| 23  | [Alan Said](#alan) | [Accountability and sustainability in AI: reducing the environmental footprint of ai research](#alan) |
+| 24  | [Hui Zhang](#hui) | [Towards vertical vegetation structure models](#hui) |
+| 25  | [Dan Stowell](#dan) | [Bioacoustic AI for nature: how can it tread lightly?](#dan) |
+| 26  | [Anupama Xavier](#anupama) | [Comparative predictability of eastern and western north pacific blocking events](#anupama) |
 
 
 ## Speaker instructions.
