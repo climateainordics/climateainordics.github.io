@@ -58,7 +58,7 @@ img {
 | 10  | [Ramon Fuentes Franco](#ramon) | [Pan-European high-resolution downscaling using deep learning](#ramon) |
 | 11  | [Lucia Gordon](#lucia) | [MMEarth-Bench: Global Environmental Tasks for Multimodal Geospatial Models](#lucia) |
 | 12  | [Leon Green](#leon) | [Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm](#leon) |
-| 13  | [Celine Heuzé](#celine) | [Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest](#celine) |
+| 13  | [Céline Heuzé](#celine) | [Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest](#celine) |
 | 14  | [Ankit Kariryaa](#ankit) | [TBA](#ankit) |
 | 15  | [Murathan Kurfali](#murathan) | [ClimateEval: A Comprehensive Benchmark for Climate Change NLP](#murathan) |
 | 16  | [Francesca Larosa](#francesca) | [TBA](#francesca) |
@@ -316,7 +316,7 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 [Back to top of page](#top)
 
 <a name="celine"></a>
-**12. Celine Heuze** <br/>
+**12. Céline Heuzé** <br/>
 **Title**: Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest<br />
 **Abstract**: Northern Europe is particularly vulnerable to extreme sea level events as most of its large population, financial and logistics centres are located by the coastline. Policy makers need information to plan for near- and longer-term events. There is a consensus that for Europe, in response to climate change, changes to extreme sea level will be caused by mean sea level rise rather than changes in its drivers, meaning that determining current drivers will aid such planning. Here we determine from explainable AI the meteorological and hydrological drivers of high frequency extreme sea level at nine locations on the wider North Sea – Baltic coast using Long Short Term Memory (LSTM, a type of deep recurrent neural network) and the simpler Random Forest regression on hourly tide gauge data. LSTM is optimised for targeting the excess values, or periods of prolonged high sea level; Random Forest, the block maxima, or most extreme peaks in sea level. Through permutation feature of the LSTM, we show that the most important driver of the periods of high sea level over the region is the westerly winds, whereas the Random Forest reveals that the driver of the most extreme peaks depends on the geometry of the local coastline. LSTM is most accurate overall, although predicting the highest values without overfitting the model remains challenging. Despite being less accurate, Random Forest agrees well with the LSTM findings, making it suitable for predictions of extreme sea level events at locations with short and/or patchy tide gauge observations.
 
