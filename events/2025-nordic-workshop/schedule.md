@@ -28,7 +28,7 @@ img {
 | 10:20 | Oral | [Hilda Sandström](#hilda) | [TBA](#hilda) |
 | 10:40 | | Coffee break |  |
 | 11:10 | Oral | [Dan Stowell](#dan) | [Bioacoustic AI for nature: how can it tread lightly?](#dan) |
-| 11:40 | Oral | [John Martinsson](#john) | [Understanding the World Through Sound: Enhancing Biodiversity Monitoring](#john) |
+| 11:40 | Oral | [John Martinsson](#john) | [Better Labels, Better AI: Enhancing Bioacoustic Event Detection for Biodiversity Monitoring](#john) |
 | 12:00 | | Lunch |  |
 | 13:15 | Keynote | [Christian Igel](#christian) | [Deep learning for large-scale ecosystem monitoring](#christian) |
 | 14:00 | Oral | [Nico Lang](#nico) | [Learning From Global Earth Observation Data](#nico) |
@@ -141,7 +141,7 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 [Back to top of page](#top)
 
 <a name="john"></a>
-**11:40 Oral: John Martinsson,** RISE Research Institutes of Sweden: *Understanding the World Through Sound: Enhancing Biodiversity Monitoring*
+**11:40 Oral: John Martinsson,** RISE Research Institutes of Sweden
 
 ![](/events/2025-nordic-workshop/martinsson.webp)
 
