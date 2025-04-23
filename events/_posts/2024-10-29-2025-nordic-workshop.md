@@ -55,10 +55,10 @@ For more information about the program, check the [detailed schedule](/events/20
 * **Alouette van Hove,** University of Oslo: *Navigating methane plumes: A journey from drone observations to flux estimates*
 * **Edmond Sacre,** Swedish University of Agricultural Sciences: *Mapping and conservation of aquatic species - potential advances with deep learning*
 * **Shorouq Zahra,** RISE Research Institutes of Sweden: *The challenges of using LLMs to extract data on extreme climate events*
-* **Nico Lang,** University of Copenhagen and Pioneer Centre for AI: *TBA*
-* **Hilda Sandström,** Aalto University: *TBA*
+* **Nico Lang,** University of Copenhagen and Pioneer Centre for AI: *Learning From Global Earth Observation Data*
+* **Hilda Sandström,** Aalto University: *Machine Learning for Mass Spectrometry in Atmospheric Chemistry*
 * **David Thulke,** RWTH Aachen University: *Assessing and Improving ClimateGPT's Faithfulness in Retrieval Augmented Generation*
-* **John Martinsson,** RISE Research Institutes of Sweden: *Understanding the World Through Sound: Enhancing Biodiversity Monitoring*
+* **John Martinsson,** RISE Research Institutes of Sweden: *Better Labels, Better AI: Enhancing Bioacoustic Event Detection for Biodiversity Monitoring*
 
 ## Poster presentations
 

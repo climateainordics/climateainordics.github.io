@@ -25,7 +25,7 @@ img {
 | 9:10 | | Olof Mogren | Opening remarks |
 | 9:15 | Keynote | [Oisin Mac Aodha](#oisin) | [AI-Powered Biodiversity Monitoring](#oisin) |
 | 10:00 | Oral | [Edmond Sacre](#edmond) | [Mapping and conservation of aquatic species - potential advances with deep learning](#edmond) |
-| 10:20 | Oral | [Hilda Sandström](#hilda) | [TBA](#hilda) |
+| 10:20 | Oral | [Hilda Sandström](#hilda) | [Machine Learning for Mass Spectrometry in Atmospheric Chemistry](#hilda) |
 | 10:40 | | Coffee break |  |
 | 11:10 | Oral | [Dan Stowell](#dan) | [Bioacoustic AI for nature: how can it tread lightly?](#dan) |
 | 11:40 | Oral | [John Martinsson](#john) | [Better Labels, Better AI: Enhancing Bioacoustic Event Detection for Biodiversity Monitoring](#john) |
@@ -114,9 +114,11 @@ For speakers, see presentation instructions [here](speaker-instructions.html).
 
 ![](/events/2025-nordic-workshop/sandstrom.jpg)
 
-**Title**: TBA
+**Title**: Machine Learning for Mass Spectrometry in Atmospheric Chemistry
 
-**Abstract**: TBA
+**Abstract**: Mass spectrometry is a key technique for analyzing the chemical composition of the atmosphere, helping to identify pollutants, track chemical reactions, and understand the formation of airborne particles. However, interpreting mass spectrometry data is challenging due to the vast number of molecules involved, their low concentrations, and their variability. Machine learning is increasingly being used to enhance both experimental design and the identification of unknown compounds, enabling new insights from mass spectrometry data.
+
+This talk will explore two key ways in which machine learning can be utilized for mass spectrometry in atmospheric chemistry. One application focuses on optimizing experimental techniques by predicting how different chemicals behave during analysis, improving the detection of substances such as pesticides. Another application involves identifying unknown molecules by recognizing patterns in their chemical properties and reactivities, offering a clearer understanding of atmospheric processes leading to the formation of atmospheric particles.
 
 *Hilda Sandström is a computational chemist specializing in atmospheric chemistry and astrochemistry. She obtained her graduate degree from Chalmers University of Technology in computational chemistry applied to the (astro-) chemistry of hydrogen cyanide and its polymers. Since two years, she is a postdoctoral researcher at Aalto University and the Virtual laboratory for molecular level atmospheric transformations (VILMA) center of excellence in Espoo, Finland.*
 
