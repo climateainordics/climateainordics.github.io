@@ -1,10 +1,3 @@
-## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Earth Observation,Urban Planning,Computer Vision,Machine Learning">
-<span title="Data scientist interested in geo data analysis and AI applicacions. Researcher."><strong>Karen Baca, Researcher</strong></span>
-<br />
-Earth Observation * Urban Planning * Computer Vision * Machine Learning
-</div>
-
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -750,6 +743,12 @@ Earth Observation * Climate Modeling * Sustainable Transport * Sustainable Citie
 Biodiversity * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.linkedin.com/in/mohammadhassanshakil/) * [Research group](https://www.ntnu.edu/employees/hassan.shakil) * [Publications (Scholar)](https://scholar.google.com/citations?user=jeLQ5RQAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-7625-8353) * [BlueSky](https://bsky.app/profile/hassanshakil.bsky.social)
 </div>
 
+<div class="content" markdown="1" data-tags="Earth Observation,Urban Planning,Computer Vision,Machine Learning">
+<span title="Data scientist interested in geo data analysis and AI applicacions. Researcher."><strong>Karen Baca, Researcher</strong></span>
+<br />
+Earth Observation * Urban Planning * Computer Vision * Machine Learning
+</div>
+
 ## Supporting Affiliates (Outside Nordics)
 <div class="content" markdown="1" data-tags="Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI">
 <span title="I am a lecturer in Urban Planning at the University of Auckland, bringing over 13 years of experience in both research and practice. My focus is on addressing climate change challenges, enhancing urban resilience, promoting regeneration, and advocating for environmental justice. I am particularly interested in understanding and mitigating the risks that urban areas encounter, especially those related to climate change and natural hazards. My research examines how cities can adapt to these increasing threats, emphasising resilience, risk reduction, and sustainable planning to protect communities and infrastructure. Assistant ProfessorUniversity of Auckland."><strong>Iresh Jayawardena, Assistant Professor, University of Auckland</strong></span>
@@ -953,4 +952,52 @@ Climate Modeling * NLP * Machine Learning * Deep Learning * [More info (research
 <span title="Post DocAalto University."><strong>Alexander Nikitin, Post Doc, Aalto University</strong></span>
 <br />
 Efficient or Sustainable AI * NLP * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://anikitin.me)
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Urban Planning,NLP,Computer Vision,Deep Learning">
+<span title="I&#x27;m currently a research engineer on the Gemini Audio Team, prior to GDM I was a research engineer @ Google Research Africa, where I work on global weather nowcasting.  I&#x27;m also part of AfriClimateAI. IndustryGoogle DeepMind."><strong>Santiago Hincapie Potes, Industry, Google DeepMind</strong></span>
+<br />
+Earth Observation * Climate Modeling * Urban Planning * NLP * Computer Vision * Deep Learning * [Research group](https://google) * [Publications (Scholar)](https://deepmind.google/)
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Sustainable Production,NLP,Machine Learning,Deep Learning">
+<span title="I am a geospatial data scientist working at the intersection of biodiversity, climate change adaptation,  and computational techniques (AI, machine learning) for geospatial data. I have more than 10 years of experience in RS, GIS, ML and statistics for spatial data. Currently moved to Sweden from the UK. PhD, ResearcherCrops For the Future, Gothenburg University (Alumnus)."><strong>Ebrahim Jahanshiri, PhD, Researcher, Crops For the Future, Gothenburg University (Alumnus)</strong></span>
+<br />
+Earth Observation * Biodiversity * Sustainable Production * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://ejdataworks.com) * [Research group](https://cropsforthefutureuk.org) * [Publications (Scholar)](https://scholar.google.com/citations?user=h3W2FdUAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-9110-1880)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Urban Planning,Sustainable Transport,Sustainable Production,Marine Ecology,Efficient or Sustainable AI">
+<span title="PhD, ResearcherAfrica Research &amp; Impact Network (ARIN)."><strong>Eurallyah Akinyi, PhD, Researcher, Africa Research &amp; Impact Network (ARIN)</strong></span>
+<br />
+Climate Modeling * Urban Planning * Sustainable Transport * Sustainable Production * Marine Ecology * Efficient or Sustainable AI
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,NLP,Machine Learning,Deep Learning">
+<span title="PhD, ResearcherCharles University / Blekinge Technical Institute."><strong>Doudou BA, PhD, Researcher, Charles University / Blekinge Technical Institute</strong></span>
+<br />
+Earth Observation * Climate Modeling * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://19scholar.com/) * [Research group](https://natur.cuni.cz/geografie/katedry-a-pracoviste/katedra-fyzicke-geografie-a-geoekologie/veda-a-vyzkum/hydrologie) * [Publications (Scholar)](https://scholar.google.com/citations?user=h6AYRwYAAAAJ&amp;hl=fr) * [ORCID](https://orcid.org/0000-0002-5352-4508)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,NLP,Computer Vision,Machine Learning,Deep Learning">
+<span title="I graduated with an MSc degree from Bahir Dar Institute of Technology and am currently working on research and teaching at Mizan-Tepi University. My research interests include AI for education and climate change, machine learning, and pre-trained models. ResearcherMizan-Tepi University."><strong>Gebregziabihier Nigusie, Researcher, Mizan-Tepi University</strong></span>
+<br />
+Climate Modeling * NLP * Computer Vision * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=EnKqr9QAAAAJ) * [ORCID](https://orcid.org/0000-0001-5060-9445)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI">
+<span title="I am a dedicated researcher with a background in built Environment with a strong interest in the new and emerging technologies and their integration in the built environment and climate change spaces .  ResearcherThe Africa Research and Impact Network (ARIN)."><strong>Nancy Mutwii, Researcher, The Africa Research and Impact Network (ARIN)</strong></span>
+<br />
+Climate Modeling * Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Efficient or Sustainable AI
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Computer Vision,Machine Learning,Deep Learning">
+<span title="PhD student at University Las Palmas de Gran Canaria researching about Graph Neural Networks applied to Ocean Forecasting . PhD Studentsupporting affiliates."><strong>Giovanny Alejandro Cuervo Londono, PhD Student, supporting affiliates</strong></span>
+<br />
+Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://github.com/gacuervol/gacuervol-portfolio) * [Research group](https://www.ecoaqua.eu/es/ofyga.html) * [Publications (Scholar)](https://scholar.google.com/citations?user=DBxSqU8AAAAJ&amp;hl=es) * [ORCID](https://orcid.org/0000-0002-8368-7324)
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI">
+<span title="Engineer with experience in development of complex software based systems and business and team development. IndustryFounder of a company that wants to develop AI based applications for handling global risks, including climate change.."><strong>Devansh Mehta, Industry, Founder of a company that wants to develop AI based applications for handling global risks, including climate change.</strong></span>
+<br />
+Earth Observation * Climate Modeling * Sustainable Transport * Sustainable Cities * Efficient or Sustainable AI * [More info (researcher profile)](https://www.linkedin.com/in/devanshm) * [Research group](https://qualisafe.se)
 </div>
