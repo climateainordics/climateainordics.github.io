@@ -16,7 +16,7 @@ By joining Climate AI Nordics (CAIN), you can mark your affiliation with us by s
 
 If you have news or events relevant to AI for climate- and environment-related applications in the Nordic region, [feel free to inform us about this.](/contact/)
 
-Fill in your details below to sign-up for our mailing list. We will send a newsletter roughly once per month.
+Fill in your email below to sign-up for our mailing list. We will send a newsletter roughly once per month.
 
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
