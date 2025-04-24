@@ -15,6 +15,9 @@ main:
   - title: "Join"
     url: /join/
 
+  - title: "Follow"
+    url: /follow/
+
   #- title: "Projects"
   #  url: /projects/
 

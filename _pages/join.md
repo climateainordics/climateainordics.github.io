@@ -8,6 +8,8 @@ permalink: /join/
 
 Use the form below to join Climate AI Nordics (CAIN)!
 
+The following information is for researchers active within the field of AI and machine learning applied to problems related to the environment and climate change. [If you instead would only like to follow our newsletter and social media, click here!](/follow/)
+
 [Click here to open the form in its own window](https://forms.gle/RJ6HgucfwR1eKFfM6).
 
 By joining Climate AI Nordics (CAIN), you will receive invitations to seminars and workshops, and you can mark your affiliation with us by showing your name on our [people](/people/) page. You will also be able to share relevant news and events to the network through our webpage and our newsletter, and also communicate with others in the network, e.g. via our Slack workspace. Affiliated researchers operating in the Nordic region can also use "Climate AI Nordics" as an additional affiliation in relevant publications (in areas touching the intersection of AI, climate and/or the environment).
