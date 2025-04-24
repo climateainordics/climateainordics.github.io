@@ -18,5 +18,5 @@ If you have news or events relevant to AI for climate- and environment-related a
 
 Fill in your details below to sign-up for our mailing list. We will send a newsletter roughly once per month.
 
-<iframe src="http://eepurl.com/i4SljY" width="640" height="1000" frameborder="1" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://ccainordics.us8.list-manage.com/subscribe?u=11f6980a101c05be7c24d6fe3&id=8e3d166c12" width="640" height="1000" frameborder="1" marginheight="0" marginwidth="0">Loading…</iframe>
 
