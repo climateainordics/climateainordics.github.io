@@ -1,3 +1,10 @@
+## Affiliates - Recently Joined
+<div class="content" markdown="1" data-tags="">
+<span title="Helena is Professor of Marine Geology and Assistant Head of Department at the Department of Geology at Lund University in Sweden. She works with marine research questions, where she, among other things, uses ML for image analysis of marine microfossils, primarily µCT scans, and where ML is very useful for data segmentation. ProfessorLund University."><strong>Helena Filipsson, Professor, Lund University</strong></span>
+<br />
+[More info (researcher profile)](https://www.linkedin.com/in/helenafilipsson) * [Publications (Scholar)](https://scholar.google.com/citations?user=A4vL8QgAAAAJ) * [ORCID](https://orcid.org/0000-0001-7200-8608) * [BlueSky](https://bsky.app/profile/helenalf.bsky.social)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
