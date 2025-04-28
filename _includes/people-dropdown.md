@@ -6,11 +6,11 @@
 <option value="Bayesian Optimisation">Bayesian Optimisation (1)</option>
 <option value="Biodiversity">Biodiversity (47)</option>
 <option value="Climate Impacts">Climate Impacts (2)</option>
-<option value="Climate Modeling">Climate Modeling (50)</option>
+<option value="Climate Modeling">Climate Modeling (51)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
 <option value="Computer Vision">Computer Vision (56)</option>
 <option value="Deep Learning">Deep Learning (79)</option>
-<option value="Earth Observation">Earth Observation (61)</option>
+<option value="Earth Observation">Earth Observation (62)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
 <option value="Education">Education (1)</option>

@@ -1008,3 +1008,9 @@ Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep
 <br />
 Earth Observation * Climate Modeling * Sustainable Transport * Sustainable Cities * Efficient or Sustainable AI * [More info (researcher profile)](https://www.linkedin.com/in/devanshm) * [Research group](https://qualisafe.se)
 </div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling">
+<span title="My current research focus is on improving satellite measurements of frozen particles by combining microwave and infrared sensors. This will also contribute to the data assimilation process in weather forecast models. Post DocChalmers University Of Technology."><strong>Anqi Li, Post Doc, Chalmers University Of Technology</strong></span>
+<br />
+Earth Observation * Climate Modeling
+</div>
