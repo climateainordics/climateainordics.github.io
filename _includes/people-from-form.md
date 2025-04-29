@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI">
-<span title="Engineer with experience in development of complex software based systems and business and team development. IndustryFounder of a company that wants to develop AI based applications for handling global risks, including climate change.."><strong>Devansh Mehta, Industry, Founder of a company that wants to develop AI based applications for handling global risks, including climate change.</strong></span>
-<br />
-Earth Observation * Climate Modeling * Sustainable Transport * Sustainable Cities * Efficient or Sustainable AI * [More info (researcher profile)](https://www.linkedin.com/in/devanshm) * [Research group](https://qualisafe.se)
-</div>
-
 <div class="content" markdown="1" data-tags="">
 <span title="Helena is Professor of Marine Geology and Assistant Head of Department at the Department of Geology at Lund University in Sweden. She works with marine research questions, where she, among other things, uses ML for image analysis of marine microfossils, primarily µCT scans, and where ML is very useful for data segmentation. ProfessorLund University."><strong>Helena Filipsson, Professor, Lund University</strong></span>
 <br />
@@ -784,6 +778,12 @@ Biodiversity * NLP * Machine Learning * Deep Learning * [More info (researcher p
 <span title="Data scientist interested in geo data analysis and AI applicacions. Researcher."><strong>Karen Baca, Researcher</strong></span>
 <br />
 Earth Observation * Urban Planning * Computer Vision * Machine Learning
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI">
+<span title="Engineer with experience in development of complex software based systems and business and team development. IndustryFounder of a company that wants to develop AI based applications for handling global risks, including climate change.."><strong>Devansh Mehta, Industry, Founder of a company that wants to develop AI based applications for handling global risks, including climate change.</strong></span>
+<br />
+Earth Observation * Climate Modeling * Sustainable Transport * Sustainable Cities * Efficient or Sustainable AI * [More info (researcher profile)](https://www.linkedin.com/in/devanshm) * [Research group](https://qualisafe.se)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
