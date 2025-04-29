@@ -1014,3 +1014,9 @@ Climate Modeling * Biodiversity * Urban Planning * Sustainable Transport * Susta
 <br />
 Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://github.com/gacuervol/gacuervol-portfolio) * [Research group](https://www.ecoaqua.eu/es/ofyga.html) * [Publications (Scholar)](https://scholar.google.com/citations?user=DBxSqU8AAAAJ&amp;hl=es) * [ORCID](https://orcid.org/0000-0002-8368-7324)
 </div>
+
+<div class="content" markdown="1" data-tags="Efficient or Sustainable AI,Machine Learning,Deep Learning">
+<span title="Soy estudiante de doctorado en Automatica, con maestria de controles industriales e ingeniera electronica. PhD Student."><strong>Sorangela Cardenas Rodriguez, PhD Student</strong></span>
+<br />
+Efficient or Sustainable AI * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.es/citations?hl=es&amp;user=duCWRBsAAAAJ) * [ORCID](https://orcid.org/0000-0002-1770-2741)
+</div>
