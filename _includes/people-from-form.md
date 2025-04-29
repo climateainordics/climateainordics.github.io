@@ -1,8 +1,20 @@
 ## Affiliates - Recently Joined
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI">
+<span title="Engineer with experience in development of complex software based systems and business and team development. IndustryFounder of a company that wants to develop AI based applications for handling global risks, including climate change.."><strong>Devansh Mehta, Industry, Founder of a company that wants to develop AI based applications for handling global risks, including climate change.</strong></span>
+<br />
+Earth Observation * Climate Modeling * Sustainable Transport * Sustainable Cities * Efficient or Sustainable AI * [More info (researcher profile)](https://www.linkedin.com/in/devanshm) * [Research group](https://qualisafe.se)
+</div>
+
 <div class="content" markdown="1" data-tags="">
 <span title="Helena is Professor of Marine Geology and Assistant Head of Department at the Department of Geology at Lund University in Sweden. She works with marine research questions, where she, among other things, uses ML for image analysis of marine microfossils, primarily µCT scans, and where ML is very useful for data segmentation. ProfessorLund University."><strong>Helena Filipsson, Professor, Lund University</strong></span>
 <br />
 [More info (researcher profile)](https://www.linkedin.com/in/helenafilipsson) * [Publications (Scholar)](https://scholar.google.com/citations?user=A4vL8QgAAAAJ) * [ORCID](https://orcid.org/0000-0001-7200-8608) * [BlueSky](https://bsky.app/profile/helenalf.bsky.social)
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling">
+<span title="My current research focus is on improving satellite measurements of frozen particles by combining microwave and infrared sensors. This will also contribute to the data assimilation process in weather forecast models. Post DocChalmers University Of Technology."><strong>Anqi Li, Post Doc, Chalmers University Of Technology</strong></span>
+<br />
+Earth Observation * Climate Modeling
 </div>
 
 ## Affiliates
@@ -474,6 +486,24 @@ Climate Modeling * Machine Learning * [Publications (Scholar)](https://scholar.g
 Molecular Modeling of Atmospheric Chemistry * [Research group](https://www.helsinki.fi/molas) * [Publications (Scholar)](https://scholar.google.com/citations?user=uySoFa4AAAAJ&amp;hl=fi&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-0384-7277)
 </div>
 
+<div class="content" markdown="1" data-tags="Efficient or Sustainable AI,NLP,Computer Vision,Machine Learning,Deep Learning">
+<span title="Post DocAalto University."><strong>Alexander Nikitin, Post Doc, Aalto University</strong></span>
+<br />
+Efficient or Sustainable AI * NLP * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://anikitin.me)
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Sustainable Production,NLP,Machine Learning,Deep Learning">
+<span title="I am a geospatial data scientist working at the intersection of biodiversity, climate change adaptation,  and computational techniques (AI, machine learning) for geospatial data. I have more than 10 years of experience in RS, GIS, ML and statistics for spatial data. Currently moved to Sweden from the UK. PhD, ResearcherCrops For the Future, Gothenburg University (Alumnus)."><strong>Ebrahim Jahanshiri, PhD, Researcher, Crops For the Future, Gothenburg University (Alumnus)</strong></span>
+<br />
+Earth Observation * Biodiversity * Sustainable Production * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://ejdataworks.com) * [Research group](https://cropsforthefutureuk.org) * [Publications (Scholar)](https://scholar.google.com/citations?user=h3W2FdUAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-9110-1880)
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,NLP,Machine Learning,Deep Learning">
+<span title="PhD, ResearcherCharles University / Blekinge Technical Institute."><strong>Doudou BA, PhD, Researcher, Charles University / Blekinge Technical Institute</strong></span>
+<br />
+Earth Observation * Climate Modeling * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://19scholar.com/) * [Research group](https://natur.cuni.cz/geografie/katedry-a-pracoviste/katedra-fyzicke-geografie-a-geoekologie/veda-a-vyzkum/hydrologie) * [Publications (Scholar)](https://scholar.google.com/citations?user=h6AYRwYAAAAJ&amp;hl=fr) * [ORCID](https://orcid.org/0000-0002-5352-4508)
+</div>
+
 <div class="content" markdown="1" data-tags="">
 <span title="I&#x27;m a PhD student at the Center for Mathematical Sciences focusing on anomaly detection and machine learning in earth observations and remote sensing. PhD StudentLund University."><strong>Oskar Åström, PhD Student, Lund University</strong></span>
 <br />
@@ -697,7 +727,7 @@ Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Ma
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Urban Planning,Sustainable Cities,Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning,Sustainable Heating">
-<span title="With a background in theoretical physics and machine learning, I work as an analytics engineer at Aira, a Swedish company dedicated to replacing fossil-fueled heating systems in homes across Europe with heat pumps.  In Aira’s central data and optimization team, I work at the intersection of data engineering and data science, contributing to both infrastructure and analytical solutions. Our team develops and applies machine learning models to optimize heat pump performance and support business operations.  In 2021, I collaborated with SMHI on a project to digitize historical handwritten weather journals using a deep neural network. SMHI’s Ashwin Mohanan, who was also involved in this project, will be attending the conference as well. IndustryAira."><strong>Valter Fallenius, Industry, Aira</strong></span>
+<span title="With a background in theoretical physics and machine learning, I work as an analytics engineer at Aira, a Swedish company dedicated to replacing fossil-fueled heating systems in homes across Europe with heat pumps.  In Aira’s central data and optimization team, I work at the intersection of data engineering and data science, contributing to both infrastructure and analytical solutions. Our team develops and applies machine learning models to optimize heat pump performance and support business operations.  In 2021, I collaborated with SMHI on a project to digitize historical handwritten weather journals using a deep neural network. SMHI’s Ashwin Mohanan, who was also involved in this project, will be attending the conference as well. AiraAira."><strong>Valter Fallenius, Aira, Aira</strong></span>
 <br />
 Earth Observation * Climate Modeling * Urban Planning * Sustainable Cities * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * Sustainable Heating * [More info (researcher profile)](https://www.airahome.com)
 </div>
@@ -955,34 +985,16 @@ Earth Observation * Climate Modeling * Urban Planning * Sustainable Transport * 
 Climate Modeling * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://jmj2316.notion.site/Minjong-Cheon-8fb77c0f123c4924a5e80a437e2124b1) * [Publications (Scholar)](https://scholar.google.com/citations?user=UZAaM7oAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0001-7589-4078)
 </div>
 
-<div class="content" markdown="1" data-tags="Efficient or Sustainable AI,NLP,Computer Vision,Machine Learning,Deep Learning">
-<span title="Post DocAalto University."><strong>Alexander Nikitin, Post Doc, Aalto University</strong></span>
-<br />
-Efficient or Sustainable AI * NLP * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://anikitin.me)
-</div>
-
 <div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Urban Planning,NLP,Computer Vision,Deep Learning">
 <span title="I&#x27;m currently a research engineer on the Gemini Audio Team, prior to GDM I was a research engineer @ Google Research Africa, where I work on global weather nowcasting.  I&#x27;m also part of AfriClimateAI. IndustryGoogle DeepMind."><strong>Santiago Hincapie Potes, Industry, Google DeepMind</strong></span>
 <br />
 Earth Observation * Climate Modeling * Urban Planning * NLP * Computer Vision * Deep Learning * [Research group](https://google) * [Publications (Scholar)](https://deepmind.google/)
 </div>
 
-<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Sustainable Production,NLP,Machine Learning,Deep Learning">
-<span title="I am a geospatial data scientist working at the intersection of biodiversity, climate change adaptation,  and computational techniques (AI, machine learning) for geospatial data. I have more than 10 years of experience in RS, GIS, ML and statistics for spatial data. Currently moved to Sweden from the UK. PhD, ResearcherCrops For the Future, Gothenburg University (Alumnus)."><strong>Ebrahim Jahanshiri, PhD, Researcher, Crops For the Future, Gothenburg University (Alumnus)</strong></span>
-<br />
-Earth Observation * Biodiversity * Sustainable Production * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://ejdataworks.com) * [Research group](https://cropsforthefutureuk.org) * [Publications (Scholar)](https://scholar.google.com/citations?user=h3W2FdUAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-9110-1880)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Modeling,Urban Planning,Sustainable Transport,Sustainable Production,Marine Ecology,Efficient or Sustainable AI">
 <span title="PhD, ResearcherAfrica Research &amp; Impact Network (ARIN)."><strong>Eurallyah Akinyi, PhD, Researcher, Africa Research &amp; Impact Network (ARIN)</strong></span>
 <br />
 Climate Modeling * Urban Planning * Sustainable Transport * Sustainable Production * Marine Ecology * Efficient or Sustainable AI
-</div>
-
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,NLP,Machine Learning,Deep Learning">
-<span title="PhD, ResearcherCharles University / Blekinge Technical Institute."><strong>Doudou BA, PhD, Researcher, Charles University / Blekinge Technical Institute</strong></span>
-<br />
-Earth Observation * Climate Modeling * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://19scholar.com/) * [Research group](https://natur.cuni.cz/geografie/katedry-a-pracoviste/katedra-fyzicke-geografie-a-geoekologie/veda-a-vyzkum/hydrologie) * [Publications (Scholar)](https://scholar.google.com/citations?user=h6AYRwYAAAAJ&amp;hl=fr) * [ORCID](https://orcid.org/0000-0002-5352-4508)
 </div>
 
 <div class="content" markdown="1" data-tags="Climate Modeling,NLP,Computer Vision,Machine Learning,Deep Learning">
@@ -1001,16 +1013,4 @@ Climate Modeling * Biodiversity * Urban Planning * Sustainable Transport * Susta
 <span title="PhD student at University Las Palmas de Gran Canaria researching about Graph Neural Networks applied to Ocean Forecasting . PhD Studentsupporting affiliates."><strong>Giovanny Alejandro Cuervo Londono, PhD Student, supporting affiliates</strong></span>
 <br />
 Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://github.com/gacuervol/gacuervol-portfolio) * [Research group](https://www.ecoaqua.eu/es/ofyga.html) * [Publications (Scholar)](https://scholar.google.com/citations?user=DBxSqU8AAAAJ&amp;hl=es) * [ORCID](https://orcid.org/0000-0002-8368-7324)
-</div>
-
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI">
-<span title="Engineer with experience in development of complex software based systems and business and team development. IndustryFounder of a company that wants to develop AI based applications for handling global risks, including climate change.."><strong>Devansh Mehta, Industry, Founder of a company that wants to develop AI based applications for handling global risks, including climate change.</strong></span>
-<br />
-Earth Observation * Climate Modeling * Sustainable Transport * Sustainable Cities * Efficient or Sustainable AI * [More info (researcher profile)](https://www.linkedin.com/in/devanshm) * [Research group](https://qualisafe.se)
-</div>
-
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling">
-<span title="My current research focus is on improving satellite measurements of frozen particles by combining microwave and infrared sensors. This will also contribute to the data assimilation process in weather forecast models. Post DocChalmers University Of Technology."><strong>Anqi Li, Post Doc, Chalmers University Of Technology</strong></span>
-<br />
-Earth Observation * Climate Modeling
 </div>
