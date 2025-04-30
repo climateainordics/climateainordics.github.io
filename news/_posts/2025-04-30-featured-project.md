@@ -1,8 +1,8 @@
 ---
 title: "Featured Project: Acoustic Monitoring of Guillemot Life at Stora Karlsö"
-shortversion: ""
-abstract: ""
-socialmedia: ""
+shortversion: "The AukLab project on Stora Karlsö enhances its AI-driven monitoring of Common Guillemots by adding continuous acoustic recording to its existing camera surveillance. A new system using synchronized Raspberry Pi units captures and analyzes guillemot vocalizations, integrating this audio data with visual and thermal information. Researchers aim to use machine learning on this combined dataset to gain deeper insights into social interactions, parental care, environmental responses, and potentially even detect fish arrivals acoustically. This addition represents a significant step towards creating a comprehensive digital representation of the guillemot colony for broader research access."
+abstract: "The AukLab project on Stora Karlsö enhances its AI-driven monitoring of Common Guillemots by adding continuous acoustic recording to its existing camera surveillance. A new system using synchronized Raspberry Pi units captures and analyzes guillemot vocalizations, integrating this audio data with visual and thermal information. Researchers aim to use machine learning on this combined dataset to gain deeper insights into social interactions, parental care, environmental responses, and potentially even detect fish arrivals acoustically. This addition represents a significant step towards creating a comprehensive digital representation of the guillemot colony for broader research access."
+socialmedia: "The AukLab project on Stora Karlsö enhances its AI-driven monitoring of Common Guillemots by adding continuous acoustic recording to its existing camera surveillance. A new system using synchronized Raspberry Pi units captures and analyzes guillemot vocalizations, integrating this audio data with visual and thermal information. Researchers aim to use machine learning on this combined dataset to gain deeper insights into social interactions, parental care, environmental responses, and potentially even detect fish arrivals acoustically. This addition represents a significant step towards creating a comprehensive digital representation of the guillemot colony for broader research access."
 people:
 - John Martinsson
 - Olof Mogren
