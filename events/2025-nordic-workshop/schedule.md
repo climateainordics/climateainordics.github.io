@@ -42,7 +42,7 @@ img {
 | 18:00 | | Dinner | |
 
 <a name="posters"></a>
-## 16:10 - 17:45 Poster presentations
+## 16:20 - 18:00 Poster presentations
 
 {% assign poster_number = 1 %}
 
