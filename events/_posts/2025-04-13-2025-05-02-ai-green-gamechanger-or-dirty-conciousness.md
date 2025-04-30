@@ -1,5 +1,5 @@
 ---
-title: "AI -a green gamechanger or a black conciousness?"
+title: "AI - a green gamechanger or a dirty conciousness?"
 shortversion: "How can we utilize the enormous potential of artificial intelligence (AI) while also taking into account its impact on the climate? Artificial intelligence has the potential to transform large parts of our society and play a crucial role in the green transition. But at the same time, we must be aware of the energy consumption and the resource load that the use of AI also entails."
 abstract: "How can we utilize the enormous potential of artificial intelligence (AI) while also taking into account its impact on the climate? Artificial intelligence has the potential to transform large parts of our society and play a crucial role in the green transition. But at the same time, we must be aware of the energy consumption and the resource load that the use of AI also entails."
 socialmedia: "How can we utilize the enormous potential of artificial intelligence (AI) while also taking into account its impact on the climate? Artificial intelligence has the potential to transform large parts of our society and play a crucial role in the green transition. But at the same time, we must be aware of the energy consumption and the resource load that the use of AI also entails."
