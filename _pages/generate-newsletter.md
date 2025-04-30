@@ -88,7 +88,7 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 {% assign items_listed = false %}
 
-{% for p in site.posts | reverse %}
+{% for p in site.posts reversed %}
   {% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
 
   {% if p.event_date %}
