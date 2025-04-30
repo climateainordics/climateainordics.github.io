@@ -30,9 +30,6 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% for p in site.posts %}
 {% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
 {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
-{% if posttime < newsletter_start_time and p.first_page != true %}
-{% continue %}
-{% endif %}
 
 {% if p.first_page %}
 {% assign items_listed = true %}
