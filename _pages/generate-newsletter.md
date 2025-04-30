@@ -174,18 +174,13 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% endfor %}
 
 
-# Spread the word!
+# Your news in the newsletter!
 
-Be sure to follow us on [LinkedIn](https://www.linkedin.com/company/climate-ai-nordics/) and [BlueSky](https://bsky.app/profile/climateainordics.com). Climate AI Nordics will have the most impact if you repost and like our stories! Also make sure to share your work with us, by sending us an email ([contact@climateainordics.com](mailto:contact@climateainordics.com)), posting in our Slack or some other channel, and we'll add it to the news feed! Take the chance of showcasing your work or your events to the community!**
+**Make sure to share your work with us, by sending us an email ([contact@climateainordics.com](mailto:contact@climateainordics.com)), posting in our Slack or some other channel, and we'll add it to the news feed! Take the chance of showcasing your work or your events to the community!**
+
+Also be sure to follow us on [LinkedIn](https://www.linkedin.com/company/climate-ai-nordics/) and [BlueSky](https://bsky.app/profile/climateainordics.com). Climate AI Nordics will have the most impact if you repost and like our stories!
 
 **[Climate AI Nordics](https://climateainordics.com/)** is a network of [researchers](https://climateainordics.com//people/) working to harness AI in tackling the climate crisis through both mitigation and adaptation.
 
 We promote AI-based tools and optimization methods that support sustainable decision-making—helping reduce emissions, restore ecosystems, and build climate resilience.
-
-Our goals:
-
-- *Connect Nordic researchers through seminars and workshops*
-- *Develop AI-driven solutions for sustainability, climate justice, and green innovation*
-
-Together, we aim to accelerate progress by sharing knowledge, tools, and expertise for impactful climate action.
 
