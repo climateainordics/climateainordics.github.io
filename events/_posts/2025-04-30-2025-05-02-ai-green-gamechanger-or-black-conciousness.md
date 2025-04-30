@@ -18,4 +18,6 @@ At the conference, you will meet participants including Caroline Stage Olsen (Mi
 
 This conference will be in Danish.
 
+This event is not organized by or affiliated with Climate AI Nordics.
+
 More info: [https://www.danskindustri.dk/brancher/di-digital/events-og-netvark/arrangementer/2025/ai--og-klimakonference/](https://www.danskindustri.dk/brancher/di-digital/events-og-netvark/arrangementer/2025/ai--og-klimakonference/).
