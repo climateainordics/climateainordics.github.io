@@ -182,5 +182,5 @@ Also be sure to follow us on [LinkedIn](https://www.linkedin.com/company/climate
 
 **[Climate AI Nordics](https://climateainordics.com/)** is a network of [researchers](https://climateainordics.com//people/) working to harness AI in tackling the climate crisis through both mitigation and adaptation.
 
-We promote AI-based tools and optimization methods that support sustainable decision-making—helping reduce emissions, restore ecosystems, and build climate resilience.
+We promote the development of AI-based tools and optimization methods that support sustainable decision-making—helping reduce emissions, restore ecosystems, and build climate resilience.
 
