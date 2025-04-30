@@ -87,6 +87,8 @@ img {
 | {{ poster_number }}  | [Anupama Xavier](#anupama) | [Comparative predictability of eastern and western north pacific blocking events](#anupama) |
 {% assign poster_number = poster_number | plus: 1 -%}
 | {{ poster_number }}  | [Ankit Kariyaa](#ankit) | [Seamless Mosaics from Non-overlapping Satellite Images](#ankit) |
+{% assign poster_number = poster_number | plus: 1 -%}
+| {{ poster_number }}  | [Francesca Larosa](#francesca) | [TBA](#francesca) |
 
 
 ## Speaker instructions.
@@ -451,6 +453,14 @@ reducing the uncertainty in aboveground carbon stock estimation.
 **Title**: Seamless Mosaics from Non-overlapping Satellite Images<br />
 **Abstract**: An image mosaic is created by combining several smaller images into one larger image. However,  variations in imaging conditions can lead to noticeable seams between these images, which are visually unappealing and may interfere with further analysis. Our solution focuses on eliminating these seamline effects from an existing mosaic, using only the information about where the images were joined, without access to any overlapping source images.
 We validate our approach through experiments with artificial problems that have known ground truth, as well as by applying it to actual satellite imagery. This demonstrates its effectiveness in real-world scenarios.
+
+[Back to top of page](#top)
+
+{% assign poster_number = poster_number | plus: 1 %}
+<a name="francesca"></a>
+**{{ poster_number }}. Francesca Larosa**, KTH, Sweden<br />
+**Title**: TBA<br />
+**Abstract**: TBA
 
 [Back to top of page](#top)
 
