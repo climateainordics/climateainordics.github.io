@@ -44,34 +44,49 @@ img {
 <a name="posters"></a>
 ## 16:10 - 17:45 Poster presentations
 
+{% assign poster_number = 1 %}
+
 | No. | Speaker | Title |
 |---- | -------------------------- | --------------------------------------------------------------- |
-| 1   | [Sonja Aits](#sonja) | [TBA](#sonja) |
-| 2   | [Adrià Amell](#adria) | [RainOverAfrica.AI: nowcasting precipitation from geostationary imagery](#adria) |
-| 3   | [Anna Luise Von Blohn](#anna) | [TBA](#anna) |
-| 4   | [Benjamin Cretois](#benjamin) | [TBA](#benjamin) |
-| 5   | [Ellen Dejonghe](#ellen) | [TBA](#ellen) |
-| 6   | [Luisa Delgado-Márquez](#luisa) | [TBA](#luisa) |
-| 7   | [Filip Dorm](#filip) | [Large language models possess some ecological knowledge, but how much?](#filip) |
-| 8   | [Patrick Eriksson](#patrick) | [Providing space-borne ML-based atmospheric data with case-specific uncertainties](#patrick) |
-| 9  | [Ramon Fuentes Franco](#ramon) | [Pan-European high-resolution downscaling using deep learning](#ramon) |
-| 10  | [Lucia Gordon](#lucia) | [MMEarth-Bench: Global Environmental Tasks for Multimodal Geospatial Models](#lucia) |
-| 11  | [Leon Green](#leon) | [Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm](#leon) |
-| 12  | [Céline Heuzé](#celine) | [Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest](#celine) |
-| 13  | [Ankit Kariryaa](#ankit) | [TBA](#ankit) |
-| 14  | [Murathan Kurfali](#murathan) | [ClimateEval: A Comprehensive Benchmark for Climate Change NLP](#murathan) |
-| 15  | [Francesca Larosa](#francesca) | [TBA](#francesca) |
-| 16  | [Ashwin Mohanan](#ashwin) | [Dawsonia: Digitizing handwritten observations in weather journals](#ashwin) |
-| 17  | [Andrea Nascetti](#andrea) | [PANGEA: A Global And Inclusive Benchmark For Geospatial Foundation Models](#andrea) |
-| 18  | [Aleksis Pirinen, Olof Mogren](#aleksis) | [TBA](#aleksis) |
-| 19  | [Stefano Puliti](#puliti) | [Leveraging NFI Image Data for Large-Scale Forest Biodiversity Monitoring](#puliti) |
-| 20  | [Laura Helene Rasmussen](#laura) | [Quantifying the variability of winter climate in the Arctic](#laura) |
-| 21  | [Heather Reese](#heather) | [Subarctic tundra change mapping with Earth Observation and machine learning](#heather) |
-| 22  | [Jaime Caballer Revenga](#jaime) | [Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories](#jaime) |
-| 23  | [Alan Said](#alan) | [Accountability and sustainability in AI: reducing the environmental footprint of ai research](#alan) |
-| 24  | [Hui Zhang](#hui) | [Towards vertical vegetation structure models](#hui) |
-| 25  | [Dan Stowell](#dan) | [Bioacoustic AI for nature: how can it tread lightly?](#dan) |
-| 26  | [Anupama Xavier](#anupama) | [Comparative predictability of eastern and western north pacific blocking events](#anupama) |
+| {{ poster_number }}   | [Adrià Amell](#adria) | [RainOverAfrica.AI: nowcasting precipitation from geostationary imagery](#adria) |
+{% increment poster_number %}
+| {{ poster_number }}   | [Filip Dorm](#filip) | [Large language models possess some ecological knowledge, but how much?](#filip) |
+{% increment poster_number %}
+| {{ poster_number }}   | [Patrick Eriksson](#patrick) | [Providing space-borne ML-based atmospheric data with case-specific uncertainties](#patrick) |
+{% increment poster_number %}
+| {{ poster_number }}  | [Ramon Fuentes Franco](#ramon) | [Pan-European high-resolution downscaling using deep learning](#ramon) |
+{% increment poster_number %}
+| {{ poster_number }}  | [Lucia Gordon](#lucia) | [MMEarth-Bench: Global Environmental Tasks for Multimodal Geospatial Models](#lucia) |
+{% increment poster_number %}
+| {{ poster_number }}  | [Leon Green](#leon) | [Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm](#leon) |
+{% increment poster_number %}
+| {{ poster_number }}  | [Céline Heuzé](#celine) | [Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest](#celine) |
+{% increment poster_number %}
+| {{ poster_number }}  | [Ankit Kariryaa](#ankit) | [TBA](#ankit) |
+{% increment poster_number %}
+| {{ poster_number }}  | [Murathan Kurfali](#murathan) | [ClimateEval: A Comprehensive Benchmark for Climate Change NLP](#murathan) |
+{% increment poster_number %}
+| {{ poster_number }}  | [Ashwin Mohanan](#ashwin) | [Dawsonia: Digitizing handwritten observations in weather journals](#ashwin) |
+{% increment poster_number %}
+| {{ poster_number }}  | [Andrea Nascetti](#andrea) | [PANGEA: A Global And Inclusive Benchmark For Geospatial Foundation Models](#andrea) |
+{% increment poster_number %}
+| {{ poster_number }}  | [Aleksis Pirinen and Olof Mogren](#aleksis) | [Climate AI Nordics](#aleksis) |
+{% increment poster_number %}
+| {{ poster_number }}  | [Stefano Puliti](#puliti) | [Leveraging NFI Image Data for Large-Scale Forest Biodiversity Monitoring](#puliti) |
+{% increment poster_number %}
+| {{ poster_number }}  | [Laura Helene Rasmussen](#laura) | [Quantifying the variability of winter climate in the Arctic](#laura) |
+{% increment poster_number %}
+| {{ poster_number }}  | [Heather Reese](#heather) | [Subarctic tundra change mapping with Earth Observation and machine learning](#heather) |
+{% increment poster_number %}
+| {{ poster_number }}  | [Jaime Caballer Revenga](#jaime) | [Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories](#jaime) |
+{% increment poster_number %}
+| {{ poster_number }}  | [Alan Said](#alan) | [Accountability and sustainability in AI: reducing the environmental footprint of ai research](#alan) |
+{% increment poster_number %}
+| {{ poster_number }}  | [Hui Zhang](#hui) | [Towards vertical vegetation structure models](#hui) |
+{% increment poster_number %}
+| {{ poster_number }}  | [Dan Stowell](#dan) | [Bioacoustic AI for nature: how can it tread lightly?](#dan) |
+{% increment poster_number %}
+| {{ poster_number }}  | [Anupama Xavier](#anupama) | [Comparative predictability of eastern and western north pacific blocking events](#anupama) |
 
 
 ## Speaker instructions.
@@ -236,50 +251,16 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 
 ## Poster presentation details
 
-<a name="sonja"></a>
-**1. Sonja Aits**<br />
-**Title**: TBA<br />
-**Abstract**: TBA
-
-[Back to top of page](#top)
+{% assign poster_number = 1 %}
 
 <a name="adria"></a>
-**2. Adrià Amell**<br />
+**{{ poster_number }}. Adrià Amell**<br />
 **Title**: RainOverAfrica.AI: nowcasting precipitation from geostationary imagery<br />
 **Abstract**: Geostationary satellites offer an unrivalled spatiotemporal coverage, but their measurements have often been considered only complementary for the complex problem of estimating precipitation from space. We present Rain over Africa (RoA), a method based on a neural network and geostationary imagery that can provide not only continuous precipitation estimates over the entire African continent but also case-specific uncertainties, facilitating the detection of extreme events. Anyone can produce RoA estimates with a latency of about one minute after the dissemination of satellite data, enabling resilience planning through near real-time monitoring. This nowcasting aspect of RoA is not at the expense of accuracy, since it results superior to established higher latency products.	
 
 [Back to top of page](#top)
 
-<a name="anna"></a>
-**3. Anna Luise Von Blohn**<br />
-**Title**: <br />
-**Abstract**: TBA
-
-[Back to top of page](#top)
-
-<a name="benjamin"></a>
-**4. Benjamin Cretois**<br />
-**Title**: <br />
-**Abstract**: TBA
-
-[Back to top of page](#top)
-
-<a name="ellen"></a>
-**5. Ellen Dejonghe**	<br />
-**Title**: TBA<br />
-**Abstract**: TBA
-
-
-[Back to top of page](#top)
-
-<a name="luisa"></a>
-**6. Luisa Delgado-Márquez**	<br />
-**Title**: <br />
-**Abstract**: TBA
-
-
-[Back to top of page](#top)
-
+{% increment poster_number %}
 <a name="filip"></a>
 **7. Filip Dorm**<br />
 **Title**: Large language models possess some ecological knowledge, but how much?<br />
@@ -287,6 +268,7 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 
 [Back to top of page](#top)
 
+{% increment poster_number %}
 <a name="patrick"></a>
 **8. Patrick Eriksson** <br />
 **Title**: Providing space-borne ML-based atmospheric data with case-specific uncertainties<br />
@@ -294,6 +276,7 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 
 [Back to top of page](#top)
 
+{% increment poster_number %}
 <a name="ramon"></a>
 **9. Ramon Fuentes Franco**<br />
 **Title**: Pan-European high-resolution downscaling using deep learning<br />
@@ -301,23 +284,26 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 
 [Back to top of page](#top)
 
+{% increment poster_number %}
 <a name="lucia"></a>
-**10. Lucia Gordon**<br />
+**{{ poster_number }}. Lucia Gordon**<br />
 **Title**: MMEarth-Bench: Global Environmental Tasks for Multimodal Geospatial Models<br />
 **Abstract**: Pretraining deep neural networks in a self-supervised manner on large datasets can produce models that generalize to a variety of downstream tasks. This is especially beneficial for environmental monitoring tasks where reference data is often limited, preventing the application of supervised learning. Models that can interpret multimodal data to resolve ambiguities of single-modality inputs may have improved prediction capabilities on remote sensing tasks.Our work fills an important gap in existing benchmark datasets for geospatial models. First, our benchmark focuses on the natural world, whereas many existing datasets focus on the built-up world. Second, existing datasets tend to be local or cover relatively small geographic regions in the global North. However, evaluating and distinguishing performance among pretrained models that aim to contribute to planet-scale environmental monitoring requires downstream tasks that are distributed around the globe. Third, existing datasets include only a few modalities as input (e.g., RGB, Sentinel-1 (S1) SAR, and Sentinel-2 (S2) optical images), even though many additional data modalities are relevant to environmental prediction tasks.We present MMEarth-Bench, a collection of datasets for various global-scale environmental monitoring tasks. MMEarth-Bench consists of five downstream tasks of high relevance to climate change mitigation and biodiversity conservation: aboveground biomass, species occurrence, soil nitrogen, soil organic carbon, and soil pH. Each downstream task dataset is aligned with the twelve modalities comprising the MMEarth dataset, designed for global multimodal pretraining, including S2 optical images, S1 SAR, elevation, canopy height, landcover, climate variables, location, and time. We use MMEarth-Bench to evaluate pretrained models, often called “foundation models,” that make use of multiple modalities during inference, as opposed to utilizing just a single modality such as optical images. We demonstrate the importance of making use of many modalities at test time in environmental monitoring tasks and also evaluate the geographic generalization capabilities of existing models.
 
 
 [Back to top of page](#top)
 
+{% increment poster_number %}
 <a name="leon"></a>
-**11. Leon Green**<br />
+**{{ poster_number }}. Leon Green**<br />
 **Title**: Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm.<br />
 **Abstract**: Introductions of invasive species in the marine environment is increasing along with global shipping intensity. Climate change exarcebates this, while also stressing native communitites of animals making them more susceptible. To understand the impacts on biodiversity from these cumulative stressors, society needs to harness cost-effective monitoring solutions. A promising method that can yield high accuracy data is computer vision paired with deep-learning to construct object-detection models. This approach is gaining momentum in ecology, and several identification technologies are available to utilize for this approach. For animal detection and identification, the most used algorithms are from the deep neural-network (DNN) based YOLO series. In short, the algorithm is fed training images (input), and depending on how well it classifies an object (the output), the connection through this network is reinforced or weakened to improve the likelihood of input and output matching the next time. Here, we present an object-detection model created to automatically identify and track Swedens first invasive marine fish (the round goby) from underwater video. Importantly, it is also able to distinguish the species from the very similar native black goby and other commonly encountered animals. This model has been created using the with support from an online citizen science community, where people classify fish from videos and photos. These classification were then used to train the object-detection model using deep-learning neural networks in PyTorch using the ultralythics YOLOv8 package. Through this computer vision AI, we have created an accurate method to monitor small, well camouflaged invasive fish in the wild to determine impacts from biological invasions.	
 
 [Back to top of page](#top)
 
+{% increment poster_number %}
 <a name="celine"></a>
-**12. Céline Heuzé** <br/>
+**{{ poster_number }}. Céline Heuzé** <br/>
 **Title**: Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest<br />
 **Abstract**: Northern Europe is particularly vulnerable to extreme sea level events as most of its large population, financial and logistics centres are located by the coastline. Policy makers need information to plan for near- and longer-term events. There is a consensus that for Europe, in response to climate change, changes to extreme sea level will be caused by mean sea level rise rather than changes in its drivers, meaning that determining current drivers will aid such planning. Here we determine from explainable AI the meteorological and hydrological drivers of high frequency extreme sea level at nine locations on the wider North Sea – Baltic coast using Long Short Term Memory (LSTM, a type of deep recurrent neural network) and the simpler Random Forest regression on hourly tide gauge data. LSTM is optimised for targeting the excess values, or periods of prolonged high sea level; Random Forest, the block maxima, or most extreme peaks in sea level. Through permutation feature of the LSTM, we show that the most important driver of the periods of high sea level over the region is the westerly winds, whereas the Random Forest reveals that the driver of the most extreme peaks depends on the geometry of the local coastline. LSTM is most accurate overall, although predicting the highest values without overfitting the model remains challenging. Despite being less accurate, Random Forest agrees well with the LSTM findings, making it suitable for predictions of extreme sea level events at locations with short and/or patchy tide gauge observations.
 
@@ -325,31 +311,26 @@ More information at https://egusphere.copernicus.org/preprints/2025/egusphere-20
 
 [Back to top of page](#top)
 
+{% increment poster_number %}
 <a name="ankit"></a>
-**13. Ankit Kariryaa**	<br />
+**{{ poster_number }}. Ankit Kariryaa**	<br />
 **Title**: TBA<br />
 **Abstract**: TBA
 
 
 [Back to top of page](#top)
 
+{% increment poster_number %}
 <a name="murathan"></a>
-**14. Murathan Kurfali**<br />
+**{{ poster_number }}. Murathan Kurfali**<br />
 **Title**: ClimateEval: A Comprehensive Benchmark for Climate Change NLP<br />
 **Abstract**: We introduce ClimateEval, a comprehensive benchmark designed to evaluate natural language processing models across a broad range of tasks related to climate change. ClimateEval aggregates existing datasets along with a newly developed news classification dataset, created specifically for this release. This results in a benchmark of 25 tasks based on 13 datasets, covering key aspects of climate discourse, including text classification, question answering, and information extraction. Our benchmark provides a standardized evaluation suite for systematically assessing the performance of large language models (LLMs) on these tasks. Additionally, we conduct an extensive evaluation of open-source LLMs (ranging from 2B to 70B parameters) in both zero-shot and few-shot settings, analyzing their strengths and limitations in the domain of climate change.
 
 [Back to top of page](#top)
 
-<a name="francesca"></a>
-**15. Francesca Larosa**<br />
-**Title**: TBA<br />
-**Abstract**: TBA
-
-
-[Back to top of page](#top)
-
+{% increment poster_number %}
 <a name="ashwin"></a>
-**16. Ashwin Mohanan**<br />
+**{{ poster_number }}. Ashwin Mohanan**<br />
 **Title**: Dawsonia: Digitizing handwritten observations in weather journals<br />
 **Abstract**: Nearly all meteorological agencies in the world, including SMHI, possesses troves of archived observations spanning decades in paper format. Dawsonia is a proof-of-concept application which combines accurate computer vision algorithms and machine learning models to handle different forms of tabular data, convert handwritten text and produce machine-readable files. This would aid and accelerate the digitization work from the paper archives into data, which is done manually as of now. As a result of the project, SMHI aims at digitizing numerous historical weather observations that will help a better understanding of the climate, especially of the occurrence of extreme weather events.
 
@@ -361,8 +342,9 @@ Demo: https://hf.co/spaces/ai-for-obs/dawsonia-demo"
 
 [Back to top of page](#top)
 
+{% increment poster_number %}
 <a name="andrea"></a>
-**17. Andrea Nascetti**<br />
+**{{ poster_number }}. Andrea Nascetti**<br />
 **Title**: PANGEA: A Global And Inclusive Benchmark For Geospatial Foundation Models<br />
 **Abstract**: Geospatial Foundation Models (GFMs) have emerged as a promising technology for extracting representations from Earth observation (EO) data, with applications spanning urban planning, agriculture, disaster response, and more. These models, trained on large-scale EO datasets, aim to extract fundamental geospatial features that can be applied to a range of downstream tasks. However, the rapid development of GFMs has outpaced the establishment of a robust and standardized evaluation methodology, hindering the ability to effectively assess their real-world applicability. Existing works often evaluate on suboptimal downstream datasets and tasks, that are often too easy (e.g., EuroSAT, which reports >99% accuracy) or too narrow, limiting the usefulness of the evaluations to assess real-world applicability of GFMs.These benchmarks overlook critical factors, such as the diversity of sensor types, spatial resolutions, temporal dynamics, and geographical representation, limiting their capacity to evaluate the true potential of GFMs. For instance, the PhilEO Bench [1], though a valuable contribution, evaluates models only through the lens of Sentinel-2 data, limiting the breadth of the conclusions that can be drawn from this benchmark. In comparison, GEO-Bench [2] and SustainBench [3], include data from multiple sensors; however, they cover only land observations, ignore marine environments, consider only uni-modal datasets, and focus on unitemporal applications. 
 
@@ -374,23 +356,26 @@ To promote transparency and collaboration, we provide a fully open-source evalua
 
 [Back to top of page](#top)
 
+{% increment poster_number %}
 <a name="aleksis"></a>
-**18. Aleksis Pirinen and Olof Mogren**<br />
-**Title**: TBA<br />
+**{{ poster_number }}. Aleksis Pirinen and Olof Mogren**<br />
+**Title**: Climate AI Nordics<br />
 **Abstract**: TBA
 
 [Back to top of page](#top)
 
+{% increment poster_number %}
 <a name="puliti"></a>
-**19. Stefano Puliti**<br />
+**{{ poster_number }}. Stefano Puliti**<br />
 **Title**: Leveraging NFI image data for large-scale forest biodiversity monitoring<br />
 **Abstract**: National Forest Inventory (NFI) images provide a unique opportunity for systematic and unbiased biodiversity assessments across large spatial scales. Building on our previous work, we expand the use of NFI image data by integrating smartphone-captured forest scenes to enhance forest scene understanding and the estimation of key biodiversity variables, such as species richness and abundance. Unlike citizen science data, NFI images follow a structured sampling design, ensuring comprehensive national coverage and robust biodiversity estimates. As part of the Small4Good EU project, we utilize NFI datasets spanning European biomes, including extensive image collections from the Norwegian, Swiss, and Spanish NFIs—comprising approximately 70K plots and 280K images. A subset of these images is currently being annotated to train supervised forest vision models. By leveraging existing (e.g. iNaturalist) and new deep learning models and image-based biodiversity large-scale estimation, this research aims to advance automated biodiversity monitoring, providing scalable and reproducible methods for ecosystem assessment and conservation planning.
 
 
 [Back to top of page](#top)
 
+{% increment poster_number %}
 <a name="laura"></a>
-**20. Laura Helene Rasmussen**<br />
+**{{ poster_number }}. Laura Helene Rasmussen**<br />
 **Title**: Quantifying the variability of winter climate in the Arctic<br />
 **Abstract**: Studies show that a trend towards warmer ecosystems in the Arctic in the 90s and early 2000s has disappeared, however, this does not mean that climate has stabilized. Variability in climate has increased rapidly, and long-term monitoring programs show that winters, spring seasons and summers have become so much more variable that the ecosystems, which are used to more stable, reliable conditions, have an even harder time to adapt compared to a stable trend of e.g. earlier snowmelt.
 
@@ -400,15 +385,17 @@ We then extracted these phenomena from a pan-Arctic in situ measured data set, r
 
 [Back to top of page](#top)
 
+{% increment poster_number %}
 <a name="heather"></a>
-**22. Heather Reese**<br />
+**{{ poster_number }}. Heather Reese**<br />
 **Title**: Subarctic tundra change mapping with Earth Observation and machine learning<br />
 **Abstract**: Climate changes in subarctic Sweden include warmer temperatures, change in snow cover and precipitation, and change in season length. This exerts pressure on tundra vegetation, leading over time to increased vegetation biomass (e.g., shrubification) as well as decreased biomass (e.g., due to frost drought). Earth observation (EO) data from satellites in combination with other geographic data facilitate the identification of vegetation change as well as potential drivers of these changes. Using a Random Forest algorithm together with Landsat and Sentinel-2 EO data,  climate-induced changes around the Latnjajaure research station, near Abisko, Sweden, are mapped and important parameters for change are identified. 	
 
 [Back to top of page](#top)
 
+{% increment poster_number %}
 <a name="jaime"></a>
-**22. Jaime Caballer Revenga**<br />
+**{{ poster_number }}. Jaime Caballer Revenga**<br />
 **Title**: Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories<br />
 **Abstract**: This study explores two related approaches for vegetation type classification and clustering of vegetation cover types using the hyperspectral images (HSI) collected by the program AVIRIS-NG (JPL-NASA), 
 using self-supervised learning (SSL) methods, particularly focusing on the spectral trajectory of pixels over time - caused by phenological changes. The study site is Dangermond Preserve (Santa Barbara, California, USA), where three main vegetation types cover this (Mediterranean-climatic) region: (i) shrubland, (ii) grassland and (iii) deciduous oak forests.
@@ -424,8 +411,9 @@ phenological changes in remote sensing analysis.
 
 [Back to top of page](#top)
 
+{% increment poster_number %}
 <a name="alan"></a>
-**23. Alan Said**<br />
+**{{ poster_number }}. Alan Said**<br />
 **Title**: Accountability and sustainability in AI: reducing the environmental footprint of ai research<br />
 **Abstract**: Artificial intelligence continues to drive transformative advances across diverse sectors, from healthcare and transportation to digital services. However, the rapid growth and complexity of AI technologies result in considerable environmental impacts, driven by increased computational demands and associated carbon emissions. Recent studies highlight that typical AI experiments, particularly involving deep-learning models, have significant carbon footprints, underscoring the critical need for sustainability in AI development.
 
@@ -434,8 +422,9 @@ Broad strategies to measure, understand, and reduce AI’s ecological impact inc
 
 [Back to top of page](#top)
 
+{% increment poster_number %}
 <a name="hui"></a>
-**24. Hui Zhang**<br />
+**{{ poster_number }}. Hui Zhang**<br />
 **Title**: Towards vertical vegetation structure models<br />
 **Abstract**: 
 Vertical vegetation structure provides critical insights into understory dynamics that cannot be captured by
@@ -456,8 +445,10 @@ reducing the uncertainty in aboveground carbon stock estimation.
 
 [Back to top of page](#top)
 
+{% increment poster_number %}
+{% increment poster_number %}
 <a name="anupama"></a>
-**27. Anupama Xavier**<br />
+**{{ poster_number }}. Anupama Xavier**<br />
 **Title**: Comparative predictability of eastern and western north pacific blocking events<br />
 **Abstract**: North Pacific blocking patterns, defined by persistent high-pressure systems that disrupt atmospheric circulation, are pivotal elements of mid-latitude weather dynamics. These blocking events play a significant role in shaping regional weather extremes, such as prolonged cold spells or heatwaves, and can redirect storm tracks across the Pacific. For instance, the 2021 Pacific Northwest heatwave demonstrated the profound impact of blocking on terrestrial temperatures, where an upstream cyclone acted as a diabatic source of wave activity, intensifying the blocking system. This led to heat-trapping stable stratification, which elevated surface temperatures to unprecedented levels (Neal et al., 2022). Similarly, marine heatwaves in the Northeast Pacific have been linked to high-latitude blocking events, which weaken westerly winds, suppress southward Ekman transport, and enhance ocean stratification, thereby increasing sea surface temperatures (Niu et al., 2023). The predictability of North Pacific blocking events is governed by the intricate interplay of large-scale atmospheric dynamics, ocean-atmosphere interactions, and internal variability (Smith et al., 2020). This study investigates the differences in predictability between eastern and western North Pacific blocking events, using a modified version of the Davini et al. (2012) blocking index to distinguish their geographical locations. Identified blocking events were tracked using a block-tracking algorithm until they dissipated. Predictability was assessed by identifying an analogue pair for each blocking event. Specifically, after classifying blocks as eastern or western, geopotential height maps for each event were compared to all other days in the dataset. The analogue pair for an event was defined as the day with the smallest root mean square (RMS) distance. Predictability was then evaluated by averaging the error evolution of the tracks between events in each analogue pair. Using CMIP6 model simulations, the study revealed that eastern blocks are significantly more persistent and stable than their western counterparts. Eastern blocks exhibited longer durations and greater resistance to atmospheric variability, resulting in improved forecast accuracy. In contrast, western blocks were found to be more transient and challenging to predict due to their susceptibility to dynamic instabilities.	
 
