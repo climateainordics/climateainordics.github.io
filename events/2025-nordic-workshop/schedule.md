@@ -85,6 +85,8 @@ img {
 | {{ poster_number }}  | [Dan Stowell](#dan) | [Bioacoustic AI for nature: how can it tread lightly?](#dan) |
 {% assign poster_number = poster_number | plus: 1 -%}
 | {{ poster_number }}  | [Anupama Xavier](#anupama) | [Comparative predictability of eastern and western north pacific blocking events](#anupama) |
+{% assign poster_number = poster_number | plus: 1 -%}
+| {{ poster_number }}  | [Ankit Kariyaa](#ankit) | [TBA](#ankit) |
 
 
 ## Speaker instructions.
@@ -440,6 +442,14 @@ reducing the uncertainty in aboveground carbon stock estimation.
 **{{ poster_number }}. Anupama Xavier**, Royal Meteorological institute of Belgium, Belgium<br />
 **Title**: Comparative predictability of eastern and western north pacific blocking events<br />
 **Abstract**: North Pacific blocking patterns, defined by persistent high-pressure systems that disrupt atmospheric circulation, are pivotal elements of mid-latitude weather dynamics. These blocking events play a significant role in shaping regional weather extremes, such as prolonged cold spells or heatwaves, and can redirect storm tracks across the Pacific. For instance, the 2021 Pacific Northwest heatwave demonstrated the profound impact of blocking on terrestrial temperatures, where an upstream cyclone acted as a diabatic source of wave activity, intensifying the blocking system. This led to heat-trapping stable stratification, which elevated surface temperatures to unprecedented levels (Neal et al., 2022). Similarly, marine heatwaves in the Northeast Pacific have been linked to high-latitude blocking events, which weaken westerly winds, suppress southward Ekman transport, and enhance ocean stratification, thereby increasing sea surface temperatures (Niu et al., 2023). The predictability of North Pacific blocking events is governed by the intricate interplay of large-scale atmospheric dynamics, ocean-atmosphere interactions, and internal variability (Smith et al., 2020). This study investigates the differences in predictability between eastern and western North Pacific blocking events, using a modified version of the Davini et al. (2012) blocking index to distinguish their geographical locations. Identified blocking events were tracked using a block-tracking algorithm until they dissipated. Predictability was assessed by identifying an analogue pair for each blocking event. Specifically, after classifying blocks as eastern or western, geopotential height maps for each event were compared to all other days in the dataset. The analogue pair for an event was defined as the day with the smallest root mean square (RMS) distance. Predictability was then evaluated by averaging the error evolution of the tracks between events in each analogue pair. Using CMIP6 model simulations, the study revealed that eastern blocks are significantly more persistent and stable than their western counterparts. Eastern blocks exhibited longer durations and greater resistance to atmospheric variability, resulting in improved forecast accuracy. In contrast, western blocks were found to be more transient and challenging to predict due to their susceptibility to dynamic instabilities.	
+
+[Back to top of page](#top)
+
+{% assign poster_number = poster_number | plus: 1 %}
+<a name="ankit"></a>
+**{{ poster_number }}. Ankit Kariyaa**, University of Copenhagen, Denmark<br />
+**Title**: TBA<br />
+**Abstract**: TBA	
 
 [Back to top of page](#top)
 
