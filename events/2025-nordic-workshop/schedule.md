@@ -47,45 +47,45 @@ img {
 {% assign poster_number = 1 %}
 
 | No. | Speaker | Title |
-|---- | -------------------------- | --------------------------------------------------------------- |
+| ---- | -------------------------- | --------------------------------------------------------------- |
 | {{ poster_number }}   | [Adrià Amell](#adria) | [RainOverAfrica.AI: nowcasting precipitation from geostationary imagery](#adria) |
-{% increment poster_number %}
+{% increment poster_number %} 
 | {{ poster_number }}   | [Filip Dorm](#filip) | [Large language models possess some ecological knowledge, but how much?](#filip) |
-{% increment poster_number %}
+{% increment poster_number %} 
 | {{ poster_number }}   | [Patrick Eriksson](#patrick) | [Providing space-borne ML-based atmospheric data with case-specific uncertainties](#patrick) |
-{% increment poster_number %}
+{% increment poster_number %} 
 | {{ poster_number }}  | [Ramon Fuentes Franco](#ramon) | [Pan-European high-resolution downscaling using deep learning](#ramon) |
-{% increment poster_number %}
+{% increment poster_number %} 
 | {{ poster_number }}  | [Lucia Gordon](#lucia) | [MMEarth-Bench: Global Environmental Tasks for Multimodal Geospatial Models](#lucia) |
-{% increment poster_number %}
+{% increment poster_number %} 
 | {{ poster_number }}  | [Leon Green](#leon) | [Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm](#leon) |
-{% increment poster_number %}
+{% increment poster_number %} 
 | {{ poster_number }}  | [Céline Heuzé](#celine) | [Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest](#celine) |
-{% increment poster_number %}
+{% increment poster_number %} 
 | {{ poster_number }}  | [Ankit Kariryaa](#ankit) | [TBA](#ankit) |
-{% increment poster_number %}
+{% increment poster_number %} 
 | {{ poster_number }}  | [Murathan Kurfali](#murathan) | [ClimateEval: A Comprehensive Benchmark for Climate Change NLP](#murathan) |
-{% increment poster_number %}
+{% increment poster_number %} 
 | {{ poster_number }}  | [Ashwin Mohanan](#ashwin) | [Dawsonia: Digitizing handwritten observations in weather journals](#ashwin) |
-{% increment poster_number %}
+{% increment poster_number %} 
 | {{ poster_number }}  | [Andrea Nascetti](#andrea) | [PANGEA: A Global And Inclusive Benchmark For Geospatial Foundation Models](#andrea) |
-{% increment poster_number %}
+{% increment poster_number %} 
 | {{ poster_number }}  | [Aleksis Pirinen and Olof Mogren](#aleksis) | [Climate AI Nordics](#aleksis) |
-{% increment poster_number %}
+{% increment poster_number %} 
 | {{ poster_number }}  | [Stefano Puliti](#puliti) | [Leveraging NFI Image Data for Large-Scale Forest Biodiversity Monitoring](#puliti) |
-{% increment poster_number %}
+{% increment poster_number %} 
 | {{ poster_number }}  | [Laura Helene Rasmussen](#laura) | [Quantifying the variability of winter climate in the Arctic](#laura) |
-{% increment poster_number %}
+{% increment poster_number %} 
 | {{ poster_number }}  | [Heather Reese](#heather) | [Subarctic tundra change mapping with Earth Observation and machine learning](#heather) |
-{% increment poster_number %}
+{% increment poster_number %} 
 | {{ poster_number }}  | [Jaime Caballer Revenga](#jaime) | [Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories](#jaime) |
-{% increment poster_number %}
+{% increment poster_number %} 
 | {{ poster_number }}  | [Alan Said](#alan) | [Accountability and sustainability in AI: reducing the environmental footprint of ai research](#alan) |
-{% increment poster_number %}
+{% increment poster_number %} 
 | {{ poster_number }}  | [Hui Zhang](#hui) | [Towards vertical vegetation structure models](#hui) |
-{% increment poster_number %}
+{% increment poster_number %} 
 | {{ poster_number }}  | [Dan Stowell](#dan) | [Bioacoustic AI for nature: how can it tread lightly?](#dan) |
-{% increment poster_number %}
+{% increment poster_number %} 
 | {{ poster_number }}  | [Anupama Xavier](#anupama) | [Comparative predictability of eastern and western north pacific blocking events](#anupama) |
 
 
@@ -262,7 +262,7 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 
 {% increment poster_number %}
 <a name="filip"></a>
-**7. Filip Dorm**<br />
+**{{ poster_number }}. Filip Dorm**<br />
 **Title**: Large language models possess some ecological knowledge, but how much?<br />
 **Abstract**: Large Language Models (LLMs) have garnered attention for their potential at question answering across multiple different domains. However, despite the promise demonstrated, there has only been limited exploration of their effectiveness in the context of ecological knowledge. We investigate the ecological knowledge and potential reasoning abilities of two LLMs, Gemini 1.5 Pro and GPT-4o, across a suite of ecologically focused tasks. Our tasks quantitatively assess a models’ ability to predict species presence at locations, generate range maps, list critically endangered species, classify threats, and estimate species traits. We compare model performance against expert-derived data to quantify their accuracy and reliability using a new benchmark dataset we introduce. We show that while the LLMs tested outperform naive baselines, they still exhibit significant limitations, particularly in generating spatially accurate range maps and classifying threats. Our findings underscore both the potential and challenges of using LLMs in ecological applications, highlighting the need for further refinement, including domain-specific fine-tuning, to better approximate ecological reasoning. Our new benchmark dataset will enable researchers to make progress on this task by providing a repeatable way to evaluate future models.	
 
@@ -270,7 +270,7 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 
 {% increment poster_number %}
 <a name="patrick"></a>
-**8. Patrick Eriksson** <br />
+**{{ poster_number }}. Patrick Eriksson** <br />
 **Title**: Providing space-borne ML-based atmospheric data with case-specific uncertainties<br />
 **Abstract**: Only satellite measurements enable regional and global observations of quantities such as rainfall or cloudiness. However, there is often not a unique solution to the problem of translating the quantities measured by space-borne instruments into geophysical values. Traditional approaches to the problem fail to provide statistically sound estimates for many properties or are too expensive. At the Division of Geoscience and Remote Sensing of Chalmers University of Technology, we have been working with the flexibility of quantile regression neural networks to provide affordable but accurate statistical descriptions of space-borne estimates of precipitation and atmospheric ice densities, both a cornerstone of climate studies.	
 
@@ -278,7 +278,7 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 
 {% increment poster_number %}
 <a name="ramon"></a>
-**9. Ramon Fuentes Franco**<br />
+**{{ poster_number }}. Ramon Fuentes Franco**<br />
 **Title**: Pan-European high-resolution downscaling using deep learning<br />
 **Abstract**: This study assesses the performance of a deep convolutional neural network in predicting near-surface air temperature (T2m) and total precipitation (P) over Europe, comparing its results with the Copernicus European Regional Reanalysis (CERRA) and the dynamical regional model HCLIM simulations. The ML-model accurately captures broad seasonal temperature and precipitation patterns, with minor biases in summer and more pronounced warm biases in winter. While the model effectively reproduces the probability density functions (PDFs) of daily temperature and precipitation, it underestimates extreme cold events and in some regions also the high precipitation extremes. Climate indices, including cold extremes (TM2PCTL), warm extremes (TM98PCTL), consecutive dry days (CDD), and consecutive wet days (CWD), highlight that the ML-model aligns closely with CERRA, though it slightly underestimates CDD and overestimates CWD, particularly in mountainous and Mediterranean regions. Analysis of spatio-temporal variability demonstrates high correlations with CERRA for temperature, exceeding 0.99 for spatial correlations and 0.95 for temporal correlations, while correlations for precipitation are lower, with underestimated temporal variability. The ML-model generally outperforms HCLIM, particularly in aligning with observed data, although challenges remain in capturing extremes and reducing biases in certain regions. These results further highlight the potential of the ML-model for regional climate downscaling and impact studies, while emphasizing the need for further refinement to enhance its representation of extreme events and improve spatial accuracy.	
 
