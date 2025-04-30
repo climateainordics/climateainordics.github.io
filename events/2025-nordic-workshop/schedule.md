@@ -49,41 +49,41 @@ img {
 | No. | Speaker | Title |
 | ---- | -------------------------- | --------------------------------------------------------------- |
 | {{ poster_number }}   | [Adrià Amell](#adria) | [RainOverAfrica.AI: nowcasting precipitation from geostationary imagery](#adria) |
-{% increment poster_number %} 
+{% assign poster_number = poster_number | plus: 1 %} 
 | {{ poster_number }}   | [Filip Dorm](#filip) | [Large language models possess some ecological knowledge, but how much?](#filip) |
-{% increment poster_number %} 
+{% assign poster_number = poster_number | plus: 1 %} 
 | {{ poster_number }}   | [Patrick Eriksson](#patrick) | [Providing space-borne ML-based atmospheric data with case-specific uncertainties](#patrick) |
-{% increment poster_number %} 
+{% assign poster_number = poster_number | plus: 1 %} 
 | {{ poster_number }}  | [Ramon Fuentes Franco](#ramon) | [Pan-European high-resolution downscaling using deep learning](#ramon) |
-{% increment poster_number %} 
+{% assign poster_number = poster_number | plus: 1 %} 
 | {{ poster_number }}  | [Lucia Gordon](#lucia) | [MMEarth-Bench: Global Environmental Tasks for Multimodal Geospatial Models](#lucia) |
-{% increment poster_number %} 
+{% assign poster_number = poster_number | plus: 1 %} 
 | {{ poster_number }}  | [Leon Green](#leon) | [Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm](#leon) |
-{% increment poster_number %} 
+{% assign poster_number = poster_number | plus: 1 %} 
 | {{ poster_number }}  | [Céline Heuzé](#celine) | [Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest](#celine) |
-{% increment poster_number %} 
+{% assign poster_number = poster_number | plus: 1 %} 
 | {{ poster_number }}  | [Murathan Kurfali](#murathan) | [ClimateEval: A Comprehensive Benchmark for Climate Change NLP](#murathan) |
-{% increment poster_number %} 
+{% assign poster_number = poster_number | plus: 1 %} 
 | {{ poster_number }}  | [Ashwin Mohanan](#ashwin) | [Dawsonia: Digitizing handwritten observations in weather journals](#ashwin) |
-{% increment poster_number %} 
+{% assign poster_number = poster_number | plus: 1 %} 
 | {{ poster_number }}  | [Andrea Nascetti](#andrea) | [PANGEA: A Global And Inclusive Benchmark For Geospatial Foundation Models](#andrea) |
-{% increment poster_number %} 
+{% assign poster_number = poster_number | plus: 1 %} 
 | {{ poster_number }}  | [Aleksis Pirinen and Olof Mogren](#aleksis) | [Climate AI Nordics](#aleksis) |
-{% increment poster_number %} 
+{% assign poster_number = poster_number | plus: 1 %} 
 | {{ poster_number }}  | [Stefano Puliti](#puliti) | [Leveraging NFI Image Data for Large-Scale Forest Biodiversity Monitoring](#puliti) |
-{% increment poster_number %} 
+{% assign poster_number = poster_number | plus: 1 %} 
 | {{ poster_number }}  | [Laura Helene Rasmussen](#laura) | [Quantifying the variability of winter climate in the Arctic](#laura) |
-{% increment poster_number %} 
+{% assign poster_number = poster_number | plus: 1 %} 
 | {{ poster_number }}  | [Heather Reese](#heather) | [Subarctic tundra change mapping with Earth Observation and machine learning](#heather) |
-{% increment poster_number %} 
+{% assign poster_number = poster_number | plus: 1 %} 
 | {{ poster_number }}  | [Jaime Caballer Revenga](#jaime) | [Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories](#jaime) |
-{% increment poster_number %} 
+{% assign poster_number = poster_number | plus: 1 %} 
 | {{ poster_number }}  | [Alan Said](#alan) | [Accountability and sustainability in AI: reducing the environmental footprint of ai research](#alan) |
-{% increment poster_number %} 
+{% assign poster_number = poster_number | plus: 1 %} 
 | {{ poster_number }}  | [Hui Zhang](#hui) | [Towards vertical vegetation structure models](#hui) |
-{% increment poster_number %} 
+{% assign poster_number = poster_number | plus: 1 %} 
 | {{ poster_number }}  | [Dan Stowell](#dan) | [Bioacoustic AI for nature: how can it tread lightly?](#dan) |
-{% increment poster_number %} 
+{% assign poster_number = poster_number | plus: 1 %} 
 | {{ poster_number }}  | [Anupama Xavier](#anupama) | [Comparative predictability of eastern and western north pacific blocking events](#anupama) |
 
 
@@ -258,7 +258,7 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 
 [Back to top of page](#top)
 
-{% increment poster_number %}
+{% assign poster_number = poster_number | plus: 1 %}
 <a name="filip"></a>
 **{{ poster_number }}. Filip Dorm**<br />
 **Title**: Large language models possess some ecological knowledge, but how much?<br />
@@ -266,7 +266,7 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 
 [Back to top of page](#top)
 
-{% increment poster_number %}
+{% assign poster_number = poster_number | plus: 1 %}
 <a name="patrick"></a>
 **{{ poster_number }}. Patrick Eriksson** <br />
 **Title**: Providing space-borne ML-based atmospheric data with case-specific uncertainties<br />
@@ -274,7 +274,7 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 
 [Back to top of page](#top)
 
-{% increment poster_number %}
+{% assign poster_number = poster_number | plus: 1 %}
 <a name="ramon"></a>
 **{{ poster_number }}. Ramon Fuentes Franco**<br />
 **Title**: Pan-European high-resolution downscaling using deep learning<br />
@@ -282,7 +282,7 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 
 [Back to top of page](#top)
 
-{% increment poster_number %}
+{% assign poster_number = poster_number | plus: 1 %}
 <a name="lucia"></a>
 **{{ poster_number }}. Lucia Gordon**<br />
 **Title**: MMEarth-Bench: Global Environmental Tasks for Multimodal Geospatial Models<br />
@@ -291,7 +291,7 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 
 [Back to top of page](#top)
 
-{% increment poster_number %}
+{% assign poster_number = poster_number | plus: 1 %}
 <a name="leon"></a>
 **{{ poster_number }}. Leon Green**<br />
 **Title**: Tracking the population and interactions of Sweden’s most abundant invasive fish using an image recognition algorithm.<br />
@@ -299,7 +299,7 @@ recordings - for example detecting the bird sounds in there and how they vary, h
 
 [Back to top of page](#top)
 
-{% increment poster_number %}
+{% assign poster_number = poster_number | plus: 1 %}
 <a name="celine"></a>
 **{{ poster_number }}. Céline Heuzé** <br/>
 **Title**: Drivers of high frequency extreme sea level around Northern Europe – Synergies between recurrent neural networks and Random Forest<br />
@@ -309,7 +309,7 @@ More information at https://egusphere.copernicus.org/preprints/2025/egusphere-20
 
 [Back to top of page](#top)
 
-{% increment poster_number %}
+{% assign poster_number = poster_number | plus: 1 %}
 <a name="murathan"></a>
 **{{ poster_number }}. Murathan Kurfali**<br />
 **Title**: ClimateEval: A Comprehensive Benchmark for Climate Change NLP<br />
@@ -317,7 +317,7 @@ More information at https://egusphere.copernicus.org/preprints/2025/egusphere-20
 
 [Back to top of page](#top)
 
-{% increment poster_number %}
+{% assign poster_number = poster_number | plus: 1 %}
 <a name="ashwin"></a>
 **{{ poster_number }}. Ashwin Mohanan**<br />
 **Title**: Dawsonia: Digitizing handwritten observations in weather journals<br />
@@ -331,7 +331,7 @@ Demo: https://hf.co/spaces/ai-for-obs/dawsonia-demo"
 
 [Back to top of page](#top)
 
-{% increment poster_number %}
+{% assign poster_number = poster_number | plus: 1 %}
 <a name="andrea"></a>
 **{{ poster_number }}. Andrea Nascetti**<br />
 **Title**: PANGEA: A Global And Inclusive Benchmark For Geospatial Foundation Models<br />
@@ -345,7 +345,7 @@ To promote transparency and collaboration, we provide a fully open-source evalua
 
 [Back to top of page](#top)
 
-{% increment poster_number %}
+{% assign poster_number = poster_number | plus: 1 %}
 <a name="aleksis"></a>
 **{{ poster_number }}. Aleksis Pirinen and Olof Mogren**<br />
 **Title**: Climate AI Nordics<br />
@@ -353,7 +353,7 @@ To promote transparency and collaboration, we provide a fully open-source evalua
 
 [Back to top of page](#top)
 
-{% increment poster_number %}
+{% assign poster_number = poster_number | plus: 1 %}
 <a name="puliti"></a>
 **{{ poster_number }}. Stefano Puliti**<br />
 **Title**: Leveraging NFI image data for large-scale forest biodiversity monitoring<br />
@@ -362,7 +362,7 @@ To promote transparency and collaboration, we provide a fully open-source evalua
 
 [Back to top of page](#top)
 
-{% increment poster_number %}
+{% assign poster_number = poster_number | plus: 1 %}
 <a name="laura"></a>
 **{{ poster_number }}. Laura Helene Rasmussen**<br />
 **Title**: Quantifying the variability of winter climate in the Arctic<br />
@@ -374,7 +374,7 @@ We then extracted these phenomena from a pan-Arctic in situ measured data set, r
 
 [Back to top of page](#top)
 
-{% increment poster_number %}
+{% assign poster_number = poster_number | plus: 1 %}
 <a name="heather"></a>
 **{{ poster_number }}. Heather Reese**<br />
 **Title**: Subarctic tundra change mapping with Earth Observation and machine learning<br />
@@ -382,7 +382,7 @@ We then extracted these phenomena from a pan-Arctic in situ measured data set, r
 
 [Back to top of page](#top)
 
-{% increment poster_number %}
+{% assign poster_number = poster_number | plus: 1 %}
 <a name="jaime"></a>
 **{{ poster_number }}. Jaime Caballer Revenga**<br />
 **Title**: Self-supervised segmentation of environmental spectroscopic imagery benefits from phenology trajectories<br />
@@ -400,7 +400,7 @@ phenological changes in remote sensing analysis.
 
 [Back to top of page](#top)
 
-{% increment poster_number %}
+{% assign poster_number = poster_number | plus: 1 %}
 <a name="alan"></a>
 **{{ poster_number }}. Alan Said**<br />
 **Title**: Accountability and sustainability in AI: reducing the environmental footprint of ai research<br />
@@ -411,7 +411,7 @@ Broad strategies to measure, understand, and reduce AI’s ecological impact inc
 
 [Back to top of page](#top)
 
-{% increment poster_number %}
+{% assign poster_number = poster_number | plus: 1 %}
 <a name="hui"></a>
 **{{ poster_number }}. Hui Zhang**<br />
 **Title**: Towards vertical vegetation structure models<br />
@@ -434,8 +434,8 @@ reducing the uncertainty in aboveground carbon stock estimation.
 
 [Back to top of page](#top)
 
-{% increment poster_number %}
-{% increment poster_number %}
+{% assign poster_number = poster_number | plus: 1 %}
+{% assign poster_number = poster_number | plus: 1 %}
 <a name="anupama"></a>
 **{{ poster_number }}. Anupama Xavier**<br />
 **Title**: Comparative predictability of eastern and western north pacific blocking events<br />
