@@ -132,7 +132,7 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
       # Recent events
     {% else %}
-      There are no recent events at this time.
+      {% comment %} There are no recent events at this time.{% endcomment %}
       {% break %}
     {% endif %}
   {% endif %}
