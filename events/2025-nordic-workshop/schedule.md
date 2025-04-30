@@ -1,4 +1,4 @@
----
+---lek
 title: 2025 Nordic Workshop on AI for Climate Change
 shortversion: "The 2025 Nordic Workshop on AI for Climate Change will gather researchers from the Nordics. This one-day, in-person workshop, will take place in Gothenburg, Sweden, May 13th 2025. The workshop will feature a mix of keynotes, oral presentations, and posters around the topics of AI for climate change, including AI for biodiversity and the green transition. The workshop will be a meeting point for a wide range of researchers from (primarily) around the Nordic countries."
 people:
@@ -68,7 +68,7 @@ img {
 {% assign poster_number = poster_number | plus: 1 %}
 | {{ poster_number }}  | [Andrea Nascetti](#andrea) | [PANGEA: A Global And Inclusive Benchmark For Geospatial Foundation Models](#andrea) |
 {% assign poster_number = poster_number | plus: 1 %}
-| {{ poster_number }}  | [Aleksis Pirinen and Olof Mogren](#aleksis) | [Climate AI Nordics](#aleksis) |
+| {{ poster_number }}  | [Aleksis Pirinen and Olof Mogren](#aleksis) | [Climate AI Nordics: Catalyzing Nordic Collaboration for Climate Resilience](#aleksis) |
 {% assign poster_number = poster_number | plus: 1 %}
 | {{ poster_number }}  | [Stefano Puliti](#puliti) | [Leveraging NFI Image Data for Large-Scale Forest Biodiversity Monitoring](#puliti) |
 {% assign poster_number = poster_number | plus: 1 %}
@@ -348,8 +348,8 @@ To promote transparency and collaboration, we provide a fully open-source evalua
 {% assign poster_number = poster_number | plus: 1 %}
 <a name="aleksis"></a>
 **{{ poster_number }}. Aleksis Pirinen and Olof Mogren**<br />
-**Title**: Climate AI Nordics<br />
-**Abstract**: TBA
+**Title**: Climate AI Nordics: Catalyzing Nordic Collaboration for Climate Resilience<br />
+**Abstract**: In the few months since its inception October 2024, Climate AI Nordics has received a lot of interest. More than 150 Nordic researchers, affiliated with more than 100 distinct organizations have signed up for the network. Our aim is to foster research collaboration in the Nordics and put research on AI for climate resilience on the agenda by helping to spread results, organizing workshops and hosting webinars. This poster will present how far we have come until now, and outline some of the plans for the future of the network.
 
 [Back to top of page](#top)
 
