@@ -123,46 +123,56 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 {% comment %} FINALLY, EVENTS THAT HAS ALREADY HAPPENED!!! {% endcomment %}
 
-<br clear=all />
+{% for i in (1..2) %}
+  {% comment %} TWO ITERATIONS, FIRST TO CHECK IF ANY POSTS AVAILABLE {% endcomment %}
 
-# Recent events
+  {% if i == 2 %}
+    {% if items_listed %}
+      <br clear=all />
 
-{% assign items_listed = false %}
+      # Recent events
+    {% else %}
+      There are no recent events at this time.
+      {% break %}
+    {% endif %}
+  {% endif %}
+  {% assign items_listed = false %}
 
-{% for p in site.posts %}
-{% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
-{% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
-{% if posttime < newsletter_start_time %}
-{% continue %}
-{% endif %}
+  {% for p in site.posts %}
+    {% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
+    {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
+    {% if posttime < newsletter_start_time %}
+      {% continue %}
+    {% endif %}
 
-{% if p.event_date %}
-{% capture eventtime %}{{ p.event_date | date: '%s'}}{% endcapture %}
-{% if eventtime > nowtime %}
-{% continue %}
-{% endif %}
-{% capture printdate %}*This event took place {{ p.event_date }}.*{% endcapture %}
-{% else %}
-{% continue %}
-{% endif %}
+    {% if p.event_date %}
+      {% capture eventtime %}{{ p.event_date | date: '%s'}}{% endcapture %}
+      {% if eventtime > nowtime %}
+        {% continue %}
+      {% endif %}
+      {% capture printdate %}*This event took place {{ p.event_date }}.*{% endcapture %}
+    {% else %}
+      {% continue %}
+    {% endif %}
 
-{% unless p.first_page %}
-{% assign items_listed = true %}
+    {% unless p.first_page %}
+      {% assign items_listed = true %}
 
-<br clear=all />
+      <br clear=all />
 
-## {{ p.title }}
+      ## {{ p.title }}
 
-{% if p.image %}
-![](https://climateainordics.com{{ p.image  }})
-{% endif %}
+      {% if p.image %}
+        ![](https://climateainordics.com{{ p.image  }})
+      {% endif %}
 
-{{ printdate }} {{ p.shortversion }}<br />
-**[(Read more)](https://climateainordics.com{{ p.url }})**
-{% endunless %}
+      {{ printdate }} {{ p.shortversion }}<br />
+      **[(Read more)](https://climateainordics.com{{ p.url }})**
+    {% endunless %}
+  {% endfor %}
+
 {% endfor %}
 
-{% unless items_listed %}There are no recent events at this time.{% endunless %}
 
 # Spread the word!
 
