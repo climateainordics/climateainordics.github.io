@@ -88,35 +88,35 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 {% assign items_listed = false %}
 
-{% for p in site.posts %}
-{% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
+{% for p in site.posts | reverse %}
+  {% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
 
-{% if p.event_date %}
-{% capture eventtime %}{{ p.event_date | date: '%s'}}{% endcapture %}
-{% if eventtime < nowtime %}
-{% continue %}
-{% endif %}
-{% capture printdate %}*Event date: {{ p.event_date }}.*{% endcapture %}
-{% else %}
-{% continue %}
-{% endif %}
+  {% if p.event_date %}
+    {% capture eventtime %}{{ p.event_date | date: '%s'}}{% endcapture %}
+    {% if eventtime < nowtime %}
+      {% continue %}
+    {% endif %}
+    {% capture printdate %}*Event date: {{ p.event_date }}.*{% endcapture %}
+  {% else %}
+    {% continue %}
+  {% endif %}
 
-{% unless p.first_page %}
-{% assign items_listed = true %}
+  {% unless p.first_page %}
+    {% assign items_listed = true %}
 
 <br clear=all />
 
 ## {{ p.title }}
 
-{% if p.image %}
+    {% if p.image %}
 ![](https://climateainordics.com{{ p.image  }})
-{% endif %}
+    {% endif %}
 
 {{printdate}}
 
 {{ p.shortversion }}<br />
 **[(Read more)](https://climateainordics.com{{ p.url }})**
-{% endunless %}
+  {% endunless %}
 {% endfor %}
 
 {% unless items_listed %}There are no coming events at this time.{% endunless %}
