@@ -37,7 +37,7 @@ img {
 | 15:10 | Oral | [Alouette van Hove](#alouette) | [Navigating methane plumes: A journey from drone observations to flux estimates](#alouette) |
 | 15:30 | Oral | [Shorouq Zahra](#shorouq) | [The challenges of using LLMs to extract data on extreme climate events](#shorouq) |
 | 15:50 | Oral | [David Thulke](#david) | [Assessing and Improving ClimateGPT's Faithfulness in Retrieval Augmented Generation](#david) |
-| 16:10 | | Concluding remarks |  |
+| 16:10 | | Organizing committee | Concluding remarks |
 | 16:20 | | [Posters and mingle](#posters) |  |
 | 18:00 | | Dinner | |
 
