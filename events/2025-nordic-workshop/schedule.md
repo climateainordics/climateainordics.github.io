@@ -23,7 +23,7 @@ img {
 | ---- | --- | ------- | ----- |
 | 9:00 | | Coffee/find your seat | | 
 | 9:10 | | Olof Mogren | Opening remarks |
-| 9:15 | Keynote | [Oisin Mac Aodha](#oisin) | [AI-Powered Biodiversity Monitoring](#oisin) |
+| 9:15 | Keynote | [Oisin Mac Aodha](#oisin) | [Towards Global-scale Species Distribution Modelling](#oisin) |
 | 10:00 | Oral | [Edmond Sacre](#edmond) | [Mapping and conservation of aquatic species - potential advances with deep learning](#edmond) |
 | 10:20 | Oral | [Hilda Sandström](#hilda) | [Machine Learning for Mass Spectrometry in Atmospheric Chemistry](#hilda) |
 | 10:40 | | Coffee break |  |
@@ -103,9 +103,9 @@ For speakers, see presentation instructions [here](speaker-instructions.html).
 
 ![](/events/2025-nordic-workshop/macaodha.jpg)
 
-**Title**: AI-Powered Biodiversity Monitoring
+**Title**: Towards Global-scale Species Distribution Modelling
 
-**Abstract**: TBA
+**Abstract**: Estimating the geographic range of a species from sparse observations is a challenging and important geospatial prediction problem. Given a set of locations where a species has been observed, the goal is to build a model to predict whether the species is present or absent at any location. This problem has a long history in ecology, but traditional methods struggle to take advantage of emerging large-scale crowdsourced datasets which can include tens of millions of observations of hundreds of thousands of species in addition to the availability of multi-modal data sources such as paired images and natural language descriptions. In this talk, I will present recent work from my group where we have developed deep learning-based solutions for estimating species' ranges from sparse presence-only data. I will also discuss some of the open challenges that exist in this space. 
 
 *Oisin Mac Aodha is a Reader (aka Associate Professor) in Machine Learning in the School of Informatics at the University of Edinburgh (UoE). He was a Turing Fellow from 2021 to 2024, currently an ELLIS Scholar, and a founder of the Turing interest group on biodiversity monitoring and forecasting. Oisin's current research interests are in the areas of computer vision and machine learning, with a specific emphasis on 3D understanding, human-in-the-loop methods, and computational challenges in biodiversity monitoring.*
 
