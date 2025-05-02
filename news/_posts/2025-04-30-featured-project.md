@@ -20,8 +20,7 @@ This acoustic monitoring setup is carried out by John Martinsson, Delia Fano Yel
 * The Analytics Pi: Focuses on data integrity, facilitates real-time analyses, and handles secure archiving of the valuable audio recordings.
 * The Clock Pi: Acts as the timing backbone, ensuring precise synchronization across all devices using GPS technology.
 
-![Delia at the entry to the artificial cliff Auklab at Stora Karlsö.](/images/posts/2025-04-30-featured-project/delia-going-in.png)
-
+![John working in the lab.](/images/posts/2025-04-30-featured-project/john-working.png)
 
 This synchronized system enables researchers to align guillemot vocalizations with the wealth of visual and behavioral data already being collected at the AukLab. By cross-referencing audio with existing video, thermal imaging, and individual bird identification data, the team aims to unlock deeper insights into guillemot social interactions, parental care strategies, and responses to environmental changes. The goal is to use automated bioacoustic analysis techniques (to a large extent built using machine learning) to uncover behavioral patterns that were previously hidden. For example, an important indicator of colony and ocean health is how many fishes they catch. The fish can often be observed on camera, but by linking the visual observations to the corresponding acoustic events, we may be able to detect fish arrival using only the microphones. This can give a more comprehensive understanding of what is happening and complement the cameras when the fish is not visible.
 
@@ -29,9 +28,6 @@ In the long-term, there may be a digital 3D representation of this artificial cl
 
 To explore the AukLab project further and view the 3D model of the artificial rock shelf, please visit the AukLab webpage: [http://www.balticseabird.com/auklab/](http://www.balticseabird.com/auklab/). You can also find more about the acoustic monitoring setup at John Martinsson’s research webpage: [https://johnmartinsson.org](https://johnmartinsson.org).
 
-![John working in the lab.](/images/posts/2025-04-30-featured-project/john-working.png)
 ![The installation of cameras, microphones, cables, and switches in the Auklab.](/images/posts/2025-04-30-featured-project/cables.png)
-![Delia looling out of Auklab.](/images/posts/2025-04-30-featured-project/delia-looking-out.png)
 ![PA working on the installation of recorders in the Auklab.](/images/posts/2025-04-30-featured-project/pa-installing.png)
-![Delia entering the Auklab.](/images/posts/2025-04-30-featured-project/delia-going-in.png)
 
