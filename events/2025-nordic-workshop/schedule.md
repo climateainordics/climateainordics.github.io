@@ -89,6 +89,8 @@ img {
 | {{ poster_number }}  | [Ankit Kariyaa](#ankit) | [Seamless Mosaics from Non-overlapping Satellite Images](#ankit) |
 {% assign poster_number = poster_number | plus: 1 -%}
 | {{ poster_number }}  | [Francesca Larosa](#francesca) | [Critical misalignments between climate action and sustainable development goals revealed](#francesca) |
+{% assign poster_number = poster_number | plus: 1 -%}
+| {{ poster_number }}  | [Annamaria Mesaros](#annamaria) | [Continual learning for audio classification](#annamaria) |
 
 
 ## Speaker instructions.
@@ -463,6 +465,14 @@ We validate our approach through experiments with artificial problems that have 
 **{{ poster_number }}. Francesca Larosa**, KTH, Sweden<br />
 **Title**: Critical misalignments between climate action and sustainable development goals revealed<br />
 **Abstract**: Climate change requires urgent action aligned with the Sustainable Development Goals (SDGs), but achieving synergy between these agendas is complex. This research reveals critical misalignments by analyzing Nationally Determined Contributions (NDCs) from 198 countries using a novel machine-in-the-loop approach leveraging Large Language Models. The study assesses how national climate pledges connect with the 2030 Agenda and whether these links support or hinder climate adaptation and mitigation. Findings show a polarized world: the Global North prioritizes SDG13 (Climate Action) in NDCs, while the Global South focuses on social issues like poverty and hunger. Furthermore, the energy-infrastructure-community nexus (SDG7-SDG9-SDG11) emerges as a key, yet differently addressed, linkage across nations. Framing analysis indicates lower-income countries concentrate on adaptation needs, contrasting with high-income countries' mitigation focus. Over half the NDCs analyzed do not explicitly mention SDGs, though AI identifies implicit connections. These misalignments highlight the non-holistic integration of climate action and sustainable development globally. The results emphasize the need to rethink financial flows, strengthen global governance structures surrounding NDCs, and foster cooperation. This work demonstrates AI's potential to extract deeper policy insights, supporting more effective and integrated climate and sustainability strategies.
+
+[Back to top of page](#top)
+
+{% assign poster_number = poster_number | plus: 1 %}
+<a name="annamaria"></a>
+**{{ poster_number }}. Annamaria Mesaros**, Tampere University, Finland<br />
+**Title**: Continual learning for audio classification<br />
+**Abstract**: TBA
 
 [Back to top of page](#top)
 
