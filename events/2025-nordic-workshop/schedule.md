@@ -72,7 +72,7 @@ img {
 {% assign poster_number = poster_number | plus: 1 -%}
 | {{ poster_number }}  | [Stefano Puliti](#puliti) | [Leveraging NFI Image Data for Large-Scale Forest Biodiversity Monitoring](#puliti) |
 {% assign poster_number = poster_number | plus: 1 -%}
-| {{ poster_number }}  | [Laura Helene Rasmussen](#laura) | [Quantifying the variability of winter climate in the Arctic](#laura) |
+| {{ poster_number }}  | [Laura Helene Rasmussen](#laura) | [Compiling, normalizing and quality checking a pan-Arctic dataset of in situ weather observations from 1990-2023 collected from publicly available data sources](#laura) |
 {% assign poster_number = poster_number | plus: 1 -%}
 | {{ poster_number }}  | [Heather Reese](#heather) | [Subarctic tundra change mapping with Earth Observation and machine learning](#heather) |
 {% assign poster_number = poster_number | plus: 1 -%}
@@ -369,12 +369,14 @@ To promote transparency and collaboration, we provide a fully open-source evalua
 {% assign poster_number = poster_number | plus: 1 %}
 <a name="laura"></a>
 **{{ poster_number }}. Laura Helene Rasmussen**, University of Copenhagen, Denmark<br />
-**Title**: Quantifying the variability of winter climate in the Arctic<br />
-**Abstract**: Studies show that a trend towards warmer ecosystems in the Arctic in the 90s and early 2000s has disappeared, however, this does not mean that climate has stabilized. Variability in climate has increased rapidly, and long-term monitoring programs show that winters, spring seasons and summers have become so much more variable that the ecosystems, which are used to more stable, reliable conditions, have an even harder time to adapt compared to a stable trend of e.g. earlier snowmelt.
+**Title**: Compiling, normalizing and quality checking a pan-Arctic dataset of in situ weather observations from 1990-2023 collected from publicly available data sources<br />
+**Abstract**: Research into the effects of changing Arctic climate has been limited by large-scale in situ data availability because of the remoteness and harsh climate of the Arctic. Only recently, therefore, are hourly-to daily measurements covering most Arctic regions publicly available, but scattered in various local databases.
 
-In this project, we take the focus off of the trend and instead focus on developing a quantitative measure of variability in winter climate. We asked arctic ecosystem scientists, arctic local governmental offices and Arctic indigenous groups to help us identify the most important winter phenomena, whose variability matters to them, and which would be useful to include in a Winter Variability Index (WVI).
+We obtained in situ weather data from all major Arctic regions from publicly available data sources across the Arctic with focus on the period 1990-2023. The data set, which contains 719 unique locations from 14 data sources and covers all Arctic regions, has been restructured and -formatted into a standardized data format, combined with metadata about location and elevation. It was further quality checked by running it through five optional modules of increasingly user-involved judgement-based checks. We supply the code involved in import and standardization, and the modular quality check, as well as the standardized, but unchecked data set, and the final, quality checked, data set.
 
-We then extracted these phenomena from a pan-Arctic in situ measured data set, reduced dimensions and extracted features in order to identify patterns in variability such as e.g. geographic patterns or climatological patterns. Next step is to classify the Arctic into groups based on their WVI and use the extracted patterns to develop a tool that local authorities, scientists or Arctic peoples can use to compare their own data or area to the rest of the Arctic."	
+The data set has the potential to benefit pan-Arctic in situ research opportunities as e.g. validation and ground truthing of modelling efforts, and as a tool for exploration of pan-Arctic patterns in climate.
+
+Current work involves using the multidimensional data set to develop a quantitative measure for winter variability by reducing dimensions, extracting the features that appear and interpreting what physical phenomena they represent.
 
 [Back to top of page](#top)
 
