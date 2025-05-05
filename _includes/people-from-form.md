@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling">
-<span title="My current research focus is on improving satellite measurements of frozen particles by combining microwave and infrared sensors. This will also contribute to the data assimilation process in weather forecast models. Post DocChalmers University Of Technology."><strong>Anqi Li, Post Doc, Chalmers University Of Technology</strong></span>
-<br />
-Earth Observation * Climate Modeling
-</div>
-
 <div class="content" markdown="1" data-tags="">
 <span title="PhD StudentKarlstad University."><strong>Sai Ganesh Veeravalli, PhD Student, Karlstad University</strong></span>
 <br />
@@ -508,6 +502,12 @@ Earth Observation * Biodiversity * Sustainable Production * NLP * Machine Learni
 <span title="PhD, ResearcherCharles University / Blekinge Technical Institute."><strong>Doudou BA, PhD, Researcher, Charles University / Blekinge Technical Institute</strong></span>
 <br />
 Earth Observation * Climate Modeling * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://19scholar.com/) * [Research group](https://natur.cuni.cz/geografie/katedry-a-pracoviste/katedra-fyzicke-geografie-a-geoekologie/veda-a-vyzkum/hydrologie) * [Publications (Scholar)](https://scholar.google.com/citations?user=h6AYRwYAAAAJ&amp;hl=fr) * [ORCID](https://orcid.org/0000-0002-5352-4508)
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling">
+<span title="My current research focus is on improving satellite measurements of frozen particles by combining microwave and infrared sensors. This will also contribute to the data assimilation process in weather forecast models. Post DocChalmers University Of Technology."><strong>Anqi Li, Post Doc, Chalmers University Of Technology</strong></span>
+<br />
+Earth Observation * Climate Modeling
 </div>
 
 <div class="content" markdown="1" data-tags="">
