@@ -21,8 +21,8 @@ img {
 
 | Time | Category | Speaker | Title |
 | ---- | --- | ------- | ----- |
-| 9:00 | | Coffee/find your seat | | 
-| 9:10 | | Olof Mogren | Opening remarks |
+| 8:45 | | Coffee/find your seat | | 
+| 9:00 | | Olof Mogren | Opening remarks |
 | 9:15 | Keynote | [Oisin Mac Aodha](#oisin) | [Towards Global-scale Species Distribution Modelling](#oisin) |
 | 10:00 | Oral | [Edmond Sacre](#edmond) | [Mapping and conservation of aquatic species - potential advances with deep learning](#edmond) |
 | 10:20 | Oral | [Hilda Sandström](#hilda) | [Machine Learning for Mass Spectrometry in Atmospheric Chemistry](#hilda) |
