@@ -38,5 +38,6 @@ It's generally easy to find vegetarian food in Sweden. Here we list some exclusi
 * [Crippa's Café](https://www.goteborg.com/platser/crippas-cafe) - Vegan café in "Majorna", old working class parts of Gothenburg (which is no longer inhabited by workers). Serves sandwiches, soups, pizza, lasagna. [Kusttorget 1](https://maps.app.goo.gl/YLjTNrCyfW4bKNJK8).
 * [Andrum](https://www.instagram.com/andrum.veg/) - Vegetarian restaurant with a couple of hot dishes in a buffé. Always serves a wonderful daal. [Östra hamngatan 19](https://maps.app.goo.gl/qumMpuYUHpk69MXy5).
 * [En Deli Haga](https://www.instagram.com/endelihaga/) - Vegetarian café. Buffé behind the counter, point at what you want among many delicous options. [Haga Nygata 15](https://maps.app.goo.gl/XYuumHHQ2eWWqwfm6).
+* See "*Majornas bryggeri*" above.
 
 
