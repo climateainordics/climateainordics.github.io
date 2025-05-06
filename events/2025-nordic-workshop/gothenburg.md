@@ -34,7 +34,7 @@ The 2025 Nordic Workshop on AI for Climate Change is getting close. Here are som
 
 ### Vegetarian restaurants
 
-It's generally easy to find vegetarian food in Sweden. Here we list some exclusively vegetarian or vegan options:
+It's generally easy to find vegetarian food in Sweden. Here we list some exclusively vegetarian or vegan places:
 * [Blackbird Vegan](https://blackbirdvegan.se/) - Fully vegan cooperative restaurant and bar, serving delicious, rustic plant-based dishes from scratch, including their own seitan and unique vegan cheeses. Run by punk rock enthusiasts, offering flavourful meals (with plenty of protein :-) ), homemade desserts, and a wide selection of drinks. **Closed Sundays and Mondays**. [Stigbergsliden 3](https://maps.app.goo.gl/ZKX4Neef89m3qQPq6).
 * [Sayur](https://www.instagram.com/sayur_warung/) - Indonesian vegan restaurant. **Closed Sundays and Mondays**.  [Olivedalsgatan 23](https://maps.app.goo.gl/Yg2WDQYDS5ZUFTqf9).
 * [Crippa's Café](https://www.goteborg.com/platser/crippas-cafe) - Vegan café in "Majorna", old working class parts of Gothenburg (which is no longer inhabited by workers). Serves sandwiches, soups, pizza, lasagna. [Kusttorget 1](https://maps.app.goo.gl/YLjTNrCyfW4bKNJK8).
