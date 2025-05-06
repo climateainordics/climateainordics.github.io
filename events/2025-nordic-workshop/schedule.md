@@ -93,6 +93,8 @@ img {
 | {{ poster_number }}  | [Annamaria Mesaros](#annamaria) | [Continual learning for audio classification](#annamaria) |
 {% assign poster_number = poster_number | plus: 1 -%}
 | {{ poster_number }}  | [Mourad	Oussalah](#mourad) | [TBA](#mourad) |
+{% assign poster_number = poster_number | plus: 1 -%}
+| {{ poster_number }}  | [Mikhail Ivanov](#mikhail) | [TBA](#mikhail) |
 
 
 ## Speaker instructions.
@@ -480,7 +482,15 @@ We validate our approach through experiments with artificial problems that have 
 
 {% assign poster_number = poster_number | plus: 1 %}
 <a name="mourad"></a>
-**{{ poster_number }}. Mourad	Oussalah**, University of Oulu, Finland<br />
+**{{ poster_number }}. Mourad Oussalah**, University of Oulu, Finland<br />
+**Title**: TBA<br />
+**Abstract**: TBA
+
+[Back to top of page](#top)
+
+{% assign poster_number = poster_number | plus: 1 %}
+<a name="mikhaili"></a>
+**{{ poster_number }}. Mikhail Ivanov**, SMHI, Sweden<br />
 **Title**: TBA<br />
 **Abstract**: TBA
 
