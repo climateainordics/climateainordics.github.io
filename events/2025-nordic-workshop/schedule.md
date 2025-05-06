@@ -474,7 +474,7 @@ We validate our approach through experiments with artificial problems that have 
 <a name="annamaria"></a>
 **{{ poster_number }}. Annamaria Mesaros**, Tampere University, Finland<br />
 **Title**: Continual learning for audio classification<br />
-**Abstract**: TBA
+**Abstract**: Continual learning refers to learning tasks sequentially with the same model. For audio classification this can be for example training the model to recognize additional sound categories or recognize the already known ones but in new acoustic conditions. Incrementally learning new tasks can be an advantageous strategy when a large model is already available for the task at hand, and we want to avoid retraining it from scratch, or if the data used to train the initial model is no longer available. The main challenge in continual learning is dealing with catastrophic forgetting: when we train a model for a new task, the model will perform well the current task, but forget the previously learned ones, unless we specifically control the learning process. Depending on the type of tasks and learning strategy, we have developed different strategies for preserving the previous knowledge.
 
 [Back to top of page](#top)
 
