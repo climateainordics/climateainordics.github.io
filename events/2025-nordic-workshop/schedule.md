@@ -91,6 +91,8 @@ img {
 | {{ poster_number }}  | [Francesca Larosa](#francesca) | [Critical misalignments between climate action and sustainable development goals revealed](#francesca) |
 {% assign poster_number = poster_number | plus: 1 -%}
 | {{ poster_number }}  | [Annamaria Mesaros](#annamaria) | [Continual learning for audio classification](#annamaria) |
+{% assign poster_number = poster_number | plus: 1 -%}
+| {{ poster_number }}  | [Mourad	Oussalah](#mourad) | [TBA](#mourad) |
 
 
 ## Speaker instructions.
@@ -472,6 +474,14 @@ We validate our approach through experiments with artificial problems that have 
 <a name="annamaria"></a>
 **{{ poster_number }}. Annamaria Mesaros**, Tampere University, Finland<br />
 **Title**: Continual learning for audio classification<br />
+**Abstract**: TBA
+
+[Back to top of page](#top)
+
+{% assign poster_number = poster_number | plus: 1 %}
+<a name="mourad"></a>
+**{{ poster_number }}. Mourad	Oussalah**, University of Oulu, Finland<br />
+**Title**: TBA<br />
 **Abstract**: TBA
 
 [Back to top of page](#top)
