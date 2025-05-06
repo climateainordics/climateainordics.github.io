@@ -26,7 +26,7 @@ The 2025 Nordic Workshop on AI for Climate Change is getting close. Here are som
 * **Liseberg**: [The second best amusement park in Europe](https://www.mynewsdesk.com/se/liseberg/pressreleases/swedens-liseberg-is-europes-second-best-amusement-park-3204578). More info: [liseberg.se](https://liseberg.se/).
 * Beer:
     * Ölrepubliken, [Kronhusgatan 2B](https://maps.app.goo.gl/bTZL4obaUodfVzmM8). Many kinds of beer.
-    * [Poppels bryggeri Öl och Mat](https://www.poppels.se/olochmat/) - restaurant in Sweden's largest craft brewery. 12 minutes from central station with commuter train [Station Jonsered](https://www.vasttrafik.se/reseplanering/hallplatser/9021014013100000/). Open Thursday to Saturday.
+    * [Poppels bryggeri Öl och Mat](https://www.poppels.se/olochmat/) - restaurant in Sweden's largest craft brewery. 12 minutes from central station with commuter train [Station Jonsered](https://www.vasttrafik.se/reseplanering/hallplatser/9021014013100000/). **Open Thursday to Saturday**.
     * [Majornas bryggeri](https://majornasbryggeri.se/). Small craft brewery with their own pub, serving vegetarian dishes (such as veggie burger, tofu "fish n chips", and hummus) to go with the beer. [Karl Johansgatan 88](https://maps.app.goo.gl/t7Lq9yC5BQiS7xwF6).
     * [Brewers Beer Bar](https://www.brewersbeerbar.se/), [Magasinsgatan](https://maps.app.goo.gl/62AsjtLmVELHzwWq7), [Tredje långgatan](https://maps.app.goo.gl/MJSppEgBT3gE86KC8). Many different types of beer.
 
