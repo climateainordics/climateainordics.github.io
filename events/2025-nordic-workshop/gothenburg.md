@@ -21,6 +21,8 @@ The 2025 Nordic Workshop on AI for Climate Change is getting close. Here are som
 ### Things to do
 
 * Outdoor activities
+    * Take a walk on the northern river bank. This is right where the workshop venue is.
+    * Take a walk up to [Ramberget](https://maps.app.goo.gl/nocffGYK2MedEqAA9). This is about twenty minutes walk from the workshop venue.
     * Take a ferry to the **archipelago**: Take the tram to [Saltholmen](https://www.vasttrafik.se/reseplanering/hallplatser/9021014005630000/), and then change to the ferry to Brännö, Asperö, Styrsö, Vargö, or Donsö. The ferry is the same ticket as the tram. Once you are on an island, enjoy hiking or a (freezing) swim! For tram/ferry prices, see above.
     * Hiking in **Skatås**: Take the tram to [Welandergatan](https://www.vasttrafik.se/reseplanering/hallplatser/9021014007370000/) and then use your walking shoes. [Here are som more hiking tips reachable by public transport](https://www.vasttrafik.se/om-vasttrafik/blogg/vandra-mellan-hallplatser/).
 * **Liseberg**: [The second best amusement park in Europe](https://www.mynewsdesk.com/se/liseberg/pressreleases/swedens-liseberg-is-europes-second-best-amusement-park-3204578). More info: [liseberg.se](https://liseberg.se/).
