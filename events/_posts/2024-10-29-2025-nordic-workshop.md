@@ -24,6 +24,10 @@ As extreme events following climate change are getting ever more frequent, human
 
 Together, we will help the Nordic AI community to find the most impactful directions of future research in the field.
 
+## A Short Gothenburg Guide
+
+[Click here to see the Gothenburg guide](/events/2025-nordic-workshop/gothenburg).
+
 ## Shedule
 
 [Click here to see the workshop schedule](/events/2025-nordic-workshop/schedule).
