@@ -31,6 +31,9 @@ The 2025 Nordic Workshop on AI for Climate Change is getting close. Here are som
     * [Poppels bryggeri Öl och Mat](https://www.poppels.se/olochmat/) - restaurant in Sweden's largest craft brewery. 12 minutes from central station with commuter train [Station Jonsered](https://www.vasttrafik.se/reseplanering/hallplatser/9021014013100000/). **Open Thursday to Saturday**.
     * [Majornas bryggeri](https://majornasbryggeri.se/). Small craft brewery with their own pub, serving vegetarian dishes (such as veggie burger, tofu "fish n chips", and hummus) to go with the beer. [Karl Johansgatan 88](https://maps.app.goo.gl/t7Lq9yC5BQiS7xwF6).
     * [Brewers Beer Bar](https://www.brewersbeerbar.se/), [Magasinsgatan](https://maps.app.goo.gl/62AsjtLmVELHzwWq7), [Tredje långgatan](https://maps.app.goo.gl/MJSppEgBT3gE86KC8). Many different types of beer.
+* Music
+    * May 10: [Relaxed Performance with Göteborg Symphony Orchestra](https://www.gso.se/en/programme/concerts/relaxed-performance-2025/)
+    * May 14 and 15: [Jan Lisiecki plays Chopin with Göteborg Symphony Orchestra](https://www.gso.se/en/programme/concerts/gso-rouvali-lisiecki/)
 
 ### Vegetarian restaurants
 
