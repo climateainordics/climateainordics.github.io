@@ -18,15 +18,6 @@ The 2025 Nordic Workshop on AI for Climate Change is getting close. Here are som
 * Taxi: There are a number of different old-school taxi companies in the town. [Taxi Göteborg](https://www.taxigoteborg.se/) and [Taxi Kurir](https://www.taxikurir.se/goteborg) are two examples. You can also book taxis though Uber and Bolt.
 * Airport bus: [Flygbussarna](https://www.flygbussarna.se/landvetter). Special tickets required.
 
-### Vegetarian restaurants
-
-It's generally easy to find vegetarian food in Sweden. Here we list some exclusively vegetarian or vegan options:
-* [Blackbird Vegan](https://blackbirdvegan.se/) - Gothenburg's fully vegan cooperative restaurant and bar, where they passionately create delicious, rustic plant-based dishes from scratch, including their own seitan and unique vegan cheeses. With roots in the punk scene and animal rights movement, they offer a welcoming atmosphere to enjoy flavourful meals, homemade desserts, and a wide selection of drinks. **Closed Sundays and Mondays*. [Stigbergsliden 3](https://maps.app.goo.gl/ZKX4Neef89m3qQPq6).
-* [Sayur](https://www.instagram.com/sayur_warung/) - Indonesian vegan restaurant. **Closed Sundays and Mondays*.  [Olivedalsgatan 23](https://maps.app.goo.gl/Yg2WDQYDS5ZUFTqf9).
-* [Crippa's Café](https://www.goteborg.com/platser/crippas-cafe) - Vegan café in "Majorna", old working class parts of Gothenburg (which is no longer inhabited by workers). Serves sandwiches, soups, pizza, lasagna. [Kusttorget 1](https://maps.app.goo.gl/YLjTNrCyfW4bKNJK8).
-* [Andrum](https://www.instagram.com/andrum.veg/) - Vegetarian restaurant with a couple of hot dishes in a buffé. Always serves a wonderful daal. [Östra hamngatan 19](https://maps.app.goo.gl/qumMpuYUHpk69MXy5).
-* [En Deli Haga](https://www.instagram.com/endelihaga/) - Vegetarian café. Buffé behind the counter, point at what you want among many delicous options. [Haga Nygata 15](https://maps.app.goo.gl/XYuumHHQ2eWWqwfm6).
-
 ### Things to do
 
 * Outdoor activities
@@ -38,3 +29,14 @@ It's generally easy to find vegetarian food in Sweden. Here we list some exclusi
     * [Poppels bryggeri Öl och Mat](https://www.poppels.se/olochmat/) - restaurant in a beer brewery. 12 minutes from central station with commuter train [Station Jonsered](https://www.vasttrafik.se/reseplanering/hallplatser/9021014013100000/). Open Thursday to Saturday.
     * [Majornas bryggeri](https://majornasbryggeri.se/). [Karl Johansgatan 88](https://maps.app.goo.gl/t7Lq9yC5BQiS7xwF6).
     * [Brewers Beer Bar](https://www.brewersbeerbar.se/), [Magasinsgatan](https://maps.app.goo.gl/62AsjtLmVELHzwWq7), [Tredje långgatan](https://maps.app.goo.gl/MJSppEgBT3gE86KC8). Many different types of beer.
+
+### Vegetarian restaurants
+
+It's generally easy to find vegetarian food in Sweden. Here we list some exclusively vegetarian or vegan options:
+* [Blackbird Vegan](https://blackbirdvegan.se/) - Gothenburg's fully vegan cooperative restaurant and bar, where they passionately create delicious, rustic plant-based dishes from scratch, including their own seitan and unique vegan cheeses. With roots in the punk scene and animal rights movement, they offer a welcoming atmosphere to enjoy flavourful meals, homemade desserts, and a wide selection of drinks. **Closed Sundays and Mondays*. [Stigbergsliden 3](https://maps.app.goo.gl/ZKX4Neef89m3qQPq6).
+* [Sayur](https://www.instagram.com/sayur_warung/) - Indonesian vegan restaurant. **Closed Sundays and Mondays*.  [Olivedalsgatan 23](https://maps.app.goo.gl/Yg2WDQYDS5ZUFTqf9).
+* [Crippa's Café](https://www.goteborg.com/platser/crippas-cafe) - Vegan café in "Majorna", old working class parts of Gothenburg (which is no longer inhabited by workers). Serves sandwiches, soups, pizza, lasagna. [Kusttorget 1](https://maps.app.goo.gl/YLjTNrCyfW4bKNJK8).
+* [Andrum](https://www.instagram.com/andrum.veg/) - Vegetarian restaurant with a couple of hot dishes in a buffé. Always serves a wonderful daal. [Östra hamngatan 19](https://maps.app.goo.gl/qumMpuYUHpk69MXy5).
+* [En Deli Haga](https://www.instagram.com/endelihaga/) - Vegetarian café. Buffé behind the counter, point at what you want among many delicous options. [Haga Nygata 15](https://maps.app.goo.gl/XYuumHHQ2eWWqwfm6).
+
+
