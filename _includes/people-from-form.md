@@ -1,17 +1,5 @@
 ## Affiliates - Recently Joined
 <div class="content" markdown="1" data-tags="">
-<span title="PhD StudentKarlstad University."><strong>Sai Ganesh Veeravalli, PhD Student, Karlstad University</strong></span>
-<br />
-
-</div>
-
-<div class="content" markdown="1" data-tags="">
-<span title="Post DocTampere University."><strong>Toni Heittola, Post Doc, Tampere University</strong></span>
-<br />
-
-</div>
-
-<div class="content" markdown="1" data-tags="">
 <span title="ProfessorUniversity of Oulu."><strong>Mourad Oussalah, Professor, University of Oulu</strong></span>
 <br />
 
@@ -517,6 +505,12 @@ Earth Observation * Climate Modeling
 </div>
 
 <div class="content" markdown="1" data-tags="">
+<span title="Post DocTampere University."><strong>Toni Heittola, Post Doc, Tampere University</strong></span>
+<br />
+
+</div>
+
+<div class="content" markdown="1" data-tags="">
 <span title="I&#x27;m a PhD student at the Center for Mathematical Sciences focusing on anomaly detection and machine learning in earth observations and remote sensing. PhD StudentLund University."><strong>Oskar Åström, PhD Student, Lund University</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=D864NLwAAAAJ) * [ORCID](https://orcid.org/0009-0005-5507-4829)
@@ -802,6 +796,12 @@ Earth Observation * Urban Planning * Computer Vision * Machine Learning
 <span title="Engineer with experience in development of complex software based systems and business and team development. IndustryFounder of a company that wants to develop AI based applications for handling global risks, including climate change.."><strong>Devansh Mehta, Industry, Founder of a company that wants to develop AI based applications for handling global risks, including climate change.</strong></span>
 <br />
 Earth Observation * Climate Modeling * Sustainable Transport * Sustainable Cities * Efficient or Sustainable AI * [More info (researcher profile)](https://www.linkedin.com/in/devanshm) * [Research group](https://qualisafe.se)
+</div>
+
+<div class="content" markdown="1" data-tags="">
+<span title="PhD StudentKarlstad University."><strong>Sai Ganesh Veeravalli, PhD Student, Karlstad University</strong></span>
+<br />
+
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
