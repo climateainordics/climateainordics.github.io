@@ -17,8 +17,6 @@ img {
 
 ## Schedule
 
-*This schedule is a work in progress. Expect changes.*
-
 | Time | Category | Speaker | Title |
 | ---- | --- | ------- | ----- |
 | 8:45 | | Coffee/find your seat | | 
