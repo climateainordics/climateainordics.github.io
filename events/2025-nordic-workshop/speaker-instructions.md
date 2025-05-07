@@ -19,7 +19,8 @@ img {
 
 ### Oral presentations
 
-Regular oral presentation slots are 15 minutes plus 5 minutes for questions and setup. For details, see the [schedule](schedule.html).
+* Regular oral presentation slots are 15 minutes plus 5 minutes for questions and setup. For details, see the [schedule](schedule.html).
+* You are welcome to use your own computer. Each presenter are expected to make sure the presentation is loaded on a working computer by the start of their session. There will be a laptop available that can be borrowed for presentations. Talk to the session chair if you need to borrow the computer.
 
 ### Poster presentations
 
