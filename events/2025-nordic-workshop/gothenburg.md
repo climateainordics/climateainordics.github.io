@@ -38,6 +38,7 @@ The 2025 Nordic Workshop on AI for Climate Change is getting close. Here are som
     * May 10: [Violence (DK)](https://open.spotify.com/artist/6JkSnrx9ySMUsKTKXe58OX)+A Paradie Dot+[Holocene](https://open.spotify.com/artist/7MQOG6piBK6wJfZ2jO9ihh). Post-punk. [Musikens Hus/Hängmattan.](https://secure.tickster.com/sv/jxu6fuky1dr9gf9/e2akbmnv2r19zpm/products)
     * May 13: [Everything Yes (US). Jazz-Fusion.](https://secure.tickster.com/sv/jxu6fuky1dr9gf9/e2akbmnv2r19zpm/products)
     * May 14 and 15: [Jan Lisiecki plays Chopin with Göteborg Symphony Orchestra](https://www.gso.se/en/programme/concerts/gso-rouvali-lisiecki/)
+    * [Find more concerts here.](https://www.vastsverige.com/kulturupplevelser/musik/konserter-och-livemusik/)
 
 ### Vegetarian restaurants
 
