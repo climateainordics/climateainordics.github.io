@@ -17,31 +17,31 @@ img {
 
 ## Schedule
 
-| Time | Category | Speaker | Title |
-| ---- | --- | ------- | ----- |
-| 8:45 | | Coffee/find your seat | | 
-| 9:00-10:40 | | Session 1 | Session Chair: Ankit Kariyaa |
-| 9:00 | | Olof Mogren | Opening remarks |
-| 9:15 | Keynote | [Oisin Mac Aodha](#oisin) | [Towards Global-scale Species Distribution Modelling](#oisin) |
-| 10:00 | Oral | [Edmond Sacre](#edmond) | [Mapping and conservation of aquatic species - potential advances with deep learning](#edmond) |
-| 10:20 | Oral | [Hilda Sandström](#hilda) | [Machine Learning for Mass Spectrometry in Atmospheric Chemistry](#hilda) |
-| 10:40 | | Coffee break |  |
-| 11:10-12:00 | | Session 2 | Session Chair: Olof Mogren |
-| 11:10 | Oral | [Dan Stowell](#dan) | [Bioacoustic AI for nature: how can it tread lightly?](#dan) |
-| 11:40 | Oral | [John Martinsson](#john) | [Better Labels, Better AI: Enhancing Bioacoustic Event Detection for Biodiversity Monitoring](#john) |
-| 12:00 | | Lunch |  |
-| 13:15-14:40 | | Session 3 | Session Chair: Aleksis Pirinen |
-| 13:15 | Keynote | [Christian Igel](#christian) | [Deep learning for large-scale ecosystem monitoring](#christian) |
-| 14:00 | Oral | [Nico Lang](#nico) | [Learning From Global Earth Observation Data](#nico) |
-| 14:20 | Oral | [Stefanos Georganos](#stefanos) | [Unequal Cities in a Changing Climate: AI and Geospatial Approaches to Urban Resilience](#stefanos) |
-| 14:40 | | Coffee |  |
-| 15:10-16:20 | | Session 4 | Session Chair: Francesca Larosa |
-| 15:10 | Oral | [Alouette van Hove](#alouette) | [Navigating methane plumes: A journey from drone observations to flux estimates](#alouette) |
-| 15:30 | Oral | [Shorouq Zahra](#shorouq) | [The challenges of using LLMs to extract data on extreme climate events](#shorouq) |
-| 15:50 | Oral | [David Thulke](#david) | [Assessing and Improving ClimateGPT's Faithfulness in Retrieval Augmented Generation](#david) |
-| 16:10 | | Organizing committee | Concluding remarks |
-| 16:20 | | [Posters and mingle](#posters) |  |
-| 18:00 | | Dinner | |
+| Time || Category | Speaker | Title |
+| --- | ---- | --- | ------- | ----- |
+| | 8:45 | | Coffee/find your seat | | 
+| 9:00-10:40 || | Session 1 | Session Chair: Ankit Kariyaa |
+| | 9:00 | | Olof Mogren | Opening remarks |
+| | 9:15 | Keynote | [Oisin Mac Aodha](#oisin) | [Towards Global-scale Species Distribution Modelling](#oisin) |
+| | 10:00 | Oral | [Edmond Sacre](#edmond) | [Mapping and conservation of aquatic species - potential advances with deep learning](#edmond) |
+| | 10:20 | Oral | [Hilda Sandström](#hilda) | [Machine Learning for Mass Spectrometry in Atmospheric Chemistry](#hilda) |
+| | 10:40 | | Coffee break |  |
+| 11:10-12:00 || | Session 2 | Session Chair: Olof Mogren |
+| | 11:10 | Oral | [Dan Stowell](#dan) | [Bioacoustic AI for nature: how can it tread lightly?](#dan) |
+| | 11:40 | Oral | [John Martinsson](#john) | [Better Labels, Better AI: Enhancing Bioacoustic Event Detection for Biodiversity Monitoring](#john) |
+| | 12:00 | | Lunch |  |
+| 13:15-14:40 || | Session 3 | Session Chair: Aleksis Pirinen |
+| | 13:15 | Keynote | [Christian Igel](#christian) | [Deep learning for large-scale ecosystem monitoring](#christian) |
+| | 14:00 | Oral | [Nico Lang](#nico) | [Learning From Global Earth Observation Data](#nico) |
+| | 14:20 | Oral | [Stefanos Georganos](#stefanos) | [Unequal Cities in a Changing Climate: AI and Geospatial Approaches to Urban Resilience](#stefanos) |
+| | 14:40 | | Coffee |  |
+| 15:10-16:20 || | Session 4 | Session Chair: Francesca Larosa |
+| | 15:10 | Oral | [Alouette van Hove](#alouette) | [Navigating methane plumes: A journey from drone observations to flux estimates](#alouette) |
+| | 15:30 | Oral | [Shorouq Zahra](#shorouq) | [The challenges of using LLMs to extract data on extreme climate events](#shorouq) |
+| | 15:50 | Oral | [David Thulke](#david) | [Assessing and Improving ClimateGPT's Faithfulness in Retrieval Augmented Generation](#david) |
+| | 16:10 | | Organizing committee | Concluding remarks |
+| | 16:20 | | [Posters and mingle](#posters) |  |
+| | 18:00 | | Dinner | |
 
 <a name="posters"></a>
 ## 16:20 - 18:00 Poster presentations
