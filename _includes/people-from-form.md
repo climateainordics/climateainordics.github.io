@@ -1044,3 +1044,9 @@ Efficient or Sustainable AI * Machine Learning * Deep Learning * [Publications (
 <br />
 Sustainable Cities * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://scholar.google.com/citations?user=oIYY6AQAAAAJ&amp;hl=en) * [Research group](https://vbn.aau.dk/da/organisations/data-engineering-science-and-systems) * [Publications (Scholar)](https://scholar.google.com/citations?user=oIYY6AQAAAAJ&amp;hl=en)
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Urban Planning,Sustainable Cities,Sustainable Production,Machine Learning,Deep Learning,Wind Energy">
+<span title="PhD, ResearcherRISE Research Institutes of Sweden."><strong>Hamidreza Abedi, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
+<br />
+Climate Modeling * Urban Planning * Sustainable Cities * Sustainable Production * Machine Learning * Deep Learning * Wind Energy * [More info (researcher profile)](https://linkedin.com/in/hamidreza-abedi-3b79a318) * [Research group](https://www.ri.se/en/person/hamidreza-abedi) * [Publications (Scholar)](https://scholar.google.com/citations?user=RqtE718AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-0096-3144)
+</div>
