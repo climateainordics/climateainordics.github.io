@@ -44,9 +44,10 @@
         .questions-mode #countdown-minutes {
             color: red;
         }
-        .questions-mode #top-bar {
-            /* You could change top bar color too if needed */
-        }
+        /* .questions-mode #top-bar { */
+            /* You could change top bar color too if needed, e.g., */
+            /* background-color: darkred; */
+        /* } */
     </style>
 </head>
 <body>
@@ -64,22 +65,21 @@
             { startTime: "09:00", endTime: "09:15", speaker: "Olof Mogren" },
             { startTime: "09:15", endTime: "10:00", speaker: "Keynote 1: Oisin Mac Aodha" },
             { startTime: "10:00", endTime: "10:20", speaker: "Oral: Edmond Sacre" },
-            { startTime: "10:20", endTime: "10:40", speaker: "Oral: Hilda Sandström" }, // Note: Original was just "Hilda Sandström"
+            { startTime: "10:20", endTime: "10:40", speaker: "Oral: Hilda Sandström" },
             { startTime: "10:40", endTime: "11:10", speaker: "Coffee break" },
-            { startTime: "11:10", endTime: "11:40", speaker: "Oral: Dan Stowell" }, // Note: Original was "11:10,Oral: Dan Stowell" assumed 30 min
+            { startTime: "11:10", endTime: "11:40", speaker: "Oral: Dan Stowell" },
             { startTime: "11:40", endTime: "12:00", speaker: "Oral: John Martinsson" },
             { startTime: "12:00", endTime: "13:15", speaker: "Lunch" },
             { startTime: "13:15", endTime: "14:00", speaker: "Keynote 2: Christian Igel" },
             { startTime: "14:00", endTime: "14:20", speaker: "Oral: Nico Lang" },
             { startTime: "14:20", endTime: "14:40", speaker: "Oral: Stefanos Georganos" },
-            { startTime: "14:40", endTime: "15:10", speaker: "Coffee" },
+            { startTime: "14:40", endTime: "15:10", speaker: "Coffee" }, // Standalone Coffee break
             { startTime: "15:10", endTime: "15:30", speaker: "Oral: Alouette van Hove" },
             { startTime: "15:30", endTime: "15:50", speaker: "Oral: Shorouq Zahra" },
             { startTime: "15:50", endTime: "16:10", speaker: "Oral: David Thulke" },
             { startTime: "16:10", endTime: "16:20", speaker: "Concluding remarks" },
             { startTime: "16:20", endTime: "18:00", speaker: "Posters and mingle" },
-            { startTime: "18:00", endTime: "18:01", speaker: "Relocation to dinner" } // Gave it 1 min duration for display
-            // Add more schedule items here
+            { startTime: "18:00", endTime: "18:01", speaker: "Relocation to dinner" }
         ];
 
         const topBarElement = document.getElementById('top-bar');
@@ -118,39 +118,56 @@
 
             if (currentSlot) {
                 const actualEndTime = currentSlot.endDate;
-                // For short slots like "Concluding remarks" (10 min) or "Relocation" (1 min),
-                // or breaks, the "Questions" logic might not make sense or the 5-min offset is too large.
-                // We'll only apply question mode to slots longer than the offset + a bit (e.g., > 10 minutes)
-                // and not for specific break-like speaker texts.
-                const isBreakOrShortEvent = currentSlot.speaker.toLowerCase().includes("break") ||
-                                          currentSlot.speaker.toLowerCase().includes("coffee") ||
-                                          currentSlot.speaker.toLowerCase().includes("lunch") ||
-                                          currentSlot.speaker.toLowerCase().includes("mingle") ||
-                                          currentSlot.speaker.toLowerCase().includes("relocation") ||
-                                          currentSlot.speaker.toLowerCase().includes("doors open") ||
-                                          (actualEndTime - currentSlot.startDate) / 60000 <= VIRTUAL_DEADLINE_OFFSET_MINUTES + 5;
+                const slotSpeakerTextLower = currentSlot.speaker.toLowerCase();
 
+                // List of exact speaker texts for breaks that should bypass question time
+                const breakEventsTexts = [
+                    "coffee / find your seat",
+                    "coffee break",
+                    "lunch",
+                    "coffee", // The standalone coffee break
+                    "posters and mingle"
+                ];
+
+                const isSpecificallyABreak = breakEventsTexts.includes(slotSpeakerTextLower);
+
+                // General conditions for events that shouldn't have question time
+                const isGenerallyNonQuestionEvent =
+                    slotSpeakerTextLower.includes("doors open") ||
+                    slotSpeakerTextLower.includes("relocation") ||
+                    slotSpeakerTextLower.includes("concluding remarks") ||
+                    (actualEndTime - currentSlot.startDate) / 60000 <= VIRTUAL_DEADLINE_OFFSET_MINUTES; // Slot is 5 mins or less
+
+                const isNonQuestionEvent = isSpecificallyABreak || isGenerallyNonQuestionEvent;
 
                 const virtualDeadlineTime = new Date(actualEndTime.getTime() - VIRTUAL_DEADLINE_OFFSET_MINUTES * 60000);
 
-                if (!isBreakOrShortEvent && now >= virtualDeadlineTime && now < actualEndTime) {
+                if (!isNonQuestionEvent && now >= virtualDeadlineTime && now < actualEndTime) {
+                    // --- QUESTION TIME for eligible speaking slots ---
                     speakerElement.textContent = "Questions";
                     bodyElement.classList.add('questions-mode');
-                    const msRemaining = actualEndTime - now;
+                    const msRemaining = actualEndTime - now; // Countdown to actual end of slot
                     minutesToDisplay = Math.ceil(msRemaining / 60000);
                 } else {
+                    // --- REGULAR TIME for speaking slots (before Q-time) OR any BREAK/NON-QUESTION EVENT ---
                     speakerElement.textContent = currentSlot.speaker;
                     bodyElement.classList.remove('questions-mode');
-                    // For breaks or short events, countdown to actual end.
-                    // For longer events, countdown to virtual deadline (if not yet passed) or actual end (if in question time already).
-                    const targetTime = (!isBreakOrShortEvent && now < virtualDeadlineTime) ? virtualDeadlineTime : actualEndTime;
-                    const msRemaining = targetTime - now;
+
+                    let targetTimeForCountdown;
+                    if (isNonQuestionEvent) {
+                        // Breaks & other non-question events countdown directly to their actual end
+                        targetTimeForCountdown = actualEndTime;
+                    } else {
+                        // Speaking slots (not yet in question time) countdown to the virtual deadline (start of Q&A)
+                        targetTimeForCountdown = virtualDeadlineTime;
+                    }
+                    const msRemaining = targetTimeForCountdown - now;
                     minutesToDisplay = Math.ceil(msRemaining / 60000);
                 }
                 countdownElement.textContent = minutesToDisplay >= 0 ? minutesToDisplay : 0;
 
             } else {
-                // Check if before the first event or after the last
+                // Logic for before program starts or after it ends
                 bodyElement.classList.remove('questions-mode');
                 if (parsedProgram.length > 0 && now < parsedProgram[0].startDate) {
                     speakerElement.textContent = "Program starting soon";
@@ -171,3 +188,4 @@
     </script>
 </body>
 </html>
+
