@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Program Timer</title>
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            overflow: hidden; /* Prevents scrollbars if content slightly overflows */
+            display: flex;
+            flex-direction: column;
+        }
+
+        #top-bar {
+            height: 10vh; /* 10% of screen height */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 4vh; /* Responsive font size */
+            text-align: center;
+            padding: 1vh;
+            box-sizing: border-box;
+        }
+
+        #timer-display {
+            height: 90vh; /* 90% of screen height */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        #countdown-minutes {
+            font-size: 65vh; /* Very large, adjust as needed */
+            font-weight: bold;
+            line-height: 1; /* Try to keep number tight vertically */
+        }
+
+        .questions-mode #countdown-minutes {
+            color: red;
+        }
+        .questions-mode #top-bar {
+            /* You could change top bar color too if needed */
+        }
+    </style>
+</head>
+<body>
+    <div id="top-bar">
+        <span id="current-speaker">Loading...</span>
+    </div>
+    <div id="timer-display">
+        <span id="countdown-minutes">--</span>
+    </div>
+
+    <script>
+        const program = [
+            // Times are in HH:MM format (24-hour clock)
+            { startTime: "08:30", endTime: "08:45", speaker: "Doors open. Posters set-up." },
+            { startTime: "08:45", endTime: "09:00", speaker: "Coffee / Find your seat" },
+            { startTime: "09:00", endTime: "09:15", speaker: "Olof Mogren" },
+            { startTime: "09:15", endTime: "10:00", speaker: "Keynote 1: Oisin Mac Aodha" },
+            { startTime: "10:00", endTime: "10:20", speaker: "Oral: Edmond Sacre" },
+            { startTime: "10:20", endTime: "10:40", speaker: "Oral: Hilda Sandström" }, // Note: Original was just "Hilda Sandström"
+            { startTime: "10:40", endTime: "11:10", speaker: "Coffee break" },
+            { startTime: "11:10", endTime: "11:40", speaker: "Oral: Dan Stowell" }, // Note: Original was "11:10,Oral: Dan Stowell" assumed 30 min
+            { startTime: "11:40", endTime: "12:00", speaker: "Oral: John Martinsson" },
+            { startTime: "12:00", endTime: "13:15", speaker: "Lunch" },
+            { startTime: "13:15", endTime: "14:00", speaker: "Keynote 2: Christian Igel" },
+            { startTime: "14:00", endTime: "14:20", speaker: "Oral: Nico Lang" },
+            { startTime: "14:20", endTime: "14:40", speaker: "Oral: Stefanos Georganos" },
+            { startTime: "14:40", endTime: "15:10", speaker: "Coffee" },
+            { startTime: "15:10", endTime: "15:30", speaker: "Oral: Alouette van Hove" },
+            { startTime: "15:30", endTime: "15:50", speaker: "Oral: Shorouq Zahra" },
+            { startTime: "15:50", endTime: "16:10", speaker: "Oral: David Thulke" },
+            { startTime: "16:10", endTime: "16:20", speaker: "Concluding remarks" },
+            { startTime: "16:20", endTime: "18:00", speaker: "Posters and mingle" },
+            { startTime: "18:00", endTime: "18:01", speaker: "Relocation to dinner" } // Gave it 1 min duration for display
+            // Add more schedule items here
+        ];
+
+        const topBarElement = document.getElementById('top-bar');
+        const speakerElement = document.getElementById('current-speaker');
+        const countdownElement = document.getElementById('countdown-minutes');
+        const bodyElement = document.body;
+
+        const VIRTUAL_DEADLINE_OFFSET_MINUTES = 5;
+
+        function parseTime(timeStr) {
+            const [hours, minutes] = timeStr.split(':').map(Number);
+            const date = new Date();
+            date.setHours(hours, minutes, 0, 0); // Set hours, minutes, seconds, milliseconds
+            return date;
+        }
+
+        // Pre-parse all program times
+        const parsedProgram = program.map(slot => ({
+            ...slot,
+            startDate: parseTime(slot.startTime),
+            endDate: parseTime(slot.endTime)
+        }));
+
+
+        function updateTimer() {
+            const now = new Date();
+            let currentSlot = null;
+            let minutesToDisplay = null;
+
+            for (const slot of parsedProgram) {
+                if (now >= slot.startDate && now < slot.endDate) {
+                    currentSlot = slot;
+                    break;
+                }
+            }
+
+            if (currentSlot) {
+                const actualEndTime = currentSlot.endDate;
+                // For short slots like "Concluding remarks" (10 min) or "Relocation" (1 min),
+                // or breaks, the "Questions" logic might not make sense or the 5-min offset is too large.
+                // We'll only apply question mode to slots longer than the offset + a bit (e.g., > 10 minutes)
+                // and not for specific break-like speaker texts.
+                const isBreakOrShortEvent = currentSlot.speaker.toLowerCase().includes("break") ||
+                                          currentSlot.speaker.toLowerCase().includes("coffee") ||
+                                          currentSlot.speaker.toLowerCase().includes("lunch") ||
+                                          currentSlot.speaker.toLowerCase().includes("mingle") ||
+                                          currentSlot.speaker.toLowerCase().includes("relocation") ||
+                                          currentSlot.speaker.toLowerCase().includes("doors open") ||
+                                          (actualEndTime - currentSlot.startDate) / 60000 <= VIRTUAL_DEADLINE_OFFSET_MINUTES + 5;
+
+
+                const virtualDeadlineTime = new Date(actualEndTime.getTime() - VIRTUAL_DEADLINE_OFFSET_MINUTES * 60000);
+
+                if (!isBreakOrShortEvent && now >= virtualDeadlineTime && now < actualEndTime) {
+                    speakerElement.textContent = "Questions";
+                    bodyElement.classList.add('questions-mode');
+                    const msRemaining = actualEndTime - now;
+                    minutesToDisplay = Math.ceil(msRemaining / 60000);
+                } else {
+                    speakerElement.textContent = currentSlot.speaker;
+                    bodyElement.classList.remove('questions-mode');
+                    // For breaks or short events, countdown to actual end.
+                    // For longer events, countdown to virtual deadline (if not yet passed) or actual end (if in question time already).
+                    const targetTime = (!isBreakOrShortEvent && now < virtualDeadlineTime) ? virtualDeadlineTime : actualEndTime;
+                    const msRemaining = targetTime - now;
+                    minutesToDisplay = Math.ceil(msRemaining / 60000);
+                }
+                countdownElement.textContent = minutesToDisplay >= 0 ? minutesToDisplay : 0;
+
+            } else {
+                // Check if before the first event or after the last
+                bodyElement.classList.remove('questions-mode');
+                if (parsedProgram.length > 0 && now < parsedProgram[0].startDate) {
+                    speakerElement.textContent = "Program starting soon";
+                    countdownElement.textContent = "--";
+                } else if (parsedProgram.length > 0 && now >= parsedProgram[parsedProgram.length - 1].endDate) {
+                    speakerElement.textContent = "Program Finished";
+                    countdownElement.textContent = "END";
+                } else {
+                    speakerElement.textContent = "No current session";
+                    countdownElement.textContent = "--";
+                }
+            }
+        }
+
+        // Initial call and set interval
+        updateTimer();
+        setInterval(updateTimer, 1000); // Update every second
+    </script>
+</body>
+</html>
