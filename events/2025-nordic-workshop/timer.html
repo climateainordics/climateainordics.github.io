@@ -12,42 +12,50 @@
             background-color: black;
             color: white;
             font-family: Arial, sans-serif;
-            overflow: hidden; /* Prevents scrollbars if content slightly overflows */
+            overflow: hidden;
             display: flex;
             flex-direction: column;
         }
 
         #top-bar {
-            height: 10vh; /* 10% of screen height */
+            height: 10vh;
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 4vh; /* Responsive font size */
+            font-size: 4vh;
             text-align: center;
             padding: 1vh;
             box-sizing: border-box;
         }
 
         #timer-display {
-            height: 90vh; /* 90% of screen height */
+            height: 90vh;
             display: flex;
             align-items: center;
             justify-content: center;
         }
 
         #countdown-minutes {
-            font-size: 65vh; /* Very large, adjust as needed */
+            font-size: 65vh;
             font-weight: bold;
-            line-height: 1; /* Try to keep number tight vertically */
+            line-height: 1;
         }
 
         .questions-mode #countdown-minutes {
             color: red;
         }
-        /* .questions-mode #top-bar { */
-            /* You could change top bar color too if needed, e.g., */
-            /* background-color: darkred; */
-        /* } */
+
+        #delay-note {
+            position: fixed;
+            bottom: 10px;
+            right: 10px;
+            font-size: 2vh;
+            color: #ccc; /* Light gray for subtlety */
+            background-color: rgba(0,0,0,0.5); /* Slight dark background for readability */
+            padding: 5px 10px;
+            border-radius: 3px;
+            display: none; /* Hidden by default */
+        }
     </style>
 </head>
 <body>
@@ -57,11 +65,13 @@
     <div id="timer-display">
         <span id="countdown-minutes">--</span>
     </div>
+    <div id="delay-note"></div>
 
     <script>
         const program = [
-            // Times are in HH:MM format (24-hour clock)
-            { startTime: "08:00", endTime: "09:00", speaker: "Coffee / Find your seat" },
+            // Original, undelayed schedule times
+            { startTime: "08:30", endTime: "08:45", speaker: "Doors open. Posters set-up." },
+            { startTime: "08:45", endTime: "09:00", speaker: "Coffee / Find your seat" },
             { startTime: "09:00", endTime: "09:15", speaker: "Olof Mogren" },
             { startTime: "09:15", endTime: "10:00", speaker: "Keynote 1: Oisin Mac Aodha" },
             { startTime: "10:00", endTime: "10:20", speaker: "Oral: Edmond Sacre" },
@@ -73,7 +83,7 @@
             { startTime: "13:15", endTime: "14:00", speaker: "Keynote 2: Christian Igel" },
             { startTime: "14:00", endTime: "14:20", speaker: "Oral: Nico Lang" },
             { startTime: "14:20", endTime: "14:40", speaker: "Oral: Stefanos Georganos" },
-            { startTime: "14:40", endTime: "15:10", speaker: "Coffee" }, // Standalone Coffee break
+            { startTime: "14:40", endTime: "15:10", speaker: "Coffee" },
             { startTime: "15:10", endTime: "15:30", speaker: "Oral: Alouette van Hove" },
             { startTime: "15:30", endTime: "15:50", speaker: "Oral: Shorouq Zahra" },
             { startTime: "15:50", endTime: "16:10", speaker: "Oral: David Thulke" },
@@ -86,30 +96,55 @@
         const speakerElement = document.getElementById('current-speaker');
         const countdownElement = document.getElementById('countdown-minutes');
         const bodyElement = document.body;
+        const delayNoteElement = document.getElementById('delay-note');
 
         const VIRTUAL_DEADLINE_OFFSET_MINUTES = 5;
+        let scheduleDelayMinutes = 0; // Global delay in minutes
+        let parsedProgram = [];       // This will hold the potentially delayed schedule
 
-        function parseTime(timeStr) {
+        function parseBaseTime(timeStr) {
+            // Parses time string to a Date object for today, without any delay
             const [hours, minutes] = timeStr.split(':').map(Number);
             const date = new Date();
-            date.setHours(hours, minutes, 0, 0); // Set hours, minutes, seconds, milliseconds
+            date.setHours(hours, minutes, 0, 0);
             return date;
         }
 
-        // Pre-parse all program times
-        const parsedProgram = program.map(slot => ({
-            ...slot,
-            startDate: parseTime(slot.startTime),
-            endDate: parseTime(slot.endTime)
-        }));
+        function recalculateAndParseProgramTimes() {
+            parsedProgram = program.map(slot => {
+                const originalStartDate = parseBaseTime(slot.startTime);
+                const originalEndDate = parseBaseTime(slot.endTime);
 
+                // Apply the current global delay
+                const delayedStartDate = new Date(originalStartDate.getTime() + scheduleDelayMinutes * 60000);
+                const delayedEndDate = new Date(originalEndDate.getTime() + scheduleDelayMinutes * 60000);
+
+                return {
+                    ...slot,
+                    startDate: delayedStartDate, // These are now the effective start/end times
+                    endDate: delayedEndDate
+                };
+            });
+        }
+
+        function updateDelayNote() {
+            if (scheduleDelayMinutes !== 0) {
+                const absDelay = Math.abs(scheduleDelayMinutes);
+                const delayType = scheduleDelayMinutes > 0 ? "delayed" : "advanced";
+                delayNoteElement.textContent = `(Schedule ${absDelay} minutes ${delayType})`;
+                delayNoteElement.style.display = 'block';
+            } else {
+                delayNoteElement.style.display = 'none';
+            }
+        }
 
         function updateTimer() {
             const now = new Date();
             let currentSlot = null;
             let minutesToDisplay = null;
 
-            for (const slot of parsedProgram) {
+            // Ensure parsedProgram is up-to-date (it is, due to recalculateAndParseProgramTimes)
+            for (const slot of parsedProgram) { // Use the (potentially) delayed parsedProgram
                 if (now >= slot.startDate && now < slot.endDate) {
                     currentSlot = slot;
                     break;
@@ -117,57 +152,44 @@
             }
 
             if (currentSlot) {
-                const actualEndTime = currentSlot.endDate;
+                const actualEndTime = currentSlot.endDate; // This is the delayed end time
                 const slotSpeakerTextLower = currentSlot.speaker.toLowerCase();
 
-                // List of exact speaker texts for breaks that should bypass question time
                 const breakEventsTexts = [
-                    "coffee / find your seat",
-                    "coffee break",
-                    "lunch",
-                    "coffee", // The standalone coffee break
-                    "posters and mingle"
+                    "coffee / find your seat", "coffee break", "lunch",
+                    "coffee", "posters and mingle"
                 ];
-
                 const isSpecificallyABreak = breakEventsTexts.includes(slotSpeakerTextLower);
 
-                // General conditions for events that shouldn't have question time
                 const isGenerallyNonQuestionEvent =
                     slotSpeakerTextLower.includes("doors open") ||
                     slotSpeakerTextLower.includes("relocation") ||
                     slotSpeakerTextLower.includes("concluding remarks") ||
-                    (actualEndTime - currentSlot.startDate) / 60000 <= VIRTUAL_DEADLINE_OFFSET_MINUTES; // Slot is 5 mins or less
+                    (actualEndTime - currentSlot.startDate) / 60000 <= VIRTUAL_DEADLINE_OFFSET_MINUTES;
 
                 const isNonQuestionEvent = isSpecificallyABreak || isGenerallyNonQuestionEvent;
 
                 const virtualDeadlineTime = new Date(actualEndTime.getTime() - VIRTUAL_DEADLINE_OFFSET_MINUTES * 60000);
 
                 if (!isNonQuestionEvent && now >= virtualDeadlineTime && now < actualEndTime) {
-                    // --- QUESTION TIME for eligible speaking slots ---
                     speakerElement.textContent = "Questions";
                     bodyElement.classList.add('questions-mode');
-                    const msRemaining = actualEndTime - now; // Countdown to actual end of slot
+                    const msRemaining = actualEndTime - now;
                     minutesToDisplay = Math.ceil(msRemaining / 60000);
                 } else {
-                    // --- REGULAR TIME for speaking slots (before Q-time) OR any BREAK/NON-QUESTION EVENT ---
                     speakerElement.textContent = currentSlot.speaker;
                     bodyElement.classList.remove('questions-mode');
-
                     let targetTimeForCountdown;
                     if (isNonQuestionEvent) {
-                        // Breaks & other non-question events countdown directly to their actual end
                         targetTimeForCountdown = actualEndTime;
                     } else {
-                        // Speaking slots (not yet in question time) countdown to the virtual deadline (start of Q&A)
                         targetTimeForCountdown = virtualDeadlineTime;
                     }
                     const msRemaining = targetTimeForCountdown - now;
                     minutesToDisplay = Math.ceil(msRemaining / 60000);
                 }
                 countdownElement.textContent = minutesToDisplay >= 0 ? minutesToDisplay : 0;
-
             } else {
-                // Logic for before program starts or after it ends
                 bodyElement.classList.remove('questions-mode');
                 if (parsedProgram.length > 0 && now < parsedProgram[0].startDate) {
                     speakerElement.textContent = "Program starting soon";
@@ -182,9 +204,36 @@
             }
         }
 
-        // Initial call and set interval
-        updateTimer();
-        setInterval(updateTimer, 1000); // Update every second
+        // Event listener for 'd' key
+        document.addEventListener('keydown', function(event) {
+            if (event.key.toLowerCase() === 'd') {
+                // Prevent 'd' from being typed into any potential input field if one were focused
+                // event.preventDefault();
+                const delayInput = prompt(`Enter delay in minutes (current: ${scheduleDelayMinutes} mins). Negative values advance the schedule:`, scheduleDelayMinutes);
+                if (delayInput !== null) { // User didn't cancel
+                    const newDelay = parseInt(delayInput);
+                    if (!isNaN(newDelay)) {
+                        scheduleDelayMinutes = newDelay;
+                        recalculateAndParseProgramTimes(); // Recalculate schedule with new delay
+                        updateDelayNote();                 // Update the visual note
+                        updateTimer();                     // Refresh display immediately
+                    } else if (delayInput.trim() === "") { // If user enters empty string, reset delay
+                        scheduleDelayMinutes = 0;
+                        recalculateAndParseProgramTimes();
+                        updateDelayNote();
+                        updateTimer();
+                    } else {
+                        alert("Invalid input. Please enter a number for the delay.");
+                    }
+                }
+            }
+        });
+
+        // Initial setup
+        recalculateAndParseProgramTimes(); // Initial calculation of program times (with 0 delay)
+        updateDelayNote();                 // Initial state of delay note
+        updateTimer();                     // First call to display timer
+        setInterval(updateTimer, 1000);    // Update every second
     </script>
 </body>
 </html>
