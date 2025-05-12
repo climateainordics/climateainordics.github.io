@@ -22,29 +22,52 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 3.5vh; /* Slightly adjusted for potentially more text */
+            font-size: 3.5vh;
             text-align: center;
-            padding: 0.5vh 1vh; /* Adjusted padding */
+            padding: 0.5vh 1vh;
             box-sizing: border-box;
-            line-height: 1.2; /* Allow for multi-line text */
+            line-height: 1.2;
         }
 
         #timer-display {
-            height: 90vh;
+            height: 85vh; /* Reduced slightly for progress bar */
             display: flex;
             align-items: center;
             justify-content: center;
+            flex-direction: column; /* To stack number and bar */
         }
 
         #countdown-minutes {
-            font-size: 65vh;
+            font-size: 65vh; /* Adjust if it feels too cramped with bar */
             font-weight: bold;
             line-height: 1;
+        }
+
+        #minute-progress-bar-container {
+            width: 70%; /* Width of the progress bar */
+            height: 3vh;  /* Height of the progress bar */
+            background-color: #333; /* Background of the container, visible as bar empties from left */
+            margin-top: 2vh; /* Space between number and bar */
+            border-radius: 3px;
+            overflow: hidden; /* Not strictly necessary with absolute positioning but good practice */
+            display: none; /* Hidden by default */
+            position: relative; /* Crucial for absolute positioning of the fill */
+        }
+
+        #minute-progress-bar-fill {
+            position: absolute; /* Key change */
+            top: 0;             /* Key change */
+            right: 0;           /* Key change - anchors fill to the right */
+            height: 100%;
+            width: 100%; /* Starts visually full due to right:0, width controlled by JS */
+            background-color: white; /* Default color */
+            border-radius: 3px;
         }
 
         .questions-mode #countdown-minutes {
             color: red;
         }
+        /* Color for progress bar fill will be set via JS */
 
         #delay-note {
             position: fixed;
@@ -65,12 +88,14 @@
     </div>
     <div id="timer-display">
         <span id="countdown-minutes">--</span>
+        <div id="minute-progress-bar-container">
+            <div id="minute-progress-bar-fill"></div>
+        </div>
     </div>
     <div id="delay-note"></div>
 
     <script>
         const program = [
-            // Original, undelayed schedule times
             { startTime: "08:00", endTime: "09:00", speaker: "Coffee / Find your seat" },
             { startTime: "09:00", endTime: "09:15", speaker: "Olof Mogren" },
             { startTime: "09:15", endTime: "10:00", speaker: "Keynote 1: Oisin Mac Aodha" },
@@ -97,6 +122,9 @@
         const countdownElement = document.getElementById('countdown-minutes');
         const bodyElement = document.body;
         const delayNoteElement = document.getElementById('delay-note');
+        const minuteProgressBarContainer = document.getElementById('minute-progress-bar-container');
+        const minuteProgressBarFill = document.getElementById('minute-progress-bar-fill');
+
 
         const VIRTUAL_DEADLINE_OFFSET_MINUTES = 5;
         let scheduleDelayMinutes = 0;
@@ -134,7 +162,7 @@
             const now = new Date();
             let currentSlot = null;
             let minutesToDisplay = null;
-            let targetTimeForCountdown; // Declare here for wider scope within the if(currentSlot) block
+            let targetTimeForCountdown;
 
             for (const slot of parsedProgram) {
                 if (now >= slot.startDate && now < slot.endDate) {
@@ -142,6 +170,10 @@
                     break;
                 }
             }
+
+            const mainTimerText = countdownElement.textContent;
+            const showProgressBar = !isNaN(parseInt(mainTimerText)) && mainTimerText !== "--" && mainTimerText !== "END";
+
 
             if (currentSlot) {
                 const actualEndTime = currentSlot.endDate;
@@ -162,13 +194,12 @@
                 const isNonQuestionEvent = isSpecificallyABreak || isGenerallyNonQuestionEvent;
                 const virtualDeadlineTime = new Date(actualEndTime.getTime() - VIRTUAL_DEADLINE_OFFSET_MINUTES * 60000);
 
-                // Set default display states
-                speakerElement.textContent = currentSlot.speaker; // Default, might be overridden by break logic or Q-time
+                speakerElement.textContent = currentSlot.speaker;
                 bodyElement.classList.remove('questions-mode');
+                minuteProgressBarFill.style.backgroundColor = 'white'; // Default fill color
 
                 if (isSpecificallyABreak) {
                     let breakDisplayInfo = currentSlot.speaker;
-                    // Find current slot index in parsedProgram. Comparing by time & speaker for robustness.
                     const currentSlotIndex = parsedProgram.findIndex(
                         s => s.startDate.getTime() === currentSlot.startDate.getTime() && s.speaker === currentSlot.speaker
                     );
@@ -179,28 +210,23 @@
                         const nextHours = String(nextStartTime.getHours()).padStart(2, '0');
                         const nextMinutes = String(nextStartTime.getMinutes()).padStart(2, '0');
                         const formattedNextTime = `${nextHours}:${nextMinutes}`;
-                        // Using innerHTML to allow for styling/line breaks for the "Next:" part
                         breakDisplayInfo += `<br><span style="font-size: 0.6em; opacity: 0.85; line-height: 1.1;">Next: ${nextSlot.speaker} at ${formattedNextTime}</span>`;
                         speakerElement.innerHTML = breakDisplayInfo;
                     } else {
-                        speakerElement.textContent = currentSlot.speaker; // No next slot, just show break name
+                        speakerElement.textContent = currentSlot.speaker;
                     }
-                    targetTimeForCountdown = actualEndTime; // Breaks countdown to their actual end
+                    targetTimeForCountdown = actualEndTime;
 
                 } else if (!isNonQuestionEvent && now >= virtualDeadlineTime && now < actualEndTime) {
-                    // --- QUESTION TIME for eligible speaking slots ---
-                    speakerElement.textContent = "Questions"; // Override speaker name
-                    bodyElement.classList.add('questions-mode'); // Add red countdown
-                    targetTimeForCountdown = actualEndTime; // Countdown to actual end of slot
-
+                    speakerElement.textContent = "Questions";
+                    bodyElement.classList.add('questions-mode');
+                    minuteProgressBarFill.style.backgroundColor = 'red'; // Fill color for Q-time
+                    targetTimeForCountdown = actualEndTime;
                 } else {
-                    // --- REGULAR TIME for speaking slots (before Q-time) OR other NON-QUESTION EVENT (not a specific break) ---
-                    // speakerElement.textContent = currentSlot.speaker; // Already set as default above
-                    // bodyElement.classList.remove('questions-mode'); // Already set as default above
-
-                    if (isNonQuestionEvent) { // True for "concluding remarks", "doors open", etc. (but not specific breaks already handled)
+                    // Regular speaking slot before Q-time, or other non-question/non-break event
+                    if (isNonQuestionEvent) {
                         targetTimeForCountdown = actualEndTime;
-                    } else { // This is for regular speaking slots before their Q&A time
+                    } else {
                         targetTimeForCountdown = virtualDeadlineTime;
                     }
                 }
@@ -211,6 +237,7 @@
 
             } else {
                 bodyElement.classList.remove('questions-mode');
+                minuteProgressBarFill.style.backgroundColor = 'white'; // Reset fill color
                 if (parsedProgram.length > 0 && now < parsedProgram[0].startDate) {
                     speakerElement.textContent = "Program starting soon";
                     countdownElement.textContent = "--";
@@ -221,6 +248,27 @@
                     speakerElement.textContent = "No current session";
                     countdownElement.textContent = "--";
                 }
+            }
+
+            // Update minute progress bar logic (runs every second)
+            if (showProgressBar) {
+                minuteProgressBarContainer.style.display = 'block';
+                const secondsInCurrentMinute = now.getSeconds();
+                // Progress is how much of the minute is *remaining* for the colored bar
+                // At 0 seconds, (60-0)/60 = 100% width (colored bar is full)
+                // At 59 seconds, (60-59)/60 = ~1.67% width (colored bar is almost empty)
+                const progressPercent = ((60 - secondsInCurrentMinute) / 60) * 100;
+                minuteProgressBarFill.style.width = `${progressPercent}%`;
+
+                // Ensure color of the fill matches main timer state
+                if (bodyElement.classList.contains('questions-mode')) {
+                    minuteProgressBarFill.style.backgroundColor = 'red';
+                } else {
+                    minuteProgressBarFill.style.backgroundColor = 'white';
+                }
+
+            } else {
+                minuteProgressBarContainer.style.display = 'none';
             }
         }
 

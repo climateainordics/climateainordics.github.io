@@ -19,7 +19,7 @@ img {
 
 | Time | Category | Speaker | Title |
 | ---- | -------- | ------- | ----- |
-| 8:45 | | Coffee/find your seat | | 
+| 8:30 | | Coffee/find your seat | | 
 | 9:00-10:40 | | *Session 1* | *Session Chair: Ankit Kariyaa* |
 | &nbsp;&nbsp;&nbsp;&nbsp;9:00 | | Olof Mogren | Opening remarks |
 | &nbsp;&nbsp;&nbsp;&nbsp;9:15 | Keynote | [Oisin Mac Aodha](#oisin) | [Towards Global-scale Species Distribution Modelling](#oisin) |
