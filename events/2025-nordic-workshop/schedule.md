@@ -96,7 +96,7 @@ img {
 {% assign poster_number = poster_number | plus: 1 -%}
 | {{ poster_number }}  | [Mourad	Oussalah](#mourad) | [AI-Enhanced Snow and Cloud Segmentation in Sentinel-2 Imagery Using Dilated DeepLabv3+ with ResNet Backbone](#mourad) |
 {% assign poster_number = poster_number | plus: 1 -%}
-| {{ poster_number }}  | [Mikhail Ivanov](#mikhail) | [TBA](#mikhail) |
+| {{ poster_number }}  | [Mikhail Ivanov](#mikhail) | [Detection of extreme precipitation events in the present and future climates at high resolution](#mikhail) |
 
 
 ## Speaker instructions.
@@ -494,8 +494,8 @@ We validate our approach through experiments with artificial problems that have 
 {% assign poster_number = poster_number | plus: 1 %}
 <a name="mikhaili"></a>
 **{{ poster_number }}. Mikhail Ivanov**, SMHI, Sweden<br />
-**Title:** TBA<br />
-**Abstract:** TBA
+**Title:** Detection of extreme precipitation events in the present and future climates at high resolution <br />
+**Abstract:** Recent studies of observed and simulated changes in precipitation patterns suggest intensifying local extremes with increased warming levels. While global climate models may provide comprehensive climate information, high resolution is needed to properly resolve the time and location of extreme events, especially over topographically complex terrain. Although regional climate models are ideal tools to calculate high-resolution climate information, they are computationally expensive. Here we present DETEX – a machine learning based framework, designed to predict high-resolution extremes from low-resolution data in present and future climates. Our machine learning model provides a better estimate for the extreme precipitation observed in regional model simulations than the interpolated global climate model data that was used to drive the regional model. The correlation with the ground truth data is particularly strong in many high precipitation areas, such as the coast of Norway, the Alps and the eastern Adriatic coast. However, the correlation remains weak in areas with more continental climates. The model, trained on the historical data, retains its predictive power in the SSP370 scenario, demonstrating the transferability. We plan to test the model with other datasets (particularly the reanalysis), as well as to compare it with other machine learning methodologies.
 
 [Back to top of page](#top)
 
