@@ -209,10 +209,10 @@ Climate Modeling * Sustainable Cities * Sustainable Production * Machine Learnin
 Climate Modeling * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=zjajzQEAAAAJ) * [ORCID](https://orcid.org/0000-0002-3085-0175)
 </div>
 
-<div class="content" markdown="1" data-tags="">
+<div class="content" markdown="1" data-tags="Climate Modeling,Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Sustainable Production,Efficient or Sustainable AI,Machine Learning">
 <span title="Senior lecturer in mathematical statistics, with many years experience of applications in medicine and technical development, both internally and externally. Linda&#x27;s research focus is applied statistics in sustainability, medicine and technical development. PhD, ResearcherLund University."><strong>Linda Hartman, PhD, Researcher, Lund University</strong></span>
 <br />
-[Publications (Scholar)](https://scholar.google.com/citations?user=yY55qioAAAAJ) * [ORCID](https://orcid.org/0000-0002-1122-3109)
+Climate Modeling * Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Sustainable Production * Efficient or Sustainable AI * Machine Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=yY55qioAAAAJ) * [ORCID](https://orcid.org/0000-0002-1122-3109)
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Urban Planning,Efficient or Sustainable AI,NLP,Computer Vision,Machine Learning,Deep Learning">
