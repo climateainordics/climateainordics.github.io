@@ -1049,3 +1049,9 @@ Sustainable Cities * Efficient or Sustainable AI * Computer Vision * Machine Lea
 <br />
 Climate Modeling * Urban Planning * Sustainable Cities * Sustainable Production * Machine Learning * Deep Learning * Wind Energy * [More info (researcher profile)](https://linkedin.com/in/hamidreza-abedi-3b79a318) * [Research group](https://www.ri.se/en/person/hamidreza-abedi) * [Publications (Scholar)](https://scholar.google.com/citations?user=RqtE718AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-0096-3144)
 </div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
+<span title="https://www.linkedin.com/in/perholger/. IndustrySkogr Kaupa Group AI."><strong>Per Holger Dahlen, Industry, Skogr Kaupa Group AI</strong></span>
+<br />
+Earth Observation * Climate Modeling * Biodiversity * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.skogrkaupa.com)
+</div>
