@@ -1079,3 +1079,9 @@ Earth Observation * Urban Planning * Sustainable Cities * Computer Vision * Mach
 <br />
 Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=19cnH_wAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4534-4598)
 </div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Marine Ecology,Computer Vision,Machine Learning,Deep Learning">
+<span title="I&#x27;m a postdoctoral researcher at the Visual Analysis and Perception lab, Aalborg University, where I also obtained his M.Sc. and Ph.D. degrees in computer vision. I&#x27;m also an affiliated researcher at the Pioneer Center for AI, Denmark, member of ELLIS, and visiting researcher at the Universitat de Barcelona in 2021, Vector Institute for AI in 2023, and the University of Edinburgh in 2024. My research interests span basic and applied computer vision and machine learning, with a special interest in expert tasks such as biodiversity- and infrastructure monitoring.  Post DocAalborg University."><strong>Joakim Bruslund Haurum, Post Doc, Aalborg University</strong></span>
+<br />
+Biodiversity * Marine Ecology * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://joakimhaurum.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=GAEtgr4AAAAJ&amp;hl) * [ORCID](https://orcid.org/0000-0002-0544-0422) * [BlueSky](https://bsky.app/profile/jbhaurum.bsky.social)
+</div>
