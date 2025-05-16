@@ -7,7 +7,7 @@ permalink: /events/2025-nordic-workshop
 event_date: 2025-05-13
 event_time: "9:00"
 event_location: Gothenburg, Sweden
-first_page: true
+first_page: false
 image: /images/nordic-workshop-1200x846.png
 ---
 
