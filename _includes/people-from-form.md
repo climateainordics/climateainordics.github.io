@@ -1055,3 +1055,21 @@ Climate Modeling * Urban Planning * Sustainable Cities * Sustainable Production 
 <br />
 Earth Observation * Climate Modeling * Biodiversity * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.skogrkaupa.com)
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Biodiversity,Sustainable Cities,Machine Learning,One Health,Public Health">
+<span title="PhD, ResearcherUmeå University."><strong>Junwen Guo, PhD, Researcher, Umeå University</strong></span>
+<br />
+Climate Modeling * Biodiversity * Sustainable Cities * Machine Learning * One Health * Public Health
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI,NLP,Computer Vision,Machine Learning,Deep Learning">
+<span title="ResearcherNorwegian Mapping Authority."><strong>Gøril M. Breivik, Researcher, Norwegian Mapping Authority</strong></span>
+<br />
+Earth Observation * Biodiversity * Sustainable Transport * Sustainable Cities * Efficient or Sustainable AI * NLP * Computer Vision * Machine Learning * Deep Learning
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Urban Planning,Sustainable Cities,Computer Vision,Machine Learning,Deep Learning">
+<span title="PhD, ResearcherNILU."><strong>Amirhossein Hassani, PhD, Researcher, NILU</strong></span>
+<br />
+Earth Observation * Urban Planning * Sustainable Cities * Computer Vision * Machine Learning * Deep Learning * [Research group](https://nilu.com/employee/amir-hassani/) * [Publications (Scholar)](https://scholar.google.co.uk/citations?user=HtvV4OsAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-6470-0490)
+</div>
