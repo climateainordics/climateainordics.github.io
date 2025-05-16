@@ -12,6 +12,12 @@ img {
 table {
 border-width: 0;
 }
+tr {
+border-width: 0;
+}
+td {
+border-width: 0;
+}
 </style>
 
 Welcome to _Climate AI Nordics_. We are a [network of researchers](/people/) dedicated to developing and utilizing AI technologies to address the urgent global challenge of climate change. Our researchers focus on creating and promoting AI solutions that support both climate change mitigation, reducing the severity of climate change, and adaptation, adjusting to the effects of climate change. We are already in a climate emergency which is causing biodiversity loss, extreme weather events, and human suffering, and this necessitates a multifaceted approach involving both policy change, limitations on activities contributing to climate change, and bolstering societal resilience against climate-related events.
