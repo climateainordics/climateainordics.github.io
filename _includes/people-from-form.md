@@ -1073,3 +1073,9 @@ Earth Observation * Biodiversity * Sustainable Transport * Sustainable Cities * 
 <br />
 Earth Observation * Urban Planning * Sustainable Cities * Computer Vision * Machine Learning * Deep Learning * [Research group](https://nilu.com/employee/amir-hassani/) * [Publications (Scholar)](https://scholar.google.co.uk/citations?user=HtvV4OsAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-6470-0490)
 </div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Computer Vision,Machine Learning,Deep Learning">
+<span title="Post DocNorwegian Polar Institute."><strong>Calvin Shackleton, Post Doc, Norwegian Polar Institute</strong></span>
+<br />
+Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=19cnH_wAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4534-4598)
+</div>
