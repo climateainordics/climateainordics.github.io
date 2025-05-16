@@ -2,7 +2,6 @@
 permalink: /
 title: "Climate AI Nordics"
 excerpt: "Climate AI Nordics"
-author_profile: true
 ---
 
 <style>
@@ -36,17 +35,16 @@ We hope that the collaborative nature of Climate AI Nordics will accelerate prog
 
 ## [News](/news/)
 
+
 {% for p in site.categories.news limit: 5 %}
-* {{p.date | date: '%Y-%m-%d'}}: {{ p.title }}\
-[(Read more)]({{ p.url }})
+| &bull; | {% if p.image %} ![]({{ p.image }}){% endif %} | {{p.date | date: '%Y-%m-%d'}}: {{ p.title }} <br /> [(Read more)]({{ p.url }}) |
 {% endfor %}
 
 
 ## [Events](/events/)
 
 {% for p in site.categories.events limit: 5 %}
-* {{p.event_date | date: '%Y-%m-%d'}}: {{ p.title }}\
-[(Read more)]({{ p.url }})
+| &bull; | {% if p.image %} ![]({{ p.image }}){% endif %} | {{p.event_date | date: '%Y-%m-%d'}}: {{ p.title }} <br /> | [(Read more)]({{ p.url }}) |
 {% endfor %}
 
 
