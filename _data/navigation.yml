@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "2025 Workshop"
-    url: https://climateainordics.com/events/2025-nordic-workshop
-
   - title: "News"
     url: /news/
 
@@ -18,29 +15,9 @@ main:
   - title: "Follow"
     url: /follow/
 
-  #- title: "Projects"
-  #  url: /projects/
-
-  #- title: "Publications"
-  #  url: /publications/
-
   - title: "Partners"
     url: /partners/
 
   - title: "About"
     url: /about/
 
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-      #- title: "CV"
-      #  url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
