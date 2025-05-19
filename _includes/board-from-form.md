@@ -55,11 +55,11 @@ Earth Observation * Climate Modeling * Biodiversity * Sustainable Cities * Compu
 Climate Modeling * Machine Learning * Deep Learning * Molecular Modeling of Atmospheric Chemistry * [More info (researcher profile)](https://hilsan.github.io/) * [Research group](https://www.aalto.fi/en/department-of-applied-physics/computational-electronic-structure-theory-cest) * [Publications (Scholar)](https://scholar.google.com/citations?user=dU-qQwQAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0001-7845-1088)
 </div>
 
-<div class="content" markdown="1" data-tags="Efficient or Sustainable AI,Machine Learning,Deep Learning,Bayesian Optimisation,Climate Impacts,Extreme Weather,Sustainable Energy,Weather Forecasting,Wind Energy,Automl">
+<div class="content" markdown="1" data-tags="Efficient or Sustainable AI,Machine Learning,Deep Learning,Bayesian Optimisation,Climate Impacts,Extreme Weather,Sustainable Energy,Weather Forecasting,Wind Energy,AutoML">
 ![Sigrid Passano Hellan](/images/people/hellan.jpg)
 <span title="PhD, ResearcherNORCE Norwegian Research Centre and Bjerknes Centre for Climate Research."><strong>Sigrid Passano Hellan, PhD, Researcher, NORCE Norwegian Research Centre and Bjerknes Centre for Climate Research</strong></span>
 <br />
-Efficient or Sustainable AI * Machine Learning * Deep Learning * Bayesian Optimisation * Climate Impacts * Extreme Weather * Sustainable Energy * Weather Forecasting * Wind Energy * Automl * [More info (researcher profile)](https://sighellan.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=oH9ZmGgAAAAJ)
+Efficient or Sustainable AI * Machine Learning * Deep Learning * Bayesian Optimisation * Climate Impacts * Extreme Weather * Sustainable Energy * Weather Forecasting * Wind Energy * AutoML * [More info (researcher profile)](https://sighellan.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=oH9ZmGgAAAAJ)
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Marine Ecology,Efficient or Sustainable AI,Soundscape Analysis,Machine Learning,Deep Learning,Machine Listening">

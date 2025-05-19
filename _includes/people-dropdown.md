@@ -3,7 +3,7 @@
 <option value="all">Show All</option>
 <option value="AI For Climate Education">AI For Climate Education (1)</option>
 <option value="Atmospheric Science">Atmospheric Science (1)</option>
-<option value="Automl">Automl (1)</option>
+<option value="AutoML">AutoML (1)</option>
 <option value="Bayesian Optimisation">Bayesian Optimisation (2)</option>
 <option value="Biodiversity">Biodiversity (52)</option>
 <option value="Climate Impacts">Climate Impacts (3)</option>
