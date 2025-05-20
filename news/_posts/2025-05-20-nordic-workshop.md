@@ -1,8 +1,8 @@
 ---
 title: "Inaugural Nordic Workshop on AI for Climate Change sparks collaboration and looks to the future"
 shortversion: "The inaugural Nordic Workshop on AI for Climate Change in Gothenburg successfully united leading researchers, practitioners, and innovators, fostering lively interdisciplinary discussions and idea exchange on topics ranging from biodiversity monitoring to the environmental footprint of AI. Building on this enthusiastic and collaborative atmosphere, the community is now looking forward to future events, with the 2026 workshop already confirmed to be hosted by the University of Copenhagen and the Pioneer Centre for AI. This vital initiative continues to build a strong Nordic network dedicated to maximizing AI's potential in addressing the urgent climate crisis."
-people:
 image: /images/posts/2025-05-20-nordic-workshop/audience.jpg
+people:
 - Olof Mogren
 ---
  
