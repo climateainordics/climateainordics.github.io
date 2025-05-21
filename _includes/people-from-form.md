@@ -1085,3 +1085,9 @@ Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep
 <br />
 Biodiversity * Marine Ecology * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://joakimhaurum.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=GAEtgr4AAAAJ&amp;hl) * [ORCID](https://orcid.org/0000-0002-0544-0422) * [BlueSky](https://bsky.app/profile/jbhaurum.bsky.social)
 </div>
+
+<div class="content" markdown="1" data-tags="Machine Learning">
+<span title="Engineering Physics student specializing in ML. Deep passion for making the world a better place in the most effective ways possible, currently interested in eliminating animal factory farming.  StudentLund University."><strong>Otto Tutzauer Hellström, Student, Lund University</strong></span>
+<br />
+Machine Learning
+</div>
