@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Machine Learning">
-<span title="Engineering Physics student specializing in ML. Deep passion for making the world a better place in the most effective ways possible, currently interested in eliminating animal factory farming.  StudentLund University."><strong>Otto Tutzauer Hellström, Student, Lund University</strong></span>
-<br />
-Machine Learning
-</div>
-
 <div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Computer Vision,Earth Observation,Soundscape Analysis">
 <span title="Wildlife biologist working with conservation technology. Associate ProfessorSwedish University of Agricultural Sciences."><strong>Tim Hofmeester, Associate Professor, Swedish University of Agricultural Sciences</strong></span>
 <br />
@@ -862,6 +856,12 @@ Earth Observation * Climate Modeling * Biodiversity * Efficient or Sustainable A
 <span title="ResearcherNorwegian Mapping Authority."><strong>Gøril M. Breivik, Researcher, Norwegian Mapping Authority</strong></span>
 <br />
 Earth Observation * Biodiversity * Sustainable Transport * Sustainable Cities * Efficient or Sustainable AI * NLP * Computer Vision * Machine Learning * Deep Learning
+</div>
+
+<div class="content" markdown="1" data-tags="Machine Learning">
+<span title="Engineering Physics student specializing in ML. Deep passion for making the world a better place in the most effective ways possible, currently interested in eliminating animal factory farming.  StudentLund University."><strong>Otto Tutzauer Hellström, Student, Lund University</strong></span>
+<br />
+Machine Learning
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
