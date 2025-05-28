@@ -129,7 +129,6 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
   {% if i == 2 %}
     {% if items_listed %}
 
-<br clear=all />
 
 # Recent events
 
