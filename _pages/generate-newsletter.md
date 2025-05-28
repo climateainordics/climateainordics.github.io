@@ -163,14 +163,14 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 <br clear=all />
 
-      ## {{ p.title }}
+## {{ p.title }}
 
       {% if p.image %}
-        ![](https://climateainordics.com{{ p.image  }})
+![](https://climateainordics.com{{ p.image  }})
       {% endif %}
 
       {{ printdate }} {{ p.shortversion }}<br />
-      **[(Read more)](https://climateainordics.com{{ p.url }})**
+**[(Read more)](https://climateainordics.com{{ p.url }})**
     {% endunless %}
   {% endfor %}
 
