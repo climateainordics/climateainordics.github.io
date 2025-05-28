@@ -116,6 +116,7 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 {{ p.shortversion }}<br />
 **[(Read more)](https://climateainordics.com{{ p.url }})**
+
   {% endunless %}
 {% endfor %}
 
@@ -124,11 +125,12 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 {% comment %} FINALLY, EVENTS THAT HAS ALREADY HAPPENED!!! {% endcomment %}
 
 {% for i in (1..2) %}
-  {% comment %} TWO ITERATIONS, FIRST TO CHECK IF ANY POSTS AVAILABLE {% endcomment %}
+{% comment %} TWO ITERATIONS, FIRST TO CHECK IF ANY POSTS AVAILABLE {% endcomment %}
 
   {% if i == 2 %}
-    {% if items_listed %}
+{% if items_listed %}
 
+<br clear=all />
 
 # Recent events
 
@@ -159,7 +161,7 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
     {% unless p.first_page %}
       {% assign items_listed = true %}
 
-      <br clear=all />
+<br clear=all />
 
       ## {{ p.title }}
 
