@@ -1,3 +1,10 @@
+## Affiliates - Recently Joined
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Computer Vision,Earth Observation,Soundscape Analysis">
+<span title="Wildlife biologist working with conservation technology. Associate ProfessorSwedish University of Agricultural Sciences."><strong>Tim Hofmeester, Associate Professor, Swedish University of Agricultural Sciences</strong></span>
+<br />
+Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Earth Observation * Soundscape Analysis * [Research group](https://www.slu.se/en/ew-cv/tim-hofmeester2/) * [Publications (Scholar)](https://scholar.google.com/citations?user=7t-L88MAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-2101-5482) * [BlueSky](https://bsky.app/profile/timhofmeester.bsky.social)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -509,6 +516,42 @@ Earth Observation * Climate Modeling
 
 </div>
 
+<div class="content" markdown="1" data-tags="Sustainable Cities,Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
+<span title="I am a Tenure-Track Assistant Professor in the Department of Computer Science at Aalborg University (AAU). I am also faculty member of the Data Engineering, Science and System research group, where I work closely with Prof. Christian S. Jensen and Prof. Torben Bach Pedersen. In addition, I am affiliated with the Artificial Intelligence and Machine Learning (AIML) research team, led by Prof. Thomas Dyhre Nielsen. I am working on the research, development, and innovation of Responsible Foundation Model, Data Mining and AI for PDE, with a broad range of applications. Especially for Trustworthiness, Fairness, and Eco-Friendliness Representation Learning, focusing on extracting meaningful representation from various data types, including unlabeled, noisy, adversarial, sequential, computer vision and graph data.  Before joining AAU, I was an Assistant Professor at the Chongqing Key Laboratory of Image Cognition, Chongqing University of Posts and Telecommunications, Chongqing, China, engaging in research with Prof. Xinbo Gao. I received my Ph.D. degree in Department of Computer Science, Aalborg University in 2022, under the supervision of Prof. Bin Yang and Prof. Jilin Hu. During my Ph.D. studies, I was also fortunate to collaborate virtually with Prof. Jian Tang at the Mila–Quebec AI Institute. I am also served as the Area Chair/SPC/PC for prestigious conferences, including VLDB, KDD, AAAI, IJCAI, CIKM, IJCNN.  Assistant ProfessorAalborg University."><strong>Sean Bin Yang, Assistant Professor, Aalborg University</strong></span>
+<br />
+Sustainable Cities * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://scholar.google.com/citations?user=oIYY6AQAAAAJ&amp;hl=en) * [Research group](https://vbn.aau.dk/da/organisations/data-engineering-science-and-systems) * [Publications (Scholar)](https://scholar.google.com/citations?user=oIYY6AQAAAAJ&amp;hl=en)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Urban Planning,Sustainable Cities,Sustainable Production,Machine Learning,Deep Learning,Wind Energy">
+<span title="PhD, ResearcherRISE Research Institutes of Sweden."><strong>Hamidreza Abedi, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
+<br />
+Climate Modeling * Urban Planning * Sustainable Cities * Sustainable Production * Machine Learning * Deep Learning * Wind Energy * [More info (researcher profile)](https://linkedin.com/in/hamidreza-abedi-3b79a318) * [Research group](https://www.ri.se/en/person/hamidreza-abedi) * [Publications (Scholar)](https://scholar.google.com/citations?user=RqtE718AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-0096-3144)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Biodiversity,Sustainable Cities,Machine Learning,One Health,Public Health">
+<span title="PhD, ResearcherUmeå University."><strong>Junwen Guo, PhD, Researcher, Umeå University</strong></span>
+<br />
+Climate Modeling * Biodiversity * Sustainable Cities * Machine Learning * One Health * Public Health
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Urban Planning,Sustainable Cities,Computer Vision,Machine Learning,Deep Learning">
+<span title="PhD, ResearcherNILU."><strong>Amirhossein Hassani, PhD, Researcher, NILU</strong></span>
+<br />
+Earth Observation * Urban Planning * Sustainable Cities * Computer Vision * Machine Learning * Deep Learning * [Research group](https://nilu.com/employee/amir-hassani/) * [Publications (Scholar)](https://scholar.google.co.uk/citations?user=HtvV4OsAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-6470-0490)
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Computer Vision,Machine Learning,Deep Learning">
+<span title="Post DocNorwegian Polar Institute."><strong>Calvin Shackleton, Post Doc, Norwegian Polar Institute</strong></span>
+<br />
+Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=19cnH_wAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4534-4598)
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Marine Ecology,Computer Vision,Machine Learning,Deep Learning">
+<span title="I&#x27;m a postdoctoral researcher at the Visual Analysis and Perception lab, Aalborg University, where I also obtained his M.Sc. and Ph.D. degrees in computer vision. I&#x27;m also an affiliated researcher at the Pioneer Center for AI, Denmark, member of ELLIS, and visiting researcher at the Universitat de Barcelona in 2021, Vector Institute for AI in 2023, and the University of Edinburgh in 2024. My research interests span basic and applied computer vision and machine learning, with a special interest in expert tasks such as biodiversity- and infrastructure monitoring.  Post DocAalborg University."><strong>Joakim Bruslund Haurum, Post Doc, Aalborg University</strong></span>
+<br />
+Biodiversity * Marine Ecology * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://joakimhaurum.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=GAEtgr4AAAAJ&amp;hl) * [ORCID](https://orcid.org/0000-0002-0544-0422) * [BlueSky](https://bsky.app/profile/jbhaurum.bsky.social)
+</div>
+
 <div class="content" markdown="1" data-tags="">
 <span title="I&#x27;m a PhD student at the Center for Mathematical Sciences focusing on anomaly detection and machine learning in earth observations and remote sensing. PhD StudentLund University."><strong>Oskar Åström, PhD Student, Lund University</strong></span>
 <br />
@@ -803,6 +846,24 @@ Earth Observation * Climate Modeling * Sustainable Transport * Sustainable Citie
 
 </div>
 
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
+<span title="https://www.linkedin.com/in/perholger/. IndustrySkogr Kaupa Group AI."><strong>Per Holger Dahlen, Industry, Skogr Kaupa Group AI</strong></span>
+<br />
+Earth Observation * Climate Modeling * Biodiversity * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.skogrkaupa.com)
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI,NLP,Computer Vision,Machine Learning,Deep Learning">
+<span title="ResearcherNorwegian Mapping Authority."><strong>Gøril M. Breivik, Researcher, Norwegian Mapping Authority</strong></span>
+<br />
+Earth Observation * Biodiversity * Sustainable Transport * Sustainable Cities * Efficient or Sustainable AI * NLP * Computer Vision * Machine Learning * Deep Learning
+</div>
+
+<div class="content" markdown="1" data-tags="Machine Learning">
+<span title="Engineering Physics student specializing in ML. Deep passion for making the world a better place in the most effective ways possible, currently interested in eliminating animal factory farming.  StudentLund University."><strong>Otto Tutzauer Hellström, Student, Lund University</strong></span>
+<br />
+Machine Learning
+</div>
+
 ## Supporting Affiliates (Outside Nordics)
 <div class="content" markdown="1" data-tags="Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI">
 <span title="I am a lecturer in Urban Planning at the University of Auckland, bringing over 13 years of experience in both research and practice. My focus is on addressing climate change challenges, enhancing urban resilience, promoting regeneration, and advocating for environmental justice. I am particularly interested in understanding and mitigating the risks that urban areas encounter, especially those related to climate change and natural hazards. My research examines how cities can adapt to these increasing threats, emphasising resilience, risk reduction, and sustainable planning to protect communities and infrastructure. Assistant ProfessorUniversity of Auckland."><strong>Iresh Jayawardena, Assistant Professor, University of Auckland</strong></span>
@@ -1036,58 +1097,4 @@ Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep
 <span title="Soy estudiante de doctorado en Automatica, con maestria de controles industriales e ingeniera electronica. PhD Student."><strong>Sorangela Cardenas Rodriguez, PhD Student</strong></span>
 <br />
 Efficient or Sustainable AI * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.es/citations?hl=es&amp;user=duCWRBsAAAAJ) * [ORCID](https://orcid.org/0000-0002-1770-2741)
-</div>
-
-<div class="content" markdown="1" data-tags="Sustainable Cities,Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
-<span title="I am a Tenure-Track Assistant Professor in the Department of Computer Science at Aalborg University (AAU). I am also faculty member of the Data Engineering, Science and System research group, where I work closely with Prof. Christian S. Jensen and Prof. Torben Bach Pedersen. In addition, I am affiliated with the Artificial Intelligence and Machine Learning (AIML) research team, led by Prof. Thomas Dyhre Nielsen. I am working on the research, development, and innovation of Responsible Foundation Model, Data Mining and AI for PDE, with a broad range of applications. Especially for Trustworthiness, Fairness, and Eco-Friendliness Representation Learning, focusing on extracting meaningful representation from various data types, including unlabeled, noisy, adversarial, sequential, computer vision and graph data.  Before joining AAU, I was an Assistant Professor at the Chongqing Key Laboratory of Image Cognition, Chongqing University of Posts and Telecommunications, Chongqing, China, engaging in research with Prof. Xinbo Gao. I received my Ph.D. degree in Department of Computer Science, Aalborg University in 2022, under the supervision of Prof. Bin Yang and Prof. Jilin Hu. During my Ph.D. studies, I was also fortunate to collaborate virtually with Prof. Jian Tang at the Mila–Quebec AI Institute. I am also served as the Area Chair/SPC/PC for prestigious conferences, including VLDB, KDD, AAAI, IJCAI, CIKM, IJCNN.  Assistant ProfessorAalborg University."><strong>Sean Bin Yang, Assistant Professor, Aalborg University</strong></span>
-<br />
-Sustainable Cities * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://scholar.google.com/citations?user=oIYY6AQAAAAJ&amp;hl=en) * [Research group](https://vbn.aau.dk/da/organisations/data-engineering-science-and-systems) * [Publications (Scholar)](https://scholar.google.com/citations?user=oIYY6AQAAAAJ&amp;hl=en)
-</div>
-
-<div class="content" markdown="1" data-tags="Climate Modeling,Urban Planning,Sustainable Cities,Sustainable Production,Machine Learning,Deep Learning,Wind Energy">
-<span title="PhD, ResearcherRISE Research Institutes of Sweden."><strong>Hamidreza Abedi, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
-<br />
-Climate Modeling * Urban Planning * Sustainable Cities * Sustainable Production * Machine Learning * Deep Learning * Wind Energy * [More info (researcher profile)](https://linkedin.com/in/hamidreza-abedi-3b79a318) * [Research group](https://www.ri.se/en/person/hamidreza-abedi) * [Publications (Scholar)](https://scholar.google.com/citations?user=RqtE718AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-0096-3144)
-</div>
-
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
-<span title="https://www.linkedin.com/in/perholger/. IndustrySkogr Kaupa Group AI."><strong>Per Holger Dahlen, Industry, Skogr Kaupa Group AI</strong></span>
-<br />
-Earth Observation * Climate Modeling * Biodiversity * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.skogrkaupa.com)
-</div>
-
-<div class="content" markdown="1" data-tags="Climate Modeling,Biodiversity,Sustainable Cities,Machine Learning,One Health,Public Health">
-<span title="PhD, ResearcherUmeå University."><strong>Junwen Guo, PhD, Researcher, Umeå University</strong></span>
-<br />
-Climate Modeling * Biodiversity * Sustainable Cities * Machine Learning * One Health * Public Health
-</div>
-
-<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI,NLP,Computer Vision,Machine Learning,Deep Learning">
-<span title="ResearcherNorwegian Mapping Authority."><strong>Gøril M. Breivik, Researcher, Norwegian Mapping Authority</strong></span>
-<br />
-Earth Observation * Biodiversity * Sustainable Transport * Sustainable Cities * Efficient or Sustainable AI * NLP * Computer Vision * Machine Learning * Deep Learning
-</div>
-
-<div class="content" markdown="1" data-tags="Earth Observation,Urban Planning,Sustainable Cities,Computer Vision,Machine Learning,Deep Learning">
-<span title="PhD, ResearcherNILU."><strong>Amirhossein Hassani, PhD, Researcher, NILU</strong></span>
-<br />
-Earth Observation * Urban Planning * Sustainable Cities * Computer Vision * Machine Learning * Deep Learning * [Research group](https://nilu.com/employee/amir-hassani/) * [Publications (Scholar)](https://scholar.google.co.uk/citations?user=HtvV4OsAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-6470-0490)
-</div>
-
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Computer Vision,Machine Learning,Deep Learning">
-<span title="Post DocNorwegian Polar Institute."><strong>Calvin Shackleton, Post Doc, Norwegian Polar Institute</strong></span>
-<br />
-Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=19cnH_wAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4534-4598)
-</div>
-
-<div class="content" markdown="1" data-tags="Biodiversity,Marine Ecology,Computer Vision,Machine Learning,Deep Learning">
-<span title="I&#x27;m a postdoctoral researcher at the Visual Analysis and Perception lab, Aalborg University, where I also obtained his M.Sc. and Ph.D. degrees in computer vision. I&#x27;m also an affiliated researcher at the Pioneer Center for AI, Denmark, member of ELLIS, and visiting researcher at the Universitat de Barcelona in 2021, Vector Institute for AI in 2023, and the University of Edinburgh in 2024. My research interests span basic and applied computer vision and machine learning, with a special interest in expert tasks such as biodiversity- and infrastructure monitoring.  Post DocAalborg University."><strong>Joakim Bruslund Haurum, Post Doc, Aalborg University</strong></span>
-<br />
-Biodiversity * Marine Ecology * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://joakimhaurum.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=GAEtgr4AAAAJ&amp;hl) * [ORCID](https://orcid.org/0000-0002-0544-0422) * [BlueSky](https://bsky.app/profile/jbhaurum.bsky.social)
-</div>
-
-<div class="content" markdown="1" data-tags="Machine Learning">
-<span title="Engineering Physics student specializing in ML. Deep passion for making the world a better place in the most effective ways possible, currently interested in eliminating animal factory farming.  StudentLund University."><strong>Otto Tutzauer Hellström, Student, Lund University</strong></span>
-<br />
-Machine Learning
 </div>
