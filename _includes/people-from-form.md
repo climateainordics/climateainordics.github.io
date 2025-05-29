@@ -5,6 +5,12 @@
 Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Earth Observation * Soundscape Analysis * [Research group](https://www.slu.se/en/ew-cv/tim-hofmeester2/) * [Publications (Scholar)](https://scholar.google.com/citations?user=7t-L88MAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-2101-5482) * [BlueSky](https://bsky.app/profile/timhofmeester.bsky.social)
 </div>
 
+<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Climate Modeling,Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning,NLP,Sustainable Cities,Sustainable Energy,Sustainable Production,Sustainable Transport,Weather Forecasting">
+<span title="ResearcherUniversity of Oulu."><strong>Moinul Islam, Researcher, University of Oulu</strong></span>
+<br />
+AutoML * Bayesian Optimisation * Climate Modeling * Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * NLP * Sustainable Cities * Sustainable Energy * Sustainable Production * Sustainable Transport * Weather Forecasting * [Research group](https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-for-machine-vision-and-signal-analysis) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=yyiw7cUAAAAJ)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
