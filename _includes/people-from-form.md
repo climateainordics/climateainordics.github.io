@@ -1104,3 +1104,9 @@ Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep
 <br />
 Efficient or Sustainable AI * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.es/citations?hl=es&amp;user=duCWRBsAAAAJ) * [ORCID](https://orcid.org/0000-0002-1770-2741)
 </div>
+
+<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning,Sustainable Energy,Weather Forecasting">
+<span title="Industry."><strong>Laure Carel, Industry</strong></span>
+<br />
+AutoML * Bayesian Optimisation * Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * Sustainable Energy * Weather Forecasting
+</div>
