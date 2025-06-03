@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Computer Vision,Earth Observation,Soundscape Analysis">
-<span title="Wildlife biologist working with conservation technology. Associate ProfessorSwedish University of Agricultural Sciences."><strong>Tim Hofmeester, Associate Professor, Swedish University of Agricultural Sciences</strong></span>
-<br />
-Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Earth Observation * Soundscape Analysis * [Research group](https://www.slu.se/en/ew-cv/tim-hofmeester2/) * [Publications (Scholar)](https://scholar.google.com/citations?user=7t-L88MAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-2101-5482) * [BlueSky](https://bsky.app/profile/timhofmeester.bsky.social)
-</div>
-
 <div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Climate Modeling,Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning,NLP,Sustainable Cities,Sustainable Energy,Sustainable Production,Sustainable Transport,Weather Forecasting">
 <span title="ResearcherUniversity of Oulu."><strong>Moinul Islam, Researcher, University of Oulu</strong></span>
 <br />
@@ -166,6 +160,12 @@ Urban Planning * Sustainable Cities * Efficient or Sustainable AI * NLP * Machin
 <span title="ProfessorUniversity of Oulu."><strong>Mourad Oussalah, Professor, University of Oulu</strong></span>
 <br />
 
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Computer Vision,Earth Observation,Soundscape Analysis">
+<span title="Wildlife biologist working with conservation technology. Associate ProfessorSwedish University of Agricultural Sciences."><strong>Tim Hofmeester, Associate Professor, Swedish University of Agricultural Sciences</strong></span>
+<br />
+Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Earth Observation * Soundscape Analysis * [Research group](https://www.slu.se/en/ew-cv/tim-hofmeester2/) * [Publications (Scholar)](https://scholar.google.com/citations?user=7t-L88MAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-2101-5482) * [BlueSky](https://bsky.app/profile/timhofmeester.bsky.social)
 </div>
 
 <div class="content" markdown="1" data-tags="">
