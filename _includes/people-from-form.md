@@ -5,6 +5,12 @@
 AutoML * Bayesian Optimisation * Climate Modeling * Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * NLP * Sustainable Cities * Sustainable Energy * Sustainable Production * Sustainable Transport * Weather Forecasting * [Research group](https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-for-machine-vision-and-signal-analysis) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=yyiw7cUAAAAJ)
 </div>
 
+<div class="content" markdown="1" data-tags="Climate Impacts,Earth Observation,Extreme Weather Events,Machine Learning">
+<span title="My research direction focuses on crop yield prediction using satellite remote sensing, machine learning and ecosystem process-based models. PhD, ResearcherLund University."><strong>Xueying Li, PhD, Researcher, Lund University</strong></span>
+<br />
+Climate Impacts * Earth Observation * Extreme Weather Events * Machine Learning * [More info (researcher profile)](https://portal.research.lu.se/en/persons/xueying-li) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=CW5PJV8AAAAJ) * [ORCID](https://orcid.org/0000-0003-4070-5235)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
