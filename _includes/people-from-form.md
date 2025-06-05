@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Climate Modeling,Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning,NLP,Sustainable Cities,Sustainable Energy,Sustainable Production,Sustainable Transport,Weather Forecasting">
-<span title="ResearcherUniversity of Oulu."><strong>Moinul Islam, Researcher, University of Oulu</strong></span>
-<br />
-AutoML * Bayesian Optimisation * Climate Modeling * Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * NLP * Sustainable Cities * Sustainable Energy * Sustainable Production * Sustainable Transport * Weather Forecasting * [Research group](https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-for-machine-vision-and-signal-analysis) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=yyiw7cUAAAAJ)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Impacts,Earth Observation,Extreme Weather Events,Machine Learning">
 <span title="My research direction focuses on crop yield prediction using satellite remote sensing, machine learning and ecosystem process-based models. PhD, ResearcherLund University."><strong>Xueying Li, PhD, Researcher, Lund University</strong></span>
 <br />
@@ -874,6 +868,12 @@ Earth Observation * Biodiversity * Sustainable Transport * Sustainable Cities * 
 <span title="Engineering Physics student specializing in ML. Deep passion for making the world a better place in the most effective ways possible, currently interested in eliminating animal factory farming.  StudentLund University."><strong>Otto Tutzauer Hellström, Student, Lund University</strong></span>
 <br />
 Machine Learning
+</div>
+
+<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Climate Modeling,Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning,NLP,Sustainable Cities,Sustainable Energy,Sustainable Production,Sustainable Transport,Weather Forecasting">
+<span title="ResearcherUniversity of Oulu."><strong>Moinul Islam, Researcher, University of Oulu</strong></span>
+<br />
+AutoML * Bayesian Optimisation * Climate Modeling * Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * NLP * Sustainable Cities * Sustainable Energy * Sustainable Production * Sustainable Transport * Weather Forecasting * [Research group](https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-for-machine-vision-and-signal-analysis) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=yyiw7cUAAAAJ)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
