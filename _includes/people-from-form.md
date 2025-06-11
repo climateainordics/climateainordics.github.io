@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Climate Impacts,Earth Observation,Extreme Weather Events,Machine Learning">
-<span title="My research direction focuses on crop yield prediction using satellite remote sensing, machine learning and ecosystem process-based models. PhD, ResearcherLund University."><strong>Xueying Li, PhD, Researcher, Lund University</strong></span>
-<br />
-Climate Impacts * Earth Observation * Extreme Weather Events * Machine Learning * [More info (researcher profile)](https://portal.research.lu.se/en/persons/xueying-li) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=CW5PJV8AAAAJ) * [ORCID](https://orcid.org/0000-0003-4070-5235)
-</div>
-
 <div class="content" markdown="1" data-tags="Sustainable Cities,Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
 <span title="I am a Tenure-Track Assistant Professor in the Department of Computer Science at Aalborg University (AAU). I am also faculty member of the Data Engineering, Science and System research group, where I work closely with Prof. Christian S. Jensen and Prof. Torben Bach Pedersen. In addition, I am affiliated with the Artificial Intelligence and Machine Learning (AIML) research team, led by Prof. Thomas Dyhre Nielsen. I am working on the research, development, and innovation of Responsible Foundation Model, Data Mining and AI for PDE, with a broad range of applications. Especially for Trustworthiness, Fairness, and Eco-Friendliness Representation Learning, focusing on extracting meaningful representation from various data types, including unlabeled, noisy, adversarial, sequential, computer vision and graph data.  Before joining AAU, I was an Assistant Professor at the Chongqing Key Laboratory of Image Cognition, Chongqing University of Posts and Telecommunications, Chongqing, China, engaging in research with Prof. Xinbo Gao. I received my Ph.D. degree in Department of Computer Science, Aalborg University in 2022, under the supervision of Prof. Bin Yang and Prof. Jilin Hu. During my Ph.D. studies, I was also fortunate to collaborate virtually with Prof. Jian Tang at the Mila–Quebec AI Institute. I am also served as the Area Chair/SPC/PC for prestigious conferences, including VLDB, KDD, AAAI, IJCAI, CIKM, IJCNN.  Assistant ProfessorAalborg University."><strong>Sean Bin Yang, Assistant Professor, Aalborg University</strong></span>
 <br />
@@ -556,6 +550,12 @@ Earth Observation * Climate Modeling * Computer Vision * Machine Learning * Deep
 <span title="I&#x27;m a postdoctoral researcher at the Visual Analysis and Perception lab, Aalborg University, where I also obtained his M.Sc. and Ph.D. degrees in computer vision. I&#x27;m also an affiliated researcher at the Pioneer Center for AI, Denmark, member of ELLIS, and visiting researcher at the Universitat de Barcelona in 2021, Vector Institute for AI in 2023, and the University of Edinburgh in 2024. My research interests span basic and applied computer vision and machine learning, with a special interest in expert tasks such as biodiversity- and infrastructure monitoring.  Post DocAalborg University."><strong>Joakim Bruslund Haurum, Post Doc, Aalborg University</strong></span>
 <br />
 Biodiversity * Marine Ecology * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://joakimhaurum.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=GAEtgr4AAAAJ&amp;hl) * [ORCID](https://orcid.org/0000-0002-0544-0422) * [BlueSky](https://bsky.app/profile/jbhaurum.bsky.social)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Earth Observation,Extreme Weather Events,Machine Learning">
+<span title="My research direction focuses on crop yield prediction using satellite remote sensing, machine learning and ecosystem process-based models. PhD, ResearcherLund University."><strong>Xueying Li, PhD, Researcher, Lund University</strong></span>
+<br />
+Climate Impacts * Earth Observation * Extreme Weather Events * Machine Learning * [More info (researcher profile)](https://portal.research.lu.se/en/persons/xueying-li) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=CW5PJV8AAAAJ) * [ORCID](https://orcid.org/0000-0003-4070-5235)
 </div>
 
 <div class="content" markdown="1" data-tags="">
