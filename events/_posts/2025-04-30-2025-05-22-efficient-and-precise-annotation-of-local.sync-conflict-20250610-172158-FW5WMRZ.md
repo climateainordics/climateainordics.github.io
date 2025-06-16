@@ -18,7 +18,7 @@ event_date: 2025-05-22
 event_time: "15:00"
 event_location: ""
 image: /images/posts/2025-04-30-2025-05-22-efficient-and-precise-annotation-of-local.png
-youtube: "https://www.youtube.com/watch?v=OKZDCabQ16w&list=PLqLiVcF3GKy1tuQFoDu5QKOM6S33t_4R1"
+youtube: ""
 --- 
 Welcome to this week's Learning Machines seminar.
 
@@ -42,10 +42,10 @@ This talk examines how to lower annotation cost and increase label quality when 
 
 **Upcoming seminars:**
 
+* 2025-06-12: Markus Pettersson, Chalmers University of Technology
 * 2025-06-19: Lily Xu, Columbia University
-* 2025-08-28: Markus Pettersson, Chalmers University of Technology
-* 2025-09-11: Georges Le Bellier, Conservatoire National des Arts et Métiers
 * 2025-09-25: Sigrid Passano Hellan, NORCE Norwegian Research Centre
+* 2025-11-06: Felix Koehler, TU Munich
 * All seminars are 15:00 CET.
 
 More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
