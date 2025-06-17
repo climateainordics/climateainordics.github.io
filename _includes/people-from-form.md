@@ -5,6 +5,12 @@
 Sustainable Cities * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://scholar.google.com/citations?user=oIYY6AQAAAAJ&amp;hl=en) * [Research group](https://vbn.aau.dk/da/organisations/data-engineering-science-and-systems) * [Publications (Scholar)](https://scholar.google.com/citations?user=oIYY6AQAAAAJ&amp;hl=en)
 </div>
 
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Biodiversity,Climate Impacts,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Sustainable Production">
+<span title="Researcher with an interest in climate change adaptation and mitigation through sustainable land-use and water systems, with a particular focus on agriculture and the green transition. Assistant ProfessorUniversity of Southern Denmark."><strong>Haley Kujawa, Assistant Professor, University of Southern Denmark</strong></span>
+<br />
+Bayesian Optimisation * Biodiversity * Climate Impacts * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Sustainable Production * [Research group](https://www.aqua-nbs.com/) * [Publications (Scholar)](https://scholar.google.com/citations?user=Sayn_z8AAAAJ&amp;hl=en)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
