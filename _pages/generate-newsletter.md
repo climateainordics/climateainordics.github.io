@@ -2,7 +2,7 @@
 title: "Climate AI Nordics Newsletter"
 excerpt: "Climate AI Nordics Newsletter"
 permalink: /generate-newsletter/
-previous_newsletter: 2025-04-30
+previous_newsletter: 2025-05-28
 ---
 
 <style>
