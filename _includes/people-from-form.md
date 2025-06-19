@@ -1122,3 +1122,9 @@ Efficient or Sustainable AI * Machine Learning * Deep Learning * [Publications (
 <br />
 AutoML * Bayesian Optimisation * Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * Sustainable Energy * Weather Forecasting
 </div>
+
+<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Earth Observation,Machine Learning,Sustainable Cities,Urban Planning">
+<span title="I am a Geospatial Data Scientist (JPA) at the World Bank, formerly a Data Science Consultant at UNICEF and a Disaster and Climate Risk Data Fellow under the Global Facility for Disaster Reduction and Recovery (GFDRR). My work focuses primarily on the applications of ML and Earth observation for socioeconomic development, humanitarian assistance, climate resilience, and disaster response. My recent works include high-resolution poverty estimation, large-scale school mapping, informal migrant settlement detection, building footprint extraction, and housing stock classification, done in close collaboration with humanitarian organizations and government agencies across Southeast Asia, Latin America, and the Caribbean. As a strong advocate of women in STEM and climate justice, I have also served as the Technical Lead for AI/ML at Women Who Code Manila and am a Core Member of Climate Change AI.  IndustryThe World Bank and Climate Change AI."><strong>Isabelle Tingzon, Industry, The World Bank and Climate Change AI</strong></span>
+<br />
+Computer Vision * Deep Learning * Earth Observation * Machine Learning * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://issa-tingzon.github.io/) * [Publications (Scholar)](https://scholar.google.co.uk/citations?user=MGeQcRMAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-0533-8532)
+</div>
