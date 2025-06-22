@@ -9,8 +9,8 @@
 <option value="Climate Impacts">Climate Impacts (6)</option>
 <option value="Climate Modeling">Climate Modeling (57)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
-<option value="Computer Vision">Computer Vision (66)</option>
-<option value="Deep Learning">Deep Learning (90)</option>
+<option value="Computer Vision">Computer Vision (67)</option>
+<option value="Deep Learning">Deep Learning (91)</option>
 <option value="Earth Observation">Earth Observation (68)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
