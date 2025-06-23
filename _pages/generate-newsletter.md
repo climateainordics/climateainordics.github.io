@@ -29,6 +29,7 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 {% for p in site.posts %}
 {% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
+{% if p.categories contains 'job-openings' %}{% continue %}{% endif %}
 {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
 
 {% if p.first_page %}
@@ -51,6 +52,7 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 {% for p in site.posts %}
 {% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
+{% if p.categories contains 'job-openings' %}{% continue %}{% endif %}
 {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
 {% if posttime < newsletter_start_time %}
 {% continue %}
@@ -80,6 +82,53 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 {% unless items_listed %}No current news.{% endunless %}
 
+{% comment %} ######### FEATURED MEMBER ########## {% endcomment %}
+
+{% assign items_listed = false %}
+
+{% for i in (1..2) %}
+{% comment %} TWO ITERATIONS, FIRST TO CHECK IF ANY POSTS AVAILABLE {% endcomment %}
+
+  {% if i == 2 %}
+{% if items_listed %}
+
+<br clear=all />
+
+# Featured member
+
+    {% else %}
+      {% comment %} There are no featured members for this period.{% endcomment %}
+      {% break %}
+    {% endif %}
+  {% endif %}
+  {% assign items_listed = false %}
+
+  {% for p in site.posts %}
+    {% unless p.categories contains 'featured-member' %}{% continue %}{% endunless %}
+    {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
+    {% if posttime < newsletter_start_time %}
+      {% continue %}
+    {% endif %}
+
+    {% assign items_listed = true %}
+      {% if i == 2 %}
+<br clear=all />
+
+## {{ p.title }}
+
+    {% if p.image %}
+![](https://climateainordics.com{{ p.image  }})
+    {% endif %}
+
+{{ printdate }} {{ p.shortversion }}<br />
+**[(Read more)](https://climateainordics.com{{ p.url }})**
+    {% endif %}
+  {% endfor %}
+
+{% endfor %}
+
+{% comment %} ######### END, FEATURED MEMBER ########## {% endcomment %}
+
 {% comment %} NEXT, EVENTS THAT HAS NOT YET HAPPENED!!! {% endcomment %}
 
 <br clear=all />
@@ -90,6 +139,7 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 {% for p in site.posts reversed %}
   {% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
+  {% if p.categories contains 'job-openings' %}{% continue %}{% endif %}
 
   {% if p.event_date %}
     {% capture eventtime %}{{ p.event_date | date: '%s'}}{% endcapture %}
@@ -122,7 +172,7 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
 {% unless items_listed %}There are no coming events at this time.{% endunless %}
 
-{% comment %} FINALLY, EVENTS THAT HAS ALREADY HAPPENED!!! {% endcomment %}
+{% comment %} NEXT, EVENTS THAT HAS ALREADY HAPPENED!!! {% endcomment %}
 
 {% for i in (1..2) %}
 {% comment %} TWO ITERATIONS, FIRST TO CHECK IF ANY POSTS AVAILABLE {% endcomment %}
@@ -143,6 +193,7 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
 
   {% for p in site.posts %}
     {% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
+    {% if p.categories contains 'job-openings' %}{% continue %}{% endif %}
     {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
     {% if posttime < newsletter_start_time %}
       {% continue %}
@@ -176,6 +227,55 @@ Do you know researchers who works in the intersection of AI and Climate Change? 
   {% endfor %}
 
 {% endfor %}
+
+{% comment %} ######### OPEN POSITIONS ########## {% endcomment %}
+
+{% assign items_listed = false %}
+
+{% for i in (1..2) %}
+{% comment %} TWO ITERATIONS, FIRST TO CHECK IF ANY POSTS AVAILABLE {% endcomment %}
+
+  {% if i == 2 %}
+{% if items_listed %}
+
+<br clear=all />
+
+# Job openings 
+
+    {% else %}
+      {% comment %} There are no job openings to show at this time.{% endcomment %}
+      {% break %}
+    {% endif %}
+  {% endif %}
+  {% assign items_listed = false %}
+
+  {% for p in site.posts %}
+    {% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
+    {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
+    {% if posttime < newsletter_start_time %}
+      {% continue %}
+    {% endif %}
+
+    {% unless p.categories contains 'job-openings' %}{% continue %}{% endunless %}
+
+    {% assign items_listed = true %}
+      {% if i == 2 %}
+<br clear=all />
+
+## {{ p.title }}
+
+    {% if p.image %}
+![](https://climateainordics.com{{ p.image  }})
+    {% endif %}
+
+{{ printdate }} {{ p.shortversion }}<br />
+**[(Read more)](https://climateainordics.com{{ p.url }})**
+    {% endif %}
+  {% endfor %}
+
+{% endfor %}
+
+{% comment %} ######### END, OPEN POSITIONS ########## {% endcomment %}
 
 
 # Your news in the newsletter!
