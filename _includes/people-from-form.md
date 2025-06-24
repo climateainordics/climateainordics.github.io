@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Bayesian Optimisation,Biodiversity,Climate Impacts,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Sustainable Production">
-<span title="Researcher with an interest in climate change adaptation and mitigation through sustainable land-use and water systems, with a particular focus on agriculture and the green transition. Assistant ProfessorUniversity of Southern Denmark."><strong>Haley Kujawa, Assistant Professor, University of Southern Denmark</strong></span>
-<br />
-Bayesian Optimisation * Biodiversity * Climate Impacts * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Sustainable Production * [Research group](https://www.aqua-nbs.com/) * [Publications (Scholar)](https://scholar.google.com/citations?user=Sayn_z8AAAAJ&amp;hl=en)
-</div>
-
 <div class="content" markdown="1" data-tags="Computer Vision,Deep Learning">
 <span title="PhD StudentUniversity of Oulu."><strong>Huai-Qian Khor, PhD Student, University of Oulu</strong></span>
 <br />
@@ -568,6 +562,12 @@ Climate Impacts * Earth Observation * Extreme Weather Events * Machine Learning 
 <span title="I am a Tenure-Track Assistant Professor in the Department of Computer Science at Aalborg University (AAU). I am also faculty member of the Data Engineering, Science and System research group, where I work closely with Prof. Christian S. Jensen and Prof. Torben Bach Pedersen. In addition, I am affiliated with the Artificial Intelligence and Machine Learning (AIML) research team, led by Prof. Thomas Dyhre Nielsen. I am working on the research, development, and innovation of Responsible Foundation Model, Data Mining and AI for PDE, with a broad range of applications. Especially for Trustworthiness, Fairness, and Eco-Friendliness Representation Learning, focusing on extracting meaningful representation from various data types, including unlabeled, noisy, adversarial, sequential, computer vision and graph data.  Before joining AAU, I was an Assistant Professor at the Chongqing Key Laboratory of Image Cognition, Chongqing University of Posts and Telecommunications, Chongqing, China, engaging in research with Prof. Xinbo Gao. I received my Ph.D. degree in Department of Computer Science, Aalborg University in 2022, under the supervision of Prof. Bin Yang and Prof. Jilin Hu. During my Ph.D. studies, I was also fortunate to collaborate virtually with Prof. Jian Tang at the Mila–Quebec AI Institute. I am also served as the Area Chair/SPC/PC for prestigious conferences, including VLDB, KDD, AAAI, IJCAI, CIKM, IJCNN.  Assistant ProfessorAalborg University."><strong>Sean Bin Yang, Assistant Professor, Aalborg University</strong></span>
 <br />
 Sustainable Cities * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://scholar.google.com/citations?user=oIYY6AQAAAAJ&amp;hl=en) * [Research group](https://vbn.aau.dk/da/organisations/data-engineering-science-and-systems) * [Publications (Scholar)](https://scholar.google.com/citations?user=oIYY6AQAAAAJ&amp;hl=en)
+</div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Biodiversity,Climate Impacts,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Sustainable Production">
+<span title="Researcher with an interest in climate change adaptation and mitigation through sustainable land-use and water systems, with a particular focus on agriculture and the green transition. Assistant ProfessorUniversity of Southern Denmark."><strong>Haley Kujawa, Assistant Professor, University of Southern Denmark</strong></span>
+<br />
+Bayesian Optimisation * Biodiversity * Climate Impacts * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Sustainable Production * [Research group](https://www.aqua-nbs.com/) * [Publications (Scholar)](https://scholar.google.com/citations?user=Sayn_z8AAAAJ&amp;hl=en)
 </div>
 
 <div class="content" markdown="1" data-tags="">
