@@ -14,11 +14,11 @@ On this page, you will find the news items communicated by Climate AI Nordics. E
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 
 {% for p in site.categories %}
-  {% if post.categories contains "news" or post.categories contains "job-openings" %}
+  {% if p.categories contains "news" or p.categories contains "job-openings" %}
 
 ## {{ p.title }}
 {% if p.image %}<img src="{{ p.image }}" style="float: right; width: 25%;" />{% endif %}
-{% if post.categories contains "job-openings" %}
+{% if p.categories contains "job-openings" %}
 <span style="color:grey;">*Job Opening*</span>
 {% endif %}
 
