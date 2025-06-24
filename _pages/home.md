@@ -45,14 +45,21 @@ We hope that the collaborative nature of Climate AI Nordics will accelerate prog
 ## [News](/news/)
 
 
-{% for p in site.categories.news limit: 5 %}
+{% for p in site.categories.news limit: 3 %}
 | &bull; | {{p.date | date: '%Y-%m-%d'}}: {{ p.title }} <br /> [(Read more)]({{ p.url }}) | {% if p.image %} ![]({{ p.image }}){% endif %} |
 {%- endfor %}
 
 
 ## [Events](/events/)
 
-{% for p in site.categories.events limit: 5 %}
+{% for p in site.categories.events limit: 3 %}
+| &bull; | {{p.event_date | date: '%Y-%m-%d'}}: {{ p.title }} <br /> [(Read more)]({{ p.url }}) | {% if p.image %} ![]({{ p.image }}){% endif %} |
+{%- endfor %}
+
+
+## [Job openings](/news/)
+
+{% for p in site.categories.job-openings limit: 3 %}
 | &bull; | {{p.event_date | date: '%Y-%m-%d'}}: {{ p.title }} <br /> [(Read more)]({{ p.url }}) | {% if p.image %} ![]({{ p.image }}){% endif %} |
 {%- endfor %}
 
