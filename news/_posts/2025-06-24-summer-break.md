@@ -14,11 +14,7 @@ In October 2024 we started **Climate AI Nordics**, and we have been amazed at wh
 
 One of the major milestones this year was our **first annual Nordic Workshop on AI for Climate Change**, held in Gothenburg on May 13, 2025. This full-day event gathered researchers from across the region to discuss AI’s role in biodiversity monitoring, atmospheric science, soundscapes, Earth observation, and more.
 
-The event’s atmosphere was one of vibrant interdisciplinary exchange: computer vision researchers chatted with marine biologists; soundscape experts traded insights with atmospheric chemists. Together, we explored citizen science, large language models, and digital mapping tools for our changing climate.
-
 Our sincere thanks go out to the speakers, attendees, and our partners at **CLIMES** for co-arranging the event. We’re thrilled to announce that the 2026 workshop will be hosted by our colleagues at the University of Copenhagen and the Pioneer Centre for AI on **June 26, 2026**.
-
-Thank you for being part of this amazing and growing community. We are proud of what we've built together—and excited for what's ahead!
 
 
 ### Webinars
@@ -36,8 +32,10 @@ We thank every speaker for sharing their research, and every participant who joi
 
 ### Communicating Research: Newsletters & Community Updates
 
-Beyond the webinars, we’ve also published a series of newsletters that document our journey and spotlight work from the community. Since October, we’ve shared featured research on thermal inequality, audio biodiversity monitoring, deep learning for remote sensing, and more. We’ve reported on interviews in national media, partnerships with organizations like CLIMES and AfriClimate AI, and the launch of our website, LinkedIn, and Slack channels.
+Beyond the webinars, we’ve also published a series of monthly newsletters that document our journey and spotlight work from the community. Since October, we’ve shared featured research on thermal inequality, audio biodiversity monitoring, deep learning for remote sensing, and more. We’ve reported on interviews in national media, partnerships with organizations like CLIMES and AfriClimate AI, and the launch of our website, LinkedIn, and Slack channels.
 
-Our newsletters aim to inform and connect—amplifying your successes, sharing calls for collaboration, and bringing visibility to impactful AI-for-climate work across the Nordics.
+Our newsletters aim to inform and connect—amplifying your successes, sharing calls for collaboration, and bringing visibility to impactful AI-for-climate work across the Nordics. Since June, we also include a list of open positions for researchers and practitioners in the field in the Nordics.
 
+
+Thank you for being part of this amazing and growing community. We are proud of what we've built together—and excited for what's ahead!
 
