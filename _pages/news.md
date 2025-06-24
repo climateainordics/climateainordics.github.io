@@ -13,10 +13,14 @@ On this page, you will find the news items communicated by Climate AI Nordics. E
 
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 
-{% for p in site.categories.news %}
+{% for p in site.categories %}
+  {% if post.categories contains "news" or post.categories contains "job-openings" %}
 
 ## {{ p.title }}
 {% if p.image %}<img src="{{ p.image }}" style="float: right; width: 25%;" />{% endif %}
+{% if post.categories contains "job-openings" %}
+<span style="color:grey;">*Job Opening*</span>
+{% endif %}
 
 <span style="color:grey;">*{{p.date | date: '%Y-%m-%d'}}*</span>
 
@@ -24,20 +28,7 @@ On this page, you will find the news items communicated by Climate AI Nordics. E
 
 {% if p.content  %}**[Read more!]({{ p.url }})**{% endif %}
 
-{% endfor %}
-
-## Job openings
-
-{% for p in site.categories.job-openings %}
-
-## {{ p.title }}
-{% if p.image %}<img src="{{ p.image }}" style="float: right; width: 25%;" />{% endif %}
-
-<span style="color:grey;">*{{p.date | date: '%Y-%m-%d'}}*</span>
-
-{% if p.shortversion %}{{ p.shortversion }}{% endif %}
-
-{% if p.content  %}**[Read more!]({{ p.url }})**{% endif %}
+{% endif %}
 
 {% endfor %}
 
