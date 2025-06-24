@@ -60,7 +60,7 @@ We hope that the collaborative nature of Climate AI Nordics will accelerate prog
 ## [Job openings](/news/)
 
 {% for p in site.categories.job-openings limit: 3 %}
-| &bull; | {{p.event_date | date: '%Y-%m-%d'}}: {{ p.title }} <br /> [(Read more)]({{ p.url }}) | {% if p.image %} ![]({{ p.image }}){% endif %} |
+| &bull; | {{p.date | date: '%Y-%m-%d'}}: {{ p.title }} <br /> [(Read more)]({{ p.url }}) | {% if p.image %} ![]({{ p.image }}){% endif %} |
 {%- endfor %}
 
 
