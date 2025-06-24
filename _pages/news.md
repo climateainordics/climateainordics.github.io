@@ -18,11 +18,9 @@ On this page, you will find the news items communicated by Climate AI Nordics. E
 
 ## {{ p.title }}
 {% if p.image %}<img src="{{ p.image }}" style="float: right; width: 25%;" />{% endif %}
-{% if p.categories contains "job-openings" %}
-<span style="color:grey;">*Job Opening*</span>
-{% endif %}
 
-<span style="color:grey;">*{{p.date | date: '%Y-%m-%d'}}*</span>
+
+<span style="color:grey;">*{{p.date | date: '%Y-%m-%d'}}{% if p.categories contains "job-openings" %} ; Job Opening{% endif %}*</span>
 
 {% if p.shortversion %}{{ p.shortversion }}{% endif %}
 
