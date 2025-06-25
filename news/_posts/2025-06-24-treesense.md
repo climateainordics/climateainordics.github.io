@@ -52,3 +52,4 @@ The center is funded with a grant of **DKK 59,909,600** and officially began its
 - **Asst. Prof. Ankit Kariryaa** (UCPH-DIKU/IGN), Co-PI  
 - **Andreas Egelund Christensen** (UCPH-IGN), Center Administrator
 
+[Read more on ku.dk](https://ign.ku.dk/english/calender/2025/opening-of-treesense/).
