@@ -19,7 +19,7 @@ Our sincere thanks go out to the speakers, attendees, and our partners at **CLIM
 
 ### Webinars
 
-Our webinars have served as a vibrant platform for researchers working at the intersection of artificial intelligence and climate action. We heard from leading voices on topics as diverse as weather forecasting, biodiversity monitoring, and equitable AI for conservation.
+Our webinars have served as a vibrant platform for researchers working at the intersection of artificial intelligence and climate action. We heard from leading voices on topics as diverse as weather forecasting, biodiversity monitoring, and equitable AI for conservation. We thank RISE Research Institutes of Sweden and Learning Machines Seminars for the collaboration.
 
 **Joel Oskarsson** (Linköping University) introduced cutting-edge machine learning models that are reshaping weather prediction, including graph-based approaches and probabilistic forecasting. **Alp Kucukelbir** (Columbia University / Fero Labs) gave a systems-level talk on AI’s role in climate change mitigation, highlighting industrial applications and the challenges of trust and scale. **Alireza Taheri Dehkordi** (Lund University) showed how satellite data and AI can help estimate water quality, a vital issue as global water resources become more strained.
 
@@ -27,7 +27,7 @@ In February, **Benjamin Cretois** (NINA) shared experiences from the TABMON proj
 
 In May, **John Martinsson** (RISE & Lund University) presented new approaches to reduce the cost and improve the quality of annotating local structures in data. His work showed how adaptive labeling techniques can help make machine learning more efficient and scalable—especially relevant for biodiversity audio datasets.
 
-We thank every speaker for sharing their research, and every participant who joined the conversation. We also thank RISE Research Institutes of Sweden and Learning Machines Seminars for the collaboration.
+We thank every speaker for sharing their research, and every participant who joined the conversation.
 
 
 ### Communicating Research: Newsletters & Community Updates
