@@ -4,7 +4,7 @@ shortversion: "Chalmers University of Technology is hiring an Assistant or Assoc
 people:
 - Olof Mogren
 permalink: 
-image: 
+image: /images/external-organizations-logos/chalmers.png
 youtube: ""
 --- 
 

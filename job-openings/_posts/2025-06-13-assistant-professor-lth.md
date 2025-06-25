@@ -4,7 +4,7 @@ shortversion: "Lund University is hiring an Assistant Professor in AI for Sustai
 people:
 - Olof Mogren
 permalink: 
-image: 
+image: /images/external-organizations-logos/lunduniversity-logotype-1500x1000px.wep
 youtube: ""
 --- 
 

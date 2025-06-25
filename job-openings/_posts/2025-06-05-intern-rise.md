@@ -4,7 +4,7 @@ shortversion: "RISE Research Institutes of Sweden is looking for 1–2 motivated
 people:
 - Aleksis Pirinen
 permalink:
-image:
+image: /images/external-organizations-logos/rise.png
 youtube: ""
 ---
 
