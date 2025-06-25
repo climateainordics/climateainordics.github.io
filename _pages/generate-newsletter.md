@@ -11,11 +11,16 @@ body{font-family: arial, sans-serif;} img{ float: right; width: 8em; margin: 0.4
 
 Welcome to the *Climate AI Nordics* Newsletter {{ "now" | date: "%B %Y" }}.
 
-Since the launch in October, the network has grown to 
+Since our launch in October, the Climate AI Nordics network has grown to include 
 {% include people_from_form_count_number_only_nordics.md %}
-people spread over the Nordic countries
-({% include people_from_form_count_number_total.md %} including international supporting affiliates).
-Do you know researchers who works in the intersection of AI and Climate Change? Tell them about Climate AI Nordics! [climateainordics.com/join](https://climateainordics.com/join).
+members across the Nordic region, along with
+{% include people_from_form_count_number_outside_nordics.md %} 
+international affiliates who contribute to our shared interests. The network brings together researchers and practitioners working at the interface of artificial intelligence and climate challenges, including mitigation, adaptation, and monitoring.
+
+If you know colleagues working in this space—across academia, public agencies, or industry—please let them know about Climate AI Nordics.
+👉 [climateainordics.com/join](https://climateainordics.com/join)
+
+In this issue, we share updates from our first nine months, including webinars, collaborations, and events. You’ll find a recent paper on neural networks for modeling atmospheric clusters, news from the newly launched TreeSense research center in Copenhagen, and a new feature on job openings across the Nordic AI-climate community. As always, you can share your own work, events, or opportunities with us to include in future newsletters.
 
 {% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}
 {% capture previous_newsletter_time %}{{ page.previous_newsletter | date: '%s' }}{% endcapture %}
