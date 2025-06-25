@@ -25,10 +25,6 @@ The launch took place at the Red Lounge (Rød Stue), Øster Voldgade 10, and fea
 - **Ankit Kariryaa** – TreeSense Co-PI, Assistant Professor at DIKU/IGN  
 - **Laura Vang Rasmussen** – TreeSense Co-PI, Associate Professor at IGN  
 
-We are deeply grateful to the **Danish National Research Foundation** for their generous support of this initiative, and excited to begin this ambitious journey to transform global tree monitoring.
-
----
-
 ### About the TreeSense Center
 
 The **Center for Remote Sensing and Deep Learning of Global Tree Resources (TreeSense)** is a new Danish National Research Foundation *Center of Excellence* that aims to revolutionize how we observe and understand woody vegetation worldwide — inside and beyond forests.
@@ -53,3 +49,4 @@ The center is funded with a grant of **DKK 59,909,600** and officially began its
 - **Andreas Egelund Christensen** (UCPH-IGN), Center Administrator
 
 [Read more on ku.dk](https://ign.ku.dk/english/calender/2025/opening-of-treesense/).
+
