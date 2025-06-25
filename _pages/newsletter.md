@@ -11,15 +11,15 @@ The newsletter is distributed to all members of Climate AI Nordics.
 
 [Join Climate AI Nordics now!](/join/)
 
-## Issues
+# Issues
 
 {% for p in site.categories.newsletter %}
-* {{p.date | date: '%Y-%m-%d'}}: {{ p.title }}
+## {{p.date | date: '%Y-%m-%d'}}: {{ p.title }}
 {% if p.image %}<img src="{{ p.image }}" style="float: right; width: 25%;" />{% endif %}
 
 {{ p.shortversion }}
 
-[(Read more)]({{ p.url }})
+[**Read more**]({{ p.url }})
 {% endfor %}
 
 
