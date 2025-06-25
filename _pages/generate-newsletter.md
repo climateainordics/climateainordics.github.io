@@ -11,7 +11,7 @@ body{font-family: arial, sans-serif;} img{ float: right; width: 8em; margin: 0.4
 
 Welcome to the *Climate AI Nordics* Newsletter {{ "now" | date: "%B %Y" }}.
 
-Since our launch in October, the Climate AI Nordics network has grown to include 
+Since our launch in October 2024, the Climate AI Nordics network has grown to include 
 {% include people_from_form_count_number_only_nordics.md %}
 members across the Nordic region, along with
 {% include people_from_form_count_number_outside_nordics.md %} 
