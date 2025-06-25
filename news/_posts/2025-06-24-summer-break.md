@@ -1,6 +1,6 @@
 ---
-title: "Climate AI Nordics is on Summer Break!"
-shortversion: "From pioneering AI models for weather and biodiversity to our first Nordic Workshop on AI for Climate Change, the Climate AI Nordics community has grown and thrived over the past year. Here's a look back at our webinars, newsletters, and key milestones."
+title: "Climate AI Nordics first 9 months"
+shortversion: "From pioneering AI models for weather and biodiversity to our first Nordic Workshop on AI for Climate Change, the Climate AI Nordics community has grown and thrived over the past 9 months. Here's a look back at our webinars, newsletters, and key milestones."
 people: 
 - Olof Mogren
 permalink:
