@@ -1134,3 +1134,9 @@ AutoML * Bayesian Optimisation * Computer Vision * Deep Learning * Efficient or 
 <br />
 Computer Vision * Deep Learning * Earth Observation * Machine Learning * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://issa-tingzon.github.io/) * [Publications (Scholar)](https://scholar.google.co.uk/citations?user=MGeQcRMAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-0533-8532)
 </div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Sustainable Cities">
+<span title="I&#x27;m a Ph.D researcher working on climate change and biodiversity conservation at Central University of Kerala, India. I have experience in carbon stock estimation, species distribution modelling  and social impacts of biodiversity. PhD StudentCentral University of Kerala, India."><strong>Kavya Jeevan, PhD Student, Central University of Kerala, India</strong></span>
+<br />
+Biodiversity * Climate Impacts * Climate Modeling * Sustainable Cities
+</div>
