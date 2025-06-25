@@ -4,7 +4,7 @@ shortversion: "From pioneering AI models for weather and biodiversity to our fir
 people: 
 - Olof Mogren
 permalink:
-image: /images/posts/2025-06-24-summer-break.png
+image: /images/posts/2025-06-25-summer-summary.png
 youtube:
 ---
 

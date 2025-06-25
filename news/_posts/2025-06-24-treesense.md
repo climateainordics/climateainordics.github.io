@@ -5,7 +5,7 @@ people:
 - Christian Igel
 - Ankit Kariryaa
 permalink:
-image:
+image: news/_posts/2025-06-24-treesense.png
 youtube: ""
 ---
 
