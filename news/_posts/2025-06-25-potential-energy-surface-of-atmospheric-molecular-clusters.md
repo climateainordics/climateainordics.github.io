@@ -8,6 +8,8 @@ shortversion: "This paper explores the potential for using neural networks to mo
 
 **Authors:** Jakub Kubečka, Daniel Ayoubi, Zeyuan Tang, Yosef Knattrup, Morten Engsvang, Haide Wu and Jonas Elm, Aarhus University, Denmark.
 
+**Paper:** [https:doi.org/10.1039/d4va00255e](https:doi.org/10.1039/d4va00255e), Environ. Sci. Adv., 2024, 3, 1438-1451.
+
 Computational chemists tackle a key challenge in molecular atmospheric science by studying particle formation at different size scales that no single experimental technique can yet fully probe. Quantum chemistry methods that solve the Schrödinger equation allow chemists to study the molecular structure and interactions inside and on the surface of atmospheric particles with a bottom-up approach. The Aarhus University group led by Jonas Elm has built a large database of atmospheric molecular acid-base clusters, published in the Clusteromics I–V datasets. In total, the group has collected hundreds of thousands of structures. However, the computational cost of quantum chemistry calculations grows rapidly with cluster size and complexity, often forcing a trade-off between feasibility and accuracy.
 
 Having previously tested kernel ridge regression for fast mapping of low-accuracy quantum chemistry energies to higher accuracy ones using delta learning, Kubečka and co-authors now report the first effort to replace kernel ridge regression with neural networks for this purpose. The machine learning community for molecular sciences offers several model architectures for predicting energies and forces needed to identify stable cluster structures and their properties. The model used here is PaiNN, the polarizable atom interaction neural network.
