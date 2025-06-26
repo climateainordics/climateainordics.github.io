@@ -5,13 +5,13 @@
 <option value="Atmospheric Science">Atmospheric Science (1)</option>
 <option value="AutoML">AutoML (3)</option>
 <option value="Bayesian Optimisation">Bayesian Optimisation (5)</option>
-<option value="Biodiversity">Biodiversity (55)</option>
+<option value="Biodiversity">Biodiversity (56)</option>
 <option value="Climate Impacts">Climate Impacts (7)</option>
 <option value="Climate Modeling">Climate Modeling (58)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
-<option value="Computer Vision">Computer Vision (67)</option>
+<option value="Computer Vision">Computer Vision (68)</option>
 <option value="Deep Learning">Deep Learning (91)</option>
-<option value="Earth Observation">Earth Observation (68)</option>
+<option value="Earth Observation">Earth Observation (69)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
 <option value="Education">Education (1)</option>

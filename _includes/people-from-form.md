@@ -1140,3 +1140,9 @@ Computer Vision * Deep Learning * Earth Observation * Machine Learning * Sustain
 <br />
 Biodiversity * Climate Impacts * Climate Modeling * Sustainable Cities
 </div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Computer Vision,Earth Observation">
+<span title="PhD StudentETH Zürich."><strong>Ghjulia Sialelli, PhD Student, ETH Zürich</strong></span>
+<br />
+Biodiversity * Computer Vision * Earth Observation * [More info (researcher profile)](https://ghjuliasialelli.github.io/) * [Research group](https://prs.igp.ethz.ch/) * [Publications (Scholar)](https://scholar.google.com/citations?user=WTVF1dAAAAAJ&amp;hl=fr) * [ORCID](https://orcid.org/0009-0007-6489-8568) * [BlueSky](https://bsky.app/profile/ghjuliasialelli.bsky.social)
+</div>
