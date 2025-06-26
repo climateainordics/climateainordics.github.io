@@ -5,6 +5,12 @@
 Computer Vision * Deep Learning * [More info (researcher profile)](https://github.com/IcedDoggie) * [Publications (Scholar)](https://scholar.google.com/citations?user=bjnCB84AAAAJ&amp;hl=en)
 </div>
 
+<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Causal AI">
+<span title="PhD, ResearcherDanish Meteorological Institute."><strong>Tian Tian, PhD, Researcher, Danish Meteorological Institute</strong></span>
+<br />
+AutoML * Bayesian Optimisation * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Causal AI * [Research group](https://http://research.dmi.dk/staff/all-staff/tian/) * [Publications (Scholar)](https://scholar.google.com/citations?user=igUBgtEAAAAJ&amp;hl=da) * [ORCID](https://orcid.org/0000-0001-9092-9128  )
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
