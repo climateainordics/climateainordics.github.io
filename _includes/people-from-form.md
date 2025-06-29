@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning">
-<span title="PhD StudentUniversity of Oulu."><strong>Huai-Qian Khor, PhD Student, University of Oulu</strong></span>
-<br />
-Computer Vision * Deep Learning * [More info (researcher profile)](https://github.com/IcedDoggie) * [Publications (Scholar)](https://scholar.google.com/citations?user=bjnCB84AAAAJ&amp;hl=en)
-</div>
-
 <div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Causal AI">
 <span title="PhD, ResearcherDanish Meteorological Institute."><strong>Tian Tian, PhD, Researcher, Danish Meteorological Institute</strong></span>
 <br />
@@ -892,6 +886,12 @@ Machine Learning
 <span title="ResearcherUniversity of Oulu."><strong>Moinul Islam, Researcher, University of Oulu</strong></span>
 <br />
 AutoML * Bayesian Optimisation * Climate Modeling * Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * NLP * Sustainable Cities * Sustainable Energy * Sustainable Production * Sustainable Transport * Weather Forecasting * [Research group](https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-for-machine-vision-and-signal-analysis) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=yyiw7cUAAAAJ)
+</div>
+
+<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning">
+<span title="PhD StudentUniversity of Oulu."><strong>Huai-Qian Khor, PhD Student, University of Oulu</strong></span>
+<br />
+Computer Vision * Deep Learning * [More info (researcher profile)](https://github.com/IcedDoggie) * [Publications (Scholar)](https://scholar.google.com/citations?user=bjnCB84AAAAJ&amp;hl=en)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
