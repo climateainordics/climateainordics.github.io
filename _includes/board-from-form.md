@@ -57,7 +57,7 @@ Climate Modeling * Machine Learning * Deep Learning * Molecular Modeling of Atmo
 
 <div class="content" markdown="1" data-tags="Efficient or Sustainable AI,Machine Learning,Deep Learning,Bayesian Optimisation,Climate Impacts,Extreme Weather,Sustainable Energy,Weather Forecasting,Wind Energy,AutoML">
 ![Sigrid Passano Hellan](/images/people/hellan.jpg)
-<span title="PhD, ResearcherNORCE Norwegian Research Centre and Bjerknes Centre for Climate Research."><strong>Sigrid Passano Hellan, PhD, Researcher, NORCE Norwegian Research Centre and Bjerknes Centre for Climate Research</strong></span>
+<span title="PhD, ResearcherNORCE Norwegian Research Centre / Bjerknes Centre for Climate Research."><strong>Sigrid Passano Hellan, PhD, Researcher, NORCE Norwegian Research Centre / Bjerknes Centre for Climate Research</strong></span>
 <br />
 Efficient or Sustainable AI * Machine Learning * Deep Learning * Bayesian Optimisation * Climate Impacts * Extreme Weather * Sustainable Energy * Weather Forecasting * Wind Energy * AutoML * [More info (researcher profile)](https://sighellan.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=oH9ZmGgAAAAJ)
 </div>

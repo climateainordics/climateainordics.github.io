@@ -888,6 +888,12 @@ Machine Learning
 AutoML * Bayesian Optimisation * Climate Modeling * Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * NLP * Sustainable Cities * Sustainable Energy * Sustainable Production * Sustainable Transport * Weather Forecasting * [Research group](https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-for-machine-vision-and-signal-analysis) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=yyiw7cUAAAAJ)
 </div>
 
+<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Earth Observation,Machine Learning,Sustainable Cities,Urban Planning">
+<span title="I am a Geospatial Data Scientist (JPA) at the World Bank, formerly a Data Science Consultant at UNICEF and a Disaster and Climate Risk Data Fellow under the Global Facility for Disaster Reduction and Recovery (GFDRR). My work focuses primarily on the applications of ML and Earth observation for socioeconomic development, humanitarian assistance, climate resilience, and disaster response. My recent works include high-resolution poverty estimation, large-scale school mapping, informal migrant settlement detection, building footprint extraction, and housing stock classification, done in close collaboration with humanitarian organizations and government agencies across Southeast Asia, Latin America, and the Caribbean. As a strong advocate of women in STEM and climate justice, I have also served as the Technical Lead for AI/ML at Women Who Code Manila and am a Core Member of Climate Change AI.  IndustryRISE Research Institutes of Sweden / The World Bank / Climate Change AI."><strong>Isabelle Tingzon, Industry, RISE Research Institutes of Sweden / The World Bank / Climate Change AI</strong></span>
+<br />
+Computer Vision * Deep Learning * Earth Observation * Machine Learning * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://issa-tingzon.github.io/) * [Publications (Scholar)](https://scholar.google.co.uk/citations?user=MGeQcRMAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-0533-8532)
+</div>
+
 <div class="content" markdown="1" data-tags="Computer Vision,Deep Learning">
 <span title="PhD StudentUniversity of Oulu."><strong>Huai-Qian Khor, PhD Student, University of Oulu</strong></span>
 <br />
@@ -1088,7 +1094,7 @@ Earth Observation * Climate Modeling * Urban Planning * Sustainable Transport * 
 </div>
 
 <div class="content" markdown="1" data-tags="Climate Modeling,NLP,Machine Learning,Deep Learning">
-<span title="Postdoctoral Researcher at the KAIST. Developer of KARINA, the first deep learning-based global weather forecast model in Korea. Post DocKorea Advanced Institute of Science and Technology."><strong>Minjong Cheon, Post Doc, Korea Advanced Institute of Science and Technology</strong></span>
+<span title="Postdoctoral Researcher at the KAIST. Developer of KARINA, the first deep learning-based global weather forecast model in Korea. Post DocKorea Advanced Institute of Science / Technology."><strong>Minjong Cheon, Post Doc, Korea Advanced Institute of Science / Technology</strong></span>
 <br />
 Climate Modeling * NLP * Machine Learning * Deep Learning * [More info (researcher profile)](https://jmj2316.notion.site/Minjong-Cheon-8fb77c0f123c4924a5e80a437e2124b1) * [Publications (Scholar)](https://scholar.google.com/citations?user=UZAaM7oAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0001-7589-4078)
 </div>
@@ -1133,12 +1139,6 @@ Efficient or Sustainable AI * Machine Learning * Deep Learning * [Publications (
 <span title="Industry."><strong>Laure Carel, Industry</strong></span>
 <br />
 AutoML * Bayesian Optimisation * Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * Sustainable Energy * Weather Forecasting
-</div>
-
-<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Earth Observation,Machine Learning,Sustainable Cities,Urban Planning">
-<span title="I am a Geospatial Data Scientist (JPA) at the World Bank, formerly a Data Science Consultant at UNICEF and a Disaster and Climate Risk Data Fellow under the Global Facility for Disaster Reduction and Recovery (GFDRR). My work focuses primarily on the applications of ML and Earth observation for socioeconomic development, humanitarian assistance, climate resilience, and disaster response. My recent works include high-resolution poverty estimation, large-scale school mapping, informal migrant settlement detection, building footprint extraction, and housing stock classification, done in close collaboration with humanitarian organizations and government agencies across Southeast Asia, Latin America, and the Caribbean. As a strong advocate of women in STEM and climate justice, I have also served as the Technical Lead for AI/ML at Women Who Code Manila and am a Core Member of Climate Change AI.  IndustryThe World Bank and Climate Change AI."><strong>Isabelle Tingzon, Industry, The World Bank and Climate Change AI</strong></span>
-<br />
-Computer Vision * Deep Learning * Earth Observation * Machine Learning * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://issa-tingzon.github.io/) * [Publications (Scholar)](https://scholar.google.co.uk/citations?user=MGeQcRMAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-0533-8532)
 </div>
 
 <div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Sustainable Cities">
