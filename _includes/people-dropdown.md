@@ -7,7 +7,7 @@
 <option value="Bayesian Optimisation">Bayesian Optimisation (6)</option>
 <option value="Biodiversity">Biodiversity (56)</option>
 <option value="Causal AI">Causal AI (1)</option>
-<option value="Climate Impacts">Climate Impacts (8)</option>
+<option value="Climate Impacts">Climate Impacts (9)</option>
 <option value="Climate Modeling">Climate Modeling (59)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
 <option value="Computer Vision">Computer Vision (68)</option>
@@ -17,7 +17,7 @@
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
 <option value="Education">Education (1)</option>
-<option value="Efficient or Sustainable AI">Efficient or Sustainable AI (50)</option>
+<option value="Efficient or Sustainable AI">Efficient or Sustainable AI (51)</option>
 <option value="Environment Impacts of AI">Environment Impacts of AI (1)</option>
 <option value="Extreme Weather">Extreme Weather (2)</option>
 <option value="Extreme Weather Events">Extreme Weather Events (3)</option>
@@ -42,7 +42,7 @@
 <option value="Spatial Analysis">Spatial Analysis (1)</option>
 <option value="Species Distribution Modelling">Species Distribution Modelling (1)</option>
 <option value="Stochastic Modelling and Distributions">Stochastic Modelling and Distributions (1)</option>
-<option value="Sustainable Cities">Sustainable Cities (40)</option>
+<option value="Sustainable Cities">Sustainable Cities (41)</option>
 <option value="Sustainable Energy">Sustainable Energy (4)</option>
 <option value="Sustainable Heating">Sustainable Heating (1)</option>
 <option value="Sustainable Production">Sustainable Production (24)</option>

@@ -1152,3 +1152,9 @@ Biodiversity * Climate Impacts * Climate Modeling * Sustainable Cities
 <br />
 Biodiversity * Computer Vision * Earth Observation * [More info (researcher profile)](https://ghjuliasialelli.github.io/) * [Research group](https://prs.igp.ethz.ch/) * [Publications (Scholar)](https://scholar.google.com/citations?user=WTVF1dAAAAAJ&amp;hl=fr) * [ORCID](https://orcid.org/0009-0007-6489-8568) * [BlueSky](https://bsky.app/profile/ghjuliasialelli.bsky.social)
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Efficient or Sustainable AI,Sustainable Cities">
+<span title="Sjoukje Yao Wu is a Dutch researcher educated at Leiden University and Columbia University, focusing on international sustainability collaboration. Ms. Wu is the Climate Pact Ambassador of European Commission and Earth Expert of UNESCO. She assisted Commission&#x27;s Eco City Link project, served as expert reader for Land for Life Award of United Nations Convention to Combat Desertification, recorded a program for BBC World Service and was interviewed by EC&#x27;s Horizon 2020 project on innovation. Her researches were presented on World Cities Day organized by UN-HABITAT, and at SDG summit by UN University in Tokyo.  Sjoukje Yao Wu is a member of Global Artist Committee of Singapore&#x27;s Asian Art Association, and a jury member of Women&#x27;s Voices Now Film Festival in L.A. Her teams film won dozens of international awards, such as Sweden Film Award.  ResearcherSocial media reporter of United Nations Convention to Combat Desertification."><strong>Sjoukje Yao Eschen-Wu, Researcher, Social media reporter of United Nations Convention to Combat Desertification</strong></span>
+<br />
+Climate Impacts * Efficient or Sustainable AI * Sustainable Cities * [More info (researcher profile)](https://www.linkedin.com/in/sjoukjeyaowu/) * [Research group](https://www.asiaresearchnews.com/content/sjoukje-yao-wu)
+</div>
