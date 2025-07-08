@@ -1157,3 +1157,9 @@ Biodiversity * Computer Vision * Earth Observation * [More info (researcher prof
 <br />
 Climate Impacts * Efficient or Sustainable AI * Sustainable Cities * [More info (researcher profile)](https://www.linkedin.com/in/sjoukjeyaowu/) * [Research group](https://www.asiaresearchnews.com/content/sjoukje-yao-wu)
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Deep Learning,Efficient or Sustainable AI,Machine Learning,Sustainable Cities,Sustainable Energy,Sustainable Production,Sustainable Transport">
+<span title="I work part-time at Exponential Roadmap Initiative (ERI) which is a collaborative climate initiative uniting companies that are innovators, disruptors and transformers to drive exponential action to halve emissions by 2030. At ERI, I am engaged to prototype and develop robust and scalable data driven AI augmented climate analysis performance and transition plan solutions. I also work part-time at Prosperous Planet which is a small and specialised consultancy company focusing on supporting companies in building a profitable and sustainable future by integrating and leveraging financial and sustainability data across the whole organisation. Climate Analysis &amp; Transition Advisory ConsultantExponential Roadmap Initiative."><strong>Nicklas Lemon, Climate Analysis &amp; Transition Advisory Consultant, Exponential Roadmap Initiative</strong></span>
+<br />
+Climate Impacts * Deep Learning * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * Sustainable Energy * Sustainable Production * Sustainable Transport * [More info (researcher profile)](https://www.linkedin.com/in/nicklaslemon/) * [Research group](https://exponentialroadmap.org/)
+</div>
