@@ -1163,3 +1163,9 @@ Climate Impacts * Efficient or Sustainable AI * Sustainable Cities * [More info 
 <br />
 Climate Impacts * Deep Learning * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * Sustainable Energy * Sustainable Production * Sustainable Transport * [More info (researcher profile)](https://www.linkedin.com/in/nicklaslemon/) * [Research group](https://exponentialroadmap.org/)
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Sustainable Energy,Weather Forecasting,Wind Energy">
+<span title="PhD student in Burkina Faso Africa, I live in Ouagadougou . PhD StudentJoseph KI -ZERBO UNIVERSITY."><strong>DABRE MAZO, PhD Student, Joseph KI -ZERBO UNIVERSITY</strong></span>
+<br />
+Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Sustainable Energy * Weather Forecasting * Wind Energy
+</div>
