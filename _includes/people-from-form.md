@@ -1,10 +1,3 @@
-## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="">
-<span title="IndependentIndependent."><strong>Henrik Hagelin, Independent, Independent</strong></span>
-<br />
-
-</div>
-
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -904,6 +897,12 @@ Computer Vision * Deep Learning * Earth Observation * Machine Learning * Sustain
 <span title="PhD StudentUniversity of Oulu."><strong>Huai-Qian Khor, PhD Student, University of Oulu</strong></span>
 <br />
 Computer Vision * Deep Learning * [More info (researcher profile)](https://github.com/IcedDoggie) * [Publications (Scholar)](https://scholar.google.com/citations?user=bjnCB84AAAAJ&amp;hl=en)
+</div>
+
+<div class="content" markdown="1" data-tags="">
+<span title="IndependentIndependent."><strong>Henrik Hagelin, Independent, Independent</strong></span>
+<br />
+
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
