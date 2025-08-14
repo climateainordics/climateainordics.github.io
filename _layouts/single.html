@@ -54,8 +54,8 @@ layout: default
 	{% if stripped_content != '' %}
         {{ content }}
 
-        {% elsif page.shortversion %}
-          {{ page.shortversion | markdownify }}
+        {% elsif page.summary %}
+          {{ page.summary | markdownify }}
         {% endif %}
         {% if page.citation and page.paperurl and page.slidesurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>

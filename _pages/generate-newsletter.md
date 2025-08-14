@@ -48,7 +48,7 @@ In this issue, we share updates from our first nine months, including webinars, 
 ![](https://climateainordics.com{{ p.image  }})
 {% endif %}
 
-{% if p.event_date %}*{{ p.event_date }}*{% else %}*{{ p.date | date: '%Y-%m-%d' }}*{% endif %} {{ p.shortversion }}<br />
+{% if p.event_date %}*{{ p.event_date }}*{% else %}*{{ p.date | date: '%Y-%m-%d' }}*{% endif %} {{ p.summary }}<br />
 **[(Read more)](https://climateainordics.com{{ p.url }})**
 {% endif %}
 {% endfor %}
@@ -79,7 +79,7 @@ In this issue, we share updates from our first nine months, including webinars, 
 ![](https://climateainordics.com{{ p.image  }})
 {% endif %}
 
-{{printdate}} {{ p.shortversion }}<br />
+{{printdate}} {{ p.summary }}<br />
 **[(Read more)](https://climateainordics.com{{ p.url }})**
 {% endunless %}
 {% endfor %}
@@ -124,7 +124,7 @@ In this issue, we share updates from our first nine months, including webinars, 
 ![](https://climateainordics.com{{ p.image  }})
     {% endif %}
 
-{{ printdate }} {{ p.shortversion }}<br />
+{{ printdate }} {{ p.summary }}<br />
 **[(Read more)](https://climateainordics.com{{ p.url }})**
     {% endif %}
   {% endfor %}
@@ -168,7 +168,7 @@ In this issue, we share updates from our first nine months, including webinars, 
 
 {{printdate}}
 
-{{ p.shortversion }}<br />
+{{ p.summary }}<br />
 **[(Read more)](https://climateainordics.com{{ p.url }})**
 
   {% endunless %}
@@ -224,7 +224,7 @@ In this issue, we share updates from our first nine months, including webinars, 
 ![](https://climateainordics.com{{ p.image  }})
       {% endif %}
 
-{{ printdate }} {{ p.shortversion }}<br />
+{{ printdate }} {{ p.summary }}<br />
 **[(Read more)](https://climateainordics.com{{ p.url }})**
       {% endif %}
     {% endunless %}
@@ -272,7 +272,7 @@ In this issue, we share updates from our first nine months, including webinars, 
 ![](https://climateainordics.com{{ p.image  }})
     {% endif %}
 
-{{ p.shortversion }}<br />
+{{ p.summary }}<br />
 **[(Read more)](https://climateainordics.com{{ p.url }})**
     {% endif %}
   {% endfor %}

@@ -13,7 +13,7 @@ permalink: /events/
 
 {% capture posts %}
   {% for post in site.categories.events %}
-    |||||{{post.event_date}}#####{{ post.event_time }}#####{{ post.title }}#####{{ post.image }}#####{{ post.shortversion }}#####{{ post.url  }}#####{{ post.youtube }}
+    |||||{{post.event_date}}#####{{ post.event_time }}#####{{ post.title }}#####{{ post.image }}#####{{ post.summary }}#####{{ post.url  }}#####{{ post.youtube }}
   {% endfor %}
 {% endcapture %}
 
@@ -25,7 +25,7 @@ permalink: /events/
 {% assign event_time = postarray[1] %}
 {% assign title = postarray[2] %}
 {% assign image = postarray[3] %}
-{% assign shortversion = postarray[4] %}
+{% assign summary = postarray[4] %}
 {% assign url = postarray[5] | strip %}
 {% assign youtube = postarray[6] | strip %}
 
@@ -44,7 +44,7 @@ permalink: /events/
 {% endif %}
 {% endif %}
 
-{{ shortversion }}
+{{ summary }}
 
 {% if youtube != "" %}
 **[View recorded seminar!]({{ url }})**

@@ -1,6 +1,6 @@
 ---
 title: "Artificial Intelligence for Climate Change Mitigation"
-shortversion: "Webinar with Alp Kucukelbir, Columbia University. 
+summary: "Webinar with Alp Kucukelbir, Columbia University. 
 
 Artificial intelligence (AI) has the potential to make very significant contributions to climate change mitigation. The complexity and scale of the challenge is broad. In this talk, I break down opportunities for AI to effect incremental and transformational change across multiple sectors, focusing on industries with large carbon footprints.
 

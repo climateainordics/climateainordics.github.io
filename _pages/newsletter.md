@@ -17,7 +17,7 @@ The newsletter is distributed to all members of Climate AI Nordics.
 ## {{p.date | date: '%Y-%m-%d'}}: {{ p.title }}
 {% if p.image %}<img src="{{ p.image }}" style="float: right; width: 25%;" />{% endif %}
 
-{{ p.shortversion }}
+{{ p.summary }}
 
 [**Read more**]({{ p.url }})
 {% endfor %}

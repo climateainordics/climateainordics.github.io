@@ -1,6 +1,6 @@
 ---
 title: "Partnership between Climate AI Nordics and ELLIS Machine Learning for Earth and Climate Sciences Program"
-shortversion: "We are happy to share that we have partnered with [ELLIS Machine Learning for Earth and Climate Sciences Program](https://ellis.eu/programs/machine-learning-for-earth-and-climate-sciences) 🌍✨!"
+summary: "We are happy to share that we have partnered with [ELLIS Machine Learning for Earth and Climate Sciences Program](https://ellis.eu/programs/machine-learning-for-earth-and-climate-sciences) 🌍✨!"
 people:
 - Olof Mogren
 - Aleksis Pirinen

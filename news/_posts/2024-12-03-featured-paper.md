@@ -1,6 +1,6 @@
 ---
 title: "Featured Paper: ONEKANA: Modelling Thermal Inequalities in African Cities"
-shortversion: "The new Climate AI Nordics Featured Paper is \"ONEKANA: Modelling Thermal Inequalities in African Cities\" by Sabine Vanhuysse and colleagues. This research addresses the pressing issue of thermal disparities in rapidly urbanizing African cities, where vulnerable populations are disproportionately affected by extreme heat due to environmental and socioeconomic factors."
+summary: "The new Climate AI Nordics Featured Paper is \"ONEKANA: Modelling Thermal Inequalities in African Cities\" by Sabine Vanhuysse and colleagues. This research addresses the pressing issue of thermal disparities in rapidly urbanizing African cities, where vulnerable populations are disproportionately affected by extreme heat due to environmental and socioeconomic factors."
 abstract: "Africa, as a major climate change hotspot, faces
 severe impacts, including extreme temperatures. Notably, urban areas
 are unequally affected by these impacts. The urban poor are

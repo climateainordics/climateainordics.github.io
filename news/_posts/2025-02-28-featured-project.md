@@ -1,6 +1,6 @@
 ---
 title: "Featured Project: AI-based seabird monitoring at Stora Karlsö, Sweden"
-shortversion: "Read about an exciting project involving both artificial intelligence and an artificial rock shelf!"
+summary: "Read about an exciting project involving both artificial intelligence and an artificial rock shelf!"
 people:
 - Aleksis Pirinen
 

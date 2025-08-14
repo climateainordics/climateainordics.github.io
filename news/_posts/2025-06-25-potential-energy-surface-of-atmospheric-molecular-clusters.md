@@ -3,7 +3,7 @@ title: "Featured paper: Accurate modeling of the potential energy surface of atm
 people:
 - Hilda Sandström
 image: /images/posts/2025-06-25-atmospheric-molecular-clusters.png
-shortversion: "This paper explores the potential for using neural networks to model atmospheric particle formation. The neural network-based model, tasked here to predict cluster binding energies, achieved the target chemical accuracy of less than 1 kcal/mol, although kernel ridge regression had a slightly lower error. Training was over an order of magnitude faster with the neural network compared to kernel ridge regression."
+summary: "This paper explores the potential for using neural networks to model atmospheric particle formation. The neural network-based model, tasked here to predict cluster binding energies, achieved the target chemical accuracy of less than 1 kcal/mol, although kernel ridge regression had a slightly lower error. Training was over an order of magnitude faster with the neural network compared to kernel ridge regression."
 ---
 
 *Figure. The challenge of modeling atmospheric molecular clusters grows with increasing cluster size. The neural network PaiNN provides a way to avoid this computational barrier. Image from Kubečka et al., (2024). Licensed under CC BY 3.0.*

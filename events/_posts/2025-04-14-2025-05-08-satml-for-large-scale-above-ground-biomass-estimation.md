@@ -1,6 +1,6 @@
 ---
 title: "SatML for large-scale above-ground biomass estimation"
-shortversion: "Webinar with Ghjulia Sialelli, ETH Zurich. 
+summary: "Webinar with Ghjulia Sialelli, ETH Zurich. 
 
 The combination of remote sensing and machine learning has made it possible to map forest properties at an unprecedented scale and resolution. In this presentation, I will focus on the application of deep learning techniques to estimate above-ground biomass (AGB), a key metric for tracking forest carbon and ecosystem dynamics.
 

@@ -1,6 +1,6 @@
 ---
 title: "Optimising green infrastructure for climate-resilient cities: AI-driven approaches to urban cooling"
-shortversion: "Webinar with Abdul Shaamala, Queensland University of Technology. 
+summary: "Webinar with Abdul Shaamala, Queensland University of Technology. 
 
 Green infrastructure (GI) is critical in enhancing urban resilience, mitigating heat stress, and improving environmental sustainability. However, optimising the placement and configuration of green elements such as trees, parks, and vegetative corridors, requires a data-driven approach that accounts for microclimate variations, urban morphology, and long-term ecosystem benefits.
 

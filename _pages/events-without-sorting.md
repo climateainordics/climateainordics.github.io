@@ -22,7 +22,7 @@ permalink: /events-without-sorting/
 {% endif %}
 
 {% if eventtime < nowtime %}This event has already happened. Stay tuned for more events like these!{% endif %}
-{% if p.shortversion %}{{ p.shortversion }}{% endif %}
+{% if p.summary %}{{ p.summary }}{% endif %}
 
 {% if p.content  %}**[Read more!]({{ p.url }})**{% endif %}
 

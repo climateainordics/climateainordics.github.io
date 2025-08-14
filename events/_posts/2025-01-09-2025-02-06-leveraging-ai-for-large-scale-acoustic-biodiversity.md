@@ -1,6 +1,6 @@
 ---
 title: "Leveraging AI for Large-Scale Acoustic Biodiversity Monitoring: Insights from TABMON"
-shortversion: "Webinar with Benjamin Cretois, Norwegian Institute for Nature Research. 
+summary: "Webinar with Benjamin Cretois, Norwegian Institute for Nature Research. 
 
 Advancing biodiversity monitoring is crucial for meeting the EU Biodiversity Strategy targets and addressing gaps in current ecological assessments. However, collecting data to monitor the state of biodiversity is time and resource consuming. Passive Acoustic Monitoring (PAM), in combination with AI tools offers an efficient alternative to conventional data collection practices. PAM is a non-invasive method that uses sound recorders to capture wildlife vocalizations and environmental sounds over time. It is particularly valuable for monitoring elusive or nocturnal species, such as birds, amphibians, and marine mammals, that are challenging to detect visually.
 

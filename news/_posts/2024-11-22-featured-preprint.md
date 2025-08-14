@@ -1,6 +1,6 @@
 ---
 title: "Featured Preprint: Continuous Ensemble Weather Forecasting with Diffusion Models"
-shortversion: "In Featured Preprints, preprints from affiliated researchers are summarized and featured at Climate AI Nordics. This one features &quot;Continuous Ensemble Weather Forecasting with Diffusion Models&quot;, from Martin Andrae, Tomas Landelius, Joel Oskarsson, and Fredrik Lindsten."
+summary: "In Featured Preprints, preprints from affiliated researchers are summarized and featured at Climate AI Nordics. This one features &quot;Continuous Ensemble Weather Forecasting with Diffusion Models&quot;, from Martin Andrae, Tomas Landelius, Joel Oskarsson, and Fredrik Lindsten."
 people:
 - Olof Mogren
 image: /images/posts/2024-11-22-featured-preprint.png

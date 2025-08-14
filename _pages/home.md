@@ -25,7 +25,7 @@ Welcome to _Climate AI Nordics_. We are a [network of researchers](/people/) ded
 {% for p in site.posts %}
 {% if p.first_page %}> ## {{ p.title }}
 {% if p.image %}> ![]({{ p.image }}){% else %}>{% endif %}
-> {{ p.shortversion | replace: '\n', '\n> ' }}
+> {{ p.summary | replace: '\n', '\n> ' }}
 > **[(Read more)]({{ p.url }})**
 {% endif %}
 {% endfor %}

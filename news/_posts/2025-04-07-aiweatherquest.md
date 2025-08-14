@@ -1,6 +1,6 @@
 ---
 title: "Will you join the #AIWeatherQuest?"
-shortversion: "ECMWF invites AI/ML experts to improve sub-seasonal forecasts (days 19-25 & 26-31)—key for climate adaptation & planning. Open to all, any tools/datasets."
+summary: "ECMWF invites AI/ML experts to improve sub-seasonal forecasts (days 19-25 & 26-31)—key for climate adaptation & planning. Open to all, any tools/datasets."
 abstract: "ECMWF invites AI/ML experts to improve sub-seasonal forecasts (days 19-25 & 26-31)—key for climate adaptation & planning. Open to all, any tools/datasets."
 socialmedia: "ECMWF invites AI/ML experts to improve sub-seasonal forecasts (days 19-25 & 26-31)—key for climate adaptation & planning. Open to all, any tools/datasets."
 people:

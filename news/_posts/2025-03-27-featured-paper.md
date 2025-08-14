@@ -1,6 +1,6 @@
 ---
 title: "Featured Paper: Efficiency is Not Enough: A Critical Perspective of Environmentally Sustainable AI"
-shortversion: "This perspective paper discusses several reasons why it is crucial to look at the impact of machine learning (ML) using systems thinking, i.e. across the entire life cycle of models, from development to deployment."
+summary: "This perspective paper discusses several reasons why it is crucial to look at the impact of machine learning (ML) using systems thinking, i.e. across the entire life cycle of models, from development to deployment."
 abstract: "This perspective paper discusses several reasons why it is crucial to look at the impact of machine learning (ML) using systems thinking, i.e. across the entire life cycle of models, from development to deployment."
 socialmedia: "This perspective paper discusses several reasons why it is crucial to look at the impact of machine learning (ML) using systems thinking, i.e. across the entire life cycle of models, from development to deployment."
 people:

@@ -1,6 +1,6 @@
 ---
 title: "Efficient and precise annotation of local structures in data"
-shortversion: "Webinar with John Martinsson, RISE and Lund University. 
+summary: "Webinar with John Martinsson, RISE and Lund University. 
 
 Machine learning models now help scientists analyze vast datasets across every branch of science. These models typically improve with more data and larger architectures, mainly through supervised learning. Both training and evaluation therefore rely on labeled datasets. A main challenge is scaling the data labeling effort to the volumes required, because it is costly and label quality can vary. Methods that deliver inexpensive yet accurate labels are therefore essential.
 

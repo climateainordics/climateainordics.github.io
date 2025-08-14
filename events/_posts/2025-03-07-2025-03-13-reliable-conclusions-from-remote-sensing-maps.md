@@ -1,6 +1,6 @@
 ---
 title: "Reliable conclusions from remote sensing maps"
-shortversion: "Webinar with Sherrie Wang, MIT. 
+summary: "Webinar with Sherrie Wang, MIT. 
 
 Remote sensing maps are used to estimate regression coefficients relating environmental variables, such as the effect of conservation zones on deforestation. However, the quality of map products varies, and -- because maps are outputs of complex machine learning algorithms that take in a variety of remotely sensed variables as inputs -- errors are difficult to characterize. Thus, population-level estimates from such maps may be biased. We show how a small amount of randomly sampled ground truth data can correct for bias in large-scale remote sensing map products. Applying our method across multiple remote sensing use cases in regression coefficient estimation, we find that it results in estimates that are (1) more reliable than using the map product as if it were 100% accurate and (2) have lower uncertainty than using only the ground truth and ignoring the map product.
 

@@ -1,6 +1,6 @@
 ---
 title: "Partnership between Climate AI Nordics and Global Wetland Center"
-shortversion: "We are excited to share our partnership with [Global Wetland Center](https://globalwetlandcenter.ku.dk/),  🌍✨!"
+summary: "We are excited to share our partnership with [Global Wetland Center](https://globalwetlandcenter.ku.dk/),  🌍✨!"
 people:
 - Olof Mogren
 - Aleksis Pirinen

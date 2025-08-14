@@ -1,6 +1,6 @@
 ---
 title: "Featured Paper: Deep learning-enhanced detection of road culverts in high-resolution digital elevation models: Improving stream network accuracy in Sweden"
-shortversion: "The new Climate AI Nordics Featured Paper is \"Deep learning-enhanced detection of road culverts in high-resolution digital elevation models: Improving stream network accuracy in Sweden\" by William Lidberg. In this work, Lidberg combines LiDAR data and aerial imagery with deep learning to detect 87 % of all road culverts in Sweden. These culverts are in turn used to increase the accuracy of maps featuring small watercourses."
+summary: "The new Climate AI Nordics Featured Paper is \"Deep learning-enhanced detection of road culverts in high-resolution digital elevation models: Improving stream network accuracy in Sweden\" by William Lidberg. In this work, Lidberg combines LiDAR data and aerial imagery with deep learning to detect 87 % of all road culverts in Sweden. These culverts are in turn used to increase the accuracy of maps featuring small watercourses."
 abstract: "In this work, Lidberg combines LiDAR data and aerial imagery with deep learning to detect 87 % of all road culverts in Sweden. These culverts are in turn used to increase the accuracy of maps featuring small watercourses."
 socialmedia: "Deep learning-enhanced detection of road culverts in high-resolution digital elevation models: Improving stream network accuracy in Sweden."
 people:

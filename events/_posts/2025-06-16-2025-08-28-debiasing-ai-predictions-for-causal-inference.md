@@ -1,6 +1,6 @@
 ---
 title: "Debiasing AI predictions for causal inference without fresh ground truth data"
-shortversion: "Webinar with Markus Pettersson, Chalmers University of Technology. 
+summary: "Webinar with Markus Pettersson, Chalmers University of Technology. 
 
 Machine learning models trained on Earth observation data, particularly satellite imagery, have recently shown impressive performance in predicting household-level wealth indices, potentially addressing chronic data scarcity in global development research. While these predictions exhibit strong predictive power, they inherently suffer from shrinkage toward the mean, resulting in attenuated estimates of causal treatment effects and thus limiting their utility in policy evaluations. Existing debiasing methods, such as Prediction-Powered Inference (PPI), require additional fresh ground-truth data at the downstream causal inference stage, severely restricting their applicability in data-poor environments.
 

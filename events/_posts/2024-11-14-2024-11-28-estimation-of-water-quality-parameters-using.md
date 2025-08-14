@@ -1,6 +1,6 @@
 ---
 title: "Estimation of water quality parameters using remote sensing data and machine learning models"
-shortversion: "Webinar with Alireza Taheri Dehkordi, Lund University. 
+summary: "Webinar with Alireza Taheri Dehkordi, Lund University. 
 
 The global decline in water quality, exacerbated by climate change and population growth, underscores the need for continuous and accurate monitoring of water quality parameters (WQPs). Remote sensing (RS) data, especially from multispectral satellites like Sentinel-2 and Landsat-8, offers large-scale, periodic observations for tracking WQPs. However, deriving accurate estimates solely from RS data is complex due to the intricate relationships between spectral bands and water quality indicators. This talk presents two novel machine learning approaches that leverage advanced RS data processing to enhance water quality monitoring."
 abstract: "The global decline in water quality, exacerbated by climate change and population growth, underscores the need for continuous and accurate monitoring of water quality parameters (WQPs). Remote sensing (RS) data, especially from multispectral satellites like Sentinel-2 and Landsat-8, offers large-scale, periodic observations for tracking WQPs. However, deriving accurate estimates solely from RS data is complex due to the intricate relationships between spectral bands and water quality indicators. This talk presents two novel machine learning approaches that leverage advanced RS data processing to enhance water quality monitoring."
