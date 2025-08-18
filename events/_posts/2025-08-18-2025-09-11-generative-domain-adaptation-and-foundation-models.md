@@ -1,6 +1,6 @@
 ---
 title: "Generative domain adaptation and foundation models for robust Earth observation"
-shortversion: "Webinar with Georges Le Bellier, Conservatoire National des Arts et Métiers. 
+summary: "Webinar with Georges Le Bellier, Conservatoire National des Arts et Métiers. 
 
 Deep learning for remote sensing plays a crucial role in turning satellite and aerial imagery into dependable, real-world insights. However, Earth observation models must handle diverse environments, sensors, and conditions—such as clouds, seasonal shifts, and geographic differences—while still producing accurate results. In this talk, we explore two paths that lead to more robust and adaptable algorithms: generative domain adaptation and geospatial foundation models.
 First, I will introduce FlowEO, a generative approach of Unsupervised Domain Adaptation (UDA) for Earth observation, and show its high performance in UDA scenarios for several downstream tasks, including dense prediction and classification. This flow-matching-based translation method improves pretrained predictive models&#x27; accuracies in challenging scenarios such as post-disaster response and high cloud coverage cases with SAR-to-optical translation. FlowEO’s generative domain adaptation method is independent of the downstream task and does not require retraining the predictive model.
