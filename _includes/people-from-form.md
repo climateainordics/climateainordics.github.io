@@ -899,10 +899,10 @@ Computer Vision * Deep Learning * Earth Observation * Machine Learning * Sustain
 Computer Vision * Deep Learning * [More info (researcher profile)](https://github.com/IcedDoggie) * [Publications (Scholar)](https://scholar.google.com/citations?user=bjnCB84AAAAJ&amp;hl=en)
 </div>
 
-<div class="content" markdown="1" data-tags="">
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Extreme Weather Events,Machine Learning,Sustainable Energy,Weather Forecasting,Wind Energy,Wildfire Growth Forecasting,Disaster Management,Ecosystem-based Adaptation,Nature-based Solutions">
 <span title="IndependentIndependent."><strong>Henrik Hagelin, Independent, Independent</strong></span>
 <br />
-
+Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Extreme Weather Events * Machine Learning * Sustainable Energy * Weather Forecasting * Wind Energy * Wildfire Growth Forecasting * Disaster Management * Ecosystem-based Adaptation * Nature-based Solutions * [More info (researcher profile)](https://linksta.cc/@henhag88) * [BlueSky](https://bsky.app/profile/henhag88.bsky.social)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
