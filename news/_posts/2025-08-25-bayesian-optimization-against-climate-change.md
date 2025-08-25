@@ -2,7 +2,7 @@
 title: "Featured paper: Bayesian Optimisation Against Climate Change: Applications and Benchmarks"
 people:
 - Sigrid Passano Hellan
-image: /images/posts/2025-08-28-bayesian-optimization-against-climate-change-1.png
+image: /images/posts/2025-08-25-bayesian-optimization-against-climate-change-1.png
 summary: "This paper explores the potential for using neural networks to model atmospheric particle formation. The neural network-based model, tasked here to predict cluster binding energies, achieved the target chemical accuracy of less than 1 kcal/mol, although kernel ridge regression had a slightly lower error. Training was over an order of magnitude faster with the neural network compared to kernel ridge regression."
 ---
 
@@ -16,7 +16,7 @@ A lot of work related to climate change can be phrased in terms of an optimisati
 
 Bayesian optimisation is a type of probabilistic, surrogate-based optimisation. That means we use a probabilistic model of the quantity we are optimising. So if we are operating a solar panel with adjustable panel angles (see Fig 2), we use a model of the relationship between panel angles and electricity production (1) to tell us what would be promising or informative angles to try next (2). Then we collect more data (3) and update our model (back to 1) before continuing. Usually, the surrogate model we use is a Gaussian process.
 
-![](/images/posts/2025-08-28-bayesian-optimization-against-climate-change-2.png)
+![](/images/posts/2025-08-25-bayesian-optimization-against-climate-change-2.png)
 
 Previous work was grouped into four main use cases:
 * material discovery — accelerating the development of e.g. new solar panels
