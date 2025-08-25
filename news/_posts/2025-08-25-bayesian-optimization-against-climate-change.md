@@ -3,7 +3,7 @@ title: "Featured paper: Bayesian Optimisation Against Climate Change: Applicatio
 people:
 - Sigrid Passano Hellan
 image: /images/posts/2025-08-25-bayesian-optimization-against-climate-change-1.png
-summary: "This paper explores the potential for using neural networks to model atmospheric particle formation. The neural network-based model, tasked here to predict cluster binding energies, achieved the target chemical accuracy of less than 1 kcal/mol, although kernel ridge regression had a slightly lower error. Training was over an order of magnitude faster with the neural network compared to kernel ridge regression."
+summary: "The featured paper this month shows how Bayesian optimisation can support climate change mitigation by tackling optimisation problems in renewable energy and environmental monitoring. This includes a review on applications across four main use cases—material discovery, wind farm layouts, optimal renewable control, and environmental monitoring, and the proposal of benchmark problems to guide future research. The work is connected to ongoing projects at Climate AI Nordics, such as efforts to design safer solar panel materials and improve air pollution monitoring."
 ---
 
 **
