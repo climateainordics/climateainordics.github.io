@@ -6,8 +6,6 @@ image: /images/posts/2025-08-25-bayesian-optimization-against-climate-change-1.p
 summary: "The featured paper this month shows how Bayesian optimisation can support climate change mitigation by tackling optimisation problems in renewable energy and environmental monitoring. This includes a review on applications across four main use cases—material discovery, wind farm layouts, optimal renewable control, and environmental monitoring, and the proposal of benchmark problems to guide future research. The work is connected to ongoing projects at Climate AI Nordics, such as efforts to design safer solar panel materials and improve air pollution monitoring."
 ---
 
-**
-
 **Authors:** Sigrid Passano Hellan, Christopher G. Lucas and Nigel H. Goddard.
 
 **Paper:** [arxiv.org/abs/2306.04343](https://arxiv.org/abs/2306.04343), (publication forthcoming in Springer Lecture Notes in Computer Science as part of the proceedings for the 19th Learning and Intelligent Optimization Conference, LION19).
