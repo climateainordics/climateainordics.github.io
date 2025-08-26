@@ -1,6 +1,6 @@
 ---
 title: "Featured member, August 2025: Miki Verma"
-summary: "Miki is the Lead Data Scientist at Rewiring America, the leading U.S. nonprofit dedicated to the electrification of American homes. He develops data-driven tools, research, policy, and narratives to help facilitate households' transition from fossil-fuel-powered to efficient electric systems. His recent work includes leading the development of the Residential Electrification Model, a free API that predicts bill savings, emissions reductions, and energy impacts of electrification upgrades at any U.S. address."
+summary: "Miki is the Lead Data Scientist at Rewiring America, the leading U.S. nonprofit dedicated to the electrification of American homes. She develops data-driven tools, research, policy, and narratives to help facilitate households' transition from fossil-fuel-powered to efficient electric systems. Her recent work includes leading the development of the Residential Electrification Model, a free API that predicts bill savings, emissions reductions, and energy impacts of electrification upgrades at any U.S. address."
 people:
 - Miki Verma
 image: /images/people/miki-verma.jpg
