@@ -1,5 +1,5 @@
 ---
-title: "Featured paper: Bayesian Optimisation Against Climate Change: Applications and Benchmarks"
+title: "Featured paper: Bayesian optimisation against climate change: applications and benchmarks"
 people:
 - Sigrid Passano Hellan
 image: /images/posts/2025-08-25-bayesian-optimization-against-climate-change-1.png
