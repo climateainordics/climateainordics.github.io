@@ -797,6 +797,12 @@ Biodiversity * Marine Ecology * NLP * Computer Vision * Soundscape Analysis * Ma
 
 </div>
 
+<div class="content" markdown="1" data-tags="Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI,Machine Learning,Deep Learning">
+<span title="I am a data scientist working in residential building decarbonization at an American non-profit, currently living in Göteborg.  Data ScientistRewiring America."><strong>Miki Verma, Data Scientist, Rewiring America</strong></span>
+<br />
+Biodiversity * Urban Planning * Sustainable Transport * Sustainable Cities * Efficient or Sustainable AI * Machine Learning * Deep Learning * [Research group](https://rewiringamerica.org) * [Publications (Scholar)](https://scholar.google.de/citations?user=-EifKdUAAAAJ)
+</div>
+
 <div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Urban Planning,Sustainable Cities,Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning,Sustainable Heating">
 <span title="With a background in theoretical physics and machine learning, I work as an analytics engineer at Aira, a Swedish company dedicated to replacing fossil-fueled heating systems in homes across Europe with heat pumps.  In Aira’s central data and optimization team, I work at the intersection of data engineering and data science, contributing to both infrastructure and analytical solutions. Our team develops and applies machine learning models to optimize heat pump performance and support business operations.  In 2021, I collaborated with SMHI on a project to digitize historical handwritten weather journals using a deep neural network. SMHI’s Ashwin Mohanan, who was also involved in this project, will be attending the conference as well. AiraAira."><strong>Valter Fallenius, Aira, Aira</strong></span>
 <br />
