@@ -9,18 +9,18 @@ previous_newsletter: 2025-06-25
 body{font-family: arial, sans-serif;} img{ float: right; width: 8em; margin: 0.4em;} p{margin: .6em 0.2em .6em 0.2em;} h1{margin: .6em 0.2em .6em 0.2em;} h2{margin: .6em 0.2em .6em 0.2em;} h3{margin: .6em 0.2em .6em 0.2em;} h4{margin: .6em 0.2em .6em 0.2em;}
 </style>
 
-Welcome to the *Climate AI Nordics* Newsletter {{ "now" | date: "%B %Y" }}.
+Welcome to the {{ "now" | date: "%B" }} edition of the Climate AI Nordics Newsletter!
 
-Since our launch in October 2024, the Climate AI Nordics network has grown to include 
+Since launching in October 2024, our community has grown to 
 {% include people_from_form_count_number_only_nordics.md %}
-members across the Nordic region, along with
+members across the Nordic region and 
 {% include people_from_form_count_number_outside_nordics.md %} 
-international affiliates who contribute to our shared interests. The network brings together researchers and practitioners working at the interface of artificial intelligence and climate challenges, including mitigation, adaptation, and monitoring.
+international affiliates. Together, we connect researchers and practitioners working at the intersection of artificial intelligence and climate action—spanning mitigation, adaptation, and environmental monitoring.
 
-If you know colleagues working in this space—across academia, public agencies, or industry—please let them know about Climate AI Nordics.
-👉 [climateainordics.com/join](https://climateainordics.com/join)
+If you know colleagues in academia, public agencies, or industry who share these interests, invite them to join us at
+👉 [climateainordics.com/join](https://climateainordics.com/join).
 
-In this issue, we share updates on events, collaborations, events, and job openings in the Nordic AI-climate community. Among other things, you’ll find a summary of a recent survey paper on Bayesian optimisation for tackling climate change, and the upcoming Earth observation event SWEO2025 in Stockholm.
+This month’s issue features community updates, collaborations, and opportunities—including a spotlight on a new survey of Bayesian optimisation for climate challenges and details about the SWEO2025 Earth observation event in Stockholm.
 
 {% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}
 {% capture previous_newsletter_time %}{{ page.previous_newsletter | date: '%s' }}{% endcapture %}
