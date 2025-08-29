@@ -20,7 +20,7 @@ international affiliates who contribute to our shared interests. The network bri
 If you know colleagues working in this space—across academia, public agencies, or industry—please let them know about Climate AI Nordics.
 👉 [climateainordics.com/join](https://climateainordics.com/join)
 
-In this issue, we share updates from our first nine months, including webinars, collaborations, and events. You’ll find a recent paper on neural networks for modeling atmospheric clusters, news from the newly launched TreeSense research center in Copenhagen, and a new section on job openings across the Nordic AI-climate community. As always, you can share your own work, events, or opportunities with us to include in future newsletters.
+In this issue, we share updates on events, collaborations, events, and job openings in the Nordic AI-climate community. Among other things, you’ll find a summary of a recent survey paper on Bayesian optimisation for tackling climate change, and the upcoming Earth observation event SWEO2025 in Stockholm.
 
 {% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}
 {% capture previous_newsletter_time %}{{ page.previous_newsletter | date: '%s' }}{% endcapture %}
