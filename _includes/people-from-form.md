@@ -1199,3 +1199,15 @@ Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Obs
 <br />
 AutoML * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Soundscape Analysis * Sustainable Cities * Sustainable Energy * Sustainable Production * Sustainable Transport * Urban Planning * Weather Forecasting * [More info (researcher profile)](https://orcid.org/0000-0003-4487-7755) * [Research group](https://orcid.org/0000-0003-4487-7755) * [Publications (Scholar)](https://scholar.google.com/citations?user=Fb7CYj0AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4487-7755)
 </div>
+
+<div class="content" markdown="1" data-tags="Computer Vision,Earth Observation,Machine Learning">
+<span title="I am a PhD student in national technical university of Athens and agronomist . ResearcherAgronomist phd candidate."><strong>Petros Stratis, Researcher, Agronomist phd candidate</strong></span>
+<br />
+Computer Vision * Earth Observation * Machine Learning
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events">
+<span title="Researcher at Deltares and external PhD candidate at Delft University of Technology. ResearcherDeltares."><strong>Maarten Pronk, Researcher, Deltares</strong></span>
+<br />
+Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * [More info (researcher profile)](https://www.evetion.nl/) * [Research group](https://www.deltares.nl/en) * [ORCID](https://orcid.org/0000-0001-8758-3939) * [BlueSky](https://bsky.app/profile/evetion.bsky.social)
+</div>
