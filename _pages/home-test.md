@@ -18,7 +18,6 @@ excerpt: "AI for Climate action across the Nordics"
   :root{ --cai-bg:#0b1020; --cai-card:#0f172a; --cai-muted:#a3a3a3; --cai-dark:#e5e7eb; }
 }
 .page{
-  max-width:1100px; margin:0 auto; padding:0 1.25rem 4rem;
   font-size:1.05rem;
 }
 .hero{
@@ -40,7 +39,6 @@ excerpt: "AI for Climate action across the Nordics"
 .hero .btn--ghost{ background:transparent; border:2px solid rgba(255,255,255,.9); color:#fff; }
 
 .section {
-  max-width: 1100px;   /* same as .page */
   margin: 2rem auto;   /* center it */
   padding: 0 1rem;     /* breathing room */
 }
@@ -95,27 +93,6 @@ excerpt: "AI for Climate action across the Nordics"
 .readmore:hover, .card__title a:hover{
   text-decoration:underline;
 }
-  .page{
-    display: grid;
-    grid-template-columns: 260px 1fr;   /* ← sidebar width, then content */
-    gap: 2rem;
-  }
-  /* Put the existing sidebar in the first column */
-  .sidebar, .page__sidebar{ grid-column: 1; }
-
-  /* Put all main content in the second column */
-  .page__content, .initial-content, .archive, .main, .page .page__inner{
-    grid-column: 2;
-    margin: 0 !important;      /* remove theme’s push/center */
-    max-width: none !important; /* let the grid manage width */
-  }
-
-  /* Sections should not re-center themselves */
-  .section{
-    margin: 2rem 0 0 !important;
-    padding: 0 1rem;           /* small gutter inside the content column */
-    max-width: none !important;
-  }
 
 @media (prefers-color-scheme: dark){
     .card {
@@ -136,10 +113,11 @@ excerpt: "AI for Climate action across the Nordics"
   <section class="hero" role="banner" aria-label="Climate AI Nordics">
     <div class="inner">
       <span class="kicker">Climate AI Nordics</span>
-      <h1>AI powering climate action across the Nordic region</h1>
+      <h1>Supporting AI climate action across the Nordic region</h1>
       <p>
-        We are a network of researchers using AI to accelerate
-        mitigation and adaptation — from biodiversity monitoring to resilient cities and nature-based solutions.
+        We are a network of researchers developing AI to accelerate
+        mitigation and adaptation — from biodiversity monitoring to
+        resilient cities and nature-based solutions.
       </p>
       <div class="cta">
         <a class="btn" href="/join/">Join the network</a>
