@@ -1211,3 +1211,9 @@ Computer Vision * Earth Observation * Machine Learning
 <br />
 Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * [More info (researcher profile)](https://www.evetion.nl/) * [Research group](https://www.deltares.nl/en) * [ORCID](https://orcid.org/0000-0001-8758-3939) * [BlueSky](https://bsky.app/profile/evetion.bsky.social)
 </div>
+
+<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Climate Modeling,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,Marine Ecology,NLP">
+<span title="StudentKTH, SSE."><strong>Bennet M, Student, KTH, SSE</strong></span>
+<br />
+AutoML * Bayesian Optimisation * Climate Modeling * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Marine Ecology * NLP
+</div>
