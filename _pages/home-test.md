@@ -96,14 +96,13 @@ excerpt: "AI for Climate action across the Nordics"
   text-decoration:underline;
 }
 @media (prefers-color-scheme: dark){
-  .card{ background:#1e293b; color:#f1f5f9; }
-  .card__title{ color:#f8fafc; }
-  .card__meta, .lede{ color:#cbd5e1; }
-}
-/* Fix homepage offset while keeping sidebar visible */
-.page, .initial-content, .page__content {
-  margin-left: 0 !important;   /* reset the push */
-  max-width: 1100px;           /* keep centered width */
+    .card {
+      background: #1e293b;       /* slate blue */
+      color: #f1f5f9;
+      border: 1px solid rgba(255,255,255,.05);
+    }
+    .card__title { color: #f9fafb; }
+    .card__meta, .lede { color: #cbd5e1; }
 }
 </style>
 
