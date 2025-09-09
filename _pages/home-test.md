@@ -22,7 +22,7 @@ excerpt: "AI for Climate action across the Nordics"
   font-size:1.05rem;
 }
 .hero{
-  position:relative; margin:-1rem 0 2rem; border-radius:18px; overflow:hidden;
+  position:relative; margin: 0 0 2rem; border-radius:18px; overflow:hidden;
   background:linear-gradient(180deg, rgba(0,0,0,.35), rgba(0,0,0,.55)),
              url(/assets/images/hero.jpg) center/cover no-repeat;
   min-height:360px; color:#fff; display:flex; align-items:center;
