@@ -55,6 +55,7 @@ excerpt: "AI for Climate action across the Nordics"
   border-radius:14px;
   border:1px solid rgba(0,0,0,.08);
   box-shadow:0 2px 6px rgba(0,0,0,.05);
+  overflow:hidden;                 /* clip child corners */
 }
 .card__meta{ color:#475569; }   /* slate gray */
 .lede{ color:#334155; }
