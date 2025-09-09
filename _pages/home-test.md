@@ -4,7 +4,6 @@ title: ""
 excerpt: "AI for Climate action across the Nordics"
 ---
 
-<!-- -------------------------  PAGE STYLES  ------------------------- -->
 <style>
 :root{
   --cai-primary:#007b83;
@@ -39,10 +38,6 @@ excerpt: "AI for Climate action across the Nordics"
 .hero .btn:hover{ transform:translateY(-2px) }
 .hero .btn--ghost{ background:transparent; border:2px solid rgba(255,255,255,.9); color:#fff; }
 
-.section {
-  margin: 0 0;
-  padding: 0 0;
-}
 .section h2{ font-size:1.5rem; margin-bottom:.75rem }
 
 .grid{ display:grid; gap:1rem }
@@ -97,19 +92,18 @@ excerpt: "AI for Climate action across the Nordics"
 }
 
 @media (prefers-color-scheme: dark){
-    .card {
-      background: #1e293b;       /* slate blue */
-      color: #f1f5f9;
-      border: 1px solid rgba(255,255,255,.05);
-    }
-    a, .readmore, .card__title a { color: #22d3ee; }
-    a:hover, .readmore:hover, .card__title a:hover { color: #67e8f9; }
-    .card__meta, .lede { color: #cbd5e1; }
+.card {
+    background: #1e293b;       /* slate blue */
+    color: #f1f5f9;
+    border: 1px solid rgba(255,255,255,.05);
+}
+a, .readmore, .card__title a { color: #22d3ee; }
+a:hover, .readmore:hover, .card__title a:hover { color: #67e8f9; }
+.card__meta, .lede { color: #cbd5e1; }
 }
 
 </style>
 
-<div class="page">
 
   <!-- -------------------------  HERO  ------------------------- -->
   <section class="hero" role="banner" aria-label="Climate AI Nordics">
@@ -234,12 +228,6 @@ excerpt: "AI for Climate action across the Nordics"
   <!-- -------------------------  SOCIALS / PARTNERS / CTA  ------------------------- -->
   <section class="section">
     <div class="divider"></div>
-    <div class="strip" aria-label="Follow and partners">
-      <strong>Follow:</strong>
-      <a href="https://bsky.app/profile/climateainordics.bsky.social">Bluesky</a> ·
-      <a href="https://github.com/climate-ai-nordics">GitHub</a> ·
-      <a href="/join/">Email list</a>
-    </div>
     {% if site.data.partners %}
       <div class="strip" style="opacity:.9">
         <strong>Partners:</strong>
@@ -254,5 +242,4 @@ excerpt: "AI for Climate action across the Nordics"
     </div>
   </section>
 
-</div>
 
