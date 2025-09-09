@@ -96,6 +96,11 @@ excerpt: "AI for Climate action across the Nordics"
   .card__title{ color:#f8fafc; }
   .card__meta, .lede{ color:#cbd5e1; }
 }
+/* Fix homepage offset while keeping sidebar visible */
+.page, .initial-content, .page__content {
+  margin-left: 0 !important;   /* reset the push */
+  max-width: 1100px;           /* keep centered width */
+}
 </style>
 
 <div class="page">
