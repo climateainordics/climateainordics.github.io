@@ -41,7 +41,6 @@ excerpt: "AI for Climate action across the Nordics"
 
 .section{ margin:2.2rem 0 0 }
 .section h2{ font-size:1.5rem; margin-bottom:.75rem }
-.lede{ color:var(--cai-muted) }
 
 .grid{ display:grid; gap:1rem }
 .grid-3{ grid-template-columns:repeat(3, minmax(0,1fr)) }
@@ -49,17 +48,18 @@ excerpt: "AI for Climate action across the Nordics"
 @media (max-width: 860px){ .grid-3, .grid-2{ grid-template-columns:1fr } }
 
 .card{
-  background:var(--cai-card); border-radius:14px; overflow:hidden;
-  border:1px solid rgba(0,0,0,.06);
+  background:#ffffff;          /* pure white cards */
+  color:#0f172a;               /* dark text */
+  border-radius:14px;
+  border:1px solid rgba(0,0,0,.08);
+  box-shadow:0 2px 6px rgba(0,0,0,.05);
 }
+.card__meta{ color:#475569; }   /* slate gray */
+.lede{ color:#334155; }
 .card__body{ padding:1rem 1rem 1.1rem }
-.card__title{ margin:.25rem 0 .35rem; font-weight:800; font-size:1.05rem }
-.card__meta{ color:var(--cai-muted); font-size:.9rem }
 .card__img{ width:100%; aspect-ratio:16/9; object-fit:cover; background:#e5e7eb; }
 .tags{ margin-top:.25rem; font-size:.85rem; color:var(--cai-muted) }
-.readmore{ display:inline-block; margin-top:.6rem; font-weight:700; color:var(--cai-primary) }
 
-.kicker{ font-size:.85rem; text-transform:uppercase; letter-spacing:.1em; color:var(--cai-accent); font-weight:800 }
 .divider{ height:1px; background:rgba(0,0,0,.08); margin:1.25rem 0 }
 
 .badges{ display:flex; gap:.5rem; flex-wrap:wrap; margin-top:.5rem }
@@ -81,6 +81,21 @@ excerpt: "AI for Climate action across the Nordics"
   display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between;
 }
 .cta-banner a{ color:#fff; font-weight:800; text-decoration:underline }
+.kicker{
+  color:#0ea5e9;   /* bright cyan accent */
+}
+.readmore, .card__title a{
+  color:#007b83;   /* your brand teal */
+  text-decoration:none;
+}
+.readmore:hover, .card__title a:hover{
+  text-decoration:underline;
+}
+@media (prefers-color-scheme: dark){
+  .card{ background:#1e293b; color:#f1f5f9; }
+  .card__title{ color:#f8fafc; }
+  .card__meta, .lede{ color:#cbd5e1; }
+}
 </style>
 
 <div class="page">
