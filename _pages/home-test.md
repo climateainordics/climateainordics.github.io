@@ -21,34 +21,13 @@ excerpt: "AI for Climate action across the Nordics"
   max-width:1100px; margin:0 auto; padding:0 1.25rem 4rem;
   font-size:1.05rem;
 }
-.hero {
-  position: relative;
-  margin: 0 0 2rem;
-  border-radius: 18px;
-  overflow: hidden;
-  height: 360px;
+.hero{
+  position:relative; margin: 0 0 2rem; border-radius:18px; overflow:hidden;
+  background:linear-gradient(180deg, rgba(0,0,0,.35), rgba(0,0,0,.55)),
+             url(/images/backgrounds/hero.png) center/cover no-repeat;
+  min-height:360px; color:#fff; display:flex; align-items:center;
 }
-
-.hero::before {
-  content: "";
-  position: absolute;
-  top: 0; left: 0; right: 0; bottom: 0;
-  background: url('/assets/images/hero.jpg') center/cover no-repeat;
-  animation: kenburns 20s ease-in-out infinite alternate;
-  transform-origin: center;
-  z-index: 0;
-}
-
-@keyframes kenburns {
-  0%   { transform: scale(1) translate(0,0); }
-  100% { transform: scale(1.1) translate(-2%, -2%); }
-}
-
-.hero .inner {
-  position: relative;
-  z-index: 1;
-  color: #fff;
-}
+.hero .inner{ padding:3.5rem 2rem; max-width:900px; }
 .hero h1{ font-size:2.2rem; margin:.2rem 0 .6rem; line-height:1.1; }
 .hero p{ font-size:1.15rem; max-width:760px; opacity:.95; }
 .hero .cta{ margin-top:1.1rem; display:flex; gap:.75rem; flex-wrap:wrap; }
@@ -60,7 +39,11 @@ excerpt: "AI for Climate action across the Nordics"
 .hero .btn:hover{ transform:translateY(-2px) }
 .hero .btn--ghost{ background:transparent; border:2px solid rgba(255,255,255,.9); color:#fff; }
 
-.section{ margin:2.2rem 0 0 }
+.section {
+  max-width: 1100px;   /* same as .page */
+  margin: 2rem auto;   /* center it */
+  padding: 0 1rem;     /* breathing room */
+}
 .section h2{ font-size:1.5rem; margin-bottom:.75rem }
 
 .grid{ display:grid; gap:1rem }
