@@ -95,15 +95,39 @@ excerpt: "AI for Climate action across the Nordics"
 .readmore:hover, .card__title a:hover{
   text-decoration:underline;
 }
+  .page{
+    display: grid;
+    grid-template-columns: 260px 1fr;   /* ← sidebar width, then content */
+    gap: 2rem;
+  }
+  /* Put the existing sidebar in the first column */
+  .sidebar, .page__sidebar{ grid-column: 1; }
+
+  /* Put all main content in the second column */
+  .page__content, .initial-content, .archive, .main, .page .page__inner{
+    grid-column: 2;
+    margin: 0 !important;      /* remove theme’s push/center */
+    max-width: none !important; /* let the grid manage width */
+  }
+
+  /* Sections should not re-center themselves */
+  .section{
+    margin: 2rem 0 0 !important;
+    padding: 0 1rem;           /* small gutter inside the content column */
+    max-width: none !important;
+  }
+
 @media (prefers-color-scheme: dark){
     .card {
       background: #1e293b;       /* slate blue */
       color: #f1f5f9;
       border: 1px solid rgba(255,255,255,.05);
     }
-    .card__title { color: #f9fafb; }
+    a, .readmore, .card__title a { color: #22d3ee; }
+    a:hover, .readmore:hover, .card__title a:hover { color: #67e8f9; }
     .card__meta, .lede { color: #cbd5e1; }
 }
+
 </style>
 
 <div class="page">
