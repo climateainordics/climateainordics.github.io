@@ -1,6 +1,6 @@
 ---
 permalink: /test/
-title: "Climate AI Nordics"
+title: ""
 excerpt: "AI for Climate action across the Nordics"
 ---
 
