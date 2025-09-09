@@ -40,8 +40,8 @@ excerpt: "AI for Climate action across the Nordics"
 .hero .btn--ghost{ background:transparent; border:2px solid rgba(255,255,255,.9); color:#fff; }
 
 .section {
-  margin: 2rem 0;   /* center it */
-  padding: 0 1rem;     /* breathing room */
+  margin: 0 0;
+  padding: 0 0;
 }
 .section h2{ font-size:1.5rem; margin-bottom:.75rem }
 
