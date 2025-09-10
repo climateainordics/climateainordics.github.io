@@ -16,9 +16,6 @@ excerpt: "AI for Climate action across the Nordics"
 @media (prefers-color-scheme: dark){
   :root{ --cai-bg:#0b1020; --cai-card:#0f172a; --cai-muted:#a3a3a3; --cai-dark:#e5e7eb; }
 }
-.page{
-  font-size:1.05rem;
-}
 .hero{
   position:relative; margin: 0 0 2rem; border-radius:18px; overflow:hidden;
   /*background:linear-gradient(180deg, rgba(0,0,0,.35), rgba(0,0,0,.55)),
