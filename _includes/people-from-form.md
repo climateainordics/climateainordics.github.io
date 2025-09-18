@@ -5,6 +5,12 @@
 Biodiversity * Earth Observation * Extreme Weather Events * Machine Learning * Sustainable Cities * Urban Planning * Forest * AI * Uav * Remote Sensing * GIS * [More info (researcher profile)](https://lnu.se/personal/bassam.saeed/) * [Research group](https://forestedge.lnu.se/#:~:text=ForestEDGE%20at%20Linnaeus%20University%20is%20a%20mobile%20and,for%20research%20on%20resilient%20forests%20and%20sustainable%20forestry.) * [Publications (Scholar)](https://scholar.google.com/citations?user=rTeZ9BIAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-8566-6244) * [BlueSky](https://bsky.app/profile/b963.bsky.social)
 </div>
 
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Efficient or Sustainable AI,Machine Learning,Soundscape Analysis,Sustainable Cities,Sustainable Energy,Sustainable Production">
+<span title="I am interested in looking into the effects of human intervention (Both direct and indirect) on biodiversity in a more causal way using causal inference.  PhD, ResearcherUppsala University."><strong>Vun Wen Jie, PhD, Researcher, Uppsala University</strong></span>
+<br />
+Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Efficient or Sustainable AI * Machine Learning * Soundscape Analysis * Sustainable Cities * Sustainable Energy * Sustainable Production * [More info (researcher profile)](https://www.linkedin.com/in/vun-wen-jie-4256a711a/) * [Research group](https://www.biodiversity.se/)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
