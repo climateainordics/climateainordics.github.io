@@ -32,10 +32,10 @@ We're a network of researchers who work on problems related to tackling climate 
 
 {{ p.summary }}
 
-[Read more about {{ p.people | first }}!]({{ p.url }})
+[Read more about {{ p.people | first }}]({{ p.url }})
 {%- endfor %}
 
-[List all monthly featured members!](/featured-member/)
+[List all monthly featured members](/featured-member/)
 
 
 {% include people-from-form-count.md %}
