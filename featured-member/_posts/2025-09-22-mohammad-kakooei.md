@@ -6,6 +6,7 @@ people:
 image: /images/people/mohammad-kakooei.jpg
 ---
 
+
 **Hi Mohammad! Tell us about yourself and your work.**
 
 I am a researcher at the AI and Global Development Lab with a background in Electronics and Computer Engineering, where I specialized in Machine Learning (ML). Over time, I defined my research path by applying ML to Earth Observation (EO), using AI and satellite data to address societal and environmental challenges such as poverty estimation, disaster management, large-scale time-series analysis, and urbanization studies.
@@ -23,4 +24,5 @@ I am eager to collaborate on projects that integrate deep learning, EO, and soci
 Please feel free to reach out through my email and LinkedIn.
 
 Email: [mohammad.kakooei@liu.se](mailto:miki@mohammad.kakooei@liu.se)
+
 LinkedIn: [linkedin.com/in/mohammad-kakooei-33118211a](linkedin.com/in/mohammad-kakooei-33118211a)
