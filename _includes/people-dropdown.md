@@ -6,7 +6,11 @@
 <option value="Atmospheric Science">Atmospheric Science (1)</option>
 <option value="AutoML">AutoML (6)</option>
 <option value="Bayesian Optimisation">Bayesian Optimisation (7)</option>
+<<<<<<< HEAD
 <option value="Biodiversity">Biodiversity (61)</option>
+=======
+<option value="Biodiversity">Biodiversity (60)</option>
+>>>>>>> refs/remotes/origin/master
 <option value="Causal AI">Causal AI (1)</option>
 <option value="Climate Impacts">Climate Impacts (17)</option>
 <option value="Climate Modeling">Climate Modeling (64)</option>
@@ -15,7 +19,11 @@
 <option value="Deep Learning">Deep Learning (100)</option>
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
+<<<<<<< HEAD
 <option value="Earth Observation">Earth Observation (80)</option>
+=======
+<option value="Earth Observation">Earth Observation (79)</option>
+>>>>>>> refs/remotes/origin/master
 <option value="Earth System Modeling">Earth System Modeling (7)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
@@ -33,7 +41,11 @@
 <option value="Impact on Climate Change on Health">Impact on Climate Change on Health (1)</option>
 <option value="Knowledge Graphs">Knowledge Graphs (1)</option>
 <option value="Land Use Change Modelling">Land Use Change Modelling (1)</option>
+<<<<<<< HEAD
 <option value="Machine Learning">Machine Learning (119)</option>
+=======
+<option value="Machine Learning">Machine Learning (118)</option>
+>>>>>>> refs/remotes/origin/master
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (19)</option>
 <option value="Materials">Materials (1)</option>
@@ -46,12 +58,21 @@
 <option value="One Health">One Health (1)</option>
 <option value="Public Health">Public Health (1)</option>
 <option value="Remote Sensing">Remote Sensing (2)</option>
+<<<<<<< HEAD
 <option value="Soundscape Analysis">Soundscape Analysis (21)</option>
 <option value="Spatial Analysis">Spatial Analysis (1)</option>
 <option value="Species Distribution Modelling">Species Distribution Modelling (1)</option>
 <option value="Stochastic Modelling and Distributions">Stochastic Modelling and Distributions (1)</option>
 <option value="Sustainable Cities">Sustainable Cities (48)</option>
 <option value="Sustainable Energy">Sustainable Energy (9)</option>
+=======
+<option value="Soundscape Analysis">Soundscape Analysis (20)</option>
+<option value="Spatial Analysis">Spatial Analysis (1)</option>
+<option value="Species Distribution Modelling">Species Distribution Modelling (1)</option>
+<option value="Stochastic Modelling and Distributions">Stochastic Modelling and Distributions (1)</option>
+<option value="Sustainable Cities">Sustainable Cities (46)</option>
+<option value="Sustainable Energy">Sustainable Energy (8)</option>
+>>>>>>> refs/remotes/origin/master
 <option value="Sustainable Heating">Sustainable Heating (1)</option>
 <option value="Sustainable Production">Sustainable Production (27)</option>
 <option value="Sustainable Space Exploration and Research">Sustainable Space Exploration and Research (1)</option>
