@@ -28,11 +28,11 @@ We're a network of researchers who work on problems related to tackling climate 
 {% for p in site.categories.featured-member limit: 1 %}
 {% if p.image %} ![]({{ p.image }}){% endif %}
 
-{{ p.people | first }} <br /> 
+**{{ p.people | first }}** 
 
 {{ p.summary }}
 
-[(Read more)]({{ p.url }})
+[(Read more about {{ p.people | first }})]({{ p.url }})
 {%- endfor %}
 
 [List all monthly featured members!](/featured-member/)
