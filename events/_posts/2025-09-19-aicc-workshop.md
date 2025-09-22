@@ -1,5 +1,5 @@
 ---
-title: "AICC - Workshop on AI for Climate and Conservation at EurIPS 2025"
+title: "Workshop on AI for Climate and Conservation (AICC) at EurIPS 2025"
 summary: "Climate AI Nordics is excited to announce that the [Workshop on AI for Climate and Conservation (AICC)](https://sites.google.com/g.harvard.edu/aicceurips) has been accepted for
 [EurIPS 2025](https://eurips.cc/workshops/)! The AICC workshop will take place in Copenhagen, Denmark, Dec 6th or 7th (TBD; workshops are co-located with EurIPS)!"
 people:
