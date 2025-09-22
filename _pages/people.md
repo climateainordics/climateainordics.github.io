@@ -25,7 +25,6 @@ We're a network of researchers who work on problems related to tackling climate 
 
 ## Current featured member
 
-<style>img{float: right; width: 30%;}</style>
 {% for p in site.categories.people limit: 1 %}
 {% if p.image %} ![]({{ p.image }}){% endif %}
 
@@ -47,16 +46,3 @@ We're a network of researchers who work on problems related to tackling climate 
 
 {% include people-from-form.md %}
 
-<!--
-<span title=""><strong>Name, Affiliation</strong></span>
-<br />
-[More info (researcher profile)]() * [Publications (scholar)]() * [Research Group]() * [ORCID]()
-
-//-->
-
-<!--<img style="float: right; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/mogren.png" />//-->
-<!--<img style="float: right; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/pirinen.jpg" />//-->
-<!--<img style="float: right; width: 10em; margin-right: 2em; margin-bottom: 1em;" src="/images/people/listozec.jpg" />//-->
-
-<!--![](/images/people/mogren.png)//-->
-<!--![](/images/people/pirinen.jpg)//-->
