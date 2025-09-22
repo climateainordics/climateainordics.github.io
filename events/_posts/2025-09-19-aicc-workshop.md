@@ -10,7 +10,7 @@ people:
 - Lucia Gordon
 - Aleksis Pirinen
 event_date: "2025-12-06 or 2025-12-07 (TBD)"
-<!--event_time: "09:00-17:00"-->
+#event_time: "09:00-17:00"
 event_location: "Bella Center, Copenhagen"
 image: /images/posts/aicc-image.png
 youtube: ""
