@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Efficient or Sustainable AI,Machine Learning,Soundscape Analysis,Sustainable Cities,Sustainable Energy,Sustainable Production">
-<span title="I am interested in looking into the effects of human intervention (Both direct and indirect) on biodiversity in a more causal way using causal inference.  PhD, ResearcherUppsala University."><strong>Vun Wen Jie, PhD, Researcher, Uppsala University</strong></span>
-<br />
-Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Efficient or Sustainable AI * Machine Learning * Soundscape Analysis * Sustainable Cities * Sustainable Energy * Sustainable Production * [More info (researcher profile)](https://www.linkedin.com/in/vun-wen-jie-4256a711a/) * [Research group](https://www.biodiversity.se/)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Impacts,Efficient or Sustainable AI,Sustainable Cities">
 <span title="I am a postdoc (soon to be assistant professor) in hybrid intelligence. I look at the intersection of AI and climate change in three ways 1) how AI image generation can can help with personalized climate change communication 2) how gpt powered tools can help the general public engage in dialogues on climate change and influence policy 3) how a hybrid intelligence approach (focusing on human augmentation) can reduce the carbon emissions in human-AI work flows. I recently received seed funding for a project entitled Climate-Accountable GenAI: Measuring and Mitigating the Carbon Footprint of GenAI Across Research, Policy, and Practice and recently attended the &quot;sustainable AI conference&quot; on AI for sustainability and sustainable AI . PhD, ResearcherCenter for Hybrid Intelligence, Aarhus University."><strong>Janet Rafner, PhD, Researcher, Center for Hybrid Intelligence, Aarhus University</strong></span>
 <br />
@@ -592,6 +586,12 @@ AutoML * Bayesian Optimisation * Climate Impacts * Climate Modeling * Deep Learn
 <span title="Environmental Remote Sensing. Post DocLinnaeus University."><strong>Basam Dahy, Post Doc, Linnaeus University</strong></span>
 <br />
 Biodiversity * Earth Observation * Extreme Weather Events * Machine Learning * Sustainable Cities * Urban Planning * Forest * AI * Uav * Remote Sensing * GIS * [More info (researcher profile)](https://lnu.se/personal/bassam.saeed/) * [Research group](https://forestedge.lnu.se/#:~:text=ForestEDGE%20at%20Linnaeus%20University%20is%20a%20mobile%20and,for%20research%20on%20resilient%20forests%20and%20sustainable%20forestry.) * [Publications (Scholar)](https://scholar.google.com/citations?user=rTeZ9BIAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-8566-6244) * [BlueSky](https://bsky.app/profile/b963.bsky.social)
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Efficient or Sustainable AI,Machine Learning,Soundscape Analysis,Sustainable Cities,Sustainable Energy,Sustainable Production">
+<span title="I am interested in looking into the effects of human intervention (Both direct and indirect) on biodiversity in a more causal way using causal inference.  PhD, ResearcherUppsala University."><strong>Vun Wen Jie, PhD, Researcher, Uppsala University</strong></span>
+<br />
+Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Efficient or Sustainable AI * Machine Learning * Soundscape Analysis * Sustainable Cities * Sustainable Energy * Sustainable Production * [More info (researcher profile)](https://www.linkedin.com/in/vun-wen-jie-4256a711a/) * [Research group](https://www.biodiversity.se/)
 </div>
 
 <div class="content" markdown="1" data-tags="">
