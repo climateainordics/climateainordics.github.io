@@ -5,6 +5,12 @@
 Climate Impacts * Efficient or Sustainable AI * Sustainable Cities * [More info (researcher profile)](https://pure.au.dk/portal/en/persons/janetrafner%40mgmt.au.dk) * [Research group](https://mgmt.au.dk/center-for-hybrid-intelligence) * [Publications (Scholar)](https://scholar.google.com/citations?user=MSi-Ww4AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9264-3334)
 </div>
 
+<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Earth Observation,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Sustainable Cities,Sustainable Transport,Urban Planning">
+<span title="I’m a Postdoc researcher at the Technical University of Denmark, where I’m currently working on a framework for finding optimal climate adaptation policies through a combination of reinforcement learning and agent-based simulation. This tool seeks to find dynamic links between flooding events, transport, health, and wellbeing and uncover how optimal climate adaptation policies can be discovered to maximize societal impacts. Previously, I obtained my PhD (summa cum laude) in Instituto Superior Técnico, Portugal, where I focused on understanding objective and subjective urban cycling safety and the relation between the two using a machine learning approach. Post DocTechnical University of Denmark."><strong>Miguel Costa, Post Doc, Technical University of Denmark</strong></span>
+<br />
+Computer Vision * Deep Learning * Earth Observation * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Sustainable Cities * Sustainable Transport * Urban Planning * [More info (researcher profile)](https://http://mncosta.github.io) * [Research group](https://mlsm.man.dtu.dk) * [Publications (Scholar)](https://scholar.google.com/citations?user=kiSlzroAAAAJ&amp;hl=en)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
