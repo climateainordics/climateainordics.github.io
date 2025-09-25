@@ -1242,3 +1242,9 @@ Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extrem
 <br />
 AutoML * Bayesian Optimisation * Climate Modeling * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Marine Ecology * NLP
 </div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Earth Observation,Machine Learning,Marine Ecology,Sustainable Production,Edna,Metagenomics,Bioinformatics,Food Microbiology">
+<span title="Master’s student at University of Skövde with a background in molecular biology and animal sciences. Focused on applying bioinformatics, eDNA, and metagenomics to biodiversity and sustainability challenges. StudentUniversity of Skövde."><strong>Hedieh Noeparast, Student, University of Skövde</strong></span>
+<br />
+Biodiversity * Climate Impacts * Earth Observation * Machine Learning * Marine Ecology * Sustainable Production * Edna * Metagenomics * Bioinformatics * Food Microbiology
+</div>
