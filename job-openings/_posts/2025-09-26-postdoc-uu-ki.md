@@ -18,5 +18,5 @@ Key tasks include:
 
 Applicants should hold a PhD in epidemiology, climate science, data science, or a related field, with strong quantitative skills, experience with large datasets/HPC, and a strong publication record.  
 
-Read more and apply via [LinkedIn](https://www.linkedin.com).  
+Read more and apply via [Uppsala University Jobs and vacancies](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=856792).  
 
