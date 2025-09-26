@@ -35,7 +35,5 @@ Strong writing skills, interdisciplinary collaboration, and enthusiasm for susta
 ### How to apply
 - Deadline: **1 November 2025 at 23:59 CET**  
 - Apply via [phd.nat.au.dk](https://phd.nat.au.dk/for-applicants/open-calls/november-2025/phd-in-remote-sensing-of-vegetation-structure-in-landscapes-under-transformative-change)  
-- When applying: choose the programme *Biology* and the project title *“PhD in Remote Sensing of Vegetation Structure in Landscapes under Transformative Change (PRESVSLY)”*.  
-- Funding source: select *Other Danish funds*.  
 
 The hired PhD student will be based in Aarhus, Denmark.  
