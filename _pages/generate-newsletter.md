@@ -17,11 +17,11 @@ members across the Nordic region and
 international affiliates. Together, we connect researchers and practitioners working at the intersection of artificial intelligence and climate action—spanning mitigation, adaptation, and environmental monitoring.
 
 If you know colleagues in academia, public agencies, or industry who share these interests, invite them to join us at
-👉 [climateainordics.com/join](https://climateainordics.com/join).
+[climateainordics.com/join](https://climateainordics.com/join).
 
 This month’s issue features community updates, collaborations, and opportunities—including a spotlight on a new survey of Bayesian optimisation for climate challenges and details about the upcoming SWEO2025 Earth observation event in Stockholm.
 
-{% assign previous_newsletter = site.categories['newsletter'] | sort: 'date' | last | date: "%Y-%m-%d" %}
+{% assign previous_newsletter = site.categories['newsletter'] | sort: 'date' | map: 'date' | last | date: "%Y-%m-%d" %}
 
 Previous newsletter came out: {{ previous_newsletter }}
 
