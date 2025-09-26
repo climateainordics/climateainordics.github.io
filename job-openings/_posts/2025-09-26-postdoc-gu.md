@@ -14,5 +14,5 @@ The position is announced by [Martin Hultman](https://www.gu.se/en/about/find-st
 Research will examine the social interplay between humans and AI systems in relation to sustainability challenges, energy transitions, and societal structures.  
 The doctoral program provides interdisciplinary collaboration opportunities across environmental humanities, science & technology studies, and AI ethics.  
 
-Learn more via the [web103.rachmee.com posting](https://web103.rachmee.com/ext/1005/1035/job?site=6lang=SEse&validate=3038fc151c1184a7d0a89178da5job_id=38292).
+Learn more via the [web103.rachmee.com posting](https://web103.reachmee.com/ext/I005/1035/job?site=6&lang=SE&validator=3038fcf1516ea1184a6da70a891f87da&job_id=38229).
 
