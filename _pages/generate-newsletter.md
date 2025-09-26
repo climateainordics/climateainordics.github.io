@@ -2,8 +2,11 @@
 title: "Climate AI Nordics Newsletter"
 excerpt: "Climate AI Nordics Newsletter"
 permalink: /generate-newsletter/
-previous_newsletter: {{ site.categories['newsletter'] | sort: 'date' | last | date: "%B %d, %Y" }}
 ---
+
+{% assign previous_newsletter = site.categories['newsletter'] | sort: 'date' | last | date: "%Y-%m-%d" %}
+
+{{ previous_newsletter }}
 
 <style>
 body{font-family: arial, sans-serif;} img{ float: right; width: 8em; margin: 0.4em;} p{margin: .6em 0.2em .6em 0.2em;} h1{margin: .6em 0.2em .6em 0.2em;} h2{margin: .6em 0.2em .6em 0.2em;} h3{margin: .6em 0.2em .6em 0.2em;} h4{margin: .6em 0.2em .6em 0.2em;}
@@ -23,7 +26,7 @@ If you know colleagues in academia, public agencies, or industry who share these
 This month’s issue features community updates, collaborations, and opportunities—including a spotlight on a new survey of Bayesian optimisation for climate challenges and details about the upcoming SWEO2025 Earth observation event in Stockholm.
 
 {% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}
-{% capture previous_newsletter_time %}{{ page.previous_newsletter | date: '%s' }}{% endcapture %}
+{% capture previous_newsletter_time %}{{ previous_newsletter | date: '%s' }}{% endcapture %}
 {% capture newsletter_start_time %}{{ previous_newsletter_time | plus: 86400 }}{% endcapture %}
 
 {% assign items_listed = false %}
