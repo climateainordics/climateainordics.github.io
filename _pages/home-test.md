@@ -108,7 +108,7 @@ a:hover, .readmore:hover, .card__title a:hover { color: #67e8f9; }
       <span class="kicker">Climate AI Nordics</span>
       <h1>Supporting AI climate action across the Nordic region</h1>
       <p>
-        We are a network of researchers developing AI to accelerate
+        We are a network of researchers developing AI to accelerate climate
         mitigation and adaptation — from biodiversity monitoring to
         resilient cities and nature-based solutions.
       </p>
@@ -136,7 +136,7 @@ a:hover, .readmore:hover, .card__title a:hover { color: #67e8f9; }
         <div class="card__body">
           <div class="kicker">Collaboration</div>
           <h3 class="card__title">Nordic network</h3>
-          <p class="lede">We connect labs and agencies to co-create open tools, datasets, and reproducible workflows.</p>
+          <p class="lede">We connect researchers, public sector, industry and policy-makers to co-create open tools, datasets, and reproducible workflows.</p>
         </div>
       </div>
       <div class="card">
