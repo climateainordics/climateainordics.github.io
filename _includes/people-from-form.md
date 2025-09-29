@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Climate Impacts,Efficient or Sustainable AI,Sustainable Cities">
-<span title="I am a postdoc (soon to be assistant professor) in hybrid intelligence. I look at the intersection of AI and climate change in three ways 1) how AI image generation can can help with personalized climate change communication 2) how gpt powered tools can help the general public engage in dialogues on climate change and influence policy 3) how a hybrid intelligence approach (focusing on human augmentation) can reduce the carbon emissions in human-AI work flows. I recently received seed funding for a project entitled Climate-Accountable GenAI: Measuring and Mitigating the Carbon Footprint of GenAI Across Research, Policy, and Practice and recently attended the &quot;sustainable AI conference&quot; on AI for sustainability and sustainable AI . PhD, ResearcherCenter for Hybrid Intelligence, Aarhus University."><strong>Janet Rafner, PhD, Researcher, Center for Hybrid Intelligence, Aarhus University</strong></span>
-<br />
-Climate Impacts * Efficient or Sustainable AI * Sustainable Cities * [More info (researcher profile)](https://pure.au.dk/portal/en/persons/janetrafner%40mgmt.au.dk) * [Research group](https://mgmt.au.dk/center-for-hybrid-intelligence) * [Publications (Scholar)](https://scholar.google.com/citations?user=MSi-Ww4AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9264-3334)
-</div>
-
 <div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Earth Observation,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Sustainable Cities,Sustainable Transport,Urban Planning">
 <span title="I’m a Postdoc researcher at the Technical University of Denmark, where I’m currently working on a framework for finding optimal climate adaptation policies through a combination of reinforcement learning and agent-based simulation. This tool seeks to find dynamic links between flooding events, transport, health, and wellbeing and uncover how optimal climate adaptation policies can be discovered to maximize societal impacts. Previously, I obtained my PhD (summa cum laude) in Instituto Superior Técnico, Portugal, where I focused on understanding objective and subjective urban cycling safety and the relation between the two using a machine learning approach. Post DocTechnical University of Denmark."><strong>Miguel Costa, Post Doc, Technical University of Denmark</strong></span>
 <br />
@@ -598,6 +592,12 @@ Biodiversity * Earth Observation * Extreme Weather Events * Machine Learning * S
 <span title="I am interested in looking into the effects of human intervention (Both direct and indirect) on biodiversity in a more causal way using causal inference.  PhD, ResearcherUppsala University."><strong>Vun Wen Jie, PhD, Researcher, Uppsala University</strong></span>
 <br />
 Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Efficient or Sustainable AI * Machine Learning * Soundscape Analysis * Sustainable Cities * Sustainable Energy * Sustainable Production * [More info (researcher profile)](https://www.linkedin.com/in/vun-wen-jie-4256a711a/) * [Research group](https://www.biodiversity.se/)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Efficient or Sustainable AI,Sustainable Cities">
+<span title="I am a postdoc (soon to be assistant professor) in hybrid intelligence. I look at the intersection of AI and climate change in three ways 1) how AI image generation can can help with personalized climate change communication 2) how gpt powered tools can help the general public engage in dialogues on climate change and influence policy 3) how a hybrid intelligence approach (focusing on human augmentation) can reduce the carbon emissions in human-AI work flows. I recently received seed funding for a project entitled Climate-Accountable GenAI: Measuring and Mitigating the Carbon Footprint of GenAI Across Research, Policy, and Practice and recently attended the &quot;sustainable AI conference&quot; on AI for sustainability and sustainable AI . PhD, ResearcherCenter for Hybrid Intelligence, Aarhus University."><strong>Janet Rafner, PhD, Researcher, Center for Hybrid Intelligence, Aarhus University</strong></span>
+<br />
+Climate Impacts * Efficient or Sustainable AI * Sustainable Cities * [More info (researcher profile)](https://pure.au.dk/portal/en/persons/janetrafner%40mgmt.au.dk) * [Research group](https://mgmt.au.dk/center-for-hybrid-intelligence) * [Publications (Scholar)](https://scholar.google.com/citations?user=MSi-Ww4AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9264-3334)
 </div>
 
 <div class="content" markdown="1" data-tags="">
