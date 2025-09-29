@@ -14,11 +14,11 @@ First, I will introduce FlowEO, a generative approach of Unsupervised Domain Ada
 Then, I will present “PANGAEA: A Global and Inclusive Benchmark for Geospatial Foundation Models“, a standardized evaluation protocol that covers a diverse set of datasets, dense prediction tasks, resolutions, sensor modalities, and temporalities. This benchmark includes comparison between geospatial foundation models but also with supervised baselines, namely U-Net and ViT, and highlights the strengths and weaknesses of GFMs. In addition, PANGAEA evaluates models’ accuracy in cases where labels are limited and questions the impact of multi-temporal data for GFMs."
 people:
 - Olof Mogren
-permalink: /events/2025-08-18-2025-09-11-generative-domain-adaptation-and-foundation-models
+permalink: /events/2025-09-29-2025-09-11-generative-domain-adaptation-and-foundation-models
 event_date: 2025-09-11
 event_time: "15:00"
 event_location: ""
-image: /images/posts/2025-08-18-2025-09-11-generative-domain-adaptation-and-foundation-models.jpg
+image: /images/posts/2025-09-29-2025-09-11-generative-domain-adaptation-and-foundation-models.jpg
 youtube: ""
 --- 
 Welcome to this week's Learning Machines seminar.
