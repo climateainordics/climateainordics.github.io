@@ -34,7 +34,7 @@ permalink: /events/
 ## {{ title }}
 {% if image %}<img src="{{ image }}" style="float: right; width: 25%;" />{% endif %}
 
-<span style="color:grey;">**Event date:** *{{event_date | date: '%Y-%m-%d'}} {{ event_time }}*</span>
+<span style="color:grey;">**Event date:** *{{event_date | date: '%Y-%m-%d'}}* {% unless event_time == blank %}*{{ event_time }}*{% endunless %}</span>
 
 {% if eventtimestamp < nowtime %}
 {% if youtube != "" %}
