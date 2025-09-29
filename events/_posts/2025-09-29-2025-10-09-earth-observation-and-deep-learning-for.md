@@ -1,0 +1,45 @@
+---
+title: "Earth observation and deep learning for urban applications"
+summary: "Webinar with Sebastian Hafner, RISE. 
+
+Urbanization is progressing at an unprecedented rate in many places around the world, making Earth observation (EO) a vital tool for monitoring its dynamics on a global scale. Modern satellite missions provide new opportunities for urban mapping and change detection (CD) through high-resolution imagery. At the same time, EO data analysis has advanced from traditional machine learning approaches to deep learning (DL), particularly Convolutional Neural Networks (ConvNets). Yet, current DL methods for urban mapping and CD face key challenges, including effectively integrating multi-modal EO data, reducing reliance on large labeled datasets, and improving transferability across geographic regions. This talk will present methods to address these challenges in urban mapping and CD, with applications such as multi-hazard building damage detection. It will also highlight the IDEAMAPS Data Ecosystem project, showing how its community-centric approach advances our understanding of urban deprivation and enables DL-based deprivation mapping."
+abstract: "Urbanization is progressing at an unprecedented rate in many places around the world, making Earth observation (EO) a vital tool for monitoring its dynamics on a global scale. Modern satellite missions provide new opportunities for urban mapping and change detection (CD) through high-resolution imagery. At the same time, EO data analysis has advanced from traditional machine learning approaches to deep learning (DL), particularly Convolutional Neural Networks (ConvNets). Yet, current DL methods for urban mapping and CD face key challenges, including effectively integrating multi-modal EO data, reducing reliance on large labeled datasets, and improving transferability across geographic regions. This talk will present methods to address these challenges in urban mapping and CD, with applications such as multi-hazard building damage detection. It will also highlight the IDEAMAPS Data Ecosystem project, showing how its community-centric approach advances our understanding of urban deprivation and enables DL-based deprivation mapping."
+people:
+- Olof Mogren
+permalink: /events/2025-09-29-2025-10-09-earth-observation-and-deep-learning-for
+event_date: 2025-10-09
+event_time: "15:00"
+event_location: ""
+image: /images/posts/2025-09-29-2025-10-09-earth-observation-and-deep-learning-for.jpg
+youtube: ""
+--- 
+Welcome to this week's Learning Machines seminar.
+
+This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
+
+**Title:** Earth observation and deep learning for urban applications
+
+**Speaker:** Sebastian Hafner, RISE
+
+**Abstract:** Urbanization is progressing at an unprecedented rate in many places around the world, making Earth observation (EO) a vital tool for monitoring its dynamics on a global scale. Modern satellite missions provide new opportunities for urban mapping and change detection (CD) through high-resolution imagery. At the same time, EO data analysis has advanced from traditional machine learning approaches to deep learning (DL), particularly Convolutional Neural Networks (ConvNets). Yet, current DL methods for urban mapping and CD face key challenges, including effectively integrating multi-modal EO data, reducing reliance on large labeled datasets, and improving transferability across geographic regions. This talk will present methods to address these challenges in urban mapping and CD, with applications such as multi-hazard building damage detection. It will also highlight the IDEAMAPS Data Ecosystem project, showing how its community-centric approach advances our understanding of urban deprivation and enables DL-based deprivation mapping.
+
+**About the speaker:** Sebastian Hafner is a Researcher at RISE Research Institutes of Sweden and an Affiliate at the University of Glasgow. His work focuses on urbanization and its challenges using Earth observation and data science, with an emphasis on deep learning. He previously worked as a Research Associate at the Urban Big Data Centre, University of Glasgow, developing methods to map deprivation in the Global South. Sebastian earned a PhD in Geoinformatics from KTH Royal Institute of Technology in 2024, where he studied deep learning for large-scale urban mapping and change detection. He holds a Master’s degree (2019) in Remote Sensing and Computer Science and a Bachelor’s degree (2017) in Geography from the University of Zurich.
+
+**Location:** This is an online seminar. Connect using Zoom.
+
+**Date:** 2025-10-09 15:00
+
+
+
+**Upcoming seminars:**
+
+* 2025-10-23: Nora Gourmelon, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+* 2025-11-06: Felix Koehler, TU Munich
+* 2025-11-20: Katarzyna Michalowska, SINTEF
+* 2025-11-27: Lena Stempfle, Chalmers University of Technology
+* All seminars are 15:00 CET.
+
+More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
+
+-- The Learning Machines Team
+
