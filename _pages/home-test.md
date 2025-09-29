@@ -128,7 +128,7 @@ a:hover, .readmore:hover, .card__title a:hover { color: #67e8f9; }
       <div class="card">
         <div class="card__body">
           <div class="kicker">Research & Methods</div>
-          <h3 class="card__title">Earth observation + AI</h3>
+          <h3 class="card__title">Intersection AI-Climate-Ecology</h3>
           <p class="lede">Remote sensing, ML, and decision support for wetlands, urban green, hazards, and biodiversity.</p>
         </div>
       </div>
@@ -136,7 +136,7 @@ a:hover, .readmore:hover, .card__title a:hover { color: #67e8f9; }
         <div class="card__body">
           <div class="kicker">Collaboration</div>
           <h3 class="card__title">Nordic network</h3>
-          <p class="lede">We connect researchers, public sector, industry and policy-makers to co-create open tools, datasets, and reproducible workflows.</p>
+          <p class="lede">We connect researchers, public sector and industry to co-create open tools, datasets, and reproducible workflows.</p>
         </div>
       </div>
       <div class="card">
