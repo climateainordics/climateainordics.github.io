@@ -19,7 +19,7 @@ event_date: 2025-09-11
 event_time: "15:00"
 event_location: ""
 image: /images/posts/2025-08-18-2025-09-11-generative-domain-adaptation-and-foundation-models.jpg
-youtube: ""
+youtube: "https://www.youtube.com/watch?v=OAJx99nfplw&list=PLqLiVcF3GKy0-jZFGg-VqLzh51LqCfduN"
 --- 
 Welcome to this week's Learning Machines seminar.
 
