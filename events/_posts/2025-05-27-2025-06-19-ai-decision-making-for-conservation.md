@@ -11,7 +11,7 @@ event_date: 2025-06-19
 event_time: "15:00"
 event_location: ""
 image: /images/posts/2025-05-27-2025-06-19-ai-decision-making-for-conservation.jpg
-youtube: ""
+youtube: "https://www.youtube.com/watch?v=a2B675quBHo&list=PLqLiVcF3GKy0-jZFGg-VqLzh51LqCfduN"
 --- 
 Welcome to this week's Learning Machines seminar.
 
