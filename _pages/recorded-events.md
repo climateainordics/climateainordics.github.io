@@ -1,10 +1,10 @@
 ---
 title: Events
-permalink: /events/
+permalink: /recorded-events/
 ---
 {% include base_path %}
 
-Welcome to our and our partners' events! To see a list of recordings from previous talks, [click here](/recorded-events/)!
+Welcome to our list of recordings from previous talks! [Click here](/recorded-events/) to see  a list of coming events!
 
 <!-- NOTE! NEW NEWS ARE ADDED AS POSTS IN events/_posts! //-->
 <!-- THIS FILE NEEDS EDITING ONLY IF THE PRESENTATION OF THE EVENTS NEED TO CHANGE. //-->
@@ -13,7 +13,9 @@ Welcome to our and our partners' events! To see a list of recordings from previo
 
 {% capture posts %}
   {% for post in site.categories.events %}
+    {% unless post.youtube == blank %}
     |||||{{post.event_date}}#####{{ post.event_time }}#####{{ post.title }}#####{{ post.image }}#####{{ post.summary }}#####{{ post.url  }}#####{{ post.youtube }}
+    {% endunless %}
   {% endfor %}
 {% endcapture %}
 
@@ -32,25 +34,13 @@ Welcome to our and our partners' events! To see a list of recordings from previo
 {% capture eventtimestamp %}{{ event_date | date: '%s'}}{% endcapture %}
 
 ## {{ title }}
-{% if image %}<img src="{{ image }}" style="float: right; width: 25%;" />{% endif %}
 
 <span style="color:grey;">**Event date:** *{{event_date | date: '%Y-%m-%d'}}* {% unless event_time == blank %}*{{ event_time }}*{% endunless %}</span>
 
-{% if eventtimestamp < nowtime %}
-{% if youtube != "" %}
-*Click below to view the recording of this seminar!*
-{% else %}
-*This event has already happened. Stay tuned for more events like these!*
-{% endif %}
-{% endif %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.youtube }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br />
 
-{{ summary }}
-
-{% if youtube != "" %}
-**[View recorded seminar!]({{ url }})**
-{% else %}
 **[Read more!]({{ url }})**
-{% endif %}
 
 {% endfor %}
 
