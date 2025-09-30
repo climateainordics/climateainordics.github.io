@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Recorded events
 permalink: /recorded-events/
 ---
 {% include base_path %}
