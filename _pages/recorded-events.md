@@ -4,7 +4,10 @@ permalink: /recorded-events/
 ---
 {% include base_path %}
 
-Welcome to our list of recordings from previous talks! [Click here](/recorded-events/) to see  a list of coming events!
+Welcome to our list of recordings from previous talks!
+
+* [Click here](/recorded-events/) to see  a list of coming events!
+* [Click here](https://www.youtube.com/playlist?list=PLqLiVcF3GKy0-jZFGg-VqLzh51LqCfduN) for our youtube playlist.
 
 <!-- NOTE! NEW NEWS ARE ADDED AS POSTS IN events/_posts! //-->
 <!-- THIS FILE NEEDS EDITING ONLY IF THE PRESENTATION OF THE EVENTS NEED TO CHANGE. //-->
@@ -44,7 +47,7 @@ Welcome to our list of recordings from previous talks! [Click here](/recorded-ev
 
 {% assign embed_url = "https://www.youtube.com/embed/" | append: video_id %}
 {% unless playlist_id == blank %}
-{% assign embed_url = embed_url | append: "&list=" | append: playlist_id %}
+{% assign embed_url_unused = embed_url | append: "&list=" | append: playlist_id %}
 {% endunless %}
 
 <iframe width="560" height="315" src="{{ embed_url }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
