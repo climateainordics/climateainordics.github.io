@@ -19,7 +19,7 @@ event_date: 2025-08-28
 event_time: "15:00"
 event_location: ""
 image: /images/posts/2025-09-29-2025-08-28-debiasing-ai-predictions-for-causal-inference.jpg
-youtube: ""
+youtube: "https://www.youtube.com/watch?v=bgCQwK6a6HQ&list=PLqLiVcF3GKy0-jZFGg-VqLzh51LqCfduN"
 --- 
 Welcome to this week's Learning Machines seminar.
 
@@ -48,7 +48,7 @@ Through analytical exercises and experiments using Demographic and Health Survey
 * 2025-09-11: Georges Le Bellier, CNAM
 * 2025-09-25: Sigrid Passano Hellan, NORCE Norwegian Research Centre
 * 2025-10-09: Sebastian Hafner, RISE
-* 2025-10-23: Nora Gourmelon, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+* 2025-10-16: Lena Stempfle, Chalmers University of Technology
 * All seminars are 15:00 CET.
 
 More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
