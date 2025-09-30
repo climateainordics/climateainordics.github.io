@@ -128,7 +128,7 @@ a:hover, .readmore:hover, .card__title a:hover { color: #67e8f9; }
       <div class="card">
         <div class="card__body">
           <div class="kicker">Research & Methods</div>
-          <h3 class="card__title">AI-for-Climate</h3>
+          <h3 class="card__title">AI for climate</h3>
           <p class="lede">E.g. remote sensing, ML, and decision support for wetlands, urban greening, hazards, and biodiversity.</p>
         </div>
       </div>
