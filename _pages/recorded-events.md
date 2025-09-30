@@ -37,7 +37,7 @@ Welcome to our list of recordings from previous talks! [Click here](/recorded-ev
 
 <span style="color:grey;">**Event date:** *{{event_date | date: '%Y-%m-%d'}}* {% unless event_time == blank %}*{{ event_time }}*{% endunless %}</span>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.youtube }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ youtube }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br />
 
 **[Read more!]({{ url }})**
