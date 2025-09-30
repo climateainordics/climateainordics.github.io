@@ -43,9 +43,6 @@ Welcome to our list of recordings from previous talks! [Click here](/recorded-ev
 {%- assign playlist_id = playlist_with_rest | split: '&' | first -%}
 
 {%- assign embed_url = "https://www.youtube.com/embed/" | append: video_id -%}
-{% unless playlist_id is blank %}
-{%- assign embed_url = embed_url | append: "&list=" | append: playlist_id -%}
-{% endunless %}
 
 <iframe width="560" height="315" src="{{ embed_url }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br />
