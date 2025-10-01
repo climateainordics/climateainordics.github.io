@@ -5,6 +5,12 @@
 Computer Vision * Deep Learning * Earth Observation * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Sustainable Cities * Sustainable Transport * Urban Planning * [More info (researcher profile)](https://http://mncosta.github.io) * [Research group](https://mlsm.man.dtu.dk) * [Publications (Scholar)](https://scholar.google.com/citations?user=kiSlzroAAAAJ&amp;hl=en)
 </div>
 
+<div class="content" markdown="1" data-tags="Biodiversity,Computer Vision,Deep Learning,Machine Learning,Marine Ecology">
+<span title="Post DocAAU &amp; Pioneer Centre for AI."><strong>Malte Pedersen, Post Doc, AAU &amp; Pioneer Centre for AI</strong></span>
+<br />
+Biodiversity * Computer Vision * Deep Learning * Machine Learning * Marine Ecology * [More info (researcher profile)](https://mapeaau.github.io/) * [Research group](https://vap.aau.dk/) * [Publications (Scholar)](https://scholar.google.com/citations?user=RREDgy4AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-2941-9150)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -1247,4 +1253,10 @@ AutoML * Bayesian Optimisation * Climate Modeling * Deep Learning * Earth Observ
 <span title="Master’s student at University of Skövde with a background in molecular biology and animal sciences. Focused on applying bioinformatics, eDNA, and metagenomics to biodiversity and sustainability challenges. StudentUniversity of Skövde."><strong>Hedieh Noeparast, Student, University of Skövde</strong></span>
 <br />
 Biodiversity * Climate Impacts * Earth Observation * Machine Learning * Marine Ecology * Sustainable Production * Edna * Metagenomics * Bioinformatics * Food Microbiology
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Machine Learning,Sustainable Cities,Sustainability Science,Land System Science">
+<span title="PhD, ResearcherNorwegian Institute for Nature Research (NINA)."><strong>Katarzyna Ostapowicz, PhD, Researcher, Norwegian Institute for Nature Research (NINA)</strong></span>
+<br />
+Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * Sustainability Science * Land System Science * [More info (researcher profile)](https://kasiaostapowicz.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=7dxBUIcAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-4830-8202)
 </div>
