@@ -7,7 +7,7 @@ permalink: /recorded-events/
 Welcome to our list of recordings from previous talks!
 
 * [Click here](/recorded-events/) to see  a list of coming events!
-* [Click here](https://www.youtube.com/playlist?list=PLqLiVcF3GKy0-jZFGg-VqLzh51LqCfduN) for our youtube playlist.
+* [Click here](https://www.youtube.com/playlist?list=PLqLiVcF3GKy0-jZFGg-VqLzh51LqCfduN) for our complete YouTube playlist.
 
 <!-- NOTE! NEW NEWS ARE ADDED AS POSTS IN events/_posts! //-->
 <!-- THIS FILE NEEDS EDITING ONLY IF THE PRESENTATION OF THE EVENTS NEED TO CHANGE. //-->
