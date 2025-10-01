@@ -23,6 +23,12 @@ Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Extreme 
 AutoML * Bayesian Optimisation * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * NLP * Weather Forecasting * [More info (researcher profile)](https://getnetdemil.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=Xz_tNToAAAAJ)
 </div>
 
+<div class="content" markdown="1" data-tags="AutoML,Climate Impacts,Climate Modeling,Deep Learning,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Sustainable Energy,Weather Forecasting,Wind Energy">
+<span title="I am a wind engineer working as a climate change researcher, focused on wildfire and extreme events with a strong interest in machine learning and explainable AI. ResearcherDTU."><strong>Jorge Soto Martin, Researcher, DTU</strong></span>
+<br />
+AutoML * Climate Impacts * Climate Modeling * Deep Learning * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Sustainable Energy * Weather Forecasting * Wind Energy * [More info (researcher profile)](https://www.linkedin.com/in/jorge-soto-martin/) * [Research group](https://www.man.dtu.dk/english/about-us/department-organisation/divisions/climate-and-energy-policy-division/climate-economics-and-risk-management#:~:text=The%20Climate%20Economics%20and%20Risk%20Management%20Section%20seeks,change%2C%20as%20well%20as%20mitigation%20and%20adaptation%20strategies.)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
