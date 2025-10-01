@@ -5,6 +5,18 @@
 Computer Vision * Deep Learning * Earth Observation * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Sustainable Cities * Sustainable Transport * Urban Planning * [More info (researcher profile)](https://http://mncosta.github.io) * [Research group](https://mlsm.man.dtu.dk) * [Publications (Scholar)](https://scholar.google.com/citations?user=kiSlzroAAAAJ&amp;hl=en)
 </div>
 
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Earth Observation,Machine Learning,Marine Ecology,Sustainable Production,Edna,Metagenomics,Bioinformatics,Food Microbiology">
+<span title="Master’s student at University of Skövde with a background in molecular biology and animal sciences. Focused on applying bioinformatics, eDNA, and metagenomics to biodiversity and sustainability challenges. StudentUniversity of Skövde."><strong>Hedieh Noeparast, Student, University of Skövde</strong></span>
+<br />
+Biodiversity * Climate Impacts * Earth Observation * Machine Learning * Marine Ecology * Sustainable Production * Edna * Metagenomics * Bioinformatics * Food Microbiology
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Machine Learning,Sustainable Cities,Sustainability Science,Land System Science">
+<span title="PhD, ResearcherNorwegian Institute for Nature Research (NINA)."><strong>Katarzyna Ostapowicz, PhD, Researcher, Norwegian Institute for Nature Research (NINA)</strong></span>
+<br />
+Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * Sustainability Science * Land System Science * [More info (researcher profile)](https://kasiaostapowicz.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=7dxBUIcAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-4830-8202)
+</div>
+
 <div class="content" markdown="1" data-tags="Biodiversity,Computer Vision,Deep Learning,Machine Learning,Marine Ecology">
 <span title="Post DocAAU &amp; Pioneer Centre for AI."><strong>Malte Pedersen, Post Doc, AAU &amp; Pioneer Centre for AI</strong></span>
 <br />
@@ -960,10 +972,22 @@ Computer Vision * Deep Learning * Earth Observation * Machine Learning * Sustain
 Computer Vision * Deep Learning * [More info (researcher profile)](https://github.com/IcedDoggie) * [Publications (Scholar)](https://scholar.google.com/citations?user=bjnCB84AAAAJ&amp;hl=en)
 </div>
 
+<div class="content" markdown="1" data-tags="Climate Impacts,Deep Learning,Efficient or Sustainable AI,Machine Learning,Sustainable Cities,Sustainable Energy,Sustainable Production,Sustainable Transport">
+<span title="I work part-time at Exponential Roadmap Initiative (ERI) which is a collaborative climate initiative uniting companies that are innovators, disruptors and transformers to drive exponential action to halve emissions by 2030. At ERI, I am engaged to prototype and develop robust and scalable data driven AI augmented climate analysis performance and transition plan solutions. I also work part-time at Prosperous Planet which is a small and specialised consultancy company focusing on supporting companies in building a profitable and sustainable future by integrating and leveraging financial and sustainability data across the whole organisation. Climate Analysis &amp; Transition Advisory ConsultantExponential Roadmap Initiative."><strong>Nicklas Lemon, Climate Analysis &amp; Transition Advisory Consultant, Exponential Roadmap Initiative</strong></span>
+<br />
+Climate Impacts * Deep Learning * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * Sustainable Energy * Sustainable Production * Sustainable Transport * [More info (researcher profile)](https://www.linkedin.com/in/nicklaslemon/) * [Research group](https://exponentialroadmap.org/)
+</div>
+
 <div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Extreme Weather Events,Machine Learning,Sustainable Energy,Weather Forecasting,Wind Energy,Wildfire Growth Forecasting,Disaster Management,Ecosystem-based Adaptation,Nature-based Solutions">
 <span title="IndependentIndependent."><strong>Henrik Hagelin, Independent, Independent</strong></span>
 <br />
 Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Extreme Weather Events * Machine Learning * Sustainable Energy * Weather Forecasting * Wind Energy * Wildfire Growth Forecasting * Disaster Management * Ecosystem-based Adaptation * Nature-based Solutions * [More info (researcher profile)](https://linksta.cc/@henhag88) * [BlueSky](https://bsky.app/profile/henhag88.bsky.social)
+</div>
+
+<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Climate Modeling,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,Marine Ecology,NLP">
+<span title="StudentKTH, SSE."><strong>Bennet M, Student, KTH, SSE</strong></span>
+<br />
+AutoML * Bayesian Optimisation * Climate Modeling * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Marine Ecology * NLP
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
@@ -1219,12 +1243,6 @@ Biodiversity * Computer Vision * Earth Observation * [More info (researcher prof
 Climate Impacts * Efficient or Sustainable AI * Sustainable Cities * [More info (researcher profile)](https://www.linkedin.com/in/sjoukjeyaowu/) * [Research group](https://www.asiaresearchnews.com/content/sjoukje-yao-wu)
 </div>
 
-<div class="content" markdown="1" data-tags="Climate Impacts,Deep Learning,Efficient or Sustainable AI,Machine Learning,Sustainable Cities,Sustainable Energy,Sustainable Production,Sustainable Transport">
-<span title="I work part-time at Exponential Roadmap Initiative (ERI) which is a collaborative climate initiative uniting companies that are innovators, disruptors and transformers to drive exponential action to halve emissions by 2030. At ERI, I am engaged to prototype and develop robust and scalable data driven AI augmented climate analysis performance and transition plan solutions. I also work part-time at Prosperous Planet which is a small and specialised consultancy company focusing on supporting companies in building a profitable and sustainable future by integrating and leveraging financial and sustainability data across the whole organisation. Climate Analysis &amp; Transition Advisory ConsultantExponential Roadmap Initiative."><strong>Nicklas Lemon, Climate Analysis &amp; Transition Advisory Consultant, Exponential Roadmap Initiative</strong></span>
-<br />
-Climate Impacts * Deep Learning * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * Sustainable Energy * Sustainable Production * Sustainable Transport * [More info (researcher profile)](https://www.linkedin.com/in/nicklaslemon/) * [Research group](https://exponentialroadmap.org/)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Sustainable Energy,Weather Forecasting,Wind Energy">
 <span title="PhD student in Burkina Faso Africa, I live in Ouagadougou . PhD StudentJoseph KI -ZERBO UNIVERSITY."><strong>DABRE MAZO, PhD Student, Joseph KI -ZERBO UNIVERSITY</strong></span>
 <br />
@@ -1253,24 +1271,6 @@ Computer Vision * Earth Observation * Machine Learning
 <span title="Researcher at Deltares and external PhD candidate at Delft University of Technology. ResearcherDeltares."><strong>Maarten Pronk, Researcher, Deltares</strong></span>
 <br />
 Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * [More info (researcher profile)](https://www.evetion.nl/) * [Research group](https://www.deltares.nl/en) * [ORCID](https://orcid.org/0000-0001-8758-3939) * [BlueSky](https://bsky.app/profile/evetion.bsky.social)
-</div>
-
-<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Climate Modeling,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,Marine Ecology,NLP">
-<span title="StudentKTH, SSE."><strong>Bennet M, Student, KTH, SSE</strong></span>
-<br />
-AutoML * Bayesian Optimisation * Climate Modeling * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Marine Ecology * NLP
-</div>
-
-<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Earth Observation,Machine Learning,Marine Ecology,Sustainable Production,Edna,Metagenomics,Bioinformatics,Food Microbiology">
-<span title="Master’s student at University of Skövde with a background in molecular biology and animal sciences. Focused on applying bioinformatics, eDNA, and metagenomics to biodiversity and sustainability challenges. StudentUniversity of Skövde."><strong>Hedieh Noeparast, Student, University of Skövde</strong></span>
-<br />
-Biodiversity * Climate Impacts * Earth Observation * Machine Learning * Marine Ecology * Sustainable Production * Edna * Metagenomics * Bioinformatics * Food Microbiology
-</div>
-
-<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Machine Learning,Sustainable Cities,Sustainability Science,Land System Science">
-<span title="PhD, ResearcherNorwegian Institute for Nature Research (NINA)."><strong>Katarzyna Ostapowicz, PhD, Researcher, Norwegian Institute for Nature Research (NINA)</strong></span>
-<br />
-Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * Sustainability Science * Land System Science * [More info (researcher profile)](https://kasiaostapowicz.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=7dxBUIcAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-4830-8202)
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
