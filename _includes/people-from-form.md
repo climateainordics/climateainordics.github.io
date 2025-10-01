@@ -11,6 +11,12 @@ Computer Vision * Deep Learning * Earth Observation * Efficient or Sustainable A
 Biodiversity * Computer Vision * Deep Learning * Machine Learning * Marine Ecology * [More info (researcher profile)](https://mapeaau.github.io/) * [Research group](https://vap.aau.dk/) * [Publications (Scholar)](https://scholar.google.com/citations?user=RREDgy4AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-2941-9150)
 </div>
 
+<div class="content" markdown="1" data-tags="Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,Sustainable Cities,Urban Planning">
+<span title="I am an Associate Professor at the Royal Institute of Technology (KTH) in Stockholm. My research lies at the intersection of remote sensing and computer vision, focusing on developing novel methods for Earth observation and geospatial data analysis. I have worked extensively on applications ranging from urban monitoring and disaster mapping to glacier and forest carbon studies. I also teach courses in Remote Sensing and Geospatial AI and supervise PhD students. My work bridges cutting-edge data science with real-world environmental and societal challenges. Associate ProfessorKTH - Royal Institute of Technology."><strong>Andrea Nascetti, Associate Professor, KTH - Royal Institute of Technology</strong></span>
+<br />
+Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://www.kth.se/profile/nascetti) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=Mdq6_jQAAAAJ) * [ORCID](https://orcid.org/0000-0001-9692-8636)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
