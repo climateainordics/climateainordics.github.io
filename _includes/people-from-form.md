@@ -1099,12 +1099,6 @@ Earth Observation * Climate Modeling * Biodiversity * Sustainable Cities * Susta
 
 </div>
 
-<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
-<span title="I am a postdoctoral researcher at the University of Edinburgh, specialising in representation learning, efficient architectures and adaptation across distribution shifts. My research explores applications in climate and healthcare, with a focus on responsible and impactful AI deployment. My work has been published work in top venues, including CVPR, NeurIPS and the IEEE Signal Processing Magazine. Post DocUniversity of Edinburgh."><strong>Linus Ericsson, Post Doc, University of Edinburgh</strong></span>
-<br />
-Earth Observation * Climate Modeling * Biodiversity * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://linusericsson.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=QRW9NN0AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-0634-5072) * [BlueSky](https://bsky.app/profile/linusericsson.bsky.social)
-</div>
-
 <div class="content" markdown="1" data-tags="Biodiversity">
 <span title="Assistant ProfessorUniversity of Basel."><strong>Sabine Rumpf, Assistant Professor, University of Basel</strong></span>
 <br />
@@ -1277,4 +1271,10 @@ Biodiversity * Climate Impacts * Earth Observation * Machine Learning * Marine E
 <span title="PhD, ResearcherNorwegian Institute for Nature Research (NINA)."><strong>Katarzyna Ostapowicz, PhD, Researcher, Norwegian Institute for Nature Research (NINA)</strong></span>
 <br />
 Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * Sustainability Science * Land System Science * [More info (researcher profile)](https://kasiaostapowicz.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=7dxBUIcAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-4830-8202)
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
+<span title="I am a Lecturer in Artificial Intelligence and Machine Learning at the University of Glasgow. My research explores AI/ML methods to learn transferable representations of data, building efficient neural networks, and adapting these models across data shifts, all to help people solve problems reliably across different scenarios. Specific interests include applications in climate and healthcare, with a focus on responsible and impactful AI deployment. My work has been published work in top venues, including CVPR, NeurIPS and the IEEE Signal Processing Magazine. Assistant ProfessorUniversity of Glasgow."><strong>Linus Ericsson, Assistant Professor, University of Glasgow</strong></span>
+<br />
+Earth Observation * Climate Modeling * Biodiversity * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://linusericsson.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=QRW9NN0AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-0634-5072)
 </div>
