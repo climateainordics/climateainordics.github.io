@@ -17,6 +17,12 @@ Biodiversity * Computer Vision * Deep Learning * Machine Learning * Marine Ecolo
 Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://www.kth.se/profile/nascetti) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=Mdq6_jQAAAAJ) * [ORCID](https://orcid.org/0000-0001-9692-8636)
 </div>
 
+<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,NLP,Weather Forecasting">
+<span title="https://getnetdemil.github.io. PhD StudentUniversity of Oulu."><strong>Getnet Demil Jenberia, PhD Student, University of Oulu</strong></span>
+<br />
+AutoML * Bayesian Optimisation * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * NLP * Weather Forecasting * [More info (researcher profile)](https://getnetdemil.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=Xz_tNToAAAAJ)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
