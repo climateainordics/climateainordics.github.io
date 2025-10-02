@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Earth Observation,Machine Learning,Marine Ecology,Sustainable Production,Edna,Metagenomics,Bioinformatics,Food Microbiology">
-<span title="Master’s student at University of Skövde with a background in molecular biology and animal sciences. Focused on applying bioinformatics, eDNA, and metagenomics to biodiversity and sustainability challenges. StudentUniversity of Skövde."><strong>Hedieh Noeparast, Student, University of Skövde</strong></span>
-<br />
-Biodiversity * Climate Impacts * Earth Observation * Machine Learning * Marine Ecology * Sustainable Production * Edna * Metagenomics * Bioinformatics * Food Microbiology
-</div>
-
 <div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Machine Learning,Sustainable Cities,Sustainability Science,Land System Science">
 <span title="PhD, ResearcherNorwegian Institute for Nature Research (NINA)."><strong>Katarzyna Ostapowicz, PhD, Researcher, Norwegian Institute for Nature Research (NINA)</strong></span>
 <br />
@@ -988,6 +982,12 @@ Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learn
 <span title="StudentKTH, SSE."><strong>Bennet M, Student, KTH, SSE</strong></span>
 <br />
 AutoML * Bayesian Optimisation * Climate Modeling * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Marine Ecology * NLP
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Earth Observation,Machine Learning,Marine Ecology,Sustainable Production,Edna,Metagenomics,Bioinformatics,Food Microbiology">
+<span title="Master’s student at University of Skövde with a background in molecular biology and animal sciences. Focused on applying bioinformatics, eDNA, and metagenomics to biodiversity and sustainability challenges. StudentUniversity of Skövde."><strong>Hedieh Noeparast, Student, University of Skövde</strong></span>
+<br />
+Biodiversity * Climate Impacts * Earth Observation * Machine Learning * Marine Ecology * Sustainable Production * Edna * Metagenomics * Bioinformatics * Food Microbiology
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
