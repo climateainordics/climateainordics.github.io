@@ -199,8 +199,8 @@ This month’s issue features community updates, job opportunities, and our feat
   {% for p in site.posts %}
     {% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
     {% if p.categories contains 'job-openings' %}{% continue %}{% endif %}
-    {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
-    {% if posttime < newsletter_start_time %}
+    {% capture eventtime %}{{ p.event_date | date: '%s'}}{% endcapture %}
+    {% if eventtime < newsletter_start_time %}
       {% continue %}
     {% endif %}
 
