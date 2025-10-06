@@ -14,11 +14,11 @@ Limited labeled data and high variability in SAR images hinder traditional super
 Therefore, we compiled an unlabeled dataset of Sentinel-1 SAR image sequences of Arctic glaciers, each associated with a single Sentinel-2 optical reference image. Using this dataset, we developed a novel multi-modal self-supervised pre-training strategy and applied it to pre-train a hybrid CNN-transformer model. Fine-tuning on the CaFFe benchmark showed that the pre-trained model outperforms its non-pre-trained counterpart, enabling more robust calving front segmentation and demonstrating the potential of data-efficient learning for SAR imagery."
 people:
 - Olof Mogren
-permalink: /events/2025-08-21-2025-10-23-self-supervised-pre-training-for-glacier-calving-front
+permalink: /events/2025-10-06-2025-10-23-self-supervised-pre-training-for-glacier-calving-front
 event_date: 2025-10-23
 event_time: "15:00"
 event_location: ""
-image: /images/posts/2025-08-21-2025-10-23-self-supervised-pre-training-for-glacier-calving-front.jpg
+image: /images/posts/2025-10-06-2025-10-23-self-supervised-pre-training-for-glacier-calving-front.jpg
 youtube: ""
 --- 
 Welcome to this week's Learning Machines seminar.
