@@ -1,34 +1,3 @@
-## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Machine Learning,Sustainable Cities,Sustainability Science,Land System Science">
-<span title="PhD, ResearcherNorwegian Institute for Nature Research (NINA)."><strong>Katarzyna Ostapowicz, PhD, Researcher, Norwegian Institute for Nature Research (NINA)</strong></span>
-<br />
-Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * Sustainability Science * Land System Science * [More info (researcher profile)](https://kasiaostapowicz.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=7dxBUIcAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-4830-8202)
-</div>
-
-<div class="content" markdown="1" data-tags="Biodiversity,Computer Vision,Deep Learning,Machine Learning,Marine Ecology">
-<span title="Post DocAAU &amp; Pioneer Centre for AI."><strong>Malte Pedersen, Post Doc, AAU &amp; Pioneer Centre for AI</strong></span>
-<br />
-Biodiversity * Computer Vision * Deep Learning * Machine Learning * Marine Ecology * [More info (researcher profile)](https://mapeaau.github.io/) * [Research group](https://vap.aau.dk/) * [Publications (Scholar)](https://scholar.google.com/citations?user=RREDgy4AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-2941-9150)
-</div>
-
-<div class="content" markdown="1" data-tags="Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,Sustainable Cities,Urban Planning">
-<span title="I am an Associate Professor at the Royal Institute of Technology (KTH) in Stockholm. My research lies at the intersection of remote sensing and computer vision, focusing on developing novel methods for Earth observation and geospatial data analysis. I have worked extensively on applications ranging from urban monitoring and disaster mapping to glacier and forest carbon studies. I also teach courses in Remote Sensing and Geospatial AI and supervise PhD students. My work bridges cutting-edge data science with real-world environmental and societal challenges. Associate ProfessorKTH - Royal Institute of Technology."><strong>Andrea Nascetti, Associate Professor, KTH - Royal Institute of Technology</strong></span>
-<br />
-Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://www.kth.se/profile/nascetti) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=Mdq6_jQAAAAJ) * [ORCID](https://orcid.org/0000-0001-9692-8636)
-</div>
-
-<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,NLP,Weather Forecasting">
-<span title="https://getnetdemil.github.io. PhD StudentUniversity of Oulu."><strong>Getnet Demil Jenberia, PhD Student, University of Oulu</strong></span>
-<br />
-AutoML * Bayesian Optimisation * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * NLP * Weather Forecasting * [More info (researcher profile)](https://getnetdemil.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=Xz_tNToAAAAJ)
-</div>
-
-<div class="content" markdown="1" data-tags="AutoML,Climate Impacts,Climate Modeling,Deep Learning,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Sustainable Energy,Weather Forecasting,Wind Energy">
-<span title="I am a wind engineer working as a climate change researcher, focused on wildfire and extreme events with a strong interest in machine learning and explainable AI. ResearcherDTU."><strong>Jorge Soto Martin, Researcher, DTU</strong></span>
-<br />
-AutoML * Climate Impacts * Climate Modeling * Deep Learning * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Sustainable Energy * Weather Forecasting * Wind Energy * [More info (researcher profile)](https://www.linkedin.com/in/jorge-soto-martin/) * [Research group](https://www.man.dtu.dk/english/about-us/department-organisation/divisions/climate-and-energy-policy-division/climate-economics-and-risk-management#:~:text=The%20Climate%20Economics%20and%20Risk%20Management%20Section%20seeks,change%2C%20as%20well%20as%20mitigation%20and%20adaptation%20strategies.)
-</div>
-
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -196,6 +165,12 @@ Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Earth Obse
 <span title="Akinyemi has expertise in ecological Remote Sensing, Land Degradation and Geospatial Artificial Intelligence (GeoAI) in Social-Ecological Systems — Land use, climate and agriculture.  With more than 25 years of experience in higher education in Europe and Africa, Dr. Akinyemi was the Director of two graduate programmes in Surveying and Geoinformatics, Geographic Information Science. She leads efforts in developing Remote Sensing-based metrics for operationalizing the Land Degradation Neutrality (LDN) target (SDG 15.3) and the corresponding SDG indicator 15.3.1 that aims to estimate the proportion of degraded land over the total land area. Frameworks for assessing LDN, including the mapping of annual land cover have been developed for several countries, including Switzerland, Nigeria and Botswana. She leads the European Space Agency/EO Africa funded project RiverWISE  — Water yield estimation and irrigation demand modelling using multi-sensor Earth Observation data within a tropical river basin  — and was the PI of the EU Marie Curie research project LucFRes — Land-use change and the resilience of food production systems in southwest Nigeria — partnering with four European and two Nigerian universities. Her work contributes to expert groups such as the Science Policy Interface group of the United Nations Convention to Combat Desertification (UNCCD-SPI); the Scenarios and Models Task Force of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES); the Biodiversity and Ecosystem Services Scenarios-based Model Intercomparison work group (BES SIM2), a founding member, European Geosciences Union Biodiversity Task Force; Member, Commission on Ecosystem Management of the IUCN; and Fellow, Alexander von Humboldt Research Network.  Associate ProfessorKarlstad University, Sweden."><strong>Felicia O. Akinyemi, Associate Professor, Karlstad University, Sweden</strong></span>
 <br />
 Biodiversity * Climate Impacts * Earth Observation * Earth System Modeling * Machine Learning * Sustainable Cities * Land Use Change Modelling * Drought * [More info (researcher profile)](https://www.kau.se/en/researchers/felicia-akinyemi) * [Research group](https://www.linkedin.com/posts/neogeo-karlstaduniversity_neogeo-geomatics-earthobservation-activity-7315667694085644288-SpUF?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAhU16YBAwDvKTRLnd7lI3YvcffBKBUqhaw) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=25cZhaQAAAAJ) * [ORCID](https://orcid.org/0000-0001-6248-7430)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,Sustainable Cities,Urban Planning">
+<span title="I am an Associate Professor at the Royal Institute of Technology (KTH) in Stockholm. My research lies at the intersection of remote sensing and computer vision, focusing on developing novel methods for Earth observation and geospatial data analysis. I have worked extensively on applications ranging from urban monitoring and disaster mapping to glacier and forest carbon studies. I also teach courses in Remote Sensing and Geospatial AI and supervise PhD students. My work bridges cutting-edge data science with real-world environmental and societal challenges. Associate ProfessorKTH - Royal Institute of Technology."><strong>Andrea Nascetti, Associate Professor, KTH - Royal Institute of Technology</strong></span>
+<br />
+Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://www.kth.se/profile/nascetti) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=Mdq6_jQAAAAJ) * [ORCID](https://orcid.org/0000-0001-9692-8636)
 </div>
 
 <div class="content" markdown="1" data-tags="">
@@ -630,6 +605,18 @@ Climate Impacts * Efficient or Sustainable AI * Sustainable Cities * [More info 
 Computer Vision * Deep Learning * Earth Observation * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Sustainable Cities * Sustainable Transport * Urban Planning * [More info (researcher profile)](https://http://mncosta.github.io) * [Research group](https://mlsm.man.dtu.dk) * [Publications (Scholar)](https://scholar.google.com/citations?user=kiSlzroAAAAJ&amp;hl=en)
 </div>
 
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Machine Learning,Sustainable Cities,Sustainability Science,Land System Science">
+<span title="PhD, ResearcherNorwegian Institute for Nature Research (NINA)."><strong>Katarzyna Ostapowicz, PhD, Researcher, Norwegian Institute for Nature Research (NINA)</strong></span>
+<br />
+Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * Sustainability Science * Land System Science * [More info (researcher profile)](https://kasiaostapowicz.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=7dxBUIcAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-4830-8202)
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Computer Vision,Deep Learning,Machine Learning,Marine Ecology">
+<span title="Post DocAAU &amp; Pioneer Centre for AI."><strong>Malte Pedersen, Post Doc, AAU &amp; Pioneer Centre for AI</strong></span>
+<br />
+Biodiversity * Computer Vision * Deep Learning * Machine Learning * Marine Ecology * [More info (researcher profile)](https://mapeaau.github.io/) * [Research group](https://vap.aau.dk/) * [Publications (Scholar)](https://scholar.google.com/citations?user=RREDgy4AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-2941-9150)
+</div>
+
 <div class="content" markdown="1" data-tags="">
 <span title="I&#x27;m a PhD student at the Center for Mathematical Sciences focusing on anomaly detection and machine learning in earth observations and remote sensing. PhD StudentLund University."><strong>Oskar Åström, PhD Student, Lund University</strong></span>
 <br />
@@ -990,6 +977,18 @@ AutoML * Bayesian Optimisation * Climate Modeling * Deep Learning * Earth Observ
 Biodiversity * Climate Impacts * Earth Observation * Machine Learning * Marine Ecology * Sustainable Production * Edna * Metagenomics * Bioinformatics * Food Microbiology
 </div>
 
+<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,NLP,Weather Forecasting">
+<span title="https://getnetdemil.github.io. PhD StudentUniversity of Oulu."><strong>Getnet Demil Jenberia, PhD Student, University of Oulu</strong></span>
+<br />
+AutoML * Bayesian Optimisation * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * NLP * Weather Forecasting * [More info (researcher profile)](https://getnetdemil.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=Xz_tNToAAAAJ)
+</div>
+
+<div class="content" markdown="1" data-tags="AutoML,Climate Impacts,Climate Modeling,Deep Learning,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Sustainable Energy,Weather Forecasting,Wind Energy">
+<span title="I am a wind engineer working as a climate change researcher, focused on wildfire and extreme events with a strong interest in machine learning and explainable AI. ResearcherDTU."><strong>Jorge Soto Martin, Researcher, DTU</strong></span>
+<br />
+AutoML * Climate Impacts * Climate Modeling * Deep Learning * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Sustainable Energy * Weather Forecasting * Wind Energy * [More info (researcher profile)](https://www.linkedin.com/in/jorge-soto-martin/) * [Research group](https://www.man.dtu.dk/english/about-us/department-organisation/divisions/climate-and-energy-policy-division/climate-economics-and-risk-management#:~:text=The%20Climate%20Economics%20and%20Risk%20Management%20Section%20seeks,change%2C%20as%20well%20as%20mitigation%20and%20adaptation%20strategies.)
+</div>
+
 ## Supporting Affiliates (Outside Nordics)
 <div class="content" markdown="1" data-tags="Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI">
 <span title="I am a lecturer in Urban Planning at the University of Auckland, bringing over 13 years of experience in both research and practice. My focus is on addressing climate change challenges, enhancing urban resilience, promoting regeneration, and advocating for environmental justice. I am particularly interested in understanding and mitigating the risks that urban areas encounter, especially those related to climate change and natural hazards. My research examines how cities can adapt to these increasing threats, emphasising resilience, risk reduction, and sustainable planning to protect communities and infrastructure. Assistant ProfessorUniversity of Auckland."><strong>Iresh Jayawardena, Assistant Professor, University of Auckland</strong></span>
@@ -1277,4 +1276,10 @@ Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extrem
 <span title="I am a Lecturer in Artificial Intelligence and Machine Learning at the University of Glasgow. My research explores AI/ML methods to learn transferable representations of data, building efficient neural networks, and adapting these models across data shifts, all to help people solve problems reliably across different scenarios. Specific interests include applications in climate and healthcare, with a focus on responsible and impactful AI deployment. My work has been published work in top venues, including CVPR, NeurIPS and the IEEE Signal Processing Magazine. Assistant ProfessorUniversity of Glasgow."><strong>Linus Ericsson, Assistant Professor, University of Glasgow</strong></span>
 <br />
 Earth Observation * Climate Modeling * Biodiversity * Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://linusericsson.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=QRW9NN0AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-0634-5072)
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Deep Learning,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Sustainable Cities,Sustainable Energy,Sustainable Production,Sustainable Transport,Wind Energy">
+<span title="Beatriz Paniego Béjar is a communications strategist and narrative designer committed to social impact, environmental responsibility, and resilience. With over a decade of experience advancing equity through nonprofit storytelling, advocacy campaigns, and strategic messaging, she brings a people-centered lens to complex global challenges. Her recent M.Sc. in Disaster Risk Management and Climate Change Adaptation deepened this focus, culminating in her thesis “The Potential of Truth Technologies: Artificial Intelligence for Societal Resilience”—a study exploring how AI can counter misinformation and support democratic futures. Compassionate and systems-minded, her work is rooted in “thrivability”—the drive to flourish while fostering societal transformation that safeguards both people and planet. She believes in human connection as a catalyst for change, and in the power of stories to make that connection stronger. Industry."><strong>Beatriz Paniego Béjar, Industry</strong></span>
+<br />
+Biodiversity * Climate Impacts * Deep Learning * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Sustainable Cities * Sustainable Energy * Sustainable Production * Sustainable Transport * Wind Energy * [More info (researcher profile)](https://www.linkedin.com/in/beatriz-paniego-bejar/)
 </div>
