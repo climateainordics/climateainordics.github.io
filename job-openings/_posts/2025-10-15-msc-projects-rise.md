@@ -1,12 +1,12 @@
 ---
-title: "Master's thesis projects in AI for ecology and bioacoustics"
-summary: "Explore the world of AI for nature with three exciting Master's thesis projects focusing on species distribution modeling and bioacoustic analysis. Join the RIDR group at RISE and contribute to cutting-edge research in collaboration with academic and wildlife management partners."
+title: "Master's thesis projects in AI for Earth observation, ecology, and bioacoustics"
+summary: "Explore the world of AI for nature with four exciting Master's thesis projects focusing on species distribution modeling and bioacoustic analysis. Join the RIDR group at RISE and contribute to cutting-edge research in collaboration with academic and wildlife management partners."
 people:
 - Olof Mogren
 - Aleksis Pirinen
 - John Martinsson
 permalink:
-image: /images/external-organizations-logos/rise.png
+image: /images/posts/2025-10-15-msc-projects.png
 youtube: ""
 ---
 
@@ -18,29 +18,29 @@ Successful completion of a project will be rewarded with SEK 30,000 per student.
 
 This project aims to develop robust species distribution models for large predators like bears, lynx, and wolves in Scandinavia. By combining predator observation data from ROVBASE with high-resolution remote sensing imagery, you will use AI-based methods to understand how environmental factors influence their distribution. This work, in collaboration with Norwegian and Swedish authorities, will provide valuable insights for wildlife management and conservation.
 
-**Location:** Gothenburg
-**Supervision:** Olof Mogren, Aleksis Pirinen
+* **Location:** Gothenburg
+* **Supervision:** Olof Mogren, Aleksis Pirinen
 
 ### Multi-modal machine listening for bioacoustic analysis and modelling
 
 Centered around the unique AukLab-Audio dataset from the Stora Karlsö Auk Lab, this project focuses on developing machine listening models that leverage multi-modal data. You will explore how visual cues, weather data, and other sensor information can be used to train and contextualize acoustic models of common guillemot vocalizations. The Stora Karlsö Auk Lab is a unique cliff-edge observatory for common guillemots (*Uria aalge*) in the Baltic Sea. This research contributes to a deeper understanding of this seabird's vocal behavior.
 
-**Location:** Gothenburg
-**Supervision:** Olof Mogren, John Martinsson
+* **Location:** Gothenburg
+* **Supervision:** Olof Mogren, John Martinsson
 
 ### Data-centric AI for acoustic discovery: anomaly detection and active learning in bioacoustics
 
 Also utilizing the rich AukLab-Audio dataset, this project takes a data-centric approach to uncover new acoustic patterns in guillemot vocalizations. You will develop anomaly detection algorithms to identify rare sound events and implement active learning strategies to guide the annotation process, optimizing human labeling efforts and expanding our knowledge of this species' acoustic repertoire.
 
-**Location:** Gothenburg
-**Supervision:** John Martinsson, Olof Mogren
+* **Location:** Gothenburg
+* **Supervision:** John Martinsson, Olof Mogren
 
-### Machine Learning and Earth Observation Data for Monitoring Nature Restoration
+### Machine learning and Earth observation data for monitoring nature restoration
 
 Based in Lund, this project focuses on using machine learning and satellite data to monitor the restoration of Swedish pastures and semi-natural grasslands, in line with the EU’s new nature restoration law. You will develop and train machine learning models to process multi-year time series of satellite imagery and generate reliable signals about on-the-ground restoration efforts. The project involves key stakeholders such as Arla, the Swedish Board of Agriculture, and the Swedish Environmental Protection Agency.
 
-**Location:** Lund
-**Supervision:** Aleksis Pirinen, Delia Fano Yela, Georg Andersson
+* **Location:** Lund
+* **Supervision:** Aleksis Pirinen, Delia Fano Yela, Georg Andersson
 
 
 ---
