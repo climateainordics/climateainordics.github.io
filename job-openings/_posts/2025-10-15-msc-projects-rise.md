@@ -1,6 +1,6 @@
 ---
 title: "Master's thesis projects in AI for Earth observation, ecology, and bioacoustics"
-summary: "Explore the world of AI for nature with four exciting Master's thesis projects focusing on species distribution modeling and bioacoustic analysis. Join the RIDR group at RISE and contribute to cutting-edge research in collaboration with academic and wildlife management partners."
+summary: "We are looking for master's students for four exciting Master's thesis projects focusing on species distribution modeling with Earth observation and ML-based bioacoustic analysis. Join the RIDR group and contribute to cutting-edge research in collaboration with academic and wildlife management partners."
 people:
 - Olof Mogren
 - Aleksis Pirinen
