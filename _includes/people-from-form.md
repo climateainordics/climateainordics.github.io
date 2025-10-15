@@ -1288,5 +1288,5 @@ Earth Observation * Climate Modeling * Biodiversity * Efficient or Sustainable A
 <div class="content" markdown="1" data-tags="Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Efficient or Sustainable AI,Machine Learning">
 <span title="PhD, ResearcherAlfred Wegener Institute."><strong>Hameed Moqadam, PhD, Researcher, Alfred Wegener Institute</strong></span>
 <br />
-Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Efficient or Sustainable AI * Machine Learning
+Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Efficient or Sustainable AI * Machine Learning * [More info (researcher profile)](https://www.linkedin.com/in/hameed-moqadam/) * [Publications (Scholar)](https://scholar.google.com/citations?user=XcQAH6cAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-8705-8883)
 </div>
