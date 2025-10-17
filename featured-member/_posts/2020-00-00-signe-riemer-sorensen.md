@@ -3,7 +3,7 @@ title: "Featured member, October 2025: Signe Riemer-Sørensen"
 summary: "TODO."
 people:
 - Signe Riemer-Sørensen
-image: /images/people/todo-todo.jpg
+image: /images/people/signe-riemer.png
 ---
 
 
