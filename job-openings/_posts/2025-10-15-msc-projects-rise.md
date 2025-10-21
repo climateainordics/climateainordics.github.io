@@ -53,4 +53,4 @@ Based in Lund, this project focuses on using machine learning and satellite data
 * [Data-Centric AI for Acoustic Discovery: Anomaly Detection and Active Learning in Bioacoustics](https://www.ri.se/sv/om-rise/jobba-hos-oss/lediga-jobb/masters-thesis-ai-based-anomaly-detection-and-active-learning-in)
 * [Machine Learning and Earth Observation Data for Monitoring Nature Restoration](https://www.ri.se/en/about-rise/work-with-us/open-job-positions/masters-thesis-machine-learning-and-earth-observation)
 
-Supervision for all projects is provided by the [RIDR group](https://ridr.se).
+All projects include supervisors from the [RIDR group](https://ridr.se).
