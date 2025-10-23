@@ -9,7 +9,9 @@ image: /images/posts/TODO-TODO.png
 youtube:
 ---
 
-In October 2024 we started **Climate AI Nordics**, and we have been amazed at what we have achieved together with you all. With this post we'd like to summarize some key highlights, as we look forward to another great year.
+In October 2024 we started **Climate AI Nordics**, and we have been amazed at what we have achieved together with you all. We have so far grown to [250+ registered members](https://climateainordics.com/people/), of which 192 are Nordics-affiliated and 65 are supporting affiliates from outside the Nordics. Together, our members come from about 140 different organizations.
+
+With this post we'd like to summarize some key highlights, as we look forward to another great year.
 
 ### Nordic Workshop on AI for Climate Change 2025
 
@@ -21,7 +23,7 @@ Our sincere thanks go out to the speakers, attendees, and our partners at [**CLI
 
 Climate AI Nordics is also co-organizing the upcoming [EurIPS 2025](https://eurips.cc/) accepted workshop [_AICC: AI for Climate and Conservation_](https://sites.google.com/g.harvard.edu/aicceurips). This full-day event will gather researchers and practitioners working at the intersection between AI, climate and/or conservation. Invited speakers are Philippe Ciais (LCSE), Sagar Vaze (Mistral AI), Verena Griess (ETH Zurich), Natalie Ahlstrand (University of Copenhagen), and Drew Purves (Google DeepMind).
 
-The Call for Participation is now closed, and we thank all authors for their submitted works. Final decisions on accepted works will come shortly, and we're looking forward to meeting you in Copenhagen in December!
+The Call for Participation is now closed, and we thank all authors for their submitted works. Final decisions on accepted works will come shortly (thank you all reviewers for your important contributions!), and we're looking forward to meeting you in Copenhagen in December!
 
 ### Webinars
 
@@ -39,14 +41,20 @@ Finally, **Sebastian Hafner** (RISE) presented work on how deep learning is tran
 
 We thank every speaker for sharing their research, and every participant who joined the conversation.
 
+### Monthly newsletters, social media presence, and community updates
 
-### Communicating Research: Newsletters & Community Updates
-
-Beyond the webinars, we’ve also published a series of monthly newsletters that document our journey and spotlight work from the community. Since October 2024, we’ve shared featured research on thermal inequality, audio biodiversity monitoring, deep learning for remote sensing, and more. We’ve reported on interviews in national media, partnerships with organizations like [CLIMES and AfriClimate AI, and the launch of our website, LinkedIn, BlueSky, and Slack channels.
+Beyond the webinars, we’ve also published a series of monthly newsletters that document our journey and spotlight work from the community. Since October 2024, we’ve shared featured research on thermal inequality, audio biodiversity monitoring, deep learning for remote sensing, and much more. We’ve reported on interviews in national media, partnerships with organizations (see more below), and the launch of [our website](https://climateainordics.com/), [LinkedIn](https://www.linkedin.com/company/climate-ai-nordics/) with over 1250 follwoers so far, [BlueSky](https://bsky.app/profile/climateainordics.com), and Slack workspaces.
 
 Our newsletters aim to inform and connect—amplifying your successes, sharing calls for collaboration, and bringing visibility to impactful AI-for-climate work across the Nordics. Since June, we also include a list of open positions for researchers and practitioners in the field in the Nordics; please get in touch if you want us to post about your job openings!
 
 ### Partnerships
-TODO
+Within our first year we also established [five partnerships](https://climateainordics.com/partners/) with diverse organizations: [The Swedish Centre for Impacts of Climate Extremes (climes)](https://www.climes.se/), [AfriClimate AI](https://africlimate.ai/), [The Global Wetland Center](https://globalwetlandcenter.ku.dk/), [Klimatkollen](https://klimatkollen.se/en/), and [The ELLIS Machine Learning for Earth and Climate Sciences Program](https://ellis.eu/programs/machine-learning-for-earth-and-climate-sciences). We're also greatful to [RISE Research Institutes of Sweden](https://www.ri.se/en) for sponsoring our work within Climate AI Nordics! 
 
+If you're interested in discussing partnerships and/or sponsorships, please don't hesitate to get in touch!
+
+### Core team
+Already in the early days of Climate AI Nordics, we established a [core team](https://climateainordics.com/about/) of 10 people from 4 different Nordic countries (and we'd be happy to include (core) people also from Iceland, Åland, Greenland, and Faroe Island; please get in touch!). We're thankful for all the work done by the core team regarding the planning and maintenance of Climate AI Nordics. This includes planning events, collecting information for and running the webpage, taking care of our social media channels, and compiling and editing newsletters. 
+
+### Concluding remarks
 Thank you for being part of this vibrant and growing community. We are proud of what we've built together—and excited for what's ahead of us in the coming year!
+TODO: WRITE ABOUT PEOPLE INVITING MORE PEOPLE HERE.
