@@ -1,6 +1,6 @@
 ---
 title: "Celebrating one year with Climate AI Nordics!"
-summary: "From pioneering AI models for weather and biodiversity to our first Nordic Workshop on AI for Climate Change, the Climate AI Nordics community has grown and thrived throughout its first year of existance. Here's a look back at our webinars, newsletters, and key milestones."
+summary: "From pioneering AI models for weather and biodiversity to our first Nordic Workshop on AI for Climate Change, the Climate AI Nordics community has grown and thrived throughout its first year of existance. Here's a look back at key events and milestones from the first year."
 people: 
 - Olof Mogren
 - Aleksis Pirinen
@@ -13,29 +13,33 @@ In October 2024 we started **Climate AI Nordics**, and we have been amazed at wh
 
 ### Nordic Workshop on AI for Climate Change 2025
 
-One of the major milestones this year was our **first annual Nordic Workshop on AI for Climate Change**, held in Gothenburg on May 13, 2025. This full-day event gathered researchers from across the region to discuss AI’s role in biodiversity monitoring, atmospheric science, soundscapes, Earth observation, and more.
+One of the major milestones this year was our **first annual Nordic Workshop on AI for Climate Change**, held in Gothenburg on May 13, 2025. This full-day event gathered researchers from across the region to discuss AI’s role in biodiversity monitoring, atmospheric science, soundscapes, Earth observation, and more. If you want to read more about our first annual event, please check out [this page](https://climateainordics.com/news/2025-05-20-nordic-workshop/).
 
-Our sincere thanks go out to the speakers, attendees, and our partners at **CLIMES** for co-arranging the event. We’re thrilled to announce that the 2026 workshop will be hosted by our colleagues at the University of Copenhagen and the Pioneer Centre for AI on **June 26, 2026**.
+Our sincere thanks go out to the speakers, attendees, and our partners at [**CLIMES**](https://www.climes.se/) for co-arranging the event. Information on next year's annual Nordic Workshop on AI for Climate Change will come in the near term!
 
 
 ### Webinars
 
-Our webinars have served as a vibrant platform for researchers working at the intersection of artificial intelligence and climate action. We heard from leading voices on topics as diverse as weather forecasting, biodiversity monitoring, and equitable AI for conservation. We thank RISE Research Institutes of Sweden and Learning Machines Seminars for the collaboration.
+Our webinars have served as a vibrant platform for researchers working at the intersection of artificial intelligence and climate action. We have heard from leading voices on topics as diverse as weather forecasting, biodiversity monitoring, and equitable AI for conservation. We thank [RISE Research Institutes of Sweden](https://www.ri.se/en) and [Learning Machines Seminars](https://www.ri.se/en/expertise-areas/educations/learning-machines-seminars) for the collaboration.
 
 **Joel Oskarsson** (Linköping University) introduced cutting-edge machine learning models that are reshaping weather prediction, including graph-based approaches and probabilistic forecasting. **Alp Kucukelbir** (Columbia University / Fero Labs) gave a systems-level talk on AI’s role in climate change mitigation, highlighting industrial applications and the challenges of trust and scale. **Alireza Taheri Dehkordi** (Lund University) showed how satellite data and AI can help estimate water quality, a vital issue as global water resources become more strained.
 
-In February, **Benjamin Cretois** (NINA) shared experiences from the TABMON project, where acoustic sensors and deep learning models are being deployed across Europe for large-scale biodiversity monitoring. **Lily Xu** (Columbia University) brought powerful insights into real-world AI deployment for wildlife protection, blending reinforcement learning, causal inference, and field experience. And **Peter Dueben** (ECMWF) capped off the season with a sweeping vision of AI in Earth system modelling, covering the shift from traditional physics-based forecasts to foundation models.
+**Benjamin Cretois** (NINA) shared experiences from the TABMON project, where acoustic sensors and deep learning models are being deployed across Europe for large-scale biodiversity monitoring. **Lily Xu** (Columbia University) brought powerful insights into real-world AI deployment for wildlife protection, blending reinforcement learning, causal inference, and field experience. And **Peter Dueben** (ECMWF) capped off the season with a sweeping vision of AI in Earth system modelling, covering the shift from traditional physics-based forecasts to foundation models.
 
-In May, **John Martinsson** (RISE & Lund University) presented new approaches to reduce the cost and improve the quality of annotating local structures in data. His work showed how adaptive labeling techniques can help make machine learning more efficient and scalable—especially relevant for biodiversity audio datasets.
+**John Martinsson** (RISE & Lund University) presented new approaches to reduce the cost and improve the quality of annotating local structures in data. His work showed how adaptive labeling techniques can help make machine learning more efficient and scalable—especially relevant for biodiversity audio datasets. **Markus Pettersson** (Chalmers University of Technology) gave a talk on using AI and Earth observation data in the context of global development, where the talk focused in particular on the need for data debiasing and methods for doing so without fresh ground truth data.
+
+**Georges Le Bellier** (Conservatoire National des Arts et Métiers) presented work on two complementary approaches for making Earth observation models more robust and adaptable: generative domain adaptation and geospatial foundation models. He introduced FlowEO, a task-agnostic, flow-based method for unsupervised domain adaptation, and PANGAEA, a global benchmark that standardizes the evaluation of geospatial foundation models across diverse conditions and modalities. **Sigrid Passano Hellan** (NORCE Research & Bjerknes Centre for Climate Research) gave a talk on hyperparameter tuning and Bayesian optimisation as ways to automate and simplify machine learning model setup, making ML more accessible for climate applications. She also highlighted how transfer learning can accelerate optimisation and reviews real-world uses of Bayesian optimisation in climate research, including material discovery, renewable energy control, and environmental monitoring.
+
+Finally, **Sebastian Hafner** (RISE) presented work on how deep learning is transforming urban mapping and change detection using multi-modal Earth observation data. He talked about addressing key challenges such as data integration, limited labels, and geographic transferability, and highlighted the IDEAMAPS Data Ecosystem as a community-driven effort advancing DL-based mapping of urban deprivation and disaster impacts.
 
 We thank every speaker for sharing their research, and every participant who joined the conversation.
 
 
 ### Communicating Research: Newsletters & Community Updates
 
-Beyond the webinars, we’ve also published a series of monthly newsletters that document our journey and spotlight work from the community. Since October, we’ve shared featured research on thermal inequality, audio biodiversity monitoring, deep learning for remote sensing, and more. We’ve reported on interviews in national media, partnerships with organizations like CLIMES and AfriClimate AI, and the launch of our website, LinkedIn, and Slack channels.
+Beyond the webinars, we’ve also published a series of monthly newsletters that document our journey and spotlight work from the community. Since October 2024, we’ve shared featured research on thermal inequality, audio biodiversity monitoring, deep learning for remote sensing, and more. We’ve reported on interviews in national media, partnerships with organizations like [CLIMES and AfriClimate AI, and the launch of our website, LinkedIn, BlueSky, and Slack channels.
 
-Our newsletters aim to inform and connect—amplifying your successes, sharing calls for collaboration, and bringing visibility to impactful AI-for-climate work across the Nordics. Since June, we also include a list of open positions for researchers and practitioners in the field in the Nordics.
+Our newsletters aim to inform and connect—amplifying your successes, sharing calls for collaboration, and bringing visibility to impactful AI-for-climate work across the Nordics. Since June, we also include a list of open positions for researchers and practitioners in the field in the Nordics; please get in touch if you want us to post about your job openings!
 
 
-Thank you for being part of this amazing and growing community. We are proud of what we've built together—and excited for what's ahead!
+Thank you for being part of this vibrant and growing community. We are proud of what we've built together—and excited for what's ahead of us in the coming year!
