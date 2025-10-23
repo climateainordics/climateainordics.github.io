@@ -5,7 +5,7 @@ people:
 - Olof Mogren
 - Aleksis Pirinen
 permalink:
-image: /images/posts/TODO-TODO.png
+image: /images/posts/year1-celeb.png
 youtube:
 ---
 
@@ -53,7 +53,7 @@ Within our first year we also established [five partnerships](https://climateain
 If you're interested in discussing partnerships and/or sponsorships, please don't hesitate to get in touch!
 
 ### Core team
-Already in the early days of Climate AI Nordics, we established a [core team](https://climateainordics.com/about/) of 10 people from 4 different Nordic countries (and we'd be happy to include (core) people also from Iceland, Åland, Greenland, and Faroe Island; please get in touch!). We're thankful for all the work done by the core team regarding the planning and maintenance of Climate AI Nordics. This includes planning events, collecting information for and running the webpage, taking care of our social media channels, and compiling and editing newsletters. 
+Already in the early days of Climate AI Nordics, we established a [core team](https://climateainordics.com/about/) of 10 people from 4 different Nordic countries (and we'd be happy to include (core) people also from Iceland, Åland, Greenland, and Faroe Island; please get in touch!). We're thankful for all the work done by the core team regarding the planning and maintenance of Climate AI Nordics. This includes planning events, collecting information for and running the webpage, taking care of our social media channels, and compiling and editing newsletters.
 
 ### Concluding remarks
 Thank you for being part of this vibrant and growing community. We are proud of what we've built together—and excited for what's ahead of us in the coming year!
