@@ -14,11 +14,11 @@ In this paper, we introduce and rigorously evaluate two novel correction methods
 Through analytical exercises and experiments using Demographic and Health Survey (DHS) data, we demonstrate that both proposed methods outperform existing data-free approaches, can achieve significant reductions in attenuation bias and thus providing more accurate, actionable, and policy-relevant estimates. Our approach represents a generalizable, lightweight toolkit that enhances the reliability of causal inference when direct outcome measures are limited or unavailable."
 people:
 - Olof Mogren
-permalink: /events/2025-06-16-2025-08-28-debiasing-ai-predictions-for-causal-inference
+permalink: /events/2025-10-23-2025-08-28-debiasing-ai-predictions-for-causal-inference
 event_date: 2025-08-28
 event_time: "15:00"
 event_location: ""
-image: /images/posts/2025-06-16-2025-08-28-debiasing-ai-predictions-for-causal-inference.jpg
+image: /images/posts/2025-10-23-2025-08-28-debiasing-ai-predictions-for-causal-inference.jpg
 youtube: "https://www.youtube.com/watch?v=bgCQwK6a6HQ&list=PLqLiVcF3GKy0-jZFGg-VqLzh51LqCfduN"
 --- 
 Welcome to this week's Learning Machines seminar.
