@@ -17,6 +17,11 @@ One of the major milestones this year was our **first annual Nordic Workshop on 
 
 Our sincere thanks go out to the speakers, attendees, and our partners at [**CLIMES**](https://www.climes.se/) for co-arranging the event. Information on next year's annual Nordic Workshop on AI for Climate Change will come in the near term!
 
+### AICC: AI for Climate and Conservation, accepted workshop at EurIPS 2025
+
+Climate AI Nordics is also co-organizing the upcoming [EurIPS 2025] accepted workshop [_AICC: AI for Climate and Conservation_](https://sites.google.com/g.harvard.edu/aicceurips). This full-day event will gather researchers and practitioners working at the intersection between AI, climate and/or conservation. Invited speakers are Philippe Ciais (LCSE), Sagar Vaze (Mistral AI), Verena Griess (ETH Zurich), Natalie Ahlstrand (University of Copenhagen), and Drew Purves (Google DeepMind).
+
+The Call for Participation is now closed, and we thank all authors for their submitted works. Final decisions on accepted works will come shortly, and we're looking forward to meeting you in Copenhagen in December!
 
 ### Webinars
 
@@ -41,5 +46,7 @@ Beyond the webinars, we’ve also published a series of monthly newsletters that
 
 Our newsletters aim to inform and connect—amplifying your successes, sharing calls for collaboration, and bringing visibility to impactful AI-for-climate work across the Nordics. Since June, we also include a list of open positions for researchers and practitioners in the field in the Nordics; please get in touch if you want us to post about your job openings!
 
+### Partnerships
+TODO
 
 Thank you for being part of this vibrant and growing community. We are proud of what we've built together—and excited for what's ahead of us in the coming year!
