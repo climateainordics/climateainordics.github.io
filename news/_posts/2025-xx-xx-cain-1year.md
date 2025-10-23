@@ -19,7 +19,7 @@ Our sincere thanks go out to the speakers, attendees, and our partners at [**CLI
 
 ### AICC: AI for Climate and Conservation, accepted workshop at EurIPS 2025
 
-Climate AI Nordics is also co-organizing the upcoming [EurIPS 2025] accepted workshop [_AICC: AI for Climate and Conservation_](https://sites.google.com/g.harvard.edu/aicceurips). This full-day event will gather researchers and practitioners working at the intersection between AI, climate and/or conservation. Invited speakers are Philippe Ciais (LCSE), Sagar Vaze (Mistral AI), Verena Griess (ETH Zurich), Natalie Ahlstrand (University of Copenhagen), and Drew Purves (Google DeepMind).
+Climate AI Nordics is also co-organizing the upcoming [EurIPS 2025](https://eurips.cc/) accepted workshop [_AICC: AI for Climate and Conservation_](https://sites.google.com/g.harvard.edu/aicceurips). This full-day event will gather researchers and practitioners working at the intersection between AI, climate and/or conservation. Invited speakers are Philippe Ciais (LCSE), Sagar Vaze (Mistral AI), Verena Griess (ETH Zurich), Natalie Ahlstrand (University of Copenhagen), and Drew Purves (Google DeepMind).
 
 The Call for Participation is now closed, and we thank all authors for their submitted works. Final decisions on accepted works will come shortly, and we're looking forward to meeting you in Copenhagen in December!
 
