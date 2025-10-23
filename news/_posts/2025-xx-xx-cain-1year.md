@@ -8,6 +8,7 @@ permalink:
 image: /images/posts/year1-celeb.png
 youtube:
 ---
+_Image credits: Sakıp Murat Yalçın_
 
 In October 2024 we started **Climate AI Nordics**, and we have been amazed at what we have achieved together with you all. We have so far grown to [250+ registered members](https://climateainordics.com/people/), of which 192 are Nordics-affiliated and 65 are supporting affiliates from outside the Nordics. Together, our members come from about 140 different organizations.
 
