@@ -6,11 +6,11 @@ Urbanization is progressing at an unprecedented rate in many places around the w
 abstract: "Urbanization is progressing at an unprecedented rate in many places around the world, making Earth observation (EO) a vital tool for monitoring its dynamics on a global scale. Modern satellite missions provide new opportunities for urban mapping and change detection (CD) through high-resolution imagery. At the same time, EO data analysis has advanced from traditional machine learning approaches to deep learning (DL), particularly Convolutional Neural Networks (ConvNets). Yet, current DL methods for urban mapping and CD face key challenges, including effectively integrating multi-modal EO data, reducing reliance on large labeled datasets, and improving transferability across geographic regions. This talk will present methods to address these challenges in urban mapping and CD, with applications such as multi-hazard building damage detection. It will also highlight the IDEAMAPS Data Ecosystem project, showing how its community-centric approach advances our understanding of urban deprivation and enables DL-based deprivation mapping."
 people:
 - Olof Mogren
-permalink: /events/2025-09-29-2025-10-09-earth-observation-and-deep-learning-for
+permalink: /events/2025-10-23-2025-10-09-earth-observation-and-deep-learning-for
 event_date: 2025-10-09
 event_time: "15:00"
 event_location: ""
-image: /images/posts/2025-09-29-2025-10-09-earth-observation-and-deep-learning-for.jpg
+image: /images/posts/2025-10-23-2025-10-09-earth-observation-and-deep-learning-for.jpg
 youtube: "https://www.youtube.com/watch?v=rjPOzPH_CU8&list=PLqLiVcF3GKy0-jZFGg-VqLzh51LqCfduN"
 --- 
 Welcome to this week's Learning Machines seminar.
