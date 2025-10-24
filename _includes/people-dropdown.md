@@ -9,11 +9,11 @@
 <option value="Biodiversity">Biodiversity (65)</option>
 <option value="Bioinformatics">Bioinformatics (1)</option>
 <option value="Causal AI">Causal AI (1)</option>
-<option value="Climate Impacts">Climate Impacts (23)</option>
-<option value="Climate Modeling">Climate Modeling (67)</option>
+<option value="Climate Impacts">Climate Impacts (24)</option>
+<option value="Climate Modeling">Climate Modeling (68)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
-<option value="Computer Vision">Computer Vision (80)</option>
-<option value="Deep Learning">Deep Learning (108)</option>
+<option value="Computer Vision">Computer Vision (81)</option>
+<option value="Deep Learning">Deep Learning (109)</option>
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
 <option value="Earth Observation">Earth Observation (86)</option>
@@ -26,7 +26,7 @@
 <option value="Efficient or Sustainable AI">Efficient or Sustainable AI (65)</option>
 <option value="Environment Impacts of AI">Environment Impacts of AI (1)</option>
 <option value="Extreme Weather">Extreme Weather (2)</option>
-<option value="Extreme Weather Events">Extreme Weather Events (15)</option>
+<option value="Extreme Weather Events">Extreme Weather Events (16)</option>
 <option value="Fluid Dynamics">Fluid Dynamics (1)</option>
 <option value="Food Microbiology">Food Microbiology (1)</option>
 <option value="Forest">Forest (1)</option>
@@ -37,7 +37,7 @@
 <option value="Knowledge Graphs">Knowledge Graphs (1)</option>
 <option value="Land System Science">Land System Science (1)</option>
 <option value="Land Use Change Modelling">Land Use Change Modelling (1)</option>
-<option value="Machine Learning">Machine Learning (128)</option>
+<option value="Machine Learning">Machine Learning (129)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (21)</option>
 <option value="Materials">Materials (1)</option>
@@ -67,9 +67,9 @@
 <option value="Use of Weather and Climate Data Outside of Academia">Use of Weather and Climate Data Outside of Academia (1)</option>
 <option value="Visual Analytics">Visual Analytics (1)</option>
 <option value="Visualization">Visualization (1)</option>
-<option value="Weather Forecasting">Weather Forecasting (9)</option>
+<option value="Weather Forecasting">Weather Forecasting (10)</option>
 <option value="Wildfire Growth Forecasting">Wildfire Growth Forecasting (1)</option>
-<option value="Wind Energy">Wind Energy (6)</option></select>
+<option value="Wind Energy">Wind Energy (7)</option></select>
 
 <script>
         document.getElementById('tagFilter').addEventListener('change', function () {
