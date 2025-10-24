@@ -16,7 +16,7 @@ On this page, you will find the history of job openings (i.e. AI-climate-environ
 {% for p in site.posts %}
   {% if p.categories contains "job-openings" %}
 
-<!--## {{ p.people | first }}--> KEEP SOME OF THIS THAT I COMMENTED OUT?
+<!--## {{ p.people | first }} KEEP SOME OF THIS THAT I COMMENTED OUT?-->
 {% if p.image %}<img src="{{ p.image }}" style="float: right; width: 25%;" />{% endif %}
 
 
