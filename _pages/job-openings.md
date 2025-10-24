@@ -1,5 +1,5 @@
 ---
-title: Featured members
+title: Job openings
 permalink: /job-openings/
 ---
 {% include base_path %}
