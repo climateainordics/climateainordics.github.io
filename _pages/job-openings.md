@@ -7,7 +7,7 @@ permalink: /job-openings/
 <!-- NOTE! NEW NEWS ARE ADDED AS POSTS IN news/_posts! //-->
 <!-- THIS FILE NEEDS EDITING ONLY IF THE PRESENTATION OF THE PROJECTS NEED TO CHANGE. //-->
 
-On this page, you will find the history of job openings (i.e. AI-climate-environment relevant jobs across the Nordics) posted at Climate AI Nordics. Note that we do **not** maintain the links, which may become obsolete as application deadlines pass. These are also posted in our newsletter; [join us to recieve the newsletter](https://climateainordics.com/join/)!
+On this page, you will find the history of job openings (i.e. AI-climate-environment relevant jobs across the Nordics) posted at Climate AI Nordics. Note that we do **not** maintain the links, which may become obsolete as application deadlines pass. These job openings are also posted in our newsletter; [join us to recieve the newsletter](https://climateainordics.com/join/)!
 
 [Click here to see the newsletter archive](https://climateainordics.com/newsletter/).
 
