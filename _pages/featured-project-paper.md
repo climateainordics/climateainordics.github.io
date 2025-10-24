@@ -14,7 +14,7 @@ On this page, you will find the history of featured projects and papers in Clima
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 
 {% for p in site.posts %}
-  {% if p.categories contains "featured-paper" %}
+  {% if p.categories contains "featured-projects-papers" %}
 
 <!--## {{ p.people | first }} -- TODO: KEEP SOME IN THIS COMMENT? -->
 {% if p.image %}<img src="{{ p.image }}" style="float: right; width: 25%;" />{% endif %}
