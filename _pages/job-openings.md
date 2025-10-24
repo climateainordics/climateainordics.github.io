@@ -16,9 +16,8 @@ On this page, you will find the history of job openings (i.e. AI-climate-environ
 {% for p in site.posts %}
   {% if p.categories contains "job-openings" %}
 
-<!--## {{ p.people | first }} KEEP SOME OF THIS THAT I COMMENTED OUT?-->
+{{p.title}}
 {% if p.image %}<img src="{{ p.image }}" style="float: right; width: 25%;" />{% endif %}
-
 
 <span style="color:grey;">*{{p.date | date: '%Y-%m-%d'}}{% if p.categories contains "job-openings" %}; Job Opening{% endif %}*</span>
 
