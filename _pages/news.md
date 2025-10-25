@@ -14,7 +14,7 @@ On this page, you will find the news items communicated by Climate AI Nordics. E
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 
 {% for p in site.posts %}
-  {% if p.categories contains "news" or p.categories contains "job-openings" or p.categories contains "featured-member" or p.categories contains "featured-projects-papers" %}
+  {% if p.categories contains "news" or p.categories contains "job-openings" or p.categories contains "featured-member" or p.categories contains "featured-works" %}
 
 ## {{ p.title }}
 {% if p.image %}<img src="{{ p.image }}" style="float: right; width: 25%;" />{% endif %}
