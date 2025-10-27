@@ -1302,3 +1302,9 @@ Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Efficie
 <br />
 Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Extreme Weather Events * Machine Learning * Weather Forecasting * Wind Energy
 </div>
+
+<div class="content" markdown="1" data-tags="Deep Learning,Machine Learning,Weather Forecasting">
+<span title="I am a postdoc researcher working at the interface of ML and environment specifically water resources. Post DocKing Abdullah University of Science and Technology, Saudi Arabia."><strong>Ather Abbas, Post Doc, King Abdullah University of Science and Technology, Saudi Arabia</strong></span>
+<br />
+Deep Learning * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://atrcheema.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=DugZ6eEAAAAJ&amp;hl=de) * [ORCID](https://orcid.org/0000-0002-0031-745X)
+</div>

@@ -13,7 +13,7 @@
 <option value="Climate Modeling">Climate Modeling (68)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
 <option value="Computer Vision">Computer Vision (81)</option>
-<option value="Deep Learning">Deep Learning (110)</option>
+<option value="Deep Learning">Deep Learning (111)</option>
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
 <option value="Earth Observation">Earth Observation (86)</option>
@@ -37,7 +37,7 @@
 <option value="Knowledge Graphs">Knowledge Graphs (1)</option>
 <option value="Land System Science">Land System Science (1)</option>
 <option value="Land Use Change Modelling">Land Use Change Modelling (1)</option>
-<option value="Machine Learning">Machine Learning (129)</option>
+<option value="Machine Learning">Machine Learning (130)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (22)</option>
 <option value="Materials">Materials (1)</option>
@@ -67,7 +67,7 @@
 <option value="Use of Weather and Climate Data Outside of Academia">Use of Weather and Climate Data Outside of Academia (1)</option>
 <option value="Visual Analytics">Visual Analytics (1)</option>
 <option value="Visualization">Visualization (1)</option>
-<option value="Weather Forecasting">Weather Forecasting (10)</option>
+<option value="Weather Forecasting">Weather Forecasting (11)</option>
 <option value="Wildfire Growth Forecasting">Wildfire Growth Forecasting (1)</option>
 <option value="Wind Energy">Wind Energy (7)</option></select>
 
