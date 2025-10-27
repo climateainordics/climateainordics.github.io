@@ -5,6 +5,12 @@
 Biodiversity * Deep Learning * Earth System Modeling * Marine Ecology * [More info (researcher profile)](https://www.gu.se/en/about/find-staff/claesstrannegard)
 </div>
 
+<div class="content" markdown="1" data-tags="Climate Modeling,Deep Learning,Efficient or Sustainable AI,Machine Learning">
+<span title="Associate ProfessorTechnical University of Denmark."><strong>Tommy Sonne Alstrøm, Associate Professor, Technical University of Denmark</strong></span>
+<br />
+Climate Modeling * Deep Learning * Efficient or Sustainable AI * Machine Learning * [More info (researcher profile)](https://orbit.dtu.dk/en/persons/tommy-sonne-alstr%C3%B8m/) * [Research group](https://www.compute.dtu.dk/sections/cogsys) * [Publications (Scholar)](https://scholar.google.dk/citations?user=jAmaPr4AAAAJ&amp;view_op=list_works&amp;sortby=pubdate) * [ORCID](https://orcid.org/0000-0003-0941-3146)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
