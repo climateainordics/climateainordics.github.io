@@ -12,11 +12,11 @@
 <option value="Climate Impacts">Climate Impacts (24)</option>
 <option value="Climate Modeling">Climate Modeling (69)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
-<option value="Computer Vision">Computer Vision (81)</option>
-<option value="Deep Learning">Deep Learning (112)</option>
+<option value="Computer Vision">Computer Vision (82)</option>
+<option value="Deep Learning">Deep Learning (113)</option>
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
-<option value="Earth Observation">Earth Observation (86)</option>
+<option value="Earth Observation">Earth Observation (87)</option>
 <option value="Earth System Modeling">Earth System Modeling (11)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
@@ -37,7 +37,7 @@
 <option value="Knowledge Graphs">Knowledge Graphs (1)</option>
 <option value="Land System Science">Land System Science (1)</option>
 <option value="Land Use Change Modelling">Land Use Change Modelling (1)</option>
-<option value="Machine Learning">Machine Learning (131)</option>
+<option value="Machine Learning">Machine Learning (132)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (22)</option>
 <option value="Materials">Materials (1)</option>
@@ -56,7 +56,7 @@
 <option value="Species Distribution Modelling">Species Distribution Modelling (1)</option>
 <option value="Stochastic Modelling and Distributions">Stochastic Modelling and Distributions (1)</option>
 <option value="Sustainability Science">Sustainability Science (1)</option>
-<option value="Sustainable Cities">Sustainable Cities (52)</option>
+<option value="Sustainable Cities">Sustainable Cities (53)</option>
 <option value="Sustainable Energy">Sustainable Energy (11)</option>
 <option value="Sustainable Heating">Sustainable Heating (1)</option>
 <option value="Sustainable Production">Sustainable Production (29)</option>
