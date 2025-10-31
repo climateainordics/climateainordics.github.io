@@ -18,7 +18,7 @@ permalink: /events/2025-10-31-2025-11-13-self-supervised-pre-training-for-glacie
 event_date: 2025-11-13
 event_time: "15:00"
 event_location: ""
-
+image: /images/posts/2025-10-31-2025-11-13-self-supervised-pre-training-for-glacier-calving-front.jpg
 youtube: ""
 --- 
 Welcome to this week's Learning Machines seminar.
