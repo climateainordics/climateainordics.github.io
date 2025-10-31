@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Biodiversity,Deep Learning,Earth System Modeling,Marine Ecology">
-<span title="ProfessorUniversity of Gothenburg."><strong>Claes Strannegård, Professor, University of Gothenburg</strong></span>
-<br />
-Biodiversity * Deep Learning * Earth System Modeling * Marine Ecology * [More info (researcher profile)](https://www.gu.se/en/about/find-staff/claesstrannegard)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Modeling,Deep Learning,Efficient or Sustainable AI,Machine Learning">
 <span title="Associate ProfessorTechnical University of Denmark."><strong>Tommy Sonne Alstrøm, Associate Professor, Technical University of Denmark</strong></span>
 <br />
@@ -190,6 +184,12 @@ Biodiversity * Climate Impacts * Earth Observation * Earth System Modeling * Mac
 <span title="I am an Associate Professor at the Royal Institute of Technology (KTH) in Stockholm. My research lies at the intersection of remote sensing and computer vision, focusing on developing novel methods for Earth observation and geospatial data analysis. I have worked extensively on applications ranging from urban monitoring and disaster mapping to glacier and forest carbon studies. I also teach courses in Remote Sensing and Geospatial AI and supervise PhD students. My work bridges cutting-edge data science with real-world environmental and societal challenges. Associate ProfessorKTH - Royal Institute of Technology."><strong>Andrea Nascetti, Associate Professor, KTH - Royal Institute of Technology</strong></span>
 <br />
 Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://www.kth.se/profile/nascetti) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=Mdq6_jQAAAAJ) * [ORCID](https://orcid.org/0000-0001-9692-8636)
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Deep Learning,Earth System Modeling,Marine Ecology">
+<span title="ProfessorUniversity of Gothenburg."><strong>Claes Strannegård, Professor, University of Gothenburg</strong></span>
+<br />
+Biodiversity * Deep Learning * Earth System Modeling * Marine Ecology * [More info (researcher profile)](https://www.gu.se/en/about/find-staff/claesstrannegard)
 </div>
 
 <div class="content" markdown="1" data-tags="">
