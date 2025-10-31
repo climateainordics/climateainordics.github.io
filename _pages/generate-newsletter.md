@@ -109,7 +109,7 @@ This month’s issue features community updates, job opportunities, and our feat
   {% assign items_listed = false %}
 
   {% for p in site.posts %}
-    {% unless p.categories contains 'featured-work' %}{% continue %}{% endunless %}
+    {% unless p.categories contains 'featured-works' %}{% continue %}{% endunless %}
     {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
     {% if posttime < newsletter_start_time %}
       {% continue %}
