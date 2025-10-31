@@ -87,7 +87,7 @@ This month’s issue features community updates, job opportunities, and our feat
 
 {% unless items_listed %}No current news.{% endunless %}
 
-{% comment %} ######### FEATURED MEMBER ########## {% endcomment %}
+{% comment %} ######### FEATURED WORK ########## {% endcomment %}
 
 {% assign items_listed = false %}
 
@@ -98,6 +98,51 @@ This month’s issue features community updates, job opportunities, and our feat
 {% if items_listed %}
 
 <br clear=all />
+
+# Featured work
+
+    {% else %}
+      {% comment %} There is no featured work for this period.{% endcomment %}
+      {% break %}
+    {% endif %}
+  {% endif %}
+  {% assign items_listed = false %}
+
+  {% for p in site.posts %}
+    {% unless p.categories contains 'featured-work' %}{% continue %}{% endunless %}
+    {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
+    {% if posttime < newsletter_start_time %}
+      {% continue %}
+    {% endif %}
+
+    {% assign items_listed = true %}
+      {% if i == 2 %}
+<br clear=all />
+
+## {{ p.title }}
+
+    {% if p.image %}
+![](https://climateainordics.com{{ p.image  }})
+    {% endif %}
+
+{{ printdate }} {{ p.summary }}<br />
+**[(Read more)](https://climateainordics.com{{ p.url }})**
+    {% endif %}
+  {% endfor %}
+
+{% endfor %}
+
+{% comment %} ######### END, FEATURED WORK  ########## {% endcomment %}
+{% comment %} ######### FEATURED MEMBER ########## {% endcomment %}
+
+{% assign items_listed = false %}
+
+{% for i in (1..2) %}
+{% comment %} TWO ITERATIONS, FIRST TO CHECK IF ANY POSTS AVAILABLE {% endcomment %}
+
+  {% if i == 2 %}
+{% if items_listed %}
+
 
 # Featured member
 
