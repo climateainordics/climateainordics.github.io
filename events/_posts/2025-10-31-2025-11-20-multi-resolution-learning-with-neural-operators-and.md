@@ -1,0 +1,57 @@
+---
+title: "Multi-resolution learning with neural operators and long short-term memory neural networks"
+summary: "Webinar with Katarzyna Michalowska, SINTEF. 
+
+In real-world applications, collecting large amounts of high-resolution data is rarely practical. The cost of specialized equipment, time-intensive measurements, and expensive high-fidelity simulations often means that high-resolution samples are limited. Meanwhile, low-resolution data are far easier to obtain and often exist in abundance, creating a common scenario: plentiful coarse data but limited fine data. Standard neural networks, which require fixed-resolution inputs, cannot exploit this imbalance and typically perform poorly when generalizing across resolutions.
+
+Deep operator networks, or DeepONets offer a distinct advantage over standard neural networks through a property known as discretization invariance, enabling learning across varying data resolutions. However, DeepONets alone do not effectively capture long-term temporal dependencies, limiting their performance on problems involving long time horizons.
+
+In this talk, we present a framework that addresses both challenges: multi-resolution learning and long-time horizon modelling. We achieve this by extending DeepONets with long short-term memory networks (LSTMs) and introducing a multi-stage training procedure that leverages data at multiple resolutions. This hybrid architecture first learns global dynamics from abundant low-resolution data and then fine-tunes on limited high-resolution samples, capturing both multi-resolution structure and temporal dependencies. In tests on nonlinear dynamical systems, our multi-resolution DON-LSTM achieves lower generalization error and requires fewer high-resolution samples than standard DeepONet or LSTM models. Our results demonstrate that the proposed approach is well-suited for real-world scenarios where high-resolution data are limited, highlighting its potential for practical applications across science and engineering."
+abstract: "In real-world applications, collecting large amounts of high-resolution data is rarely practical. The cost of specialized equipment, time-intensive measurements, and expensive high-fidelity simulations often means that high-resolution samples are limited. Meanwhile, low-resolution data are far easier to obtain and often exist in abundance, creating a common scenario: plentiful coarse data but limited fine data. Standard neural networks, which require fixed-resolution inputs, cannot exploit this imbalance and typically perform poorly when generalizing across resolutions.
+
+Deep operator networks, or DeepONets offer a distinct advantage over standard neural networks through a property known as discretization invariance, enabling learning across varying data resolutions. However, DeepONets alone do not effectively capture long-term temporal dependencies, limiting their performance on problems involving long time horizons.
+
+In this talk, we present a framework that addresses both challenges: multi-resolution learning and long-time horizon modelling. We achieve this by extending DeepONets with long short-term memory networks (LSTMs) and introducing a multi-stage training procedure that leverages data at multiple resolutions. This hybrid architecture first learns global dynamics from abundant low-resolution data and then fine-tunes on limited high-resolution samples, capturing both multi-resolution structure and temporal dependencies. In tests on nonlinear dynamical systems, our multi-resolution DON-LSTM achieves lower generalization error and requires fewer high-resolution samples than standard DeepONet or LSTM models. Our results demonstrate that the proposed approach is well-suited for real-world scenarios where high-resolution data are limited, highlighting its potential for practical applications across science and engineering."
+people:
+- Olof Mogren
+permalink: /events/2025-10-31-2025-11-20-multi-resolution-learning-with-neural-operators-and
+event_date: 2025-11-20
+event_time: "15:00"
+event_location: ""
+image: /images/posts/2025-10-31-2025-11-20-multi-resolution-learning-with-neural-operators-and.jpg
+youtube: ""
+--- 
+Welcome to this week's Learning Machines seminar.
+
+This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
+
+**Title:** Multi-resolution learning with neural operators and long short-term memory neural networks
+
+**Speaker:** Katarzyna Michalowska, SINTEF
+
+**Abstract:** In real-world applications, collecting large amounts of high-resolution data is rarely practical. The cost of specialized equipment, time-intensive measurements, and expensive high-fidelity simulations often means that high-resolution samples are limited. Meanwhile, low-resolution data are far easier to obtain and often exist in abundance, creating a common scenario: plentiful coarse data but limited fine data. Standard neural networks, which require fixed-resolution inputs, cannot exploit this imbalance and typically perform poorly when generalizing across resolutions.
+
+Deep operator networks, or DeepONets offer a distinct advantage over standard neural networks through a property known as discretization invariance, enabling learning across varying data resolutions. However, DeepONets alone do not effectively capture long-term temporal dependencies, limiting their performance on problems involving long time horizons.
+
+In this talk, we present a framework that addresses both challenges: multi-resolution learning and long-time horizon modelling. We achieve this by extending DeepONets with long short-term memory networks (LSTMs) and introducing a multi-stage training procedure that leverages data at multiple resolutions. This hybrid architecture first learns global dynamics from abundant low-resolution data and then fine-tunes on limited high-resolution samples, capturing both multi-resolution structure and temporal dependencies. In tests on nonlinear dynamical systems, our multi-resolution DON-LSTM achieves lower generalization error and requires fewer high-resolution samples than standard DeepONet or LSTM models. Our results demonstrate that the proposed approach is well-suited for real-world scenarios where high-resolution data are limited, highlighting its potential for practical applications across science and engineering.
+
+**About the speaker:** Katarzyna Michałowska is a Research Scientist in the Analytics and Artificial Intelligence group in the Department of Mathematics and Cybernetics at SINTEF Digital, Norway. She holds a Ph.D. in physics-informed machine learning from the University of Oslo. Her research focuses on applied machine learning with a focus on physics-informed and robust machine learning solutions. The presented work is a collaboration between SINTEF and the CRUNCH group at the Division of Applied Mathematics at Brown University, USA.
+
+**Location:** This is an online seminar. Connect using Zoom.
+
+**Date:** 2025-11-20 15:00
+
+
+
+**Upcoming seminars:**
+
+* 2026-11-27: Kalle Åström, LTH, Lund University
+* 2025-12-11: Zhengpeng (Frank) Feng, Cambridge
+* 2026-02-05: Pablo Villanueva Perez, Lund University
+* 2026-03-05: Purnendu Sardar, Lund University
+* All seminars are 15:00 CET.
+
+More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
+
+-- The Learning Machines Team
+
