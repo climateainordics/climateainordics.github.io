@@ -37,14 +37,14 @@
 <option value="Knowledge Graphs">Knowledge Graphs (1)</option>
 <option value="Land System Science">Land System Science (1)</option>
 <option value="Land Use Change Modelling">Land Use Change Modelling (1)</option>
-<option value="Machine Learning">Machine Learning (132)</option>
+<option value="Machine Learning">Machine Learning (133)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (22)</option>
 <option value="Materials">Materials (1)</option>
 <option value="Metagenomics">Metagenomics (1)</option>
 <option value="Meteorology">Meteorology (1)</option>
 <option value="Molecular Modeling of Atmospheric Chemistry">Molecular Modeling of Atmospheric Chemistry (2)</option>
-<option value="NLP">NLP (30)</option>
+<option value="NLP">NLP (31)</option>
 <option value="Nature-based Solutions">Nature-based Solutions (1)</option>
 <option value="Numerical Weather Prediction">Numerical Weather Prediction (1)</option>
 <option value="Oceanography">Oceanography (1)</option>
