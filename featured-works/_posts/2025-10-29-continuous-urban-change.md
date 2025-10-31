@@ -1,5 +1,5 @@
 ---
-title: "Featured paper: Continuous Urban Change Detection From Satellite Image Time Series With Temporal Feature Refinement and Multitask Integration"
+title: "Featured paper: Continuous urban change detection from satellite image time series with temporal feature refinement and multitask integration"
 people:
 - Sebastian Hafner
 image: /images/posts/2025-10-29-continuous-urban-change.png
