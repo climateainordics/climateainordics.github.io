@@ -272,9 +272,9 @@ This month’s issue features community updates, job opportunities, and our feat
 
 {{ printdate }} {{ p.summary }}<br />
         {% if p.youtube != "" %}
-**[View recorded seminar!](https://climateainordics.com{{ url }})**
+**[View recorded seminar!](https://climateainordics.com{{ p.url }})**
         {% else %}
-**[Read more!](https://climateainordics.com{{ url }})**
+**[Read more!](https://climateainordics.com{{ p.url }})**
         {% endif %}
       {% endif %}
     {% endunless %}
