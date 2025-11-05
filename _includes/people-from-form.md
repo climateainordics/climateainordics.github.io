@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Earth Observation,Machine Learning,Sustainable Cities">
-<span title="Sebastian Hafner is an Earth observation researcher at RISE Research Institutes of Sweden and an Affiliate at the University of Glasgow, focusing on urbanization and related challenges using Earth observation and deep learning. He previously worked at the Urban Big Data Centre, developing methods that integrate geospatial data with community mapping to better understand areas of deprivation. Sebastian holds a PhD in Geoinformatics from KTH Royal Institute of Technology, where he researched deep learning for large-scale urban mapping and change detection. PhD, ResearcherRISE Research Institutes of Sweden."><strong>Sebastian Hafner, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
-<br />
-Computer Vision * Deep Learning * Earth Observation * Machine Learning * Sustainable Cities * [Publications (Scholar)](https://scholar.google.com/citations?user=_-DKm-wAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-3560-638X)
-</div>
-
 <div class="content" markdown="1" data-tags="Machine Learning,NLP">
 <span title="My research focuses on studying media discourse (social media, news outlets) to understand the language of collective action in the context of climate change. PhD StudentIT University of Copenhagen."><strong>Arianna Pera, PhD Student, IT University of Copenhagen</strong></span>
 <br />
@@ -640,6 +634,12 @@ Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observa
 <span title="Post DocAAU &amp; Pioneer Centre for AI."><strong>Malte Pedersen, Post Doc, AAU &amp; Pioneer Centre for AI</strong></span>
 <br />
 Biodiversity * Computer Vision * Deep Learning * Machine Learning * Marine Ecology * [More info (researcher profile)](https://mapeaau.github.io/) * [Research group](https://vap.aau.dk/) * [Publications (Scholar)](https://scholar.google.com/citations?user=RREDgy4AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-2941-9150)
+</div>
+
+<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Earth Observation,Machine Learning,Sustainable Cities">
+<span title="Sebastian Hafner is an Earth observation researcher at RISE Research Institutes of Sweden and an Affiliate at the University of Glasgow, focusing on urbanization and related challenges using Earth observation and deep learning. He previously worked at the Urban Big Data Centre, developing methods that integrate geospatial data with community mapping to better understand areas of deprivation. Sebastian holds a PhD in Geoinformatics from KTH Royal Institute of Technology, where he researched deep learning for large-scale urban mapping and change detection. PhD, ResearcherRISE Research Institutes of Sweden."><strong>Sebastian Hafner, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
+<br />
+Computer Vision * Deep Learning * Earth Observation * Machine Learning * Sustainable Cities * [Publications (Scholar)](https://scholar.google.com/citations?user=_-DKm-wAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-3560-638X)
 </div>
 
 <div class="content" markdown="1" data-tags="">
