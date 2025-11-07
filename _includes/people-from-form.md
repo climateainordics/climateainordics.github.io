@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Machine Learning,NLP">
-<span title="My research focuses on studying media discourse (social media, news outlets) to understand the language of collective action in the context of climate change. PhD StudentIT University of Copenhagen."><strong>Arianna Pera, PhD Student, IT University of Copenhagen</strong></span>
-<br />
-Machine Learning * NLP * [More info (researcher profile)](https://ariannap13.github.io/) * [Research group](https://nerds.itu.dk/) * [Publications (Scholar)](https://scholar.google.com/citations?user=qW7n24sAAAAJ&amp;hl=it&amp;oi=ao) * [ORCID](https://orcid.org/0009-0009-4316-3428) * [BlueSky](https://bsky.app/profile/ariannapera.bsky.social)
-</div>
-
 <div class="content" markdown="1" data-tags="AutoML,Biodiversity,Climate Impacts,Climate Modeling,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Machine Learning,Marine Ecology">
 <span title="PhD StudentUppsala University."><strong>Tinh Cao, PhD Student, Uppsala University</strong></span>
 <br />
@@ -1024,6 +1018,12 @@ AutoML * Climate Impacts * Climate Modeling * Deep Learning * Earth System Model
 <span title="Beatriz Paniego Béjar is a communications strategist and narrative designer committed to social impact, environmental responsibility, and resilience. With over a decade of experience advancing equity through nonprofit storytelling, advocacy campaigns, and strategic messaging, she brings a people-centered lens to complex global challenges. Her recent M.Sc. in Disaster Risk Management and Climate Change Adaptation deepened this focus, culminating in her thesis “The Potential of Truth Technologies: Artificial Intelligence for Societal Resilience”—a study exploring how AI can counter misinformation and support democratic futures. Compassionate and systems-minded, her work is rooted in “thrivability”—the drive to flourish while fostering societal transformation that safeguards both people and planet. She believes in human connection as a catalyst for change, and in the power of stories to make that connection stronger. Industry."><strong>Beatriz Paniego Béjar, Industry</strong></span>
 <br />
 Biodiversity * Climate Impacts * Deep Learning * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Sustainable Cities * Sustainable Energy * Sustainable Production * Sustainable Transport * Wind Energy * [More info (researcher profile)](https://www.linkedin.com/in/beatriz-paniego-bejar/)
+</div>
+
+<div class="content" markdown="1" data-tags="Machine Learning,NLP">
+<span title="My research focuses on studying media discourse (social media, news outlets) to understand the language of collective action in the context of climate change. PhD StudentIT University of Copenhagen."><strong>Arianna Pera, PhD Student, IT University of Copenhagen</strong></span>
+<br />
+Machine Learning * NLP * [More info (researcher profile)](https://ariannap13.github.io/) * [Research group](https://nerds.itu.dk/) * [Publications (Scholar)](https://scholar.google.com/citations?user=qW7n24sAAAAJ&amp;hl=it&amp;oi=ao) * [ORCID](https://orcid.org/0009-0009-4316-3428) * [BlueSky](https://bsky.app/profile/ariannapera.bsky.social)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
