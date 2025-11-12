@@ -1,10 +1,3 @@
-## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="AutoML,Biodiversity,Climate Impacts,Climate Modeling,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Machine Learning,Marine Ecology">
-<span title="PhD StudentUppsala University."><strong>Tinh Cao, PhD Student, Uppsala University</strong></span>
-<br />
-AutoML * Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * Marine Ecology
-</div>
-
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -1024,6 +1017,12 @@ Biodiversity * Climate Impacts * Deep Learning * Efficient or Sustainable AI * E
 <span title="My research focuses on studying media discourse (social media, news outlets) to understand the language of collective action in the context of climate change. PhD StudentIT University of Copenhagen."><strong>Arianna Pera, PhD Student, IT University of Copenhagen</strong></span>
 <br />
 Machine Learning * NLP * [More info (researcher profile)](https://ariannap13.github.io/) * [Research group](https://nerds.itu.dk/) * [Publications (Scholar)](https://scholar.google.com/citations?user=qW7n24sAAAAJ&amp;hl=it&amp;oi=ao) * [ORCID](https://orcid.org/0009-0009-4316-3428) * [BlueSky](https://bsky.app/profile/ariannapera.bsky.social)
+</div>
+
+<div class="content" markdown="1" data-tags="AutoML,Biodiversity,Climate Impacts,Climate Modeling,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Machine Learning,Marine Ecology">
+<span title="PhD StudentUppsala University."><strong>Tinh Cao, PhD Student, Uppsala University</strong></span>
+<br />
+AutoML * Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * Marine Ecology
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
