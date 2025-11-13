@@ -15,7 +15,5 @@ Main duties include developing machine learning solutions, writing scientific ar
 
 The position is in-person, in Gothenburg, Sweden.
 
-Link to application page will be added soon.
-
-[Full details about position.](/files/2025-rise-junior-researcher.pdf)
+[Apply here!](https://www.ri.se/sv/om-rise/jobba-hos-oss/lediga-jobb/junior-researcher-in-machine-learning)
 
