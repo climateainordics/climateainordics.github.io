@@ -1331,3 +1331,9 @@ Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Extreme W
 <br />
 Deep Learning * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://atrcheema.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=DugZ6eEAAAAJ&amp;hl=de) * [ORCID](https://orcid.org/0000-0002-0031-745X)
 </div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Earth Observation,Earth System Modeling,Extreme Weather Events,Sustainable Cities,Urban Planning,Weather Forecasting">
+<span title="Working  in Bangladesh Meteorological   Department  as  the Assistant Meteorologist  for the weather and Climate services. ResearcherBangladesh Meteorological Department."><strong>Anowar Hossen, Researcher, Bangladesh Meteorological Department</strong></span>
+<br />
+Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling * Extreme Weather Events * Sustainable Cities * Urban Planning * Weather Forecasting
+</div>
