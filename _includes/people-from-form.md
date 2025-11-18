@@ -1,3 +1,10 @@
+## Affiliates - Recently Joined
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Extreme Weather Events,Machine Learning,Sustainable Cities,Urban Planning,Generative-ai; Climate Futures; Spatial Imaginaries">
+<span title="Architect and Landscape Architect, currently working as a Researcher at the Royal Danish Academy, Institute of Architecture and Space, exploring Generative AI as a dialogue tool in visualizing Denmark&#x27;s Green Transition in a cross-disciplinary research project called &quot;AI Imaginaries.&quot;. ResearcherRoyal Danish Academy - Architecture, Design, Conservation; Institute of Architecture and Space."><strong>Nikola Gjorgjievski, Researcher, Royal Danish Academy - Architecture, Design, Conservation; Institute of Architecture and Space</strong></span>
+<br />
+Biodiversity * Climate Impacts * Extreme Weather Events * Machine Learning * Sustainable Cities * Urban Planning * Generative-ai; Climate Futures; Spatial Imaginaries * [Research group](https://royaldanishacademy.com/en/institute-architecture-space) * [ORCID](https://orcid.org/0000-0001-8156-3400)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
