@@ -48,9 +48,7 @@ Klimatkollen is a Swedish open source citizen platform visualizing climate data 
 
 **[Read more on the Klimatkollen's webpage!](https://www.klimatkollen.se/in-english)**
 
-
 <img class="logo" src="/images/partners/ellis.png" />
-
 
 The ELLIS Machine Learning for Earth and Climate Sciences Program, part of the pan-European AI network of excellence ELLIS, is dedicated to modeling and understanding the Earth system through advanced machine learning and process understanding techniques, including spatio-temporal anomaly detection, dynamic forecasting, hybrid physics-ML modeling, causal inference, and data-model fusion. By benchmarking both synthetic and real datasets, the program drives innovative research in Earth and climate sciences while reinforcing Europe’s leadership and sovereignty in modern, human-centered AI.
 
@@ -60,6 +58,10 @@ The ELLIS Machine Learning for Earth and Climate Sciences Program, part of the p
 
 <img class="logo" src="/images/partners/rise.svg" />
 
-RISE is Sweden’s research institute and innovation partner. Through our international collaboration programmes with industry, academia and the public sector, we ensure the competitiveness of the Swedish business community on an international level and contribute to a sustainable society. Our almost 3300 employees engage in and support all types of innovation processes. RISE is an independent, State-owned research institute, which offers unique expertise and over 130 testbeds and demonstration environments for future-proof technologies, products and services.
+RISE, Research Institutes of Sweden, is Sweden’s research institute and innovation partner. Through our international collaboration programmes with industry, academia and the public sector, we ensure the competitiveness of the Swedish business community on an international level and contribute to a sustainable society. Our almost 3300 employees engage in and support all types of innovation processes. RISE is an independent, State-owned research institute, which offers unique expertise and over 130 testbeds and demonstration environments for future-proof technologies, products and services.
+
+<img class="logo" src="/images/partners/pioneer-centre.png" />
+
+The Pioneer Centre for Artificial Intelligence is a Danish research center that conducts fundamental, interdisciplinary research to solve major societal challenges through AI. Hosted by the University of Copenhagen, it involves several other leading Danish universities: the Technical University of Denmark (DTU), the IT University of Copenhagen, Aalborg University, and Aarhus University. The center focuses on developing platforms, methods, and practices for human-centric AI to boost Denmark's international AI research standing. 
 
 
