@@ -34,8 +34,7 @@ This month’s issue features community updates, job opportunities, and our feat
 # News
 
 {% for p in site.posts %}
-{% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
-{% if p.categories contains 'job-openings' %}{% continue %}{% endif %}
+{% unless p.categories contains 'news' %}{% continue %}{% endunless %}
 {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
 
 {% if p.first_page %}
@@ -188,8 +187,7 @@ This month’s issue features community updates, job opportunities, and our feat
 {% assign items_listed = false %}
 
 {% for p in site.posts reversed %}
-  {% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
-  {% if p.categories contains 'job-openings' %}{% continue %}{% endif %}
+  {% unless p.categories contains 'events' %}{% continue %}{% endunless %}
 
   {% if p.event_date %}
     {% capture eventtime %}{{ p.event_date | date: '%s'}}{% endcapture %}
@@ -304,13 +302,11 @@ This month’s issue features community updates, job opportunities, and our feat
   {% assign items_listed = false %}
 
   {% for p in site.posts %}
-    {% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
+    {% unless p.categories contains 'job-openings' %}{% continue %}{% endunless %}
     {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
     {% if posttime < newsletter_start_time %}
       {% continue %}
     {% endif %}
-
-    {% unless p.categories contains 'job-openings' %}{% continue %}{% endunless %}
 
     {% assign items_listed = true %}
       {% if i == 2 %}
