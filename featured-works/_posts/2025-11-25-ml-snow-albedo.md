@@ -3,6 +3,7 @@ title: "Featured paper: Separating the Albedo-Reducing Effect of Snow Impurities
 people:
 - Alouette van Hove
 summary: "TODO"
+---
 
 ![](/images/posts/2025-11-14-featured-paper-chevrollier-figure1)
 
