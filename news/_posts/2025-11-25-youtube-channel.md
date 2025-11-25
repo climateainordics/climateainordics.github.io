@@ -25,7 +25,7 @@ We have released the recordings from this full-day event, co-arranged with our p
 
 ## 🧠 An amazing collection of webinars
 
-Beyond the workshop, our channel already features a rich archive of our webinars. These sessions have served as a meeting place for deep dives into specific technical challenges and solutions in the intersection of AI and climate action.
+Beyond the workshop, our channel already features a [rich archive of our webinars](https://www.youtube.com/watch?v=Y7WCwTeUBdI&list=PL6JkQH3tvn4Q_5w38pWCmz0GQYoDbIMsd). These sessions have served as a meeting place for deep dives into specific technical challenges and solutions in the intersection of AI and climate action.
 
 Explore talks from the past year, including:
 
