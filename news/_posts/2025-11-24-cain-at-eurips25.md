@@ -4,12 +4,6 @@ summary: "TODO - Summary"
 people: 
 - Olof Mogren
 - Aleksis Pirinen
-- Nico Lang
-- Ankit Kariryaa
-- Francesca Larosa
-- Maria Bånkestad
-- Serge Belongie
-- Christian Igel
 image: /images/posts/cain-at-eurips2025.png
 ---
 
