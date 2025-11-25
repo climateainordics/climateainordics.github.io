@@ -1,9 +1,15 @@
 ---
 title: "Climate AI Nordics at EurIPS 2025"
-summary: "TODO - Summary"
+summary: "Here we summarize Climate AI Nordics-related activities at EurIPS 2025!"
 people: 
 - Olof Mogren
 - Aleksis Pirinen
+- Nico Lang
+- Ankit Kariryaa
+- Francesca Larosa
+- Maria Bånkestad
+- Serge Belongie
+- Christian Igel
 image: /images/posts/cain-at-eurips2025.png
 ---
 
