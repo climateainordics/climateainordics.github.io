@@ -3,7 +3,7 @@ title: "Featured member, November 2025: Joakim Bruslund Haurum"
 summary: ""
 people:
 - Joakim Bruslund Haurum
-image: /images/people/featured/bruslund.png
+image: /images/people/featured/bruslund.jpg
 ---
 
 
