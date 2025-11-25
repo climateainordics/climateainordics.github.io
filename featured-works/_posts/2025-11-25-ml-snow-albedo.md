@@ -2,7 +2,7 @@
 title: "Featured paper: Separating the Albedo-Reducing Effect of Snow Impurities Using Machine Learning"
 people:
 - Alouette van Hove
-summary: "TODO"
+summary: "This study presents an AI-driven inversion framework that uses a deep-learning emulator of a radiative transfer model to estimate snow albedo and quantify the impact of light-absorbing particles (LAPs) such as dust, black carbon, and algae. Trained on 5.8 million simulations, the method accelerates computations by 30× while maintaining accuracy, enabling large-scale mapping from drone or satellite data. Applied to field observations, it revealed strong but variable LAP effects on albedo and complex interactions between multiple impurities, offering a powerful tool for improving melt forecasts and climate projections."
 ---
 
 ![](/images/posts/2025-11-14-featured-paper-chevrollier-figure1)
