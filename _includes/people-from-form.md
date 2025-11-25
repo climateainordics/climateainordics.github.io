@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Extreme Weather Events,Machine Learning,Sustainable Cities,Urban Planning,Generative-ai; Climate Futures; Spatial Imaginaries">
-<span title="Architect and Landscape Architect, currently working as a Researcher at the Royal Danish Academy, Institute of Architecture and Space, exploring Generative AI as a dialogue tool in visualizing Denmark&#x27;s Green Transition in a cross-disciplinary research project called &quot;AI Imaginaries.&quot;. ResearcherRoyal Danish Academy - Architecture, Design, Conservation; Institute of Architecture and Space."><strong>Nikola Gjorgjievski, Researcher, Royal Danish Academy - Architecture, Design, Conservation; Institute of Architecture and Space</strong></span>
-<br />
-Biodiversity * Climate Impacts * Extreme Weather Events * Machine Learning * Sustainable Cities * Urban Planning * Generative-ai; Climate Futures; Spatial Imaginaries * [Research group](https://royaldanishacademy.com/en/institute-architecture-space) * [ORCID](https://orcid.org/0000-0001-8156-3400)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Earth System Modeling,Extreme Weather Events">
 <span title="PhD, ResearcherSwedish Meteorological and Hydrological Institute."><strong>Yi-Chi Wang, PhD, Researcher, Swedish Meteorological and Hydrological Institute</strong></span>
 <br />
@@ -1036,6 +1030,12 @@ Machine Learning * NLP * [More info (researcher profile)](https://ariannap13.git
 <span title="PhD StudentUppsala University."><strong>Tinh Cao, PhD Student, Uppsala University</strong></span>
 <br />
 AutoML * Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * Marine Ecology
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Extreme Weather Events,Machine Learning,Sustainable Cities,Urban Planning,Generative-ai; Climate Futures; Spatial Imaginaries">
+<span title="Architect and Landscape Architect, currently working as a Researcher at the Royal Danish Academy, Institute of Architecture and Space, exploring Generative AI as a dialogue tool in visualizing Denmark&#x27;s Green Transition in a cross-disciplinary research project called &quot;AI Imaginaries.&quot;. ResearcherRoyal Danish Academy - Architecture, Design, Conservation; Institute of Architecture and Space."><strong>Nikola Gjorgjievski, Researcher, Royal Danish Academy - Architecture, Design, Conservation; Institute of Architecture and Space</strong></span>
+<br />
+Biodiversity * Climate Impacts * Extreme Weather Events * Machine Learning * Sustainable Cities * Urban Planning * Generative-ai; Climate Futures; Spatial Imaginaries * [Research group](https://royaldanishacademy.com/en/institute-architecture-space) * [ORCID](https://orcid.org/0000-0001-8156-3400)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
