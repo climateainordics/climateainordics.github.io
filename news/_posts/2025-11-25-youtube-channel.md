@@ -1,6 +1,6 @@
 ---
 title: "Climate AI Nordics launches official YouTube channel"
-summary: ""
+summary: "To celebrate our one-year anniversary, Climate AI Nordics is launching a new YouTube channel dedicated to sharing knowledge within the AI and climate community. The channel features a complete set of recordings from the inaugural Nordic Workshop on AI for Climate Change held in Gothenburg this past May. In addition to workshop content, viewers can access an extensive library of past webinars covering topics such as biodiversity monitoring, weather forecasting, and Earth system modelling. We invite researchers and practitioners to explore these valuable resources and join us as we look forward to another year of collaboration and innovation."
 people: 
 - Olof Mogren
 - Aleksis Pirinen
