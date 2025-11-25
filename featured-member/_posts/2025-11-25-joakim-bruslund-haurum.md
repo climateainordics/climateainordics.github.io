@@ -1,6 +1,6 @@
 ---
 title: "Featured member, November 2025: Joakim Bruslund Haurum"
-summary: ""
+summary: "Joakim Bruslund Haurum, an Assistant Professor at the University of Southern Denmark’s new Vejle Campus and the Pioneer Centre for AI, is the featured member for November 2025. He is a Computer Vision researcher specializing in expert tasks, balancing pure research on algorithms with applied work in infrastructure inspection and biodiversity monitoring. Beyond his studies on hierarchical data, Joakim engages with the scientific community (and with Climate AI Nordics) by co-organizing events like the AI for Climate and Conservation workshop at EurIPS. He is currently seeking collaborations with others interested in solving challenges related to messy data in expert domains."
 people:
 - Joakim Bruslund Haurum
 image: /images/people/featured/bruslund.jpg
