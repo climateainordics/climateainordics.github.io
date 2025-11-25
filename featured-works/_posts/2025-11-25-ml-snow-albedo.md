@@ -2,11 +2,11 @@
 title: "Featured paper: Separating the Albedo-Reducing Effect of Snow Impurities Using Machine Learning"
 people:
 - Alouette van Hove
-image: /images/posts/2025-11-14-featured-paper-chevrollier-figure1.jpg
+image: /images/posts/2025-11-14-featured-paper-chevrollier-figure1.png
 summary: "This study presents an AI-driven inversion framework that uses a deep-learning emulator of a radiative transfer model to estimate snow albedo and quantify the impact of light-absorbing particles (LAPs) such as dust, black carbon, and algae. Trained on 5.8 million simulations, the method accelerates computations by 30× while maintaining accuracy, enabling large-scale mapping from drone or satellite data. Applied to field observations, it revealed strong but variable LAP effects on albedo and complex interactions between multiple impurities, offering a powerful tool for improving melt forecasts and climate projections."
 ---
 
-![](/images/posts/2025-11-14-featured-paper-chevrollier-figure1.jpg)
+![](/images/posts/2025-11-14-featured-paper-chevrollier-figure1.png)
 
 *Lou-Anne Chevrollier from Aarhus University and Adrien Wehrlé from Zurich University collecting snow reflectance data at the Finse Research Station.*
 
@@ -18,7 +18,7 @@ Snow albedo—the fraction of sunlight reflected by snow—plays a key role in E
 
 To address this challenge, the study introduces an AI-based inversion framework using a deep-learning emulator of a radiative transfer model. Trained on over 5.8 million simulations, the emulator predicts spectral albedo from key surface parameters such as snow grain size, liquid water content, and LAP concentrations. Coupled with a gradient-based inversion algorithm, this approach simultaneously quantifies the role of each individual LAP type in surface darkening. The use of AI in this study enabled a speed up of the original model by 30 times while maintaining high accuracy, making it suitable for large-scale applications using drone or satellite imagery.
 
-![](/images/posts/2025-11-14-featured-paper-chevrollier-figure2.jpg)
+![](/images/posts/2025-11-14-featured-paper-chevrollier-figure2.png)
 
 *Figure 2 reproduced from the original study, showing the agreement between model and observations as well as the retrieved surface parameters for different surface types (from left to right): clean snow, algal-loaded snow, dust-loaded snow, black particles-loaded snow.*
 
