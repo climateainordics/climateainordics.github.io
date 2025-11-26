@@ -1,10 +1,3 @@
-## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Earth System Modeling,Extreme Weather Events">
-<span title="PhD, ResearcherSwedish Meteorological and Hydrological Institute."><strong>Yi-Chi Wang, PhD, Researcher, Swedish Meteorological and Hydrological Institute</strong></span>
-<br />
-Climate Impacts * Climate Modeling * Earth System Modeling * Extreme Weather Events * [More info (researcher profile)](https://www.smhi.se/en/research/research-units/climate-research-at-the-rossby-centre/contact-us-at-the-rossby-centre/yi-chi-wang) * [Publications (Scholar)](https://scholar.google.com/citations?user=eUdRCOMAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-2781-8673)
-</div>
-
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -640,6 +633,12 @@ Biodiversity * Computer Vision * Deep Learning * Machine Learning * Marine Ecolo
 <span title="Sebastian Hafner is an Earth observation researcher at RISE Research Institutes of Sweden and an Affiliate at the University of Glasgow, focusing on urbanization and related challenges using Earth observation and deep learning. He previously worked at the Urban Big Data Centre, developing methods that integrate geospatial data with community mapping to better understand areas of deprivation. Sebastian holds a PhD in Geoinformatics from KTH Royal Institute of Technology, where he researched deep learning for large-scale urban mapping and change detection. PhD, ResearcherRISE Research Institutes of Sweden."><strong>Sebastian Hafner, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
 <br />
 Computer Vision * Deep Learning * Earth Observation * Machine Learning * Sustainable Cities * [Publications (Scholar)](https://scholar.google.com/citations?user=_-DKm-wAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0003-3560-638X)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Earth System Modeling,Extreme Weather Events">
+<span title="PhD, ResearcherSwedish Meteorological and Hydrological Institute."><strong>Yi-Chi Wang, PhD, Researcher, Swedish Meteorological and Hydrological Institute</strong></span>
+<br />
+Climate Impacts * Climate Modeling * Earth System Modeling * Extreme Weather Events * [More info (researcher profile)](https://www.smhi.se/en/research/research-units/climate-research-at-the-rossby-centre/contact-us-at-the-rossby-centre/yi-chi-wang) * [Publications (Scholar)](https://scholar.google.com/citations?user=eUdRCOMAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-2781-8673)
 </div>
 
 <div class="content" markdown="1" data-tags="">
