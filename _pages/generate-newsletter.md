@@ -49,7 +49,7 @@ This month’s issue features community updates, job opportunities, and our feat
 {% endif %}
 
 {% if p.event_date %}*{{ p.event_date }}*{% else %}*{{ p.date | date: '%Y-%m-%d' }}*{% endif %} {{ p.summary }}<br />
-**[(Read more)](https://climateainordics.com{{ p.url }})**
+**[Read more!](https://climateainordics.com{{ p.url }})**
 {% endif %}
 {% endfor %}
 
@@ -80,7 +80,7 @@ This month’s issue features community updates, job opportunities, and our feat
 {% endif %}
 
 {{printdate}} {{ p.summary }}<br />
-**[(Read more)](https://climateainordics.com{{ p.url }})**
+**[Read more!](https://climateainordics.com{{ p.url }})**
 {% endunless %}
 {% endfor %}
 
@@ -125,7 +125,7 @@ This month’s issue features community updates, job opportunities, and our feat
     {% endif %}
 
 {{ printdate }} {{ p.summary }}<br />
-**[(Read more)](https://climateainordics.com{{ p.url }})**
+**[Read more!](https://climateainordics.com{{ p.url }})**
     {% endif %}
   {% endfor %}
 
@@ -170,7 +170,7 @@ This month’s issue features community updates, job opportunities, and our feat
     {% endif %}
 
 {{ printdate }} {{ p.summary }}<br />
-**[(Read more)](https://climateainordics.com{{ p.url }})**
+**[Read more!](https://climateainordics.com{{ p.url }})**
     {% endif %}
   {% endfor %}
 
@@ -213,7 +213,7 @@ This month’s issue features community updates, job opportunities, and our feat
 {{printdate}}
 
 {{ p.summary }}<br />
-**[(Read more)](https://climateainordics.com{{ p.url }})**
+**[Read more!](https://climateainordics.com{{ p.url }})**
 
   {% endunless %}
 {% endfor %}
@@ -319,7 +319,7 @@ This month’s issue features community updates, job opportunities, and our feat
     {% endif %}
 
 {{ p.summary }}<br />
-**[(Read more)](https://climateainordics.com{{ p.url }})**
+**[Read more!](https://climateainordics.com{{ p.url }})**
     {% endif %}
   {% endfor %}
 
