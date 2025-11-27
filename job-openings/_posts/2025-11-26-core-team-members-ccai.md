@@ -1,6 +1,6 @@
 ---
 title: "Join the Climate Change AI Core Team!"
-summary: "CCAI is looking for new core team members to play leading roles in the organization’s ongoing activities."
+summary: "Climate Change AI is looking for new core team members to play leading roles in the organization’s ongoing activities. (Note that this is for the world-spanning organization Climate Change AI. Currently, Climate AI Nordics is not looking for Core team members.)"
 people:
 - Lynn Kaack
 permalink:
@@ -16,4 +16,6 @@ This recruitment call includes roles related to communications, community and ed
 Full details about the roles we are recruiting for and how to apply are available at:
 [https://www.climatechange.ai/contribute/core-team-application](https://www.climatechange.ai/contribute/core-team-application)
 
-We are greatly looking forward to receiving your application!
+Climate Change AI is greatly looking forward to receiving your application!
+
+(Note that this is for the world-spanning organization Climate Change AI. Currently, Climate AI Nordics is not looking for Core team members.)
