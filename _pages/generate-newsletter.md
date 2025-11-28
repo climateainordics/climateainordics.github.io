@@ -320,7 +320,7 @@ This month’s issue features community updates, job opportunities, and our feat
 
 {{ p.summary }}<br />
 
-{% if p.deadline %}Deadline: {{ p.deadline | date: '%s'}}<br />{% endif %}
+{% if p.deadline %}Deadline: {{ p.deadline }}<br />{% endif %}
 
 **[Read more!](https://climateainordics.com{{ p.url }})**
     {% endif %}
