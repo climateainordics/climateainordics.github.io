@@ -5,6 +5,7 @@ people:
 permalink:
 image: /images/external-organizations-logos/rise.png
 youtube: ""
+deadline: 2025-11-30
 ---
 
 RISE is hiring a junior researcher in machine learning for climate adaptation.

@@ -240,8 +240,7 @@ This month’s issue features community updates, job opportunities, and our feat
   {% assign items_listed = false %}
 
   {% for p in site.posts %}
-    {% if p.categories contains 'newsletter' %}{% continue %}{% endif %}
-    {% if p.categories contains 'job-openings' %}{% continue %}{% endif %}
+    {% unless p.categories contains 'events' %}{% continue %}{% endunless %}
     {% capture eventtime %}{{ p.event_date | date: '%s'}}{% endcapture %}
     {% if eventtime < newsletter_start_time %}
       {% continue %}
@@ -304,7 +303,8 @@ This month’s issue features community updates, job opportunities, and our feat
   {% for p in site.posts %}
     {% unless p.categories contains 'job-openings' %}{% continue %}{% endunless %}
     {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
-    {% if posttime < newsletter_start_time %}
+    {% if p.deadline %}{% capture deadlinetime %}{{ p.deadline | date: '%s'}}{% endcapture %}{% else %}{% assign deadlinetime = 0 %}{% endif %}
+    {% if posttime < newsletter_start_time or deadlinetime > nowtime %}
       {% continue %}
     {% endif %}
 
