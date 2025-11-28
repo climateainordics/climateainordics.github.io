@@ -1,5 +1,5 @@
 ---
-title: "Community Win: Klimatkollen Secures 3 MSEK to Analyze Climate Plans with AI"
+title: "Community win: Klimatkollen secures 3 MSEK to analyze climate plans with AI"
 summary: "Great news from our community! Through partnerships found right here at Climate AI Nordics, Klimatkollen has received 3 million SEK from the Swedish Postcode Lottery Foundation. They are teaming up with NORCE to use the AI model \"Garbo AI\" to analyze municipal climate plans. This project will increase transparency and help standardize local climate data across Sweden."
 people: 
 - Sigrid Passano Hellan
