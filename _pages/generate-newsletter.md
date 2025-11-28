@@ -19,7 +19,7 @@ Welcome to the {{ "now" | date: "%B" }} edition of the Climate AI Nordics Newsle
 {% if nowtime < december %}
 This month, we are celebrating a major milestone that highlights the true power of this community. Our partner Klimatkollen has secured 3 million SEK from the Postcode Lottery Foundation for a project on AI-driven climate plan analysis—a collaboration with NORCE that was formed explicitly through connections made right here in this network.
 
-In addition to this success story, we are marking our one-year anniversary with the launch of our official YouTube channel, giving you open access to our full archive of workshops and webinars.
+In addition to this success story, we are continuing our one-year anniversary from last month with the launch of our official YouTube channel, giving you open access to our full archive of workshops and webinars.
 
 As our network grows to 199 members across the Nordics and 72 international supporters, we look forward to seeing many of you in Copenhagen next month for EurIPS 2025. Until then, explore our latest updates, job opportunities, and featured research below.
 
