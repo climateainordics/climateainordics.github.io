@@ -3,12 +3,29 @@ title: "Climate AI Nordics Newsletter"
 excerpt: "Climate AI Nordics Newsletter"
 permalink: /generate-newsletter/
 ---
+{% assign previous_newsletter = site.categories['newsletter'] | sort: 'date' | map: 'date' | last | date: "%Y-%m-%d" %}
+
+{% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}
+{% capture december %}{{'2025-12-01' | date: '%s'}}{% endcapture %}
+{% capture previous_newsletter_time %}{{ previous_newsletter | date: '%s' }}{% endcapture %}
+{% capture newsletter_start_time %}{{ previous_newsletter_time | plus: 86400 }}{% endcapture %}
 
 <style>
 body{font-family: arial, sans-serif;} img{ float: right; width: 8em; margin: 0.4em;} p{margin: .6em 0.2em .6em 0.2em;} h1{margin: .6em 0.2em .6em 0.2em;} h2{margin: .6em 0.2em .6em 0.2em;} h3{margin: .6em 0.2em .6em 0.2em;} h4{margin: .6em 0.2em .6em 0.2em;}
 </style>
 
 Welcome to the {{ "now" | date: "%B" }} edition of the Climate AI Nordics Newsletter!
+
+{% nowtime < december %}
+This month, we are celebrating a major milestone that highlights the true power of this community. Our partner Klimatkollen has secured 3 million SEK from the Postcode Lottery Foundation for a project on AI-driven climate plan analysis—a collaboration with NORCE that was formed explicitly through connections made right here in this network.
+
+In addition to this success story, we are marking our one-year anniversary with the launch of our official YouTube channel, giving you open access to our full archive of workshops and webinars.
+
+As our network grows to 199 members across the Nordics and 72 international supporters, we look forward to seeing many of you in Copenhagen next month for EurIPS 2025. Until then, explore our latest updates, job opportunities, and featured research below.
+
+If you know colleagues in academia, public agencies, or industry who should be part of this conversation, please invite them to join us at [climateainordics.com/join](https://climateainordics.com/join).
+
+{% endif %}
 
 Since launching in October 2024, our community has grown to 
 {% include people_from_form_count_number_only_nordics.md %}
@@ -21,11 +38,6 @@ If you know colleagues in academia, public agencies, or industry who share these
 
 This month’s issue features community updates, job opportunities, and our featured member.
 
-{% assign previous_newsletter = site.categories['newsletter'] | sort: 'date' | map: 'date' | last | date: "%Y-%m-%d" %}
-
-{% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}
-{% capture previous_newsletter_time %}{{ previous_newsletter | date: '%s' }}{% endcapture %}
-{% capture newsletter_start_time %}{{ previous_newsletter_time | plus: 86400 }}{% endcapture %}
 
 {% assign items_listed = false %}
 
@@ -320,7 +332,7 @@ This month’s issue features community updates, job opportunities, and our feat
 
 {{ p.summary }}<br />
 
-{% assign oneweektime = nowtime | plus 604800 %}
+{% capture oneweektime %}{{ nowtime | number | plus 604800 }}{% endcapture %}
 {% if p.deadline != null and p.deadline != "" %}{% if deadlinetime < oneweektime %}<span style="font-weight: bold; color: #f00;">{% endif %}Deadline: {{ p.deadline }}{% if deadlinetime < oneweektime %}</span>{% endif %}<br />{% endif %}
 
 **[Read more!](https://climateainordics.com{{ p.url }})**
