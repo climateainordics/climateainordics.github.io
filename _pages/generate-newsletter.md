@@ -303,7 +303,7 @@ This month’s issue features community updates, job opportunities, and our feat
   {% for p in site.posts %}
     {% unless p.categories contains 'job-openings' %}{% continue %}{% endunless %}
     {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
-    {% if p.deadline %}{% capture deadlinetime %}{{ p.deadline | date: '%s'}}{% endcapture %}{% else %}{% assign deadlinetime = 0 %}{% endif %}
+    {% if p.deadline %}{% capture deadlinetime %}{{ p.deadline | date: '%s'}}{% endcapture %}{% else %}{% assign deadlinetime = "1970-01-01" | date: '%s' %}{% endif %}
     {% if posttime < newsletter_start_time and deadlinetime < nowtime %}
       {% continue %}
     {% endif %}
