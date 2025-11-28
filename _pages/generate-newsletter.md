@@ -320,7 +320,7 @@ This month’s issue features community updates, job opportunities, and our feat
 
 {{ p.summary }}<br />
 
-{% assign oneweektime = nowtime | plus 604800%}
+{% assign oneweektime = nowtime | plus 604800 %}
 {% if p.deadline != null and p.deadline != "" %}{% if deadlinetime < oneweektime %}<span style="font-weight: bold; color: #f00;">{% endif %}Deadline: {{ p.deadline }}{% if deadlinetime < oneweektime %}</span>{% endif %}<br />{% endif %}
 
 **[Read more!](https://climateainordics.com{{ p.url }})**
