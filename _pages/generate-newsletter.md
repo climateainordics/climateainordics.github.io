@@ -319,6 +319,9 @@ This month’s issue features community updates, job opportunities, and our feat
     {% endif %}
 
 {{ p.summary }}<br />
+
+{% if p.deadline %}Deadline: {{ p.deadline | date: '%s'}}<br />{% endif %}
+
 **[Read more!](https://climateainordics.com{{ p.url }})**
     {% endif %}
   {% endfor %}
