@@ -25,7 +25,7 @@ As our network grows to 199 members across the Nordics and 72 international supp
 
 If you know colleagues in academia, public agencies, or industry who should be part of this conversation, please invite them to join us at [climateainordics.com/join](https://climateainordics.com/join).
 
-{% endif %}
+{% else %}
 
 Since launching in October 2024, our community has grown to 
 {% include people_from_form_count_number_only_nordics.md %}
@@ -38,6 +38,7 @@ If you know colleagues in academia, public agencies, or industry who share these
 
 This month’s issue features community updates, job opportunities, and our featured member.
 
+{% endif %}
 
 {% assign items_listed = false %}
 
