@@ -1,1 +1,1 @@
-In total, 199 people are affiliated with Climate AI Nordics. Another 73 people are supporting affiliates from outside the Nordics. The affiliates and supporting affiliates come from 155 different organizations in total.
+In total, 200 people are affiliated with Climate AI Nordics. Another 73 people are supporting affiliates from outside the Nordics. The affiliates and supporting affiliates come from 156 different organizations in total.
