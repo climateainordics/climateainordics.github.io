@@ -1362,3 +1362,9 @@ Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Earth Sy
 <br />
 Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Machine Learning * Sustainable Cities * [More info (researcher profile)](https://www.geog.uni-heidelberg.de/de/personen-am-institut/dr-steffen-knoblauch) * [Research group](https://heigit.org/) * [Publications (Scholar)](https://scholar.google.com/citations?user=bnVdx2YAAAAJ&amp;hl=de) * [ORCID](https://orcid.org/0000-0003-3077-8094)
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Deep Learning,Earth System Modeling,Efficient or Sustainable AI,Machine Learning">
+<span title="Trained mathematician with machine learning research experience and strong interest in modeling earth systems. ResearcherMila - Quebec AI Institute."><strong>David Mickisch, Researcher, Mila - Quebec AI Institute</strong></span>
+<br />
+Climate Modeling * Deep Learning * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * [More info (researcher profile)](https://davidmickisch.quarto.pub/blog) * [Research group](https://davidrolnick.com/lab/) * [Publications (Scholar)](https://scholar.google.com/citations?user=r8uOcJoAAAAJ&amp;hl=en)
+</div>
