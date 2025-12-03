@@ -12,11 +12,11 @@
 <option value="Climate Impacts">Climate Impacts (30)</option>
 <option value="Climate Modeling">Climate Modeling (73)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
-<option value="Computer Vision">Computer Vision (83)</option>
-<option value="Deep Learning">Deep Learning (116)</option>
+<option value="Computer Vision">Computer Vision (84)</option>
+<option value="Deep Learning">Deep Learning (117)</option>
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
-<option value="Earth Observation">Earth Observation (90)</option>
+<option value="Earth Observation">Earth Observation (91)</option>
 <option value="Earth System Modeling">Earth System Modeling (15)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
@@ -38,7 +38,7 @@
 <option value="Knowledge Graphs">Knowledge Graphs (1)</option>
 <option value="Land System Science">Land System Science (1)</option>
 <option value="Land Use Change Modelling">Land Use Change Modelling (1)</option>
-<option value="Machine Learning">Machine Learning (138)</option>
+<option value="Machine Learning">Machine Learning (139)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (23)</option>
 <option value="Materials">Materials (1)</option>

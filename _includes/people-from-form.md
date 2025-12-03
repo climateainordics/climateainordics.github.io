@@ -1368,3 +1368,9 @@ Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observa
 <br />
 Climate Modeling * Deep Learning * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * [More info (researcher profile)](https://davidmickisch.quarto.pub/blog) * [Research group](https://davidrolnick.com/lab/) * [Publications (Scholar)](https://scholar.google.com/citations?user=r8uOcJoAAAAJ&amp;hl=en)
 </div>
+
+<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Earth Observation,Machine Learning">
+<span title="PhD student in CS. PhD StudentUniversity of Cambridge."><strong>Yihang She, PhD Student, University of Cambridge</strong></span>
+<br />
+Computer Vision * Deep Learning * Earth Observation * Machine Learning * [More info (researcher profile)](https://yihshe.github.io) * [Research group](https://Energy and Environment Group, Cambridge )
+</div>
