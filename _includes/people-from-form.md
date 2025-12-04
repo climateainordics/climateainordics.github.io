@@ -5,6 +5,12 @@
 Climate Impacts * Deep Learning * Extreme Weather Events * Machine Learning * [Research group](https://nbi.ku.dk/english/research/pice/) * [Publications (Scholar)](https://scholar.google.com/citations?view_op=list_works&amp;hl=da&amp;user=KuUoQ6gAAAAJ) * [ORCID](https://orcid.org/0009-0006-9473-1200)
 </div>
 
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Computer Vision,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,NLP,Sustainable Cities,Sustainable Energy,Urban Planning,Weather Forecasting,Wind Energy">
+<span title="PhD, ResearcherUniversity of Helsinki."><strong>Martha Arbayani Zaidan, PhD, Researcher, University of Helsinki</strong></span>
+<br />
+Bayesian Optimisation * Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * NLP * Sustainable Cities * Sustainable Energy * Urban Planning * Weather Forecasting * Wind Energy * [More info (researcher profile)](https://www.marthazaidan.com) * [Research group](https://http://www.helsinki.fi/iron) * [Publications (Scholar)](https://scholar.google.fi/citations?user=kAZnkMoAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-6348-1230)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
