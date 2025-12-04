@@ -8,7 +8,13 @@ Climate Impacts * Deep Learning * Extreme Weather Events * Machine Learning * [R
 <div class="content" markdown="1" data-tags="Bayesian Optimisation,Computer Vision,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,NLP,Sustainable Cities,Sustainable Energy,Urban Planning,Weather Forecasting,Wind Energy">
 <span title="PhD, ResearcherUniversity of Helsinki."><strong>Martha Arbayani Zaidan, PhD, Researcher, University of Helsinki</strong></span>
 <br />
-Bayesian Optimisation * Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * NLP * Sustainable Cities * Sustainable Energy * Urban Planning * Weather Forecasting * Wind Energy * [More info (researcher profile)](https://www.marthazaidan.com) * [Research group](https://http://www.helsinki.fi/iron) * [Publications (Scholar)](https://scholar.google.fi/citations?user=kAZnkMoAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-6348-1230)
+Bayesian Optimisation * Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * NLP * Sustainable Cities * Sustainable Energy * Urban Planning * Weather Forecasting * Wind Energy * [More info (researcher profile)](https://www.marthazaidan.com) * [Research group](https://www.helsinki.fi/en/researchgroups/intelligent-environmental-monitoring-and-analytics) * [Publications (Scholar)](https://scholar.google.fi/citations?user=kAZnkMoAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-6348-1230)
+</div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Machine Learning,Urban Planning">
+<span title="Senior Lecturer in Machine LearningMalmö University."><strong>Najmeh Abiri, Senior Lecturer in Machine Learning, Malmö University</strong></span>
+<br />
+Bayesian Optimisation * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Machine Learning * Urban Planning
 </div>
 
 ## Affiliates
