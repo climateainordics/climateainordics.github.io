@@ -1380,3 +1380,9 @@ Computer Vision * Deep Learning * Earth Observation * Machine Learning * [More i
 <br />
 Climate Impacts * Deep Learning * Sustainable Energy * Sustainable Production * Wind Energy
 </div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning,Soundscape Analysis">
+<span title="Noiselab.ucsd.edu has more details. I’m new processor at DTU. ProfessorDTU."><strong>PETER GERSTOFT, Professor, DTU</strong></span>
+<br />
+Bayesian Optimisation * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * Soundscape Analysis * [More info (researcher profile)](https://Noiselab.ucsd.edu) * [Research group](https://Noiselab.ucsd.edu) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=oLMfDnYAAAAJ) * [ORCID](https://orcid.org/0000-0002-0471-062X )
+</div>
