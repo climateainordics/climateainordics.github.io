@@ -9,11 +9,11 @@
 <option value="Biodiversity">Biodiversity (70)</option>
 <option value="Bioinformatics">Bioinformatics (1)</option>
 <option value="Causal AI">Causal AI (1)</option>
-<option value="Climate Impacts">Climate Impacts (30)</option>
+<option value="Climate Impacts">Climate Impacts (31)</option>
 <option value="Climate Modeling">Climate Modeling (73)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
 <option value="Computer Vision">Computer Vision (84)</option>
-<option value="Deep Learning">Deep Learning (117)</option>
+<option value="Deep Learning">Deep Learning (118)</option>
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
 <option value="Earth Observation">Earth Observation (91)</option>
@@ -58,9 +58,9 @@
 <option value="Stochastic Modelling and Distributions">Stochastic Modelling and Distributions (1)</option>
 <option value="Sustainability Science">Sustainability Science (1)</option>
 <option value="Sustainable Cities">Sustainable Cities (56)</option>
-<option value="Sustainable Energy">Sustainable Energy (11)</option>
+<option value="Sustainable Energy">Sustainable Energy (12)</option>
 <option value="Sustainable Heating">Sustainable Heating (1)</option>
-<option value="Sustainable Production">Sustainable Production (29)</option>
+<option value="Sustainable Production">Sustainable Production (30)</option>
 <option value="Sustainable Space Exploration and Research">Sustainable Space Exploration and Research (1)</option>
 <option value="Sustainable Transport">Sustainable Transport (26)</option>
 <option value="Uav">Uav (1)</option>
@@ -70,7 +70,7 @@
 <option value="Visualization">Visualization (1)</option>
 <option value="Weather Forecasting">Weather Forecasting (12)</option>
 <option value="Wildfire Growth Forecasting">Wildfire Growth Forecasting (1)</option>
-<option value="Wind Energy">Wind Energy (7)</option></select>
+<option value="Wind Energy">Wind Energy (8)</option></select>
 
 <script>
         document.getElementById('tagFilter').addEventListener('change', function () {

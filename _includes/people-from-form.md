@@ -1374,3 +1374,9 @@ Climate Modeling * Deep Learning * Earth System Modeling * Efficient or Sustaina
 <br />
 Computer Vision * Deep Learning * Earth Observation * Machine Learning * [More info (researcher profile)](https://yihshe.github.io) * [Research group](https://Energy and Environment Group, Cambridge )
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Deep Learning,Sustainable Energy,Sustainable Production,Wind Energy">
+<span title="Researcher."><strong>Anastasia Grevstad, Researcher</strong></span>
+<br />
+Climate Impacts * Deep Learning * Sustainable Energy * Sustainable Production * Wind Energy
+</div>
