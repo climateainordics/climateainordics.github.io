@@ -1398,3 +1398,9 @@ Climate Impacts * Deep Learning * Sustainable Energy * Sustainable Production * 
 <br />
 Bayesian Optimisation * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * Soundscape Analysis * [More info (researcher profile)](https://Noiselab.ucsd.edu) * [Research group](https://Noiselab.ucsd.edu) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=oLMfDnYAAAAJ) * [ORCID](https://orcid.org/0000-0002-0471-062X )
 </div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Machine Learning">
+<span title="PhD StudentTaltech, Estonia."><strong>Pawan Chhipa, PhD Student, Taltech, Estonia</strong></span>
+<br />
+Bayesian Optimisation * Machine Learning
+</div>

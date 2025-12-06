@@ -5,7 +5,7 @@
 <option value="AI For Climate Education">AI For Climate Education (1)</option>
 <option value="Atmospheric Science">Atmospheric Science (1)</option>
 <option value="AutoML">AutoML (9)</option>
-<option value="Bayesian Optimisation">Bayesian Optimisation (11)</option>
+<option value="Bayesian Optimisation">Bayesian Optimisation (12)</option>
 <option value="Biodiversity">Biodiversity (70)</option>
 <option value="Bioinformatics">Bioinformatics (1)</option>
 <option value="Causal AI">Causal AI (1)</option>
@@ -38,7 +38,7 @@
 <option value="Knowledge Graphs">Knowledge Graphs (1)</option>
 <option value="Land System Science">Land System Science (1)</option>
 <option value="Land Use Change Modelling">Land Use Change Modelling (1)</option>
-<option value="Machine Learning">Machine Learning (142)</option>
+<option value="Machine Learning">Machine Learning (143)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (23)</option>
 <option value="Materials">Materials (1)</option>
