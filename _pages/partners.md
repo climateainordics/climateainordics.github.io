@@ -56,7 +56,7 @@ The ELLIS Machine Learning for Earth and Climate Sciences Program, part of the p
 
 <img class="logo" src="/images/partners/nordic-ai-parthership-logo.png" />
 
-TODO, write about partnership
+The Nordic countries—Denmark, Finland, Iceland, Norway, and Sweden—share deep cultural, historical, and political ties which have fostered strong inter-country relationships. Together, they form a region with a high standard of living, comprehensive welfare systems, and a solid commitment to democracy and human rights. Each of the five Nordic countries is home to thriving AI ecosystems, comprising activities such as entrepreneurship, education, capacity building, and applied and theoretical research. Within these landscapes, NORA, P1, WASP, FCAI and CADIA distinguish themselves as research-anchored, internationally-facing AI initiatives. The parties aim to focus on the unique advantages the Nordic region brings to the global AI landscape, positioning the Nordic region as a visible and powerful AI region.
 
 **[Read more on the Nordic AI Partnership's webpage!](https://www.nordicpartnership.ai/)**
 
