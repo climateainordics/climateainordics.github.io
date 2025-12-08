@@ -5,6 +5,12 @@
 Climate Impacts * Deep Learning * Extreme Weather Events * Machine Learning * [Research group](https://nbi.ku.dk/english/research/pice/) * [Publications (Scholar)](https://scholar.google.com/citations?view_op=list_works&amp;hl=da&amp;user=KuUoQ6gAAAAJ) * [ORCID](https://orcid.org/0009-0006-9473-1200)
 </div>
 
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning,Soundscape Analysis">
+<span title="Noiselab.ucsd.edu has more details. I’m new processor at DTU. ProfessorDTU."><strong>Peter Gerstoft, Professor, DTU</strong></span>
+<br />
+Bayesian Optimisation * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * Soundscape Analysis * [More info (researcher profile)](https://Noiselab.ucsd.edu) * [Research group](https://Noiselab.ucsd.edu) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=oLMfDnYAAAAJ) * [ORCID](https://orcid.org/0000-0002-0471-062X )
+</div>
+
 <div class="content" markdown="1" data-tags="Bayesian Optimisation,Computer Vision,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,NLP,Sustainable Cities,Sustainable Energy,Urban Planning,Weather Forecasting,Wind Energy">
 <span title="PhD, ResearcherUniversity of Helsinki."><strong>Martha Arbayani Zaidan, PhD, Researcher, University of Helsinki</strong></span>
 <br />
@@ -331,7 +337,7 @@ Earth Observation * Climate Modeling * Biodiversity * Urban Planning * Sustainab
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Soundscape Analysis,Machine Learning,Deep Learning">
-<span title="i&#x27;m edvin. PhD, ResearcherRISE Research Institutes of Sweden."><strong>Edvin Listo Zec, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
+<span title="i&#x27;m edvin. PhD, ResearcherEghed."><strong>Edvin Listo Zec, PhD, Researcher, Eghed</strong></span>
 <br />
 Earth Observation * Climate Modeling * Biodiversity * Soundscape Analysis * Machine Learning * Deep Learning * [More info (researcher profile)](https://edvinli.github.io) * [Publications (Scholar)](https://scholar.google.com/citations?user=Ft52aSsAAAAJ) * [BlueSky](https://bsky.app/profile/edvinli.bsky.social)
 </div>
@@ -1310,7 +1316,7 @@ Climate Impacts * Efficient or Sustainable AI * Sustainable Cities * [More info 
 </div>
 
 <div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Sustainable Energy,Weather Forecasting,Wind Energy">
-<span title="PhD student in Burkina Faso Africa, I live in Ouagadougou . PhD StudentJoseph KI -ZERBO UNIVERSITY."><strong>DABRE MAZO, PhD Student, Joseph KI -ZERBO UNIVERSITY</strong></span>
+<span title="PhD student in Burkina Faso Africa, I live in Ouagadougou . PhD StudentJoseph KI -Zerbo University."><strong>Dabre Mazo, PhD Student, Joseph KI -Zerbo University</strong></span>
 <br />
 Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Sustainable Energy * Weather Forecasting * Wind Energy
 </div>
@@ -1391,12 +1397,6 @@ Computer Vision * Deep Learning * Earth Observation * Machine Learning * [More i
 <span title="Researcher."><strong>Anastasia Grevstad, Researcher</strong></span>
 <br />
 Climate Impacts * Deep Learning * Sustainable Energy * Sustainable Production * Wind Energy
-</div>
-
-<div class="content" markdown="1" data-tags="Bayesian Optimisation,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning,Soundscape Analysis">
-<span title="Noiselab.ucsd.edu has more details. I’m new processor at DTU. ProfessorDTU."><strong>PETER GERSTOFT, Professor, DTU</strong></span>
-<br />
-Bayesian Optimisation * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * Soundscape Analysis * [More info (researcher profile)](https://Noiselab.ucsd.edu) * [Research group](https://Noiselab.ucsd.edu) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=oLMfDnYAAAAJ) * [ORCID](https://orcid.org/0000-0002-0471-062X )
 </div>
 
 <div class="content" markdown="1" data-tags="Bayesian Optimisation,Machine Learning">
