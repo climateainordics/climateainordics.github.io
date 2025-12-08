@@ -54,6 +54,12 @@ The ELLIS Machine Learning for Earth and Climate Sciences Program, part of the p
 
 **[Read more on the ELLIS Machine Learning for Earth and Climate Sciences Program's webpage!](https://ellis.eu/programs/machine-learning-for-earth-and-climate-sciences)**
 
+<img class="logo" src="/images/partners/nordic-ai-parthership-logo.png" />
+
+TODO, write about partnership
+
+**[Read more on the Nordic AI Partnership's webpage!](https://www.nordicpartnership.ai/)**
+
 ## Sponsors
 
 <img class="logo" src="/images/partners/rise.svg" />
