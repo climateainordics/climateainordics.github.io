@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Climate Impacts,Deep Learning,Extreme Weather Events,Machine Learning">
-<span title="PhD StudentNiels Bohr Institute University of Copenhagen."><strong>Jonathan Melcher, PhD Student, Niels Bohr Institute University of Copenhagen</strong></span>
-<br />
-Climate Impacts * Deep Learning * Extreme Weather Events * Machine Learning * [Research group](https://nbi.ku.dk/english/research/pice/) * [Publications (Scholar)](https://scholar.google.com/citations?view_op=list_works&amp;hl=da&amp;user=KuUoQ6gAAAAJ) * [ORCID](https://orcid.org/0009-0006-9473-1200)
-</div>
-
 <div class="content" markdown="1" data-tags="Bayesian Optimisation,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning,Soundscape Analysis">
 <span title="Noiselab.ucsd.edu has more details. I’m new processor at DTU. ProfessorDTU."><strong>Peter Gerstoft, Professor, DTU</strong></span>
 <br />
@@ -1066,6 +1060,12 @@ AutoML * Biodiversity * Climate Impacts * Climate Modeling * Earth Observation *
 <span title="Architect and Landscape Architect, currently working as a Researcher at the Royal Danish Academy, Institute of Architecture and Space, exploring Generative AI as a dialogue tool in visualizing Denmark&#x27;s Green Transition in a cross-disciplinary research project called &quot;AI Imaginaries.&quot;. ResearcherRoyal Danish Academy - Architecture, Design, Conservation; Institute of Architecture and Space."><strong>Nikola Gjorgjievski, Researcher, Royal Danish Academy - Architecture, Design, Conservation; Institute of Architecture and Space</strong></span>
 <br />
 Biodiversity * Climate Impacts * Extreme Weather Events * Machine Learning * Sustainable Cities * Urban Planning * Generative-ai; Climate Futures; Spatial Imaginaries * [Research group](https://royaldanishacademy.com/en/institute-architecture-space) * [ORCID](https://orcid.org/0000-0001-8156-3400)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Deep Learning,Extreme Weather Events,Machine Learning">
+<span title="PhD StudentNiels Bohr Institute University of Copenhagen."><strong>Jonathan Melcher, PhD Student, Niels Bohr Institute University of Copenhagen</strong></span>
+<br />
+Climate Impacts * Deep Learning * Extreme Weather Events * Machine Learning * [Research group](https://nbi.ku.dk/english/research/pice/) * [Publications (Scholar)](https://scholar.google.com/citations?view_op=list_works&amp;hl=da&amp;user=KuUoQ6gAAAAJ) * [ORCID](https://orcid.org/0009-0006-9473-1200)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
