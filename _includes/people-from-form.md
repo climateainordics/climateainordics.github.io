@@ -654,6 +654,12 @@ Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observa
 Biodiversity * Computer Vision * Deep Learning * Machine Learning * Marine Ecology * [More info (researcher profile)](https://mapeaau.github.io/) * [Research group](https://vap.aau.dk/) * [Publications (Scholar)](https://scholar.google.com/citations?user=RREDgy4AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-2941-9150)
 </div>
 
+<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Extreme Weather Events,Machine Learning,Weather Forecasting,Wind Energy">
+<span title="PhD, Researcher."><strong>Ashbin Jaison, PhD, Researcher</strong></span>
+<br />
+Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Extreme Weather Events * Machine Learning * Weather Forecasting * Wind Energy
+</div>
+
 <div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Earth Observation,Machine Learning,Sustainable Cities">
 <span title="Sebastian Hafner is an Earth observation researcher at RISE Research Institutes of Sweden and an Affiliate at the University of Glasgow, focusing on urbanization and related challenges using Earth observation and deep learning. He previously worked at the Urban Big Data Centre, developing methods that integrate geospatial data with community mapping to better understand areas of deprivation. Sebastian holds a PhD in Geoinformatics from KTH Royal Institute of Technology, where he researched deep learning for large-scale urban mapping and change detection. PhD, ResearcherRISE Research Institutes of Sweden."><strong>Sebastian Hafner, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
 <br />
@@ -1361,12 +1367,6 @@ Earth Observation * Climate Modeling * Biodiversity * Efficient or Sustainable A
 <span title="PhD, ResearcherAlfred Wegener Institute."><strong>Hameed Moqadam, PhD, Researcher, Alfred Wegener Institute</strong></span>
 <br />
 Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Efficient or Sustainable AI * Machine Learning * [More info (researcher profile)](https://www.linkedin.com/in/hameed-moqadam/) * [Publications (Scholar)](https://scholar.google.com/citations?user=XcQAH6cAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-8705-8883)
-</div>
-
-<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Extreme Weather Events,Machine Learning,Weather Forecasting,Wind Energy">
-<span title="PhD, Researcher."><strong>Ashbin Jaison, PhD, Researcher</strong></span>
-<br />
-Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Extreme Weather Events * Machine Learning * Weather Forecasting * Wind Energy
 </div>
 
 <div class="content" markdown="1" data-tags="Deep Learning,Machine Learning,Weather Forecasting">
