@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Bayesian Optimisation,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Machine Learning,Urban Planning">
-<span title="Senior Lecturer in Machine LearningMalmö University."><strong>Najmeh Abiri, Senior Lecturer in Machine Learning, Malmö University</strong></span>
-<br />
-Bayesian Optimisation * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Machine Learning * Urban Planning
-</div>
-
 <div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning,Sustainable Cities,Sustainable Production,Forest Projection">
 <span title="PhD StudentUniversity of Copenhagen, Department of Geoscience and Natural Resource Management."><strong>Huntley Brownell, PhD Student, University of Copenhagen, Department of Geoscience and Natural Resource Management</strong></span>
 <br />
@@ -1072,6 +1066,12 @@ Biodiversity * Climate Impacts * Extreme Weather Events * Machine Learning * Sus
 <span title="PhD StudentNiels Bohr Institute University of Copenhagen."><strong>Jonathan Melcher, PhD Student, Niels Bohr Institute University of Copenhagen</strong></span>
 <br />
 Climate Impacts * Deep Learning * Extreme Weather Events * Machine Learning * [Research group](https://nbi.ku.dk/english/research/pice/) * [Publications (Scholar)](https://scholar.google.com/citations?view_op=list_works&amp;hl=da&amp;user=KuUoQ6gAAAAJ) * [ORCID](https://orcid.org/0009-0006-9473-1200)
+</div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Machine Learning,Urban Planning">
+<span title="Senior Lecturer in Machine LearningMalmö University."><strong>Najmeh Abiri, Senior Lecturer in Machine Learning, Malmö University</strong></span>
+<br />
+Bayesian Optimisation * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Machine Learning * Urban Planning
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
