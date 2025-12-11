@@ -8,7 +8,7 @@ youtube: ""
 deadline: 2025-12-08
 ---
 
-DTU Compute in Copenhagen has an opening for a PhD position titled "Cutting-Edge Machine Learning for Climate Modelling."
+DTU Compute in Copenhagen has an opening for a PhD position titled "Cutting-Edge Machine Learning for Climate Modelling.
 
 This position is part of the project **IcyAlert**.
 
