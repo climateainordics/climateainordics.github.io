@@ -1410,3 +1410,9 @@ Climate Impacts * Deep Learning * Sustainable Energy * Sustainable Production * 
 <br />
 Bayesian Optimisation * Machine Learning
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Deep Learning,Earth System Modeling,Machine Learning">
+<span title="I&#x27;m working on regional climate modelling (to km-scale) and developing ML-based emulator for the RCM. PhD, ResearcherSMHI."><strong>Fuxing Wang, PhD, Researcher, SMHI</strong></span>
+<br />
+Climate Modeling * Deep Learning * Earth System Modeling * Machine Learning * [More info (researcher profile)](https://www.smhi.se/en/research/our-team/search-for-employees/fuxing-wang) * [Publications (Scholar)](https://scholar.google.com/citations?user=VUjlxHIAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0001-7582-2752)
+</div>
