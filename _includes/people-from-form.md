@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Bayesian Optimisation,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning,Soundscape Analysis">
-<span title="Noiselab.ucsd.edu has more details. I’m new processor at DTU. ProfessorDTU."><strong>Peter Gerstoft, Professor, DTU</strong></span>
-<br />
-Bayesian Optimisation * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * Soundscape Analysis * [More info (researcher profile)](https://Noiselab.ucsd.edu) * [Research group](https://Noiselab.ucsd.edu) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=oLMfDnYAAAAJ) * [ORCID](https://orcid.org/0000-0002-0471-062X )
-</div>
-
 <div class="content" markdown="1" data-tags="Bayesian Optimisation,Computer Vision,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,NLP,Sustainable Cities,Sustainable Energy,Urban Planning,Weather Forecasting,Wind Energy">
 <span title="PhD, ResearcherUniversity of Helsinki."><strong>Martha Arbayani Zaidan, PhD, Researcher, University of Helsinki</strong></span>
 <br />
@@ -208,6 +202,12 @@ Biodiversity * Deep Learning * Earth System Modeling * Marine Ecology * [More in
 <span title="Associate ProfessorTechnical University of Denmark."><strong>Tommy Sonne Alstrøm, Associate Professor, Technical University of Denmark</strong></span>
 <br />
 Climate Modeling * Deep Learning * Efficient or Sustainable AI * Machine Learning * [More info (researcher profile)](https://orbit.dtu.dk/en/persons/tommy-sonne-alstr%C3%B8m/) * [Research group](https://www.compute.dtu.dk/sections/cogsys) * [Publications (Scholar)](https://scholar.google.dk/citations?user=jAmaPr4AAAAJ&amp;view_op=list_works&amp;sortby=pubdate) * [ORCID](https://orcid.org/0000-0003-0941-3146)
+</div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning,Soundscape Analysis">
+<span title="Noiselab.ucsd.edu has more details. I’m new processor at DTU. ProfessorDTU."><strong>Peter Gerstoft, Professor, DTU</strong></span>
+<br />
+Bayesian Optimisation * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * Soundscape Analysis * [More info (researcher profile)](https://Noiselab.ucsd.edu) * [Research group](https://Noiselab.ucsd.edu) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=oLMfDnYAAAAJ) * [ORCID](https://orcid.org/0000-0002-0471-062X )
 </div>
 
 <div class="content" markdown="1" data-tags="">
