@@ -6,27 +6,27 @@
 <option value="Atmospheric Science">Atmospheric Science (1)</option>
 <option value="AutoML">AutoML (9)</option>
 <option value="Bayesian Optimisation">Bayesian Optimisation (12)</option>
-<option value="Biodiversity">Biodiversity (71)</option>
+<option value="Biodiversity">Biodiversity (72)</option>
 <option value="Bioinformatics">Bioinformatics (1)</option>
 <option value="Causal AI">Causal AI (1)</option>
-<option value="Climate Impacts">Climate Impacts (33)</option>
+<option value="Climate Impacts">Climate Impacts (34)</option>
 <option value="Climate Modeling">Climate Modeling (76)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
 <option value="Computer Vision">Computer Vision (86)</option>
 <option value="Deep Learning">Deep Learning (123)</option>
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
-<option value="Earth Observation">Earth Observation (94)</option>
-<option value="Earth System Modeling">Earth System Modeling (18)</option>
+<option value="Earth Observation">Earth Observation (95)</option>
+<option value="Earth System Modeling">Earth System Modeling (19)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
 <option value="Ecosystem-based Adaptation">Ecosystem-based Adaptation (1)</option>
 <option value="Edna">Edna (1)</option>
 <option value="Education">Education (1)</option>
-<option value="Efficient or Sustainable AI">Efficient or Sustainable AI (68)</option>
+<option value="Efficient or Sustainable AI">Efficient or Sustainable AI (69)</option>
 <option value="Environment Impacts of AI">Environment Impacts of AI (1)</option>
 <option value="Extreme Weather">Extreme Weather (2)</option>
-<option value="Extreme Weather Events">Extreme Weather Events (21)</option>
+<option value="Extreme Weather Events">Extreme Weather Events (22)</option>
 <option value="Fluid Dynamics">Fluid Dynamics (1)</option>
 <option value="Food Microbiology">Food Microbiology (1)</option>
 <option value="Forest">Forest (1)</option>
@@ -39,7 +39,7 @@
 <option value="Knowledge Graphs">Knowledge Graphs (1)</option>
 <option value="Land System Science">Land System Science (1)</option>
 <option value="Land Use Change Modelling">Land Use Change Modelling (1)</option>
-<option value="Machine Learning">Machine Learning (145)</option>
+<option value="Machine Learning">Machine Learning (146)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (23)</option>
 <option value="Materials">Materials (1)</option>
@@ -71,7 +71,7 @@
 <option value="Visualization">Visualization (1)</option>
 <option value="Weather Forecasting">Weather Forecasting (13)</option>
 <option value="Wildfire Growth Forecasting">Wildfire Growth Forecasting (1)</option>
-<option value="Wind Energy">Wind Energy (9)</option></select>
+<option value="Wind Energy">Wind Energy (10)</option></select>
 
 <script>
         document.getElementById('tagFilter').addEventListener('change', function () {
