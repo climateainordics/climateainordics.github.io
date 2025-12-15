@@ -1,6 +1,6 @@
 ---
 title: "Reflections on the first EurIPS and a successful AICC workshop"
-summary: "Climate AI Nordics joined the inaugural EurIPS conference in Copenhagen last week, connecting with the community at our booth shared with the Nordic AI Partnership and Pioneer Centre for AI. On Saturday, we successfully hosted the full-day AICC workshop, featuring an inspiring lineup of speakers and over 30 posters bridging machine learning and climate science. While the research highlights covered diverse topics like weather forecasting, a significant portion of the program focused on analyzing forests as vital carbon sinks and biodiversity havens. We are grateful to our partners and all amazing researchers from around Europe and the rest of the world for supporting this memorable week of collaboration, Glögg, and impactful science."
+summary: "Climate AI Nordics joined the inaugural EurIPS conference in Copenhagen last week, connecting with the community at our booth shared with the Nordic AI Partnership and Pioneer Centre for AI. On Saturday, we successfully hosted the full-day AICC workshop, featuring an inspiring lineup of speakers and over 30 posters bridging machine learning and climate science. While the research highlights covered diverse topics like weather forecasting, a significant portion of the program focused on analyzing forests as vital carbon sinks and biodiversity havens. We are grateful to our partners and all amazing researchers from around Europe and the rest of the world for supporting this memorable week of collaboration, glögg, and impactful science."
 tags: [EurIPS, AICC, Climate AI, Workshop, Copenhagen]
 author: Climate AI Nordics Team
 image: /images/events/2025-eurips/booth.jpg
@@ -18,7 +18,7 @@ During the main conference days (Wednesday–Friday), we hosted a lively booth i
 
 ![](/images/events/2025-eurips/glogg.jpg)
 
-It was fantastic to meet so many of you! Whether you stopped by for a technical discussion on climate adaptation, to learn about our network, or simply to enjoy a cup of our traditional Scandinavian *Glögg* (and "Glubbel"!), we appreciate the engagement. The booth served as a central hub for connecting researchers from across the Nordics and beyond.
+It was fantastic to meet so many of you! Whether you stopped by for a technical discussion on climate adaptation, to learn about our network, or simply to enjoy a cup of our traditional Scandinavian *glögg* (and "glubbel"!), we appreciate the engagement. The booth served as a central hub for connecting researchers from across the Nordics and beyond.
 
 ![](/images/events/2025-eurips/glogg-event.jpg)
 
