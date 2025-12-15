@@ -7,6 +7,7 @@ image: /images/people/featured/Laura Ruotsalainen-2.jpg
 ---
 
 <br />
+
 **Hi Laura! Tell us about yourself and your work.**
 
 I am Laura Ruotsalainen, Professor of Computer Science at the University of Helsinki and leader of the Spatiotemporal Data Analysis (SDA) research group. My research focuses on machine-learning methods for spatiotemporal data, with an emphasis on multi-objective reinforcement learning, representation learning, computer vision, and uncertainty-aware models, motivated by climate, sustainability, and urban resilience challenges.
