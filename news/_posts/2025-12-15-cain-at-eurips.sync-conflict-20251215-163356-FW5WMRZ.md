@@ -10,7 +10,7 @@ Last week marked a significant milestone for the European AI community with the 
 
 We were proud to be present throughout the week, culminating in our own full-day workshop on Saturday. Here is a recap of our time in Copenhagen.
 
-## The booth: connecting the Nordic ai ecosystem
+## The booth: connecting the nordic ai ecosystem
 
 During the main conference days (Wednesday–Friday), we hosted a lively booth in collaboration with the **Nordic AI Partnership** and the **Pioneer Centre for AI (P1)**. 
 
@@ -18,7 +18,7 @@ During the main conference days (Wednesday–Friday), we hosted a lively booth i
 
 ![](/images/events/2025-eurips/glogg.jpg)
 
-It was fantastic to meet so many of you! Whether you stopped by for a technical discussion on climate adaptation, to learn about our network, or simply to enjoy a cup of our traditional Scandinavian *glögg* (and "glubbel"!), we appreciate the engagement. The booth did its job well to serve as a central hub for us and to connect researchers from Climate AI Nordics with others who are interested in our work.
+It was fantastic to meet so many of you! Whether you stopped by for a technical discussion on climate adaptation, to learn about our network, or simply to enjoy a cup of our traditional Scandinavian *glögg* (and "glubbel"!), we appreciate the engagement. The booth served as a central hub for connecting researchers from across the Nordics and beyond.
 
 ![](/images/events/2025-eurips/glogg-event.jpg)
 
