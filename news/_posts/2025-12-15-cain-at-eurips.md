@@ -69,6 +69,6 @@ This week wouldn't have been possible without the support of our partners and co
 
 From the muddy walks through the city parks to the networking social event and the packed auditorium on Saturday, EurIPS 2025 was a memorable event. We look forward to seeing how the collaborations formed this week will evolve into impactful climate solutions.
 
-*Did you miss the workshop? You can check out the list of accepted papers and speakers on our [AICC website](https://sites.google.com/g.harvard.edu/aicceurips). Recordings will end up on our youtube channel shortly.*
+*Did you miss the workshop? You can check out the list of accepted papers and speakers on our [AICC website](https://sites.google.com/g.harvard.edu/aicceurips). Recordings will end up on our [youtube channel](https://youtube.com/@climateainordics) shortly.*
 
 
