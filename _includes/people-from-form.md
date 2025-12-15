@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning,Sustainable Cities,Sustainable Production,Forest Projection">
-<span title="PhD StudentUniversity of Copenhagen, Department of Geoscience and Natural Resource Management."><strong>Huntley Brownell, PhD Student, University of Copenhagen, Department of Geoscience and Natural Resource Management</strong></span>
-<br />
-Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * Sustainable Cities * Sustainable Production * Forest Projection * [Publications (Scholar)](https://scholar.google.com/citations?user=zte-QWMAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-3798-8783)
-</div>
-
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -1072,6 +1066,12 @@ Climate Impacts * Deep Learning * Extreme Weather Events * Machine Learning * [R
 <span title="Senior Lecturer in Machine LearningMalmö University."><strong>Najmeh Abiri, Senior Lecturer in Machine Learning, Malmö University</strong></span>
 <br />
 Bayesian Optimisation * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Machine Learning * Urban Planning
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning,Sustainable Cities,Sustainable Production,Forest Projection">
+<span title="PhD StudentUniversity of Copenhagen, Department of Geoscience and Natural Resource Management."><strong>Huntley Brownell, PhD Student, University of Copenhagen, Department of Geoscience and Natural Resource Management</strong></span>
+<br />
+Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * Sustainable Cities * Sustainable Production * Forest Projection * [Publications (Scholar)](https://scholar.google.com/citations?user=zte-QWMAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-3798-8783)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
