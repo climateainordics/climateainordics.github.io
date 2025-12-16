@@ -43,7 +43,7 @@ The goal of AICC was to bridge the gap between machine learning experts and doma
 *   **Mirela Beloiu Schwenke** (ETH Zürich)
 *   **Natalie Ahlstrand** (University of Copenhagen)
 *   **Drew Purves** (Google DeepMind)
-*   And many others from institutions like The World Bank, University of Copenhagen, and RISE.
+*   And many others from institutions such as University of Copenhagen and RISE.
 
 ### Research highlights: seeing the forest *and* the trees
 
