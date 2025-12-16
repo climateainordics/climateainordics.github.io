@@ -1421,3 +1421,9 @@ Climate Modeling * Deep Learning * Earth System Modeling * Machine Learning * [M
 <br />
 Biodiversity * Climate Impacts * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Wind Energy * [More info (researcher profile)](https://portal.research.lu.se/en/persons/wenxin-zhang/) * [Publications (Scholar)](https://scholar.google.com/citations?user=E1NkwBoAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9477-563X)
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning,NLP">
+<span title="Postbaccalaureate Fellow at the Center for Astrophysics | Harvard &amp; Smithsonian. Working in AI for climate sciences for MethaneSAT and TEMPO initiatives. ResearcherCenter for Astrophysics | Harvard &amp; Smithsonian."><strong>Manuel Perez-Carrasco, Researcher, Center for Astrophysics | Harvard &amp; Smithsonian</strong></span>
+<br />
+Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * NLP * [More info (researcher profile)](https://mperezcarrasco.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=FItn--MAAAAJ&amp;hl=en&amp;authuser=1) * [ORCID](https://orcid.org/0000-0003-4644-8698)
+</div>
