@@ -35,6 +35,7 @@ This seminar is a collaboration between RISE and Climate AI Nordics -- [climatea
 
 * 2026-01-22: Nita Mulliqi, Karolinska Institute
 * 2026-02-05: Pablo Villanueva Perez, Lund University
+* 2026-02-19: Sanja Karilanova, Uppsala University
 * 2026-03-05: Purnendu Sardar, Lund University
 * All seminars are 15:00 CET.
 
