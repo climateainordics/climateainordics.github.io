@@ -1428,3 +1428,9 @@ Bayesian Optimisation * Machine Learning
 <br />
 Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * NLP * [More info (researcher profile)](https://mperezcarrasco.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=FItn--MAAAAJ&amp;hl=en&amp;authuser=1) * [ORCID](https://orcid.org/0000-0003-4644-8698)
 </div>
+
+<div class="content" markdown="1" data-tags="">
+<span title="Student."><strong>Ana Kesic, Student</strong></span>
+<br />
+
+</div>
