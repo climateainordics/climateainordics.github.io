@@ -50,6 +50,14 @@ We hope that the collaborative nature of Climate AI Nordics will accelerate prog
 {%- endfor %}
 
 
+## [Featured works](/featured-works/)
+
+
+{% for p in site.categories.featured-works limit: 3 %}
+| &bull; | {{p.date | date: '%Y-%m-%d'}}: {{ p.title }} <br /> [(Read more)]({{ p.url }}) | {% if p.image %} ![]({{ p.image }}){% endif %} |
+{%- endfor %}
+
+
 ## [Events](/events/)
 
 {% for p in site.categories.events limit: 3 %}
