@@ -1434,3 +1434,9 @@ Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Obs
 <br />
 
 </div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Biodiversity,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning">
+<span title="PhD in Geomagnetic Engineering with UAS imagery (multispectral and hyperspectral) and LiDAR sensor. Applying deep learning algorithms and image processing for ecological feature extraction. PhD StudentUniversity of Tasmania."><strong>Laura Sotomayor, PhD Student, University of Tasmania</strong></span>
+<br />
+Bayesian Optimisation * Biodiversity * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * [More info (researcher profile)](https://lauransotomayor.herokuapp.com/) * [Research group](https://www.utas.edu.au/research/projects/terraluma) * [Publications (Scholar)](https://scholar.google.com/citations?user=Kw4q3vsAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9791-2193) * [BlueSky](https://bsky.app/profile/lauransotomayor.bsky.social)
+</div>
