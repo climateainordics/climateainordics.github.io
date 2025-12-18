@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Climate Modeling,Deep Learning,Earth System Modeling,Machine Learning">
-<span title="I&#x27;m working on regional climate modelling (to km-scale) and developing ML-based emulator for the RCM. PhD, ResearcherSMHI."><strong>Fuxing Wang, PhD, Researcher, SMHI</strong></span>
-<br />
-Climate Modeling * Deep Learning * Earth System Modeling * Machine Learning * [More info (researcher profile)](https://www.smhi.se/en/research/our-team/search-for-employees/fuxing-wang) * [Publications (Scholar)](https://scholar.google.com/citations?user=VUjlxHIAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0001-7582-2752)
-</div>
-
 <div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Wind Energy">
 <span title="I am an Associate Professor (Docent in Sweden and Reader in the UK) with extensive expertise in running a range of ecosystem and Earth system models, including the climate–plant–soil model CoupModel at plot scales; the dynamic global vegetation model LPJ-GUESS at regional and global scales; the regional Earth system models RCA-GUESS and RCAO-GUESS; and the global Earth system model EC-Earth, a CMIP6-class Earth system model. My current research focuses on integrating AI approaches with ecosystem modelling to better understand terrestrial ecosystem dynamics and their feedbacks to the climate system across spatial and temporal scales. Associate ProfessorLund University."><strong>Wenxin Zhang, Associate Professor, Lund University</strong></span>
 <br />
@@ -670,6 +664,12 @@ Climate Impacts * Climate Modeling * Earth System Modeling * Extreme Weather Eve
 <span title="PhD, ResearcherUniversity of Helsinki."><strong>Martha Arbayani Zaidan, PhD, Researcher, University of Helsinki</strong></span>
 <br />
 Bayesian Optimisation * Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * NLP * Sustainable Cities * Sustainable Energy * Urban Planning * Weather Forecasting * Wind Energy * [More info (researcher profile)](https://www.marthazaidan.com) * [Research group](https://www.helsinki.fi/en/researchgroups/intelligent-environmental-monitoring-and-analytics) * [Publications (Scholar)](https://scholar.google.fi/citations?user=kAZnkMoAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-6348-1230)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Deep Learning,Earth System Modeling,Machine Learning">
+<span title="I&#x27;m working on regional climate modelling (to km-scale) and developing ML-based emulator for the RCM. PhD, ResearcherSMHI."><strong>Fuxing Wang, PhD, Researcher, SMHI</strong></span>
+<br />
+Climate Modeling * Deep Learning * Earth System Modeling * Machine Learning * [More info (researcher profile)](https://www.smhi.se/en/research/our-team/search-for-employees/fuxing-wang) * [Publications (Scholar)](https://scholar.google.com/citations?user=VUjlxHIAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0001-7582-2752)
 </div>
 
 <div class="content" markdown="1" data-tags="">
