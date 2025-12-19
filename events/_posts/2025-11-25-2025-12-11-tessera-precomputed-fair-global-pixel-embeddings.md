@@ -11,7 +11,7 @@ event_date: 2025-12-11
 event_time: "15:00"
 event_location: ""
 image: /images/posts/2025-11-25-2025-12-11-tessera-precomputed-fair-global-pixel-embeddings.jpg
-youtube: ""
+youtube: "https://www.youtube.com/watch?v=AQhzSBxvhVM&list=PLqLiVcF3GKy1tuQFoDu5QKOM6S33t_4R1"
 --- 
 Welcome to this week's Learning Machines seminar.
 
