@@ -19,7 +19,7 @@ event_date: 2025-11-20
 event_time: "15:00"
 event_location: ""
 image: /images/posts/2025-10-31-2025-11-20-multi-resolution-learning-with-neural-operators-and.jpg
-youtube: ""
+youtube: "https://www.youtube.com/watch?v=mFTFRA5sd3M&list=PLqLiVcF3GKy0-jZFGg-VqLzh51LqCfduN"
 --- 
 Welcome to this week's Learning Machines seminar.
 
