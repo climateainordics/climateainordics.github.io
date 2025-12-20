@@ -1,10 +1,3 @@
-## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Wind Energy">
-<span title="I am an Associate Professor (Docent in Sweden and Reader in the UK) with extensive expertise in running a range of ecosystem and Earth system models, including the climate–plant–soil model CoupModel at plot scales; the dynamic global vegetation model LPJ-GUESS at regional and global scales; the regional Earth system models RCA-GUESS and RCAO-GUESS; and the global Earth system model EC-Earth, a CMIP6-class Earth system model. My current research focuses on integrating AI approaches with ecosystem modelling to better understand terrestrial ecosystem dynamics and their feedbacks to the climate system across spatial and temporal scales. Associate ProfessorLund University."><strong>Wenxin Zhang, Associate Professor, Lund University</strong></span>
-<br />
-Biodiversity * Climate Impacts * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Wind Energy * [More info (researcher profile)](https://portal.research.lu.se/en/persons/wenxin-zhang/) * [Publications (Scholar)](https://scholar.google.com/citations?user=E1NkwBoAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9477-563X)
-</div>
-
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -196,6 +189,12 @@ Climate Modeling * Deep Learning * Efficient or Sustainable AI * Machine Learnin
 <span title="Noiselab.ucsd.edu has more details. I’m new processor at DTU. ProfessorDTU."><strong>Peter Gerstoft, Professor, DTU</strong></span>
 <br />
 Bayesian Optimisation * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * Soundscape Analysis * [More info (researcher profile)](https://Noiselab.ucsd.edu) * [Research group](https://Noiselab.ucsd.edu) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=oLMfDnYAAAAJ) * [ORCID](https://orcid.org/0000-0002-0471-062X )
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Wind Energy">
+<span title="I am an Associate Professor (Docent in Sweden and Reader in the UK) with extensive expertise in running a range of ecosystem and Earth system models, including the climate–plant–soil model CoupModel at plot scales; the dynamic global vegetation model LPJ-GUESS at regional and global scales; the regional Earth system models RCA-GUESS and RCAO-GUESS; and the global Earth system model EC-Earth, a CMIP6-class Earth system model. My current research focuses on integrating AI approaches with ecosystem modelling to better understand terrestrial ecosystem dynamics and their feedbacks to the climate system across spatial and temporal scales. Associate ProfessorLund University."><strong>Wenxin Zhang, Associate Professor, Lund University</strong></span>
+<br />
+Biodiversity * Climate Impacts * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Wind Energy * [More info (researcher profile)](https://portal.research.lu.se/en/persons/wenxin-zhang/) * [Publications (Scholar)](https://scholar.google.com/citations?user=E1NkwBoAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9477-563X)
 </div>
 
 <div class="content" markdown="1" data-tags="">
