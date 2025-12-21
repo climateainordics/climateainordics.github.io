@@ -10,14 +10,14 @@
 <option value="Bioinformatics">Bioinformatics (1)</option>
 <option value="Causal AI">Causal AI (1)</option>
 <option value="Climate Impacts">Climate Impacts (36)</option>
-<option value="Climate Modeling">Climate Modeling (78)</option>
+<option value="Climate Modeling">Climate Modeling (79)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
 <option value="Computer Vision">Computer Vision (88)</option>
-<option value="Deep Learning">Deep Learning (126)</option>
+<option value="Deep Learning">Deep Learning (127)</option>
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
 <option value="Earth Observation">Earth Observation (98)</option>
-<option value="Earth System Modeling">Earth System Modeling (22)</option>
+<option value="Earth System Modeling">Earth System Modeling (23)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
 <option value="Ecosystem-based Adaptation">Ecosystem-based Adaptation (1)</option>
@@ -31,6 +31,7 @@
 <option value="Food Microbiology">Food Microbiology (1)</option>
 <option value="Forest">Forest (1)</option>
 <option value="Forest Projection">Forest Projection (1)</option>
+<option value="Fracture Mechanics">Fracture Mechanics (1)</option>
 <option value="GIS">GIS (2)</option>
 <option value="Generative-ai; Climate Futures; Spatial Imaginaries">Generative-ai; Climate Futures; Spatial Imaginaries (1)</option>
 <option value="Geomatics">Geomatics (1)</option>
