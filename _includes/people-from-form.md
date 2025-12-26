@@ -1452,3 +1452,9 @@ Bayesian Optimisation * Biodiversity * Computer Vision * Deep Learning * Earth O
 <br />
 Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Sustainable Cities * Sustainable Energy * Sustainable Production * Sustainable Transport * Urban Planning * Weather Forecasting * Wind Energy * Solar Energy
 </div>
+
+<div class="content" markdown="1" data-tags="Biodiversity">
+<span title="PhD StudentDepartment of Microbiology, Bharathidasan University, India."><strong>Ramesh Ponnusamy, PhD Student, Department of Microbiology, Bharathidasan University, India</strong></span>
+<br />
+Biodiversity
+</div>

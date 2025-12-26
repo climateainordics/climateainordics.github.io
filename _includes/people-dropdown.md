@@ -6,7 +6,7 @@
 <option value="Atmospheric Science">Atmospheric Science (1)</option>
 <option value="AutoML">AutoML (9)</option>
 <option value="Bayesian Optimisation">Bayesian Optimisation (13)</option>
-<option value="Biodiversity">Biodiversity (73)</option>
+<option value="Biodiversity">Biodiversity (74)</option>
 <option value="Bioinformatics">Bioinformatics (1)</option>
 <option value="Causal AI">Causal AI (1)</option>
 <option value="Climate Impacts">Climate Impacts (36)</option>
