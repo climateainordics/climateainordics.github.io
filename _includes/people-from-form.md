@@ -1,3 +1,10 @@
+## Affiliates - Recently Joined
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Climate Impacts,Deep Learning,Earth Observation,Efficient or Sustainable AI,Machine Learning">
+<span title="PhD StudentUniversity of Oslo, Department of Geosciences - ACTIVATE project."><strong>Johan Fredrik Agerup, PhD Student, University of Oslo, Department of Geosciences - ACTIVATE project</strong></span>
+<br />
+Bayesian Optimisation * Climate Impacts * Deep Learning * Earth Observation * Efficient or Sustainable AI * Machine Learning * [Research group](https://www.mn.uio.no/geo/forskning/prosjekter/activate/)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
