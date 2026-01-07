@@ -1482,3 +1482,9 @@ Biodiversity
 <br />
 Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling * Extreme Weather Events
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Computer Vision,Deep Learning,Earth System Modeling,Extreme Weather Events,Machine Learning">
+<span title="PhD StudentUniversity of Würzburg."><strong>Simon Hentschel, PhD Student, University of Würzburg</strong></span>
+<br />
+Climate Modeling * Computer Vision * Deep Learning * Earth System Modeling * Extreme Weather Events * Machine Learning
+</div>
