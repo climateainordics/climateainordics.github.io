@@ -1494,3 +1494,9 @@ Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling *
 <br />
 Climate Modeling * Computer Vision * Deep Learning * Earth System Modeling * Extreme Weather Events * Machine Learning
 </div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Deep Learning,Earth System Modeling,Machine Learning,Sustainable Energy,Weather Forecasting,Hydrology">
+<span title="Researcher with interest in snow hydrology and how AI and other technologies can improve our predictions in that area. PhD, ResearcherUniversity of Oslo."><strong>Olga Silantyeva, PhD, Researcher, University of Oslo</strong></span>
+<br />
+Bayesian Optimisation * Deep Learning * Earth System Modeling * Machine Learning * Sustainable Energy * Weather Forecasting * Hydrology * [More info (researcher profile)](https://www.mn.uio.no/geo/english/people/aca/geohyd/olsi/) * [ORCID](https://orcid.org/0000-0001-5440-6768)
+</div>
