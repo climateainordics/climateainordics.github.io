@@ -23,6 +23,12 @@ AutoML * Bayesian Optimisation * Climate Impacts * Climate Modeling * Deep Learn
 Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling * Extreme Weather Events * Sustainable Energy * Data Assimilation * [More info (researcher profile)](https://www.mn.uio.no/geo/english/people/aca/geohyd/yeliz/) * [Publications (Scholar)](https://scholar.google.com/citations?user=jFP05GsAAAAJ) * [ORCID](https://orcid.org/0000-0001-7937-5056)
 </div>
 
+<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning">
+<span title="PhD, ResearcherUniversity of Oslo."><strong>Henning Åkesson, PhD, Researcher, University of Oslo</strong></span>
+<br />
+Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * [More info (researcher profile)](https://henningakesson.weebly.com/) * [Research group](https://www.mn.uio.no/geo/english/research/projects/glacmass/index.html) * [Publications (Scholar)](https://scholar.google.com/citations?user=CJKXtgEAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-9625-1976)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
