@@ -17,6 +17,12 @@ Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Eart
 Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * [More info (researcher profile)](https://henningakesson.weebly.com/) * [Research group](https://www.mn.uio.no/geo/english/research/projects/glacmass/index.html) * [Publications (Scholar)](https://scholar.google.com/citations?user=CJKXtgEAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-9625-1976)
 </div>
 
+<div class="content" markdown="1" data-tags="Biodiversity,Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning,Marine Ecology">
+<span title="I&#x27;m a marine biologist mapping the norwegian sea-floor. IndustryPelagia."><strong>Raquel Pereira, Industry, Pelagia</strong></span>
+<br />
+Biodiversity * Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * Marine Ecology
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
