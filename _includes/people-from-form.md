@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Bayesian Optimisation,Climate Impacts,Deep Learning,Earth Observation,Efficient or Sustainable AI,Machine Learning">
-<span title="PhD StudentUniversity of Oslo, Department of Geosciences - ACTIVATE project."><strong>Johan Fredrik Agerup, PhD Student, University of Oslo, Department of Geosciences - ACTIVATE project</strong></span>
-<br />
-Bayesian Optimisation * Climate Impacts * Deep Learning * Earth Observation * Efficient or Sustainable AI * Machine Learning * [Research group](https://www.mn.uio.no/geo/forskning/prosjekter/activate/)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Impacts,Earth Observation,Machine Learning">
 <span title="PhD, ResearcherUniversity of Oslo, Department of Geosciences."><strong>Désirée Treichler, PhD, Researcher, University of Oslo, Department of Geosciences</strong></span>
 <br />
@@ -1126,6 +1120,12 @@ Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observ
 <span title="Have worked and published mainly on abrupt climate change. Now working on machine learning prediction and forecasting of fracture and damage formation in ice sheets. Trying to infer how these can lead to faster flow and calving, and thus sea level rise. PhD StudentNiels Bohr Institute, University of Copenhagen."><strong>Sune Halkjær, PhD Student, Niels Bohr Institute, University of Copenhagen</strong></span>
 <br />
 Climate Modeling * Deep Learning * Earth System Modeling * Fracture Mechanics * [Research group](https://nbi.ku.dk/english/research/pice/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=tY5KBZUAAAAJ) * [ORCID](https://orcid.org/0009-0001-0113-8234)
+</div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Climate Impacts,Deep Learning,Earth Observation,Efficient or Sustainable AI,Machine Learning">
+<span title="PhD StudentUniversity of Oslo, Department of Geosciences - ACTIVATE project."><strong>Johan Fredrik Agerup, PhD Student, University of Oslo, Department of Geosciences - ACTIVATE project</strong></span>
+<br />
+Bayesian Optimisation * Climate Impacts * Deep Learning * Earth Observation * Efficient or Sustainable AI * Machine Learning * [Research group](https://www.mn.uio.no/geo/forskning/prosjekter/activate/)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
