@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Bayesian Optimisation,Biodiversity,Climate Impacts,Climate Modeling,Earth Observation,Earth System Modeling,Extreme Weather Events,Sustainable Energy,Data Assimilation">
-<span title="PhD, ResearcherUniversity of Oslo."><strong>Yeliz A. Yilmaz, PhD, Researcher, University of Oslo</strong></span>
-<br />
-Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling * Extreme Weather Events * Sustainable Energy * Data Assimilation * [More info (researcher profile)](https://www.mn.uio.no/geo/english/people/aca/geohyd/yeliz/) * [Publications (Scholar)](https://scholar.google.com/citations?user=jFP05GsAAAAJ) * [ORCID](https://orcid.org/0000-0001-7937-5056)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning">
 <span title="PhD, ResearcherUniversity of Oslo."><strong>Henning Åkesson, PhD, Researcher, University of Oslo</strong></span>
 <br />
@@ -700,6 +694,12 @@ Climate Impacts * Earth Observation * Machine Learning * [ORCID](https://orcid.o
 <span title="Using data assimilation to fuse Earth observations and geophysical models, helping to improve our understanding of the changing Earth system especially in cold regions. At the moment, I mostly work on satellite-based cryospheric reanalysis and partly on land-atmosphere flux inversions. In this line of research, our objectives are to help answer basic yet long-standing and important questions such as: How much snow and ice is there? What is the landscape-scale carbon flux?   Methodologically, I am intrigued by the potential of synergizing probabilistic geophysical methods (inverse modeling, data assimilation, geostatistics, machine learning) that can be unified under the umbrella of Bayesian inference. In this view, most tasks boil down to specifying a probabilistic model of the system at hand and constraining it with data via inference. We may also cast the model as an abstract agent that can decide on informative sampling strategies. Last but not least, failed predictions under the assumed model are a chance to learn new things about the world.  More broadly, I have come to see inference as a powerful tool for reasoning under uncertainty to make sense of nature and our place in it. This gives us agency to make more informed collective decisions in response to climate change which I view as one of the greatest looming challenges of our time.   I learned about this initiative from Dr. Alouette van Hove that I have had the pleasure of working together with on informative path planning and source term estimation from drones the last few years.  PhD, ResearcherDepartment of Geosciences, University of Oslo, Oslo, Norway."><strong>Kristoffer Aalstad, PhD, Researcher, Department of Geosciences, University of Oslo, Oslo, Norway</strong></span>
 <br />
 AutoML * Bayesian Optimisation * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * Weather Forecasting * Data Assimilation * Simulation-based Inference * Amortized Inference * Emulators * Gaussian Processes * Hybrid Methods * Bayesian Inference * Inverse Modeling * Cryospheric Science * [More info (researcher profile)](https://www.mn.uio.no/geo/english/people/aca/geohyd/kristaal/) * [Research group](https://www.mn.uio.no/geo/english/) * [Publications (Scholar)](https://scholar.google.com/citations?user=sG6YnXYAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-2475-3731) * [BlueSky](https://bsky.app/profile/krisaalstad.bsky.social)
+</div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Biodiversity,Climate Impacts,Climate Modeling,Earth Observation,Earth System Modeling,Extreme Weather Events,Sustainable Energy,Data Assimilation">
+<span title="PhD, ResearcherUniversity of Oslo."><strong>Yeliz A. Yilmaz, PhD, Researcher, University of Oslo</strong></span>
+<br />
+Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling * Extreme Weather Events * Sustainable Energy * Data Assimilation * [More info (researcher profile)](https://www.mn.uio.no/geo/english/people/aca/geohyd/yeliz/) * [Publications (Scholar)](https://scholar.google.com/citations?user=jFP05GsAAAAJ) * [ORCID](https://orcid.org/0000-0001-7937-5056)
 </div>
 
 <div class="content" markdown="1" data-tags="">
