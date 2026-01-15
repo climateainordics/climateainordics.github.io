@@ -1,4 +1,10 @@
 ## Affiliates - Recently Joined
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Deep Learning,Earth System Modeling,Machine Learning,Sustainable Energy,Weather Forecasting,Hydrology">
+<span title="Researcher with interest in snow hydrology and how AI and other technologies can improve our predictions in that area. PhD, ResearcherUniversity of Oslo."><strong>Olga Silantyeva, PhD, Researcher, University of Oslo</strong></span>
+<br />
+Bayesian Optimisation * Deep Learning * Earth System Modeling * Machine Learning * Sustainable Energy * Weather Forecasting * Hydrology * [More info (researcher profile)](https://www.mn.uio.no/geo/english/people/aca/geohyd/olsi/) * [ORCID](https://orcid.org/0000-0001-5440-6768)
+</div>
+
 <div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning">
 <span title="PhD, ResearcherUniversity of Oslo."><strong>Henning Åkesson, PhD, Researcher, University of Oslo</strong></span>
 <br />
@@ -181,7 +187,7 @@ Biodiversity * Climate Impacts * Earth Observation * Earth System Modeling * Mac
 </div>
 
 <div class="content" markdown="1" data-tags="Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,Sustainable Cities,Urban Planning">
-<span title="I am an Associate Professor at the Royal Institute of Technology (KTH) in Stockholm. My research lies at the intersection of remote sensing and computer vision, focusing on developing novel methods for Earth observation and geospatial data analysis. I have worked extensively on applications ranging from urban monitoring and disaster mapping to glacier and forest carbon studies. I also teach courses in Remote Sensing and Geospatial AI and supervise PhD students. My work bridges cutting-edge data science with real-world environmental and societal challenges. Associate ProfessorKTH - Royal Institute of Technology."><strong>Andrea Nascetti, Associate Professor, KTH - Royal Institute of Technology</strong></span>
+<span title="I am an Associate Professor at the Royal Institute of Technology (KTH) in Stockholm. My research lies at the intersection of remote sensing and computer vision, focusing on developing novel methods for Earth observation and geospatial data analysis. I have worked extensively on applications ranging from urban monitoring and disaster mapping to glacier and forest carbon studies. I also teach courses in Remote Sensing and Geospatial AI and supervise PhD students. My work bridges cutting-edge data science with real-world environmental and societal challenges. Associate ProfessorKTH Royal Institute of Technology."><strong>Andrea Nascetti, Associate Professor, KTH Royal Institute of Technology</strong></span>
 <br />
 Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://www.kth.se/profile/nascetti) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=Mdq6_jQAAAAJ) * [ORCID](https://orcid.org/0000-0001-9692-8636)
 </div>
@@ -199,7 +205,7 @@ Climate Modeling * Deep Learning * Efficient or Sustainable AI * Machine Learnin
 </div>
 
 <div class="content" markdown="1" data-tags="Bayesian Optimisation,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning,Soundscape Analysis">
-<span title="Noiselab.ucsd.edu has more details. I’m new processor at DTU. ProfessorDTU."><strong>Peter Gerstoft, Professor, DTU</strong></span>
+<span title="Noiselab.ucsd.edu has more details. I’m new processor at DTU. ProfessorTechnical University of Denmark."><strong>Peter Gerstoft, Professor, Technical University of Denmark</strong></span>
 <br />
 Bayesian Optimisation * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * Soundscape Analysis * [More info (researcher profile)](https://Noiselab.ucsd.edu) * [Research group](https://Noiselab.ucsd.edu) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=oLMfDnYAAAAJ) * [ORCID](https://orcid.org/0000-0002-0471-062X )
 </div>
@@ -433,7 +439,7 @@ Earth Observation * Climate Modeling * Efficient or Sustainable AI * Machine Lea
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Computer Vision,Machine Learning,Deep Learning">
-<span title="My area of research lies at the intersection of Remote Sensing, Physical Geography, Applied Statistics and Applied Machine (Deep) Learning. Post DocAarhus-Biology  &amp; UCPH-Geoscience."><strong>Jaime Revenga, Post Doc, Aarhus-Biology  &amp; UCPH-Geoscience</strong></span>
+<span title="My area of research lies at the intersection of Remote Sensing, Physical Geography, Applied Statistics and Applied Machine (Deep) Learning. Post DocAarhus University  / University of Copenhagen."><strong>Jaime Revenga, Post Doc, Aarhus University  / University of Copenhagen</strong></span>
 <br />
 Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://www.linkedin.com/in/jaime-c-revenga-8556b9167/) * [Research group](https://land-craft.dk/about-us/vision-and-mission) * [Publications (Scholar)](https://scholar.google.com/citations?user=wQfif-MAAAAJ&amp;hl=es) * [ORCID](https://orcid.org/0000-0002-9330-6572) * [BlueSky](https://bsky.app/profile/@jacabenga.bsky.social)
 </div>
@@ -493,7 +499,7 @@ Sustainable Production * Machine Learning * [Publications (Scholar)](https://sch
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Machine Learning,Deep Learning,Species Distribution Modelling">
-<span title="PhD, ResearcherNIBIO."><strong>Zsofia Koma, PhD, Researcher, NIBIO</strong></span>
+<span title="PhD, ResearcherNorwegian Institute of Bioeconomy Research (NIBIO)."><strong>Zsofia Koma, PhD, Researcher, Norwegian Institute of Bioeconomy Research (NIBIO)</strong></span>
 <br />
 Earth Observation * Biodiversity * Machine Learning * Deep Learning * Species Distribution Modelling * [Publications (Scholar)](https://scholar.google.com/citations?user=DhzY3egAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-0003-8258)
 </div>
@@ -577,7 +583,7 @@ Climate Modeling * Biodiversity * Sustainable Cities * Machine Learning * One He
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Urban Planning,Sustainable Cities,Computer Vision,Machine Learning,Deep Learning">
-<span title="PhD, ResearcherNILU."><strong>Amirhossein Hassani, PhD, Researcher, NILU</strong></span>
+<span title="PhD, ResearcherNILU, The climate and environmental research institute."><strong>Amirhossein Hassani, PhD, Researcher, NILU, The climate and environmental research institute</strong></span>
 <br />
 Earth Observation * Urban Planning * Sustainable Cities * Computer Vision * Machine Learning * Deep Learning * [Research group](https://nilu.com/employee/amir-hassani/) * [Publications (Scholar)](https://scholar.google.co.uk/citations?user=HtvV4OsAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-6470-0490)
 </div>
@@ -679,7 +685,7 @@ Bayesian Optimisation * Computer Vision * Deep Learning * Earth Observation * Ex
 </div>
 
 <div class="content" markdown="1" data-tags="Climate Modeling,Deep Learning,Earth System Modeling,Machine Learning">
-<span title="I&#x27;m working on regional climate modelling (to km-scale) and developing ML-based emulator for the RCM. PhD, ResearcherSMHI."><strong>Fuxing Wang, PhD, Researcher, SMHI</strong></span>
+<span title="I&#x27;m working on regional climate modelling (to km-scale) and developing ML-based emulator for the RCM. PhD, ResearcherSwedish Meteorological and Hydrological Institute (SMHI)."><strong>Fuxing Wang, PhD, Researcher, Swedish Meteorological and Hydrological Institute (SMHI)</strong></span>
 <br />
 Climate Modeling * Deep Learning * Earth System Modeling * Machine Learning * [More info (researcher profile)](https://www.smhi.se/en/research/our-team/search-for-employees/fuxing-wang) * [Publications (Scholar)](https://scholar.google.com/citations?user=VUjlxHIAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0001-7582-2752)
 </div>
@@ -1051,7 +1057,7 @@ Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learn
 </div>
 
 <div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Climate Modeling,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,Marine Ecology,NLP">
-<span title="StudentKTH, SSE."><strong>Bennet M, Student, KTH, SSE</strong></span>
+<span title="StudentKTH Royal Institute of Technology, Stockholm School of Economics."><strong>Bennet M, Student, KTH Royal Institute of Technology, Stockholm School of Economics</strong></span>
 <br />
 AutoML * Bayesian Optimisation * Climate Modeling * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Marine Ecology * NLP
 </div>
@@ -1069,7 +1075,7 @@ AutoML * Bayesian Optimisation * Climate Impacts * Climate Modeling * Computer V
 </div>
 
 <div class="content" markdown="1" data-tags="AutoML,Climate Impacts,Climate Modeling,Deep Learning,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Sustainable Energy,Weather Forecasting,Wind Energy">
-<span title="I am a wind engineer working as a climate change researcher, focused on wildfire and extreme events with a strong interest in machine learning and explainable AI. ResearcherDTU."><strong>Jorge Soto Martin, Researcher, DTU</strong></span>
+<span title="I am a wind engineer working as a climate change researcher, focused on wildfire and extreme events with a strong interest in machine learning and explainable AI. ResearcherTechnical University of Denmark."><strong>Jorge Soto Martin, Researcher, Technical University of Denmark</strong></span>
 <br />
 AutoML * Climate Impacts * Climate Modeling * Deep Learning * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Sustainable Energy * Weather Forecasting * Wind Energy * [More info (researcher profile)](https://www.linkedin.com/in/jorge-soto-martin/) * [Research group](https://www.man.dtu.dk/english/about-us/department-organisation/divisions/climate-and-energy-policy-division/climate-economics-and-risk-management#:~:text=The%20Climate%20Economics%20and%20Risk%20Management%20Section%20seeks,change%2C%20as%20well%20as%20mitigation%20and%20adaptation%20strategies.)
 </div>
@@ -1400,7 +1406,7 @@ Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Obs
 </div>
 
 <div class="content" markdown="1" data-tags="AutoML,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Soundscape Analysis,Sustainable Cities,Sustainable Energy,Sustainable Production,Sustainable Transport,Urban Planning,Weather Forecasting">
-<span title="I am a multidisciplinary academic researcher with expertise spanning Geospatial Sciences, Computational Modeling, Climate Change, and Sustainability Science. Currently, I hold the position of Research Scientist within the Atmospheric Sciences Group at Texas Tech University, Lubbock, Texas, USA.  Previously, I served as a Research Scientist at the Atmospheric Sciences Research Center (ASRC), State University of New York at Albany, where I contributed to a NOAA-funded project focused on advancing weather and climate analytics. This work specifically addressed the Urban-Climate-Energy nexus, integrating approaches from the humanities, social sciences, and emerging technologies to support evidence-based policymaking and climate resilience strategies.  Prior to my appointment in the United States, I was a full-time Assistant Professor at Amity University, Delhi-NCR, India. Over the course of my academic career, I have developed comprehensive expertise across the research continuum—from project conceptualization and experimental design to data acquisition, analysis, modeling, and geospatial visualization. My research domains include remote sensing and geoinformatics, energy-environment interactions, urban weather and climate modeling, and the assessment of climate change impacts on complex socio-environmental systems.  I have successfully led two government-sponsored research projects as Principal Investigator and have filed seven patents and one copyright. In terms of mentorship, I have guided 4 PhD candidates and 29 postgraduate students, and I am currently co-supervising two doctoral scholars in an external advisory capacity.  I maintain an active profile in scholarly communication and dissemination, with over 70 peer-reviewed publications in Web of Science and Scopus-indexed journals. I have also authored or co-edited six academic books with leading publishers including Elsevier, Springer, Taylor &amp; Francis, Emerald, SAGE, and Wiley. I have presented my research at numerous international, national, and regional scientific conferences and workshops.  As part of my academic service, I have reviewed more than 230 manuscripts, research proposals, and grant applications in the capacity of invited reviewer, editorial board member, and Associate Editor for several high-impact journals.  My research is strongly aligned with the United Nations Sustainable Development Goals (SDGs), particularly SDG 7 (Affordable and Clean Energy), SDG 10 (Reduced Inequalities), SDG 11 (Sustainable Cities and Communities), and SDG 13 (Climate Action). I am deeply committed to advancing transdisciplinary research and fostering innovative solutions to address interconnected global challenges in climate science, urban systems, energy transitions, and sustainable development. PhD, ResearcherTexas Tech University, Lubbock, Texas, USA."><strong>Deepak Kumar, PhD, Researcher, Texas Tech University, Lubbock, Texas, USA</strong></span>
+<span title="I am a multidisciplinary academic researcher with expertise spanning Geospatial Sciences, Computational Modeling, Climate Change, and Sustainability Science. Currently, I hold the position of Research Scientist within the Atmospheric Sciences Group at Texas Tech University, Lubbock, Texas, USA.  Previously, I served as a Research Scientist at the Atmospheric Sciences Research Center (ASRC), State University of New York at Albany, where I contributed to a NOAA-funded project focused on advancing weather and climate analytics. This work specifically addressed the Urban-Climate-Energy nexus, integrating approaches from the humanities, social sciences, and emerging technologies to support evidence-based policymaking and climate resilience strategies.  Prior to my appointment in the United States, I was a full-time Assistant Professor at Amity University, Delhi-NCR, India. Over the course of my academic career, I have developed comprehensive expertise across the research continuum—from project conceptualization and experimental design to data acquisition, analysis, modeling, and geospatial visualization. My research domains include remote sensing and geoinformatics, energy-environment interactions, urban weather and climate modeling, and the assessment of climate change impacts on complex socio-environmental systems.  I have successfully led two government-sponsored research projects as Principal Investigator and have filed seven patents and one copyright. In terms of mentorship, I have guided 4 PhD candidates and 29 postgraduate students, and I am currently co-supervising two doctoral scholars in an external advisory capacity.  I maintain an active profile in scholarly communication and dissemination, with over 70 peer-reviewed publications in Web of Science and Scopus-indexed journals. I have also authored or co-edited six academic books with leading publishers including Elsevier, Springer, Taylor &amp; Francis, Emerald, SAGE, and Wiley. I have presented my research at numerous international, national, and regional scientific conferences and workshops.  As part of my academic service, I have reviewed more than 230 manuscripts, research proposals, and grant applications in the capacity of invited reviewer, editorial board member, and Associate Editor for several high-impact journals.  My research is strongly aligned with the United Nations Sustainable Development Goals (SDGs), particularly SDG 7 (Affordable and Clean Energy), SDG 10 (Reduced Inequalities), SDG 11 (Sustainable Cities and Communities), and SDG 13 (Climate Action). I am deeply committed to advancing transdisciplinary research and fostering innovative solutions to address interconnected global challenges in climate science, urban systems, energy transitions, and sustainable development. PhD, ResearcherTexas Tech University."><strong>Deepak Kumar, PhD, Researcher, Texas Tech University</strong></span>
 <br />
 AutoML * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Soundscape Analysis * Sustainable Cities * Sustainable Energy * Sustainable Production * Sustainable Transport * Urban Planning * Weather Forecasting * [More info (researcher profile)](https://orcid.org/0000-0003-4487-7755) * [Research group](https://orcid.org/0000-0003-4487-7755) * [Publications (Scholar)](https://scholar.google.com/citations?user=Fb7CYj0AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4487-7755)
 </div>
@@ -1505,10 +1511,4 @@ Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling *
 <span title="PhD StudentUniversity of Würzburg."><strong>Simon Hentschel, PhD Student, University of Würzburg</strong></span>
 <br />
 Climate Modeling * Computer Vision * Deep Learning * Earth System Modeling * Extreme Weather Events * Machine Learning
-</div>
-
-<div class="content" markdown="1" data-tags="Bayesian Optimisation,Deep Learning,Earth System Modeling,Machine Learning,Sustainable Energy,Weather Forecasting,Hydrology">
-<span title="Researcher with interest in snow hydrology and how AI and other technologies can improve our predictions in that area. PhD, ResearcherUniversity of Oslo."><strong>Olga Silantyeva, PhD, Researcher, University of Oslo</strong></span>
-<br />
-Bayesian Optimisation * Deep Learning * Earth System Modeling * Machine Learning * Sustainable Energy * Weather Forecasting * Hydrology * [More info (researcher profile)](https://www.mn.uio.no/geo/english/people/aca/geohyd/olsi/) * [ORCID](https://orcid.org/0000-0001-5440-6768)
 </div>
