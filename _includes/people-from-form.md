@@ -655,7 +655,7 @@ Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observa
 </div>
 
 <div class="content" markdown="1" data-tags="Biodiversity,Computer Vision,Deep Learning,Machine Learning,Marine Ecology">
-<span title="Post DocAAU &amp; Pioneer Centre for AI."><strong>Malte Pedersen, Post Doc, AAU &amp; Pioneer Centre for AI</strong></span>
+<span title="Post DocAarhus University / Pioneer Centre for AI."><strong>Malte Pedersen, Post Doc, Aarhus University / Pioneer Centre for AI</strong></span>
 <br />
 Biodiversity * Computer Vision * Deep Learning * Machine Learning * Marine Ecology * [More info (researcher profile)](https://mapeaau.github.io/) * [Research group](https://vap.aau.dk/) * [Publications (Scholar)](https://scholar.google.com/citations?user=RREDgy4AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-2941-9150)
 </div>
@@ -673,7 +673,7 @@ Computer Vision * Deep Learning * Earth Observation * Machine Learning * Sustain
 </div>
 
 <div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Earth System Modeling,Extreme Weather Events">
-<span title="PhD, ResearcherSwedish Meteorological and Hydrological Institute."><strong>Yi-Chi Wang, PhD, Researcher, Swedish Meteorological and Hydrological Institute</strong></span>
+<span title="PhD, ResearcherSwedish Meteorological and Hydrological Institute (SMHI)."><strong>Yi-Chi Wang, PhD, Researcher, Swedish Meteorological and Hydrological Institute (SMHI)</strong></span>
 <br />
 Climate Impacts * Climate Modeling * Earth System Modeling * Extreme Weather Events * [More info (researcher profile)](https://www.smhi.se/en/research/research-units/climate-research-at-the-rossby-centre/contact-us-at-the-rossby-centre/yi-chi-wang) * [Publications (Scholar)](https://scholar.google.com/citations?user=eUdRCOMAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-2781-8673)
 </div>
