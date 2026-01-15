@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning">
-<span title="PhD, ResearcherUniversity of Oslo."><strong>Henning Åkesson, PhD, Researcher, University of Oslo</strong></span>
-<br />
-Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * [More info (researcher profile)](https://henningakesson.weebly.com/) * [Research group](https://www.mn.uio.no/geo/english/research/projects/glacmass/index.html) * [Publications (Scholar)](https://scholar.google.com/citations?user=CJKXtgEAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-9625-1976)
-</div>
-
 <div class="content" markdown="1" data-tags="Biodiversity,Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning,Marine Ecology">
 <span title="I&#x27;m a marine biologist mapping the norwegian sea-floor. IndustryPelagia."><strong>Raquel Pereira, Industry, Pelagia</strong></span>
 <br />
@@ -706,6 +700,12 @@ Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Eart
 <span title="Researcher with interest in snow hydrology and how AI and other technologies can improve our predictions in that area. PhD, ResearcherUniversity of Oslo."><strong>Olga Silantyeva, PhD, Researcher, University of Oslo</strong></span>
 <br />
 Bayesian Optimisation * Deep Learning * Earth System Modeling * Machine Learning * Sustainable Energy * Weather Forecasting * Hydrology * [More info (researcher profile)](https://www.mn.uio.no/geo/english/people/aca/geohyd/olsi/) * [ORCID](https://orcid.org/0000-0001-5440-6768)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning">
+<span title="PhD, ResearcherUniversity of Oslo."><strong>Henning Åkesson, PhD, Researcher, University of Oslo</strong></span>
+<br />
+Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * [More info (researcher profile)](https://henningakesson.weebly.com/) * [Research group](https://www.mn.uio.no/geo/english/research/projects/glacmass/index.html) * [Publications (Scholar)](https://scholar.google.com/citations?user=CJKXtgEAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-9625-1976)
 </div>
 
 <div class="content" markdown="1" data-tags="">
