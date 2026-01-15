@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Bayesian Optimisation,Deep Learning,Earth System Modeling,Machine Learning,Sustainable Energy,Weather Forecasting,Hydrology">
-<span title="Researcher with interest in snow hydrology and how AI and other technologies can improve our predictions in that area. PhD, ResearcherUniversity of Oslo."><strong>Olga Silantyeva, PhD, Researcher, University of Oslo</strong></span>
-<br />
-Bayesian Optimisation * Deep Learning * Earth System Modeling * Machine Learning * Sustainable Energy * Weather Forecasting * Hydrology * [More info (researcher profile)](https://www.mn.uio.no/geo/english/people/aca/geohyd/olsi/) * [ORCID](https://orcid.org/0000-0001-5440-6768)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning">
 <span title="PhD, ResearcherUniversity of Oslo."><strong>Henning Åkesson, PhD, Researcher, University of Oslo</strong></span>
 <br />
@@ -706,6 +700,12 @@ AutoML * Bayesian Optimisation * Climate Impacts * Climate Modeling * Deep Learn
 <span title="PhD, ResearcherUniversity of Oslo."><strong>Yeliz A. Yilmaz, PhD, Researcher, University of Oslo</strong></span>
 <br />
 Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling * Extreme Weather Events * Sustainable Energy * Data Assimilation * [More info (researcher profile)](https://www.mn.uio.no/geo/english/people/aca/geohyd/yeliz/) * [Publications (Scholar)](https://scholar.google.com/citations?user=jFP05GsAAAAJ) * [ORCID](https://orcid.org/0000-0001-7937-5056)
+</div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Deep Learning,Earth System Modeling,Machine Learning,Sustainable Energy,Weather Forecasting,Hydrology">
+<span title="Researcher with interest in snow hydrology and how AI and other technologies can improve our predictions in that area. PhD, ResearcherUniversity of Oslo."><strong>Olga Silantyeva, PhD, Researcher, University of Oslo</strong></span>
+<br />
+Bayesian Optimisation * Deep Learning * Earth System Modeling * Machine Learning * Sustainable Energy * Weather Forecasting * Hydrology * [More info (researcher profile)](https://www.mn.uio.no/geo/english/people/aca/geohyd/olsi/) * [ORCID](https://orcid.org/0000-0001-5440-6768)
 </div>
 
 <div class="content" markdown="1" data-tags="">
