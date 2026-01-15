@@ -5,6 +5,12 @@
 Biodiversity * Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * Marine Ecology
 </div>
 
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Deep Learning,Machine Learning,Urban Planning,Urban Health">
+<span title="I&#x27;m an engineer and architect by undergraduate education. My research falls under the grand umbrella of human geography to understand the mutual spatial interaction between human communities and the environment. It particularly centers on the use and application of urban analytics (including GIS, data mining and machine learning) and environmental sensing (with a veer towards low-cost solutions) to understand the impact of the built environment or urban form on the natural environment (including climate, air, fauna, humans and their health and resilience). Post DocChalmers University of Technology."><strong>Ahmed Eldesoky, Post Doc, Chalmers University of Technology</strong></span>
+<br />
+Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Machine Learning * Urban Planning * Urban Health * [More info (researcher profile)](https://www.linkedin.com/in/ahmed-hazem-eldesoky-3167b0162?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app) * [Research group](https://smog.chalmers.se/) * [Publications (Scholar)](https://scholar.google.com/citations?user=DuGIJgsAAAAJ&amp;hl=it) * [ORCID](https://orcid.org/0000-0002-6381-8956)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
