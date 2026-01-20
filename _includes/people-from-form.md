@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Biodiversity,Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning,Marine Ecology">
-<span title="I&#x27;m a marine biologist mapping the norwegian sea-floor. IndustryPelagia."><strong>Raquel Pereira, Industry, Pelagia</strong></span>
-<br />
-Biodiversity * Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * Marine Ecology
-</div>
-
 <div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Deep Learning,Machine Learning,Urban Planning,Urban Health">
 <span title="I&#x27;m an engineer and architect by undergraduate education. My research falls under the grand umbrella of human geography to understand the mutual spatial interaction between human communities and the environment. It particularly centers on the use and application of urban analytics (including GIS, data mining and machine learning) and environmental sensing (with a veer towards low-cost solutions) to understand the impact of the built environment or urban form on the natural environment (including climate, air, fauna, humans and their health and resilience). Post DocChalmers University of Technology."><strong>Ahmed Eldesoky, Post Doc, Chalmers University of Technology</strong></span>
 <br />
@@ -1144,6 +1138,12 @@ Climate Modeling * Deep Learning * Earth System Modeling * Fracture Mechanics * 
 <span title="PhD StudentUniversity of Oslo, Department of Geosciences - ACTIVATE project."><strong>Johan Fredrik Agerup, PhD Student, University of Oslo, Department of Geosciences - ACTIVATE project</strong></span>
 <br />
 Bayesian Optimisation * Climate Impacts * Deep Learning * Earth Observation * Efficient or Sustainable AI * Machine Learning * [Research group](https://www.mn.uio.no/geo/forskning/prosjekter/activate/)
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning,Marine Ecology">
+<span title="I&#x27;m a marine biologist mapping the norwegian sea-floor. IndustryPelagia."><strong>Raquel Pereira, Industry, Pelagia</strong></span>
+<br />
+Biodiversity * Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * Marine Ecology
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
