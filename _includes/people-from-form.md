@@ -1518,3 +1518,9 @@ Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling *
 <br />
 Climate Modeling * Computer Vision * Deep Learning * Earth System Modeling * Extreme Weather Events * Machine Learning
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Computer Vision,Extreme Weather Events,Machine Learning,Sustainable Cities,Sustainable Energy,Sustainable Transport,Wind Energy">
+<span title="Masters student in engineering physics, with a specialization in AI and Climate science. Currently writing my thesis on a subject related to this field. Looking for PhD opportunities within the field. Student."><strong>Christopher Moniz, Student</strong></span>
+<br />
+Climate Impacts * Computer Vision * Extreme Weather Events * Machine Learning * Sustainable Cities * Sustainable Energy * Sustainable Transport * Wind Energy * [More info (researcher profile)](https://www.linkedin.com/in/christopher-moniz-/)
+</div>

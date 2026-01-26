@@ -11,10 +11,10 @@
 <option value="Biodiversity">Biodiversity (77)</option>
 <option value="Bioinformatics">Bioinformatics (1)</option>
 <option value="Causal AI">Causal AI (1)</option>
-<option value="Climate Impacts">Climate Impacts (43)</option>
+<option value="Climate Impacts">Climate Impacts (44)</option>
 <option value="Climate Modeling">Climate Modeling (85)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
-<option value="Computer Vision">Computer Vision (90)</option>
+<option value="Computer Vision">Computer Vision (91)</option>
 <option value="Cryospheric Science">Cryospheric Science (1)</option>
 <option value="Data Assimilation">Data Assimilation (2)</option>
 <option value="Deep Learning">Deep Learning (134)</option>
@@ -31,7 +31,7 @@
 <option value="Emulators">Emulators (1)</option>
 <option value="Environment Impacts of AI">Environment Impacts of AI (1)</option>
 <option value="Extreme Weather">Extreme Weather (2)</option>
-<option value="Extreme Weather Events">Extreme Weather Events (26)</option>
+<option value="Extreme Weather Events">Extreme Weather Events (27)</option>
 <option value="Fluid Dynamics">Fluid Dynamics (1)</option>
 <option value="Food Microbiology">Food Microbiology (1)</option>
 <option value="Forest">Forest (1)</option>
@@ -49,7 +49,7 @@
 <option value="Knowledge Graphs">Knowledge Graphs (1)</option>
 <option value="Land System Science">Land System Science (1)</option>
 <option value="Land Use Change Modelling">Land Use Change Modelling (1)</option>
-<option value="Machine Learning">Machine Learning (157)</option>
+<option value="Machine Learning">Machine Learning (158)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (24)</option>
 <option value="Materials">Materials (1)</option>
@@ -70,12 +70,12 @@
 <option value="Species Distribution Modelling">Species Distribution Modelling (1)</option>
 <option value="Stochastic Modelling and Distributions">Stochastic Modelling and Distributions (1)</option>
 <option value="Sustainability Science">Sustainability Science (1)</option>
-<option value="Sustainable Cities">Sustainable Cities (59)</option>
-<option value="Sustainable Energy">Sustainable Energy (16)</option>
+<option value="Sustainable Cities">Sustainable Cities (60)</option>
+<option value="Sustainable Energy">Sustainable Energy (17)</option>
 <option value="Sustainable Heating">Sustainable Heating (1)</option>
 <option value="Sustainable Production">Sustainable Production (32)</option>
 <option value="Sustainable Space Exploration and Research">Sustainable Space Exploration and Research (1)</option>
-<option value="Sustainable Transport">Sustainable Transport (27)</option>
+<option value="Sustainable Transport">Sustainable Transport (28)</option>
 <option value="Uav">Uav (1)</option>
 <option value="Urban Health">Urban Health (1)</option>
 <option value="Urban Planning">Urban Planning (40)</option>
@@ -84,7 +84,7 @@
 <option value="Visualization">Visualization (1)</option>
 <option value="Weather Forecasting">Weather Forecasting (16)</option>
 <option value="Wildfire Growth Forecasting">Wildfire Growth Forecasting (1)</option>
-<option value="Wind Energy">Wind Energy (11)</option></select>
+<option value="Wind Energy">Wind Energy (12)</option></select>
 
 <script>
         document.getElementById('tagFilter').addEventListener('change', function () {
