@@ -1530,3 +1530,9 @@ Climate Impacts * Computer Vision * Extreme Weather Events * Machine Learning * 
 <br />
 Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * NLP * Soundscape Analysis * Sustainable Cities * Sustainable Energy * Sustainable Transport * Urban Planning * Weather Forecasting * [Research group](https://auklab-audio.github.io/)
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Computer Vision,Deep Learning,Extreme Weather Events,Machine Learning,NLP">
+<span title="I have built two startups in the ai space in the past in computer vision space and coordinated ai research for norway at Nora.ai and built the ai research school.  Independent consultantEnterpreneur."><strong>Sachin Gaur, Independent consultant, Enterpreneur</strong></span>
+<br />
+Climate Impacts * Computer Vision * Deep Learning * Extreme Weather Events * Machine Learning * NLP * [More info (researcher profile)](https://esach.in/about-me/) * [Publications (Scholar)](https://scholar.google.com/citations?user=LgTlkB4AAAAJ&amp;hl=en&amp;oi=ao)
+</div>
