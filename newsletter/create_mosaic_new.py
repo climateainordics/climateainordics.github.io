@@ -22,6 +22,8 @@ from PIL import Image
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 
+FORBIDDEN_WORDS = ['logo', 'partners']
+
 # ---- Helpers ----
 def parse_size(s: str) -> Tuple[int, int]:
     try:
@@ -132,9 +134,71 @@ def extract_image_urls(page_url: str) -> List[str]:
         for key in ("src", "data-src", "data-original", "data-lazy-src"):
             add(img.get(key))
 
+    print('before filtering:',ordered_urls)
+    ordered_urls = [u for u in ordered_urls if not any([(w in u) for w in FORBIDDEN_WORDS])]
+    print('after filtering:',ordered_urls)
     return ordered_urls
 
 def build_mosaic(urls: List[str], out_size: Tuple[int, int], gutter: int = 0) -> Image.Image:
+    n = len(urls)
+    if n == 0:
+        raise ValueError("No image URLs found on the page")
+
+    rows, cols = best_grid(n)
+    out_w, out_h = out_size
+
+    # Compute standard tile size
+    total_gutter_x = (cols - 1) * gutter
+    total_gutter_y = (rows - 1) * gutter
+    
+    # Standard dimensions for full rows
+    std_tile_w = (out_w - total_gutter_x) // cols
+    tile_h = (out_h - total_gutter_y) // rows
+
+    canvas = Image.new("RGB", (out_w, out_h), (0, 0, 0))
+
+    # Calculate the index of the last row
+    max_r = (n - 1) // cols
+
+    for idx, url in enumerate(urls):
+        r = idx // cols
+        c = idx % cols
+        
+        # Default vertical position
+        y = r * (tile_h + gutter)
+
+        # Logic to handle the last row specifically
+        if r == max_r:
+            # Calculate how many items are actually in this last row
+            # If n % cols is 0, the row is full (count = cols). 
+            # Otherwise, it's the remainder.
+            remainder = n % cols
+            items_in_last_row = remainder if remainder > 0 else cols
+
+            # Recalculate width for this row to fill the canvas
+            last_row_gutter_total = (items_in_last_row - 1) * gutter
+            current_tile_w = (out_w - last_row_gutter_total) // items_in_last_row
+            
+            # Recalculate X position based on the new width
+            x = c * (current_tile_w + gutter)
+        else:
+            # Standard grid logic for non-last rows
+            current_tile_w = std_tile_w
+            x = c * (std_tile_w + gutter)
+
+        try:
+            im = fetch_image(url)
+            # Use the calculated current_tile_w
+            tile = cover_resize_crop(im, current_tile_w, tile_h)
+        except Exception as e:
+            print(f"Warning: failed to fetch {url}: {e}", file=sys.stderr)
+            tile = Image.new("RGB", (current_tile_w, tile_h), (30, 30, 30))
+    
+        canvas.paste(tile, (x, y))
+
+    return canvas
+
+def build_mosaic_old(urls: List[str], out_size: Tuple[int, int], gutter: int = 0) -> Image.Image:
     n = len(urls)
     if n == 0:
         raise ValueError("No image URLs found on the page")
