@@ -1524,3 +1524,9 @@ Climate Modeling * Computer Vision * Deep Learning * Earth System Modeling * Ext
 <br />
 Climate Impacts * Computer Vision * Extreme Weather Events * Machine Learning * Sustainable Cities * Sustainable Energy * Sustainable Transport * Wind Energy * [More info (researcher profile)](https://www.linkedin.com/in/christopher-moniz-/)
 </div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Biodiversity,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Marine Ecology,NLP,Soundscape Analysis,Sustainable Cities,Sustainable Energy,Sustainable Transport,Urban Planning,Weather Forecasting">
+<span title="I am studying Engineering Physics at LTH and I am currently doing my master thesis at RISE in bioacoustics/ML on the intersection between ecology and data science. I am curious in interdisciplinary research combining machine learning/data science and environmental science and I am looking for research opportunities in this field (e.g. PhD). StudentRISE, Lund University."><strong>Ida Heijmink, Student, RISE, Lund University</strong></span>
+<br />
+Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * NLP * Soundscape Analysis * Sustainable Cities * Sustainable Energy * Sustainable Transport * Urban Planning * Weather Forecasting * [Research group](https://auklab-audio.github.io/)
+</div>
