@@ -20,7 +20,7 @@
 <option value="Deep Learning">Deep Learning (136)</option>
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
-<option value="Earth Observation">Earth Observation (105)</option>
+<option value="Earth Observation">Earth Observation (106)</option>
 <option value="Earth System Modeling">Earth System Modeling (30)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
@@ -44,12 +44,13 @@
 <option value="HPC">HPC (1)</option>
 <option value="Hybrid Methods">Hybrid Methods (1)</option>
 <option value="Hydrology">Hydrology (1)</option>
+<option value="Ice Sheet–climate Interaction">Ice Sheet–climate Interaction (1)</option>
 <option value="Impact on Climate Change on Health">Impact on Climate Change on Health (1)</option>
 <option value="Inverse Modeling">Inverse Modeling (1)</option>
 <option value="Knowledge Graphs">Knowledge Graphs (1)</option>
 <option value="Land System Science">Land System Science (1)</option>
 <option value="Land Use Change Modelling">Land Use Change Modelling (1)</option>
-<option value="Machine Learning">Machine Learning (160)</option>
+<option value="Machine Learning">Machine Learning (161)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (25)</option>
 <option value="Materials">Materials (1)</option>
