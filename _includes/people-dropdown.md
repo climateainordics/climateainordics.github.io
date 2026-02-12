@@ -7,7 +7,7 @@
 <option value="Atmospheric Science">Atmospheric Science (1)</option>
 <option value="AutoML">AutoML (10)</option>
 <option value="Bayesian Inference">Bayesian Inference (1)</option>
-<option value="Bayesian Optimisation">Bayesian Optimisation (18)</option>
+<option value="Bayesian Optimisation">Bayesian Optimisation (19)</option>
 <option value="Biodiversity">Biodiversity (78)</option>
 <option value="Bioinformatics">Bioinformatics (1)</option>
 <option value="Causal AI">Causal AI (1)</option>
@@ -17,7 +17,7 @@
 <option value="Computer Vision">Computer Vision (93)</option>
 <option value="Cryospheric Science">Cryospheric Science (1)</option>
 <option value="Data Assimilation">Data Assimilation (2)</option>
-<option value="Deep Learning">Deep Learning (136)</option>
+<option value="Deep Learning">Deep Learning (137)</option>
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
 <option value="Earth Observation">Earth Observation (106)</option>
@@ -27,7 +27,7 @@
 <option value="Ecosystem-based Adaptation">Ecosystem-based Adaptation (1)</option>
 <option value="Edna">Edna (1)</option>
 <option value="Education">Education (1)</option>
-<option value="Efficient or Sustainable AI">Efficient or Sustainable AI (73)</option>
+<option value="Efficient or Sustainable AI">Efficient or Sustainable AI (74)</option>
 <option value="Emulators">Emulators (1)</option>
 <option value="Environment Impacts of AI">Environment Impacts of AI (1)</option>
 <option value="Extreme Weather">Extreme Weather (2)</option>
@@ -50,7 +50,7 @@
 <option value="Knowledge Graphs">Knowledge Graphs (1)</option>
 <option value="Land System Science">Land System Science (1)</option>
 <option value="Land Use Change Modelling">Land Use Change Modelling (1)</option>
-<option value="Machine Learning">Machine Learning (161)</option>
+<option value="Machine Learning">Machine Learning (162)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (25)</option>
 <option value="Materials">Materials (1)</option>

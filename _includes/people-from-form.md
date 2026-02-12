@@ -1542,3 +1542,9 @@ Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Comp
 <br />
 Climate Impacts * Computer Vision * Deep Learning * Extreme Weather Events * Machine Learning * NLP * [More info (researcher profile)](https://esach.in/about-me/) * [Publications (Scholar)](https://scholar.google.com/citations?user=LgTlkB4AAAAJ&amp;hl=en&amp;oi=ao)
 </div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Deep Learning,Efficient or Sustainable AI,Machine Learning">
+<span title="I am a machine learning researcher who is interested in data-, resource-, and energy-efficient machine learning. I also work on modeling extreme observations. Assistant ProfessorLinköping University."><strong>Sebastian Mair, Assistant Professor, Linköping University</strong></span>
+<br />
+Bayesian Optimisation * Deep Learning * Efficient or Sustainable AI * Machine Learning * [More info (researcher profile)](https://smair.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=rdJQOxwAAAAJ) * [ORCID](https://orcid.org/0000-0003-2949-8781)
+</div>
