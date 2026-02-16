@@ -4,8 +4,8 @@ summary: "Paola Vesco is a Senior Researcher at the Peace Research Institute Osl
 people:
 - Paola Vesco
 image: 
-	filename: /images/people/featured/PaolaVesco.jpg
-	preview_only: true
+  filename: /images/people/featured/PaolaVesco.jpg
+  preview_only: true
 ---
 
 <img src="/images/people/featured/PaolaVesco.jpg" alt="Paola Vesco" width="50%">
