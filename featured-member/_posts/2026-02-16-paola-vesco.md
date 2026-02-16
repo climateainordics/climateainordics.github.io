@@ -3,8 +3,10 @@ title: "Featured member, February 2026: Paola Vesco"
 summary: "Paola Vesco is a Senior Researcher at the Peace Research Institute Oslo (PRIO), where she forecasts armed conflicts and studies how conflict and climate extremes shape societal vulnerability. She applies machine learning methods for theory testing in her research."
 people:
 - Paola Vesco
-image: /images/people/featured/PaolaVesco.jpg
+image: ""
 ---
+
+<img src="/images/people/featured/PaolaVesco.jpg" alt="Paola Vesco" width="50%">
 
 <br />
 
