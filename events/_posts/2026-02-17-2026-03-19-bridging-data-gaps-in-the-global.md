@@ -1,0 +1,44 @@
+---
+title: "Bridging data gaps in the Global South: Harnessing AI and Earth observation in the humanitarian sector"
+summary: "Webinar with Isabelle Tingzon, RISE. 
+
+This talk highlights how AI and Earth Observation (EO) are transforming data availability for two global challenges: climate resilience and universal school connectivity. In the Caribbean, where extreme climatic hazards like hurricanes, floods, and landslides can devastate over 90% of built infrastructure across Small Island Developing States, comprehensive and up-to-date housing stock information is critical to enable resilient housing operations but is often incomplete, inaccessible, or completely non-existent. The “Digital Earth for Resilient Caribbean” initiative addresses these gaps by integrating EO data such as drone, LiDAR, satellite, and street-view imagery with AI workflows to classify roof types, materials, and building conditions. These efforts aim not only to enhance disaster response and recovery but also strengthen long-term resilience through government capacity building and knowledge exchange.
+In parallel, the presentation showcases UNICEF Giga’s mission to connect every school to the Internet by 2030. Reliable school location data is critical for planning telecommunications infrastructure, yet often inaccurate or incomplete in many low- and middle-income countries. By leveraging ML and satellite imagery, we’ve developed scalable pipelines to map schools across Africa on a nationwide scale, helping to ensure that no child is left behind in accessing digital learning opportunities. Together, these projects demonstrate how Geospatial AI can help bridge critical data gaps in the Global South, supporting both climate adaptation and inclusive education."
+abstract: "This talk highlights how AI and Earth Observation (EO) are transforming data availability for two global challenges: climate resilience and universal school connectivity. In the Caribbean, where extreme climatic hazards like hurricanes, floods, and landslides can devastate over 90% of built infrastructure across Small Island Developing States, comprehensive and up-to-date housing stock information is critical to enable resilient housing operations but is often incomplete, inaccessible, or completely non-existent. The “Digital Earth for Resilient Caribbean” initiative addresses these gaps by integrating EO data such as drone, LiDAR, satellite, and street-view imagery with AI workflows to classify roof types, materials, and building conditions. These efforts aim not only to enhance disaster response and recovery but also strengthen long-term resilience through government capacity building and knowledge exchange.
+In parallel, the presentation showcases UNICEF Giga’s mission to connect every school to the Internet by 2030. Reliable school location data is critical for planning telecommunications infrastructure, yet often inaccurate or incomplete in many low- and middle-income countries. By leveraging ML and satellite imagery, we’ve developed scalable pipelines to map schools across Africa on a nationwide scale, helping to ensure that no child is left behind in accessing digital learning opportunities. Together, these projects demonstrate how Geospatial AI can help bridge critical data gaps in the Global South, supporting both climate adaptation and inclusive education."
+people:
+- Olof Mogren
+permalink: /events/2026-02-17-2026-03-19-bridging-data-gaps-in-the-global
+event_date: 2026-03-19
+event_time: "15:00"
+event_location: ""
+
+youtube: ""
+--- 
+Welcome to this week's Learning Machines seminar.
+
+This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
+
+**Title:** Bridging data gaps in the Global South: Harnessing AI and Earth observation in the humanitarian sector
+
+**Speaker:** Isabelle Tingzon, RISE
+
+**Abstract:** This talk highlights how AI and Earth Observation (EO) are transforming data availability for two global challenges: climate resilience and universal school connectivity. In the Caribbean, where extreme climatic hazards like hurricanes, floods, and landslides can devastate over 90% of built infrastructure across Small Island Developing States, comprehensive and up-to-date housing stock information is critical to enable resilient housing operations but is often incomplete, inaccessible, or completely non-existent. The “Digital Earth for Resilient Caribbean” initiative addresses these gaps by integrating EO data such as drone, LiDAR, satellite, and street-view imagery with AI workflows to classify roof types, materials, and building conditions. These efforts aim not only to enhance disaster response and recovery but also strengthen long-term resilience through government capacity building and knowledge exchange.
+In parallel, the presentation showcases UNICEF Giga’s mission to connect every school to the Internet by 2030. Reliable school location data is critical for planning telecommunications infrastructure, yet often inaccurate or incomplete in many low- and middle-income countries. By leveraging ML and satellite imagery, we’ve developed scalable pipelines to map schools across Africa on a nationwide scale, helping to ensure that no child is left behind in accessing digital learning opportunities. Together, these projects demonstrate how Geospatial AI can help bridge critical data gaps in the Global South, supporting both climate adaptation and inclusive education.
+
+**About the speaker:** Isabelle Tingzon is a doctoral researcher at RISE and PhD student at KTH. Previously, she was a Geospatial Data Scientist at the World Bank, where she spearheaded AI-driven climate adaptation projects in support of resilient housing operations.  She has also worked as a Data Science Consultant at UNICEF, where she led the development and deployment of UNICEF Giga’s AI-enabled school mapping pipeline across low- and middle-income countries. Her other projects span high-resolution poverty estimation, informal refugee settlement detection, and disaster- fragility, conflict, and violence assessment, in partnership with humanitarian organizations and non-profits in Southeast Asia, Latin America, the Middle East, and the Caribbean. 
+
+**Location:** This is an online seminar. Connect using Zoom.
+
+**Date:** 2026-03-19 15:00
+
+
+
+**Upcoming seminars:**
+
+* All seminars are 15:00 CET.
+
+More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
+
+-- The Learning Machines Team
+
