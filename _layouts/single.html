@@ -47,11 +47,10 @@ layout: default
         <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.youtube }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         <br />
   {% elsif page.image %}
-    {% comment %}
-    Old rendering, kept for reference
     <img src="{{ page.image }}" style="width: 100%;" alt="{{ p.imagealt }}" />
-    {% endcomment %}
 		  
+	{% comment %}
+    Attempt to adjust image size
     {%- assign img_src = page.image.path | default: page.image -%}
     {%- assign img_alt = page.image.alt  | default: page.imagealt | default: page.title -%}
     {%- assign raw_width = page.image.width | default: "100%" -%}
@@ -71,6 +70,7 @@ layout: default
       style="width: {{ img_width }};"
       alt="{{ img_alt | escape }}" 
 	/>
+	{% endcomment %}
 
   {% endif %}
 
