@@ -46,8 +46,31 @@ layout: default
   {% if page.youtube and page.youtube != "" %}
         <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.youtube }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         <br />
+  {% comment %}
+  old code
   {% elsif page.image %}
         <img src="{{ page.image }}" style="width: 100%;" alt="{{ p.imagealt }}" />
+  {% endif %}
+  {% endcomment %}
+  {% elsif page.image %}
+    {% assign img_src = page.image.path | default: page.image %}
+    {% assign img_alt = page.image.alt  | default: page.imagealt | default: page.title %}
+
+    {% assign raw_width = page.image.width | default: "100%" %}
+    {% comment %}
+      If width is purely numeric, treat it as pixels.
+      E.g., "800" -> "800px". If it has '%' or 'px', leave as-is.
+    {% endcomment %}
+    {% assign is_numeric_width = raw_width | plus: 0 %}
+    {% if raw_width == is_numeric_width | string %}
+      {% assign img_width = raw_width | append: "px" %}
+    {% else %}
+      {% assign img_width = raw_width %}
+    {% endif %}
+
+    <img src="{{ img_src | relative_url }}"
+       style="width: {{ img_width }};"
+       alt="{{ img_alt | escape }}" />
   {% endif %}
 
 	{% capture stripped_content %}{{ content | strip }}{% endcapture %}
