@@ -5,8 +5,6 @@ people:
 - Paola Vesco
 image: 
   path: /images/people/featured/PaolaVesco.jpg
-  width: "50%"
-  alt: "Paola Vesco"
 ---
 
 <br />
