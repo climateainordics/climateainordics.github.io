@@ -11,7 +11,7 @@
 <option value="Biodiversity">Biodiversity (78)</option>
 <option value="Bioinformatics">Bioinformatics (1)</option>
 <option value="Causal AI">Causal AI (1)</option>
-<option value="Climate Impacts">Climate Impacts (47)</option>
+<option value="Climate Impacts">Climate Impacts (48)</option>
 <option value="Climate Modeling">Climate Modeling (86)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
 <option value="Computer Vision">Computer Vision (93)</option>
@@ -20,8 +20,8 @@
 <option value="Deep Learning">Deep Learning (137)</option>
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
-<option value="Earth Observation">Earth Observation (107)</option>
-<option value="Earth System Modeling">Earth System Modeling (30)</option>
+<option value="Earth Observation">Earth Observation (108)</option>
+<option value="Earth System Modeling">Earth System Modeling (31)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
 <option value="Ecosystem-based Adaptation">Ecosystem-based Adaptation (1)</option>
@@ -71,7 +71,7 @@
 <option value="Species Distribution Modelling">Species Distribution Modelling (1)</option>
 <option value="Stochastic Modelling and Distributions">Stochastic Modelling and Distributions (1)</option>
 <option value="Sustainability Science">Sustainability Science (1)</option>
-<option value="Sustainable Cities">Sustainable Cities (62)</option>
+<option value="Sustainable Cities">Sustainable Cities (63)</option>
 <option value="Sustainable Energy">Sustainable Energy (18)</option>
 <option value="Sustainable Heating">Sustainable Heating (1)</option>
 <option value="Sustainable Production">Sustainable Production (32)</option>
