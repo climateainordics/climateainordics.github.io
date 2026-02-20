@@ -33,10 +33,10 @@ This seminar is a collaboration between RISE and Climate AI Nordics -- [climatea
 
 **Upcoming seminars:**
 
-* 2026-01-22: Nita Mulliqi, Karolinska Institute
-* 2026-02-05: Pablo Villanueva Perez, Lund University
-* 2026-02-19: Sanja Karilanova, Uppsala University
-* 2026-03-05: Purnendu Sardar, Lund University
+* 2026-01-22: *Bridging data gaps in the Global South: Harnessing AI and Earth observation in the humanitarian sector*, Nita Mulliqi, Karolinska Institute
+* 2026-02-05: *Bridging data gaps in the Global South: Harnessing AI and Earth observation in the humanitarian sector*, Pablo Villanueva Perez, Lund University
+* 2026-02-19: *Bridging data gaps in the Global South: Harnessing AI and Earth observation in the humanitarian sector*, Sanja Karilanova, Uppsala University
+* 2026-03-05: *Bridging data gaps in the Global South: Harnessing AI and Earth observation in the humanitarian sector*, Purnendu Sardar, Lund University
 * All seminars are 15:00 CET.
 
 More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
