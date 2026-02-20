@@ -45,10 +45,10 @@ In this talk, we present a framework that addresses both challenges: multi-resol
 
 **Upcoming seminars:**
 
-* 2025-11-27: Kalle Åström, LTH, Lund University
-* 2025-12-11: Zhengpeng (Frank) Feng, Cambridge
-* 2026-01-22: Nita Mulliqi, Karolinska Institute
-* 2026-02-05: Pablo Villanueva Perez, Lund University
+* 2025-11-27: *Bridging data gaps in the Global South: Harnessing AI and Earth observation in the humanitarian sector*, Kalle Åström, LTH, Lund University
+* 2025-12-11: *Bridging data gaps in the Global South: Harnessing AI and Earth observation in the humanitarian sector*, Zhengpeng (Frank) Feng, Cambridge
+* 2026-01-22: *Bridging data gaps in the Global South: Harnessing AI and Earth observation in the humanitarian sector*, Nita Mulliqi, Karolinska Institute
+* 2026-02-05: *Bridging data gaps in the Global South: Harnessing AI and Earth observation in the humanitarian sector*, Pablo Villanueva Perez, Lund University
 * All seminars are 15:00 CET.
 
 More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
