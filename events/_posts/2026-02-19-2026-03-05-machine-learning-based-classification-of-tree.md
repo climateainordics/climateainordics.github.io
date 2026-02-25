@@ -43,6 +43,7 @@ The findings underscore the efficacy of the CNN in distinguishing tree crop cove
 
 
 
+
 **Upcoming seminars:**
 
 * 2026-03-19: *Bridging data gaps in the Global South: Harnessing AI and Earth observation in the humanitarian sector*, Isabelle Tingzon, RISE
