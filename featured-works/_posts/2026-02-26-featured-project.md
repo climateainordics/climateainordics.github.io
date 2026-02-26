@@ -10,6 +10,8 @@ image: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAnAAAADzCAYAAAAGqCv8AACAAE
 ---
 **Paper**: Open-Insect: Benchmarking Open-Set Recognition of Novel Species in Biodiversity Monitoring
 
+**Authors**:  Yuyan Chen, Nico Lang, B. Christian Schmidt, Aditya Jain, Yves Basset, Sara Beery, Maxim Larrivée, David Rolnick
+
 **Project page**: [https://yuyan-c.github.io/open-insect-project/](https://yuyan-c.github.io/open-insect-project/)
 
 **TL;DR**: We propose a new open-set recognition dataset, Open-Insect, and evaluate 38 algorithms for new species detection on geographical open-set splits with varying difficulty.
