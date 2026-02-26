@@ -4,7 +4,8 @@ summary: "The Marie Skłodowska-Curie project LIBRA proudly announce The Materia
 abstract: "The Marie Skłodowska-Curie project LIBRA proudly announce The Material Cloud Film Festival, a three-night film festival exploring the often unseen material realities behind artificial intelligence, including labour conditions, extractive supply chains, and power concentration."
 people:
 - Olof Mogren
-event_date: 2026-03-05 to 2026-04-14
+event_date: 2026-03-05
+event_date_end: 2026-04-14
 event_time: 
 event_location: "KTH, Stockholm"
 image: /images/posts/2026-02-26-material-cloud-film-festival.jpg

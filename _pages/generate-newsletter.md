@@ -157,7 +157,7 @@ This month’s issue features community updates, job opportunities, and our feat
 ![](https://climateainordics.com{{ p.image  }})
 {% endif %}
 
-{% if p.event_date %}*{{ p.event_date }}*{% else %}*{{ p.date | date: '%Y-%m-%d' }}*{% endif %} {{ p.summary }}<br />
+{% if p.event_date %}*{{ p.event_date }}{% if p.event_date_end %} to {{ p.event_date_end }}{% endif %}*{% else %}*{{ p.date | date: '%Y-%m-%d' }}*{% endif %} {{ p.summary }}<br />
 **[Read more!](https://climateainordics.com{{ p.url }})**
 {% endif %}
 {% endfor %}

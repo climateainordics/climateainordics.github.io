@@ -4,7 +4,8 @@ summary: "The Climes Summer School 2026 at Uppsala University offers doctoral, p
 abstract: "The Climes Summer School 2026 at Uppsala University offers doctoral, postdoc, and advanced master's students an interdisciplinary curriculum focused on climate extremes, public health, and societal impacts. The program features a specialized AI component where participants use deep learning and natural language processing to automate the extraction of climate data from texts. While the school is free to attend, applicants must submit their motivation and support letters by March 22nd, 2026, and are generally responsible for their own travel and lodging."
 people:
 - Olof Mogren
-event_date: 2026-06-15 to 2026-06-18
+event_date: 2026-06-15
+event_date_end: 2026-06-18
 event_location: "Uppsala"
 image: /images/posts/2026-02-26-climes-summer-school.png
 youtube: ""
