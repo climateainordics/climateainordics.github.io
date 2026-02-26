@@ -59,7 +59,7 @@ This month’s issue features community updates, job opportunities, and our feat
     {% unless items_listed %}
       {% comment %} There is no featured work for this period.{% endcomment %}
       {% break %}
-    {% endif %}
+    {% endunless %}
   {% endif %}
   {% assign items_listed = false %}
 
@@ -104,7 +104,7 @@ This month’s issue features community updates, job opportunities, and our feat
     {% unless items_listed %}
       {% comment %} There are no featured members for this period.{% endcomment %}
       {% break %}
-    {% endif %}
+    {% endunless %}
   {% endif %}
   {% assign items_listed = false %}
 
