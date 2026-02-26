@@ -49,13 +49,14 @@ This month’s issue features community updates, job opportunities, and our feat
 {% comment %} TWO ITERATIONS, FIRST TO CHECK IF ANY POSTS AVAILABLE {% endcomment %}
 
   {% if i == 2 %}
-{% if items_listed %}
+    {% if items_listed %}
 
-<br clear=all />
+{% comment %} <br clear=all /> {% endcomment %}
 
 {% comment %} # Featured work {% endcomment %}
 
-    {% else %}
+    {% endif %}
+    {% unless items_listed %}
       {% comment %} There is no featured work for this period.{% endcomment %}
       {% break %}
     {% endif %}
@@ -95,12 +96,12 @@ This month’s issue features community updates, job opportunities, and our feat
 {% comment %} TWO ITERATIONS, FIRST TO CHECK IF ANY POSTS AVAILABLE {% endcomment %}
 
   {% if i == 2 %}
-{% if items_listed %}
-
+    {% if items_listed %}
 
 {% comment %} # Featured member {% endcomment %}
 
-    {% else %}
+    {% endif %}
+    {% unless items_listed %}
       {% comment %} There are no featured members for this period.{% endcomment %}
       {% break %}
     {% endif %}
