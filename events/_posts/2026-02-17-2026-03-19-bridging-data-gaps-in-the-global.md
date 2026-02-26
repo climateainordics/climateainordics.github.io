@@ -36,9 +36,12 @@ In parallel, the presentation showcases UNICEF Giga’s mission to connect every
 
 **Upcoming seminars:**
 
+* 2026-03-26: Jeppe Rasmussen, University of Copenhagen
 * All seminars are 15:00 CET.
 
 More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
 
 -- The Learning Machines Team
+
+
 
