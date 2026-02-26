@@ -3,7 +3,7 @@ title: "Featured Project: Open-Insect: Benchmarking Open-Set Recognition of Nove
 summary: "We propose a new open-set recognition dataset, Open-Insect, and evaluate 38 algorithms for new species detection on geographical open-set splits with varying difficulty."
 abstract: "Researchers from Climate AI Nordics have introduced Open-Insect, a large-scale dataset designed to benchmark open-set recognition (OSR) by evaluating how machine learning models detect previously unseen insect species across different geographic regions. The study categorized and tested 38 different OSR algorithms, finding that while no single method was universally superior, simple post-hoc techniques remain surprisingly effective baselines.
 
-A key discovery was that "local" unknown species are significantly harder to identify than non-local ones, though top-performing models still achieved a strong AUROC of over 85%. Ultimately, the benchmark demonstrates that OSR can effectively automate species discovery, providing a vital tool for monitoring and preserving global biodiversity."
+A key discovery was that \"local\" unknown species are significantly harder to identify than non-local ones, though top-performing models still achieved a strong AUROC of over 85%. Ultimately, the benchmark demonstrates that OSR can effectively automate species discovery, providing a vital tool for monitoring and preserving global biodiversity."
 people:
 - Sigrid Passano Hellan
 image: /images/posts/2026-02-26-open-insect.png
