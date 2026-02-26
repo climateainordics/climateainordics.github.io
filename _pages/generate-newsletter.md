@@ -214,8 +214,6 @@ This month’s issue features community updates, job opportunities, and our feat
 {% assign items_listed = false %}
 
 {% for p in all_events %}
-  {% unless p.categories contains 'events' %}{% continue %}{% endunless %}
-
   {% if p.event_date %}
     {% capture eventtime %}{{ p.event_date | date: '%s'}}{% endcapture %}
     {% if eventtime < nowtime %}
@@ -266,8 +264,9 @@ This month’s issue features community updates, job opportunities, and our feat
   {% endif %}
   {% assign items_listed = false %}
 
-  {% for p in site.posts %}
-    {% unless p.categories contains 'events' %}{% continue %}{% endunless %}
+  {% assign sorted_recent = all_events | reverse %}
+
+  {% for p in sorted_recent %}
     {% capture eventtime %}{{ p.event_date | date: '%s'}}{% endcapture %}
     {% if eventtime < newsletter_start_time %}
       {% continue %}
