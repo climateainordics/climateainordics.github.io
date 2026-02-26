@@ -2,7 +2,8 @@
 title: "Swedish Climate Symposium "
 summary: "The call for abstracts is now open for the Swedish Climate Symposium (Lund, May 20–22, 2026). The event focuses on \"Science, Society, and Actions,\" connecting researchers with policymakers. If you are applying AI or data science to climate challenges, don't miss the chance to present your findings. Registration opens in January."
 people:
-event_date: "2026-05-20 to 2026-05-22"
+event_date: 2026-05-20
+event_date_end: 2026-05-22
 event_location: "Lund Sweden"
 image: /images/events/swedish-climate-symposium-2026.png
 deadline: 2025-12-05

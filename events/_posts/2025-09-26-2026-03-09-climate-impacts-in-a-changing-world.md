@@ -3,7 +3,8 @@ title: "International Conference: Climate Impacts in a Changing World 2026"
 summary: "The Swedish Centre for Impacts of Climate Extremes (CLIMES) invites abstract submissions for the international conference Climate Impacts in a Changing World 2026, held in Uppsala on March 9–11, 2026. The event fosters interdisciplinary dialogue on the wide-ranging impacts of climate extremes on human and natural systems."
 people:
 - Stefan Döring
-event_date: 2026-03-09 to 2026-03-11
+event_date: 2026-03-09
+event_date_end: 2026-03-11
 event_time: ""
 event_location: "Central Uppsala, Sweden"
 image: /images/partners/climes.png
