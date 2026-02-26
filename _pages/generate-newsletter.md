@@ -209,7 +209,8 @@ This month’s issue features community updates, job opportunities, and our feat
 
 # Coming events
 
-{% assign all_events = site.posts | where_exp: "item", "item.categories contains 'events'" | sort: "event_date" %}
+{% assign event_posts = site.posts | where: "categories", "events" %}
+{% assign all_events = event_posts | where_exp: "item", "item.event_date != nil" | sort: "event_date" %}
 
 {% assign items_listed = false %}
 
