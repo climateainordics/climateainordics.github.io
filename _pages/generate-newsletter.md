@@ -271,7 +271,7 @@ This month’s issue features community updates, job opportunities, and our feat
       {% if eventtime > nowtime %}
         {% continue %}
       {% endif %}
-      {% capture printdate %}*This event took place {{ p.event_date }}.*{% endcapture %}
+      {% capture printdate %}*This event took place {{ p.event_date }}{% if p.event_date_end %}{{ p.event_date_end }}{% endif %}.*{% endcapture %}
     {% else %}
       {% continue %}
     {% endif %}
