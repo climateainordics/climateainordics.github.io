@@ -43,7 +43,7 @@ This month’s issue features community updates, job opportunities, and our feat
 
 {% comment %} ######### SPOTLIGHT: FEATURED WORK AND MEMBER ########## {% endcomment %}
 
-# Spotlight
+# Community spotlight
 
 
 {% comment %} ######### FEATURED WORK ########## {% endcomment %}
