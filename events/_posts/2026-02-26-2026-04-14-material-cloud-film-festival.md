@@ -1,5 +1,5 @@
 ---
-title: "Machine learning based classification of tree crops of Syrian Arab Republic"
+title: "The Material Cloud Film Festival"
 summary: "The Marie Skłodowska-Curie project LIBRA proudly announce The Material Cloud Film Festival, a three-night film festival exploring the often unseen material realities behind artificial intelligence, including labour conditions, extractive supply chains, and power concentration."
 abstract: "The Marie Skłodowska-Curie project LIBRA proudly announce The Material Cloud Film Festival, a three-night film festival exploring the often unseen material realities behind artificial intelligence, including labour conditions, extractive supply chains, and power concentration."
 people:
