@@ -61,7 +61,7 @@ We hope that the collaborative nature of Climate AI Nordics will accelerate prog
 ## [Events](/events/)
 
 {% for p in site.categories.events limit: 3 %}
-| &bull; | {{p.event_date | date: '%Y-%m-%d'}}: {{ p.title }} <br /> [(Read more)]({{ p.url }}) | {% if p.image %} ![]({{ p.image }}){% endif %} |
+| &bull; | {{p.event_date | date: '%Y-%m-%d'}}{% if p.event_date_end %} to {{ p.event_date_end | date: '%Y-%m-%d'}}{% endif %}: {{ p.title }} <br /> [(Read more)]({{ p.url }}) | {% if p.image %} ![]({{ p.image }}){% endif %} |
 {%- endfor %}
 
 

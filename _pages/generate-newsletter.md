@@ -162,7 +162,7 @@ This month’s issue features community updates, job opportunities, and our feat
 ![](https://climateainordics.com{{ p.image  }})
 {% endif %}
 
-{% if p.event_date %}*{{ p.event_date }}{% if p.event_date_end %} to {{ p.event_date_end }}{% endif %}*{% else %}*{{ p.date | date: '%Y-%m-%d' }}*{% endif %} {{ p.summary }}<br />
+*{{ p.date | date: '%Y-%m-%d' }}* {{ p.summary }}<br />
 **[Read more!](https://climateainordics.com{{ p.url }})**
 {% endif %}
 {% endfor %}
@@ -203,15 +203,17 @@ This month’s issue features community updates, job opportunities, and our feat
 {% comment %} ######### END, NEWS ########## {% endcomment %}
 
 
-{% comment %} NEXT, EVENTS THAT HAS NOT YET HAPPENED!!! {% endcomment %}
+{% comment %} NEXT, EVENTS (FIRST THOSE THAT HAVE NOT YET HAPPENED, THEN RECENT)!!! {% endcomment %}
 
 <br clear=all />
 
 # Coming events
 
+{% assign all_events = site.posts | where_exp: "item", "item.categories contains 'events'" | sort: "event_date" %}
+
 {% assign items_listed = false %}
 
-{% for p in site.posts reversed %}
+{% for p in all_events %}
   {% unless p.categories contains 'events' %}{% continue %}{% endunless %}
 
   {% if p.event_date %}
@@ -303,6 +305,8 @@ This month’s issue features community updates, job opportunities, and our feat
   {% endfor %}
 
 {% endfor %}
+
+{% comment %} ######### END, EVENTS ################### {% endcomment %}
 
 {% comment %} ######### OPEN POSITIONS ########## {% endcomment %}
 
