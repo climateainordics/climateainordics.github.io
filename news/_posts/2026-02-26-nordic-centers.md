@@ -17,8 +17,7 @@ from [Nordforsk](https://www.nordforsk.org/):
 [**NextGen Nordic Geotechnics: Bridging Sustainability, Engineering and Emerging Research Fields**](https://www.nordforsk.org/projects/nextgen-nordic-geotechnics-bridging-sustainability-engineering-and-emerging-research), led by [Stefan Ritter](https://scholar.google.com/citations?user=tV0GYpMAAAAJ&hl=en), Norwegian Geotechnical Institute (Stefan is also a [member](https://climateainordics.com/people/) of Climate AI Nordics).
 
 Both of these networks include topics which partially overlap with and are included within Climate AI Nordics: AI for biodiversity/wildlife monitoring (e.g., 78 members have "Biodiversity"
-as one of their keywords on our [people page](https://climateainordics.com/people/)), and AI for tackling climate and sustainability challenges (e.g., 86 members have "Climate Modeling",
-and 63 have "Sustainable Cities", as a keyword).
+as one of their keywords on our [people page](https://climateainordics.com/people/), as of Feb 2026), and AI for tackling climate and sustainability challenges (e.g., 86 members have "Climate Modeling", and 63 have "Sustainable Cities", as a keyword as of Feb 2026).
 
 As such, we at Climate AI Nordics look forward to future collaborations with these to-be-launched networks, and are excited to see more Nordic activities and initatives within these
 critically important areas!
