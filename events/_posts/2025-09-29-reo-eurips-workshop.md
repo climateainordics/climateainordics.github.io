@@ -4,7 +4,7 @@ summary: "The REO workshop will take place in Copenhagen, Denmark, Dec 6th. (Co-
 people:
 - Hui Zhang
 - Nico Lang
-event_date: "2025-12-06"
+event_date: 2025-12-06
 #event_time: "09:00-17:00"
 event_location: "Bella Center, Copenhagen"
 image: /images/posts/2025-REO-Eurips-workshop-call.jpeg
