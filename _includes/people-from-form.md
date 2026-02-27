@@ -1559,3 +1559,9 @@ Bayesian Optimisation * Deep Learning * Efficient or Sustainable AI * Machine Le
 <br />
 Climate Impacts * Earth Observation * Earth System Modeling * Sustainable Cities * [More info (researcher profile)](https://www.media.mit.edu/people/shariful/overview/) * [Publications (Scholar)](https://scholar.google.com/citations?user=oVlX_IwAAAAJ&amp;hl=en&amp;authuser=2)
 </div>
+
+<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Biodiversity,Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Urban Planning">
+<span title="Environmental scientist majoring in terrestrial ecology . Post DocUCT-ACDI."><strong>Collins Matiza, Post Doc, UCT-ACDI</strong></span>
+<br />
+AutoML * Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Urban Planning * [More info (researcher profile)](https://Collins matiza) * [Research group](https://collins Matiza ) * [Publications (Scholar)](https://Collins Matiza ) * [BlueSky](https://bsky.app/profile/Collins Matiza )
+</div>
