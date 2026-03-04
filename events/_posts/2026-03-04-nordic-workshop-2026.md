@@ -55,7 +55,7 @@ For the 2026 edition of this annual workshop series, we have the following quest
 
 **Céline Heuzé,** University of Gothenburg
 
-![](/events/2026-nordic-workshop/celine.jpg)
+![](/events/2026-nordic-workshop/celine.png)
 
 *Céline Heuzé is docent and Senior Lecturer in climatology at University of Gothenburg. She uses in-situ observations, climate models,
 AI and remote sensing to study the interactions between deep ocean, sea ice / glaciers, and atmosphere, mostly in the Arctic for now.
