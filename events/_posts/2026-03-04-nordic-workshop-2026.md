@@ -8,7 +8,7 @@ people:
 - Olof Mogren
 permalink: /events/2026-nordic-workshop
 event_date: 2026-06-26
-event_time: "9:00"
+event_time: "09:00"
 event_location: Copenhagen, Denmark
 first_page: false
 image: /images/events/nordic-workshop-2026.png
@@ -23,7 +23,7 @@ img {
 </style>
 
 
-As extreme events following climate change are getting ever more frequent, humanity needs to tackle the new reality on a changing planet on many fronts. Many of the approaches which are in use or under development can be strengthened using advanced analytics tools and optimization techniques. The 2025 Nordic Workshop on AI for Climate Change will gather researchers from the Nordics. This one-day, in-person workshop, will take place in Gothenburg, Sweden, May 13th 2025. The workshop will feature a mix of keynotes, oral presentations, and posters around the topics of AI for climate change, including AI for biodiversity and the green transition. The workshop will be a meeting point for a wide range of researchers from (primarily) around the Nordic countries, but other interested people will be welcome too.
+As extreme events following climate change are getting ever more frequent, humanity needs to tackle the new reality on a changing planet on many fronts. Many of the approaches which are in use or under development can be strengthened using advanced analytics tools and optimization techniques. The **2026 Nordic Workshop on AI for Climate** will gather researchers from the Nordics. This one-day, in-person workshop, will take place in **Copenhagen, Denmark, June 26th 2026**. The workshop will feature a mix of keynotes, oral presentations, and posters around the topics of AI for climate change, including AI for biodiversity and the green transition. The workshop will be a meeting point for a wide range of researchers from (primarily) around the Nordic countries, but other interested people will be welcome too.
 
 Together, we will help the Nordic AI community to find the most impactful directions of future research in the field.
 
