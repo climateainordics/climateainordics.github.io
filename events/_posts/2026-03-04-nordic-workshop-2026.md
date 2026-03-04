@@ -11,7 +11,7 @@ event_date: 2026-06-26
 event_time: "9:00"
 event_location: Copenhagen, Denmark
 first_page: false
-image: /images/posts/workshop-2026-announcement.png
+image: /images/events/nordic-workshop-2026.png
 ---
 
 <style>
@@ -27,13 +27,13 @@ As extreme events following climate change are getting ever more frequent, human
 
 Together, we will help the Nordic AI community to find the most impactful directions of future research in the field.
 
-## Theme for 2026 workshop: Nordic perspectives
+<!-- ## Theme for 2026 workshop: Nordic perspectives
 
 For the 2026 edition of this annual workshop series, we have the following questions to set the theme and guide the workshop:
 
 *Why should climate change be discussed with a Nordic focus?*
 
-*What are the unique aspects and commonalities of Nordic, European, and Global approaches to tackling climate mitigation and adaptation?*
+*What are the unique aspects and commonalities of Nordic, European, and Global approaches to tackling climate mitigation and adaptation?* -->
 
 ## A Short Copenhagen Guide
 
@@ -57,26 +57,29 @@ For the 2026 edition of this annual workshop series, we have the following quest
 
 ![](/events/2026-nordic-workshop/celine.jpg)
 
-*TODO ADD BIO!*
+*Céline Heuzé is docent and Senior Lecturer in climatology at University of Gothenburg. She uses in-situ observations, climate models,
+AI and remote sensing to study the interactions between deep ocean, sea ice / glaciers, and atmosphere, mostly in the Arctic for now.
+She is a receiver of the 2022 Ocean Science division Outstanding Early Career Scientist award of the European Geosciences Union (EGU), and the 2024 Royal Society of
+Arts and Sciences in Gothenburg (KVVS) Birger Karlsson science prize.*
 
-**TBD,** TBD
+**TBD - more keynotes to be announced,** TBD
 
 <!--![](/events/2026-nordic-workshop/TBD.jpg)-->
-
-*TODO ADD BIO!*
+<!--*TODO ADD BIO!*-->
 
 ## Oral presentations
 
-For more information about the program, check the [detailed schedule](TODO ADD SCHEDULE /events/2026-nordic-workshop/schedule).
+**More info coming soon!**
+<!--For more information about the program, check the [detailed schedule](TODO ADD SCHEDULE /events/2026-nordic-workshop/schedule).
 
 * **TBD,** TBD: *Title TBD*
 * **TBD,** TBD: *Title TBD*
 * **TBD,** TBD: *Title TBD*
-* **TBD,** TBD: *Title TBD*
+* **TBD,** TBD: *Title TBD*-->
 
 ## Poster presentations
 
-The workshop will also have a poster session with about 30 posters, check the [schedule](/events/2026-nordic-workshop/schedule) for details.
+The workshop will also have a poster session with about 30 posters, more info will come later. <!--check the [schedule](/events/2026-nordic-workshop/schedule) for details.-->
 
 ## Topics
 
@@ -101,8 +104,8 @@ The workshop is organized by [Climes, The Swedish Centre for Impacts of Climate 
 
 **Registration and pricing**
 
-The deadline for registering to this workshop is **TBD**. See registration link here: **TBD**
+The deadline for registering to this workshop is **TBD**. See registration link here: **TBD**.
 
-The fee for registration is **DKK 1000**, which includes lunch and coffee. Invoices will be sent out to attendees subject to the registration fee.
+The fee for registration is **TBD**, which includes lunch and coffee. Invoices will be sent out to attendees subject to the registration fee.
 
-**TODO: SHOULD WE HAVE THIS?** A limited number of students will be reimbursed for travel and hotel for the workshop.
+<!--**TODO: SHOULD WE HAVE THIS?** A limited number of students will be reimbursed for travel and hotel for the workshop.-->
