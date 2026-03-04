@@ -35,9 +35,9 @@ For the 2026 edition of this annual workshop series, we have the following quest
 
 *What are the unique aspects and commonalities of Nordic, European, and Global approaches to tackling climate mitigation and adaptation?* -->
 
-## A Short Copenhagen Guide
+<!--## A Short Copenhagen Guide
 
-**COMING SOON!**
+**COMING SOON!**-->
 
 <!--[Click here to see the Copenhagen guide](TODO, see simiar as /events/2025-nordic-workshop/gothenburg).-->
 
@@ -62,7 +62,7 @@ AI and remote sensing to study the interactions between deep ocean, sea ice / gl
 She is a receiver of the 2022 Ocean Science division Outstanding Early Career Scientist award of the European Geosciences Union (EGU), and the 2024 Royal Society of
 Arts and Sciences in Gothenburg (KVVS) Birger Karlsson science prize.*
 
-**TBD - more keynotes to be announced,** TBD
+**TBD - more keynotes to be announced**
 
 <!--![](/events/2026-nordic-workshop/TBD.jpg)-->
 <!--*TODO ADD BIO!*-->
@@ -70,12 +70,14 @@ Arts and Sciences in Gothenburg (KVVS) Birger Karlsson science prize.*
 ## Oral presentations
 
 **More info coming soon!**
+
 <!--For more information about the program, check the [detailed schedule](TODO ADD SCHEDULE /events/2026-nordic-workshop/schedule).
 
 * **TBD,** TBD: *Title TBD*
 * **TBD,** TBD: *Title TBD*
 * **TBD,** TBD: *Title TBD*
-* **TBD,** TBD: *Title TBD*-->
+* **TBD,** TBD: *Title TBD*
+-->
 
 ## Poster presentations
 
@@ -93,9 +95,9 @@ Further topics of interest: The role of policy change, the use of AI to tackle c
 
 **Date and time:** 2026-06-26, 09:00-18:00 + Social dinner until late
 
-**Place:** TBD, TBD, Copenhagen, Denmark
+**Place:** TBD, Copenhagen, Denmark
 
-**TODO ADD MAP BELOW (COMMENTED OUT)**
+<!--**TODO ADD MAP BELOW (COMMENTED OUT)**-->
 <!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2131.55551588934!2d11.937099575480254!3d57.707021063563026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464ff35aa1bf62a7%3A0xdb5047d4dcfb99b1!2sLindholmen%20Science%20Park!5e0!3m2!1ssv!2sse!4v1734517005211!5m2!1ssv!2sse" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>-->
 
 **Organization**
