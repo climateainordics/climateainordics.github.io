@@ -102,7 +102,7 @@ Further topics of interest: The role of policy change, the use of AI to tackle c
 
 **Organization**
 
-The workshop is organized by [Climes, The Swedish Centre for Impacts of Climate Extremes](https://climes.se/) in collaboration with [Climate AI Nordics](https://climateainordics.com/). The day will end with a poster session and dinner.
+The workshop is organized by [Climate AI Nordics](https://climateainordics.com/) in collaboration with The [Pioneer Centre for AI](https://www.aicentre.dk/) and [Climes, The Swedish Centre for Impacts of Climate Extremes](https://climes.se/). The day will end with a poster session and dinner.
 
 **Registration and pricing**
 
