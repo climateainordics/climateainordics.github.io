@@ -25,7 +25,9 @@ img {
 
 As extreme events following climate change are getting ever more frequent, humanity needs to tackle the new reality on a changing planet on many fronts. Many of the approaches which are in use or under development can be strengthened using advanced analytics tools and optimization techniques. The **2026 Nordic Workshop on AI for Climate** will gather researchers from the Nordics. This one-day, in-person workshop, will take place in **Copenhagen, Denmark, June 26th 2026**. The workshop will feature a mix of keynotes, oral presentations, and posters around the topics of AI for climate change, including AI for biodiversity and the green transition. The workshop will be a meeting point for a wide range of researchers from (primarily) around the Nordic countries, but other interested people will be welcome too.
 
-Together, we will help the Nordic AI community to find the most impactful directions of future research in the field.
+This workshop is the 2nd annual workshop in this series of workshops organized by [Climate AI Nordics](https://climateainordics.com/). For a summary of the 2025 edition [click here](https://climateainordics.com/news/2025-05-20-nordic-workshop/).
+
+<!--Together, we will help the Nordic AI community to find the most impactful directions of future research in the field.-->
 
 <!-- ## Theme for 2026 workshop: Nordic perspectives
 
