@@ -41,7 +41,7 @@ For the 2026 edition of this annual workshop series, we have the following quest
 
 <!--[Click here to see the Copenhagen guide](TODO, see simiar as /events/2025-nordic-workshop/gothenburg).-->
 
-## Shedule
+## Schedule
 
 **COMING SOON!**
 
