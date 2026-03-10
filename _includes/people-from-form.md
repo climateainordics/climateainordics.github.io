@@ -1,10 +1,3 @@
-## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Earth Observation,Urban Planning,Sustainable Cities,Computer Vision,Machine Learning,Deep Learning">
-<span title="Post DocKTH Royal Institute of Technology."><strong>Ritu Yadav, Post Doc, KTH Royal Institute of Technology</strong></span>
-<br />
-Earth Observation * Urban Planning * Sustainable Cities * Computer Vision * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=EyM-XHgAAAAJ&amp;hl=en&amp;inst=3006122349567257957)
-</div>
-
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -118,12 +111,6 @@ Climate Modeling * Biodiversity * Sustainable Transport * Sustainable Cities * S
 <span title="ProfessorChalmers University of Technology."><strong>Patrick Eriksson, Professor, Chalmers University of Technology</strong></span>
 <br />
 [Publications (Scholar)](https://scholar.google.com/citations?user=sSKDx6IAAAAJ)
-</div>
-
-<div class="content" markdown="1" data-tags="">
-<span title="KTH - Royal Institute of Technology - Geoinformatics Division. Associate ProfessorKTH Royal Institute of Technology."><strong>Andrea Nascetti, Associate Professor, KTH Royal Institute of Technology</strong></span>
-<br />
-[Publications (Scholar)](https://scholar.google.com/citations?user=Mdq6_jQAAAAJ)
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Urban Planning,Machine Learning,Ecosystem Services">
@@ -720,10 +707,22 @@ Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Machine Lear
 Earth Observation * Machine Learning * Ice Sheet–climate Interaction * [Research group](https://eng.geus.dk/about/organisation/departments/glaciology-and-climate) * [Publications (Scholar)](https://scholar.google.com/citations?user=Mt24kfgAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-4169-8973)
 </div>
 
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Deep Learning,Efficient or Sustainable AI,Machine Learning">
+<span title="I am a machine learning researcher who is interested in data-, resource-, and energy-efficient machine learning. I also work on modeling extreme observations. Assistant ProfessorLinköping University."><strong>Sebastian Mair, Assistant Professor, Linköping University</strong></span>
+<br />
+Bayesian Optimisation * Deep Learning * Efficient or Sustainable AI * Machine Learning * [More info (researcher profile)](https://smair.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=rdJQOxwAAAAJ) * [ORCID](https://orcid.org/0000-0003-2949-8781)
+</div>
+
 <div class="content" markdown="1" data-tags="Climate Impacts,Earth Observation,Machine Learning,Sustainable Cities,Sustainable Transport,Urban Planning">
 <span title="Geotechnical research engineer . PhD, ResearcherNorwegian Geotechnical Institute (NGI)."><strong>Stefan Ritter, PhD, Researcher, Norwegian Geotechnical Institute (NGI)</strong></span>
 <br />
 Climate Impacts * Earth Observation * Machine Learning * Sustainable Cities * Sustainable Transport * Urban Planning
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Urban Planning,Sustainable Cities,Computer Vision,Machine Learning,Deep Learning">
+<span title="Post DocKTH Royal Institute of Technology."><strong>Ritu Yadav, Post Doc, KTH Royal Institute of Technology</strong></span>
+<br />
+Earth Observation * Urban Planning * Sustainable Cities * Computer Vision * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=EyM-XHgAAAAJ&amp;hl=en&amp;inst=3006122349567257957)
 </div>
 
 <div class="content" markdown="1" data-tags="">
@@ -1158,10 +1157,22 @@ Climate Modeling * Deep Learning * Earth System Modeling * Fracture Mechanics * 
 Bayesian Optimisation * Climate Impacts * Deep Learning * Earth Observation * Efficient or Sustainable AI * Machine Learning * [Research group](https://www.mn.uio.no/geo/forskning/prosjekter/activate/)
 </div>
 
+<div class="content" markdown="1" data-tags="Climate Impacts,Computer Vision,Extreme Weather Events,Machine Learning,Sustainable Cities,Sustainable Energy,Sustainable Transport,Wind Energy">
+<span title="Masters student in engineering physics, with a specialization in AI and Climate science. Currently writing my thesis on a subject related to this field. Looking for PhD opportunities within the field. Student."><strong>Christopher Moniz, Student</strong></span>
+<br />
+Climate Impacts * Computer Vision * Extreme Weather Events * Machine Learning * Sustainable Cities * Sustainable Energy * Sustainable Transport * Wind Energy * [More info (researcher profile)](https://www.linkedin.com/in/christopher-moniz-/)
+</div>
+
 <div class="content" markdown="1" data-tags="Biodiversity,Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning,Marine Ecology">
 <span title="I&#x27;m a marine biologist mapping the norwegian sea-floor. IndustryPelagia."><strong>Raquel Pereira, Industry, Pelagia</strong></span>
 <br />
 Biodiversity * Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * Marine Ecology
+</div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Biodiversity,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Marine Ecology,NLP,Soundscape Analysis,Sustainable Cities,Sustainable Energy,Sustainable Transport,Urban Planning,Weather Forecasting">
+<span title="I am studying Engineering Physics at LTH and I am currently doing my master thesis at RISE in bioacoustics/ML on the intersection between ecology and data science. I am curious in interdisciplinary research combining machine learning/data science and environmental science and I am looking for research opportunities in this field (e.g. PhD). StudentRISE, Lund University."><strong>Ida Heijmink, Student, RISE, Lund University</strong></span>
+<br />
+Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * NLP * Soundscape Analysis * Sustainable Cities * Sustainable Energy * Sustainable Transport * Urban Planning * Weather Forecasting * [Research group](https://auklab-audio.github.io/)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
@@ -1537,28 +1548,10 @@ Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling *
 Climate Modeling * Computer Vision * Deep Learning * Earth System Modeling * Extreme Weather Events * Machine Learning
 </div>
 
-<div class="content" markdown="1" data-tags="Climate Impacts,Computer Vision,Extreme Weather Events,Machine Learning,Sustainable Cities,Sustainable Energy,Sustainable Transport,Wind Energy">
-<span title="Masters student in engineering physics, with a specialization in AI and Climate science. Currently writing my thesis on a subject related to this field. Looking for PhD opportunities within the field. Student."><strong>Christopher Moniz, Student</strong></span>
-<br />
-Climate Impacts * Computer Vision * Extreme Weather Events * Machine Learning * Sustainable Cities * Sustainable Energy * Sustainable Transport * Wind Energy * [More info (researcher profile)](https://www.linkedin.com/in/christopher-moniz-/)
-</div>
-
-<div class="content" markdown="1" data-tags="Bayesian Optimisation,Biodiversity,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Marine Ecology,NLP,Soundscape Analysis,Sustainable Cities,Sustainable Energy,Sustainable Transport,Urban Planning,Weather Forecasting">
-<span title="I am studying Engineering Physics at LTH and I am currently doing my master thesis at RISE in bioacoustics/ML on the intersection between ecology and data science. I am curious in interdisciplinary research combining machine learning/data science and environmental science and I am looking for research opportunities in this field (e.g. PhD). StudentRISE, Lund University."><strong>Ida Heijmink, Student, RISE, Lund University</strong></span>
-<br />
-Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * NLP * Soundscape Analysis * Sustainable Cities * Sustainable Energy * Sustainable Transport * Urban Planning * Weather Forecasting * [Research group](https://auklab-audio.github.io/)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Impacts,Computer Vision,Deep Learning,Extreme Weather Events,Machine Learning,NLP">
 <span title="I have built two startups in the ai space in the past in computer vision space and coordinated ai research for norway at Nora.ai and built the ai research school.  Independent consultantEnterpreneur."><strong>Sachin Gaur, Independent consultant, Enterpreneur</strong></span>
 <br />
 Climate Impacts * Computer Vision * Deep Learning * Extreme Weather Events * Machine Learning * NLP * [More info (researcher profile)](https://esach.in/about-me/) * [Publications (Scholar)](https://scholar.google.com/citations?user=LgTlkB4AAAAJ&amp;hl=en&amp;oi=ao)
-</div>
-
-<div class="content" markdown="1" data-tags="Bayesian Optimisation,Deep Learning,Efficient or Sustainable AI,Machine Learning">
-<span title="I am a machine learning researcher who is interested in data-, resource-, and energy-efficient machine learning. I also work on modeling extreme observations. Assistant ProfessorLinköping University."><strong>Sebastian Mair, Assistant Professor, Linköping University</strong></span>
-<br />
-Bayesian Optimisation * Deep Learning * Efficient or Sustainable AI * Machine Learning * [More info (researcher profile)](https://smair.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=rdJQOxwAAAAJ) * [ORCID](https://orcid.org/0000-0003-2949-8781)
 </div>
 
 <div class="content" markdown="1" data-tags="Climate Impacts,Earth Observation,Earth System Modeling,Sustainable Cities">
@@ -1571,4 +1564,10 @@ Climate Impacts * Earth Observation * Earth System Modeling * Sustainable Cities
 <span title="Environmental scientist majoring in terrestrial ecology . Post DocUCT-ACDI."><strong>Collins Matiza, Post Doc, UCT-ACDI</strong></span>
 <br />
 AutoML * Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Urban Planning * [More info (researcher profile)](https://Collins matiza) * [Research group](https://collins Matiza ) * [Publications (Scholar)](https://Collins Matiza ) * [BlueSky](https://bsky.app/profile/Collins Matiza )
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Marine Ecology,Soundscape Analysis,Sustainable Cities,Urban Planning">
+<span title="PhD StudentUppsala University."><strong>Hanna Danko, PhD Student, Uppsala University</strong></span>
+<br />
+Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * Soundscape Analysis * Sustainable Cities * Urban Planning
 </div>
