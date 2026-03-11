@@ -59,19 +59,25 @@ For the 2026 edition of this annual workshop series, we have the following quest
 
 ![](/events/2026-nordic-workshop/celine.png)
 
-*Céline Heuzé is docent and Senior Lecturer in climatology at University of Gothenburg. She uses in-situ observations, climate models,
+*Céline is docent and Senior Lecturer in climatology at University of Gothenburg. She uses in-situ observations, climate models,
 AI and remote sensing to study the interactions between deep ocean, sea ice / glaciers, and atmosphere, mostly in the Arctic for now.
 She is a receiver of the 2022 Ocean Science division Outstanding Early Career Scientist award of the European Geosciences Union (EGU), and the 2024 Royal Society of
 Arts and Sciences in Gothenburg (KVVS) Birger Karlsson science prize.*
 
-**TBD - more keynotes to be announced**
+**TBD - more keynotes to be announced!**
 
 <!--![](/events/2026-nordic-workshop/TBD.jpg)-->
 <!--*TODO ADD BIO!*-->
 
-## Oral presentations
+## Invited talks
 
-**More info coming soon!**
+**Joakim Bruslund Haurum,** University of Southern Denmark
+
+![](/events/2026-nordic-workshop/joakim.jpg)
+
+*Joakim is an Assistant Professor at the University of Southern Denmark, and also affiliated with the Pioneer Centre for Artificial Intelligence. He works on both foundational and applied aspects of machine learning and computer vision, including the application of these methods in domains such as biodiversity monitoring.*
+
+**TBD - more invited talks to be announced!**
 
 <!--For more information about the program, check the [detailed schedule](TODO ADD SCHEDULE /events/2026-nordic-workshop/schedule).
 
@@ -83,7 +89,7 @@ Arts and Sciences in Gothenburg (KVVS) Birger Karlsson science prize.*
 
 ## Poster presentations
 
-The workshop will also have a poster session with about 30 posters, more info will come later. <!--check the [schedule](/events/2026-nordic-workshop/schedule) for details.-->
+The workshop will also have a poster session, more info will come later. <!--check the [schedule](/events/2026-nordic-workshop/schedule) for details.-->
 
 ## Topics
 
