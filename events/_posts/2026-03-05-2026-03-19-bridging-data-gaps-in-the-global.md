@@ -8,11 +8,11 @@ abstract: "This talk highlights how AI and Earth Observation (EO) are transformi
 In parallel, the presentation showcases UNICEF Giga’s mission to connect every school to the Internet by 2030. Reliable school location data is critical for planning telecommunications infrastructure, yet often inaccurate or incomplete in many low- and middle-income countries. By leveraging ML and satellite imagery, we’ve developed scalable pipelines to map schools across Africa on a nationwide scale, helping to ensure that no child is left behind in accessing digital learning opportunities. Together, these projects demonstrate how Geospatial AI can help bridge critical data gaps in the Global South, supporting both climate adaptation and inclusive education."
 people:
 - Olof Mogren
-permalink: /events/2026-02-17-2026-03-19-bridging-data-gaps-in-the-global
+permalink: /events/2026-03-05-2026-03-19-bridging-data-gaps-in-the-global
 event_date: 2026-03-19
 event_time: "15:00"
 event_location: "Scheelevägen 17, Lund"
-image: /images/posts/2026-02-17-2026-03-19-bridging-data-gaps-in-the-global.jpg
+image: /images/posts/2026-03-05-2026-03-19-bridging-data-gaps-in-the-global.jpg
 youtube: ""
 --- 
 Welcome to this week's Learning Machines seminar.
@@ -28,13 +28,13 @@ In parallel, the presentation showcases UNICEF Giga’s mission to connect every
 
 **About the speaker:** Isabelle Tingzon is a doctoral researcher at RISE and PhD student at KTH. Previously, she was a Geospatial Data Scientist at the World Bank, where she spearheaded AI-driven climate adaptation projects in support of resilient housing operations.  She has also worked as a Data Science Consultant at UNICEF, where she led the development and deployment of UNICEF Giga’s AI-enabled school mapping pipeline across low- and middle-income countries. Her other projects span high-resolution poverty estimation, informal refugee settlement detection, and disaster- fragility, conflict, and violence assessment, in partnership with humanitarian organizations and non-profits in Southeast Asia, Latin America, the Middle East, and the Caribbean.
 
-**Location:** Scheelevägen 17, Lund"Scheelevägen 17, Lund, or online using Zoom.
+**Location:** Scheelevägen 17, Lund, or online using Zoom.
 
 **Date:** 2026-03-19 15:00
 
 
 
-This seminar will have an in-person presence at Scheelevägen 17, Lund"Scheelevägen 17, Lund. Make sure that you arrive in good time.
+This seminar will have an in-person presence at the RISE office in Lund, located at [Scheelevägen 17](https://maps.app.goo.gl/6uW4R8HYKZgwxe9L7), IDEON Science park, house Beta5, fourth floor. Make sure that you arrive in good time and knock at the door.
 
 
 **[Register here!](registration-link)**
@@ -42,7 +42,8 @@ This seminar will have an in-person presence at Scheelevägen 17, Lund"Scheelev�
 
 **Upcoming seminars:**
 
-* 2026-03-26: *AI in the wild: How Neural Networks Help Us Understand Our World Through Sound*, Jeppe Rasmussen, University of Copenhagen, **digital and physical: Lindholmsallén 10, Gothenburg**
+* 2026-03-26: Jeppe Rasmussen, University of Copenhagen, **digital and physical: Lindholmsallén 10, Gothenburg**
+* 2026-05-28: Kelsey Doerksen, Oxford Applied and Theoretical Machine Learninch Group (OATML)
 * All seminars are 15:00 CET.
 
 More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
