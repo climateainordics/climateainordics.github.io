@@ -3,7 +3,9 @@
 <option value="all">Show All</option>
 <option value="AI">AI (1)</option>
 <option value="AI For Climate Education">AI For Climate Education (1)</option>
+<option value="Air Quality">Air Quality (1)</option>
 <option value="Amortized Inference">Amortized Inference (1)</option>
+<option value="Atmospheric Composition">Atmospheric Composition (1)</option>
 <option value="Atmospheric Science">Atmospheric Science (1)</option>
 <option value="AutoML">AutoML (11)</option>
 <option value="Bayesian Inference">Bayesian Inference (1)</option>
@@ -11,7 +13,7 @@
 <option value="Biodiversity">Biodiversity (80)</option>
 <option value="Bioinformatics">Bioinformatics (1)</option>
 <option value="Causal AI">Causal AI (1)</option>
-<option value="Climate Impacts">Climate Impacts (50)</option>
+<option value="Climate Impacts">Climate Impacts (51)</option>
 <option value="Climate Modeling">Climate Modeling (88)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
 <option value="Computer Vision">Computer Vision (94)</option>
@@ -20,7 +22,7 @@
 <option value="Deep Learning">Deep Learning (140)</option>
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
-<option value="Earth Observation">Earth Observation (111)</option>
+<option value="Earth Observation">Earth Observation (112)</option>
 <option value="Earth System Modeling">Earth System Modeling (33)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
@@ -50,7 +52,7 @@
 <option value="Knowledge Graphs">Knowledge Graphs (1)</option>
 <option value="Land System Science">Land System Science (1)</option>
 <option value="Land Use Change Modelling">Land Use Change Modelling (1)</option>
-<option value="Machine Learning">Machine Learning (166)</option>
+<option value="Machine Learning">Machine Learning (167)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (26)</option>
 <option value="Materials">Materials (1)</option>
@@ -64,6 +66,7 @@
 <option value="One Health">One Health (1)</option>
 <option value="Public Health">Public Health (1)</option>
 <option value="Remote Sensing">Remote Sensing (2)</option>
+<option value="Satellite Remote Sensing">Satellite Remote Sensing (1)</option>
 <option value="Simulation-based Inference">Simulation-based Inference (1)</option>
 <option value="Solar Energy">Solar Energy (1)</option>
 <option value="Soundscape Analysis">Soundscape Analysis (24)</option>
@@ -71,7 +74,7 @@
 <option value="Species Distribution Modelling">Species Distribution Modelling (1)</option>
 <option value="Stochastic Modelling and Distributions">Stochastic Modelling and Distributions (1)</option>
 <option value="Sustainability Science">Sustainability Science (1)</option>
-<option value="Sustainable Cities">Sustainable Cities (65)</option>
+<option value="Sustainable Cities">Sustainable Cities (66)</option>
 <option value="Sustainable Energy">Sustainable Energy (18)</option>
 <option value="Sustainable Heating">Sustainable Heating (1)</option>
 <option value="Sustainable Production">Sustainable Production (32)</option>
