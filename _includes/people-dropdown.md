@@ -22,7 +22,7 @@
 <option value="Deep Learning">Deep Learning (140)</option>
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
-<option value="Earth Observation">Earth Observation (112)</option>
+<option value="Earth Observation">Earth Observation (113)</option>
 <option value="Earth System Modeling">Earth System Modeling (33)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
@@ -52,7 +52,7 @@
 <option value="Knowledge Graphs">Knowledge Graphs (1)</option>
 <option value="Land System Science">Land System Science (1)</option>
 <option value="Land Use Change Modelling">Land Use Change Modelling (1)</option>
-<option value="Machine Learning">Machine Learning (167)</option>
+<option value="Machine Learning">Machine Learning (168)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (26)</option>
 <option value="Materials">Materials (1)</option>
@@ -74,7 +74,7 @@
 <option value="Species Distribution Modelling">Species Distribution Modelling (1)</option>
 <option value="Stochastic Modelling and Distributions">Stochastic Modelling and Distributions (1)</option>
 <option value="Sustainability Science">Sustainability Science (1)</option>
-<option value="Sustainable Cities">Sustainable Cities (66)</option>
+<option value="Sustainable Cities">Sustainable Cities (67)</option>
 <option value="Sustainable Energy">Sustainable Energy (18)</option>
 <option value="Sustainable Heating">Sustainable Heating (1)</option>
 <option value="Sustainable Production">Sustainable Production (32)</option>
@@ -82,7 +82,7 @@
 <option value="Sustainable Transport">Sustainable Transport (30)</option>
 <option value="Uav">Uav (1)</option>
 <option value="Urban Health">Urban Health (1)</option>
-<option value="Urban Planning">Urban Planning (45)</option>
+<option value="Urban Planning">Urban Planning (46)</option>
 <option value="Use of Weather and Climate Data Outside of Academia">Use of Weather and Climate Data Outside of Academia (1)</option>
 <option value="Visual Analytics">Visual Analytics (1)</option>
 <option value="Visualization">Visualization (1)</option>

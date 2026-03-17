@@ -5,6 +5,12 @@
 Climate Impacts * Earth Observation * Machine Learning * Sustainable Cities * Satellite Remote Sensing * Atmospheric Composition * Air Quality * [Research group](https://nilu.no) * [Publications (Scholar)](https://scholar.google.com/citations?user=sxhr_i0AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-5686-8683)
 </div>
 
+<div class="content" markdown="1" data-tags="Earth Observation,Machine Learning,Sustainable Cities,Urban Planning">
+<span title="PhD StudentKarlstad University."><strong>Sai Ganesh Veeravalli, PhD Student, Karlstad University</strong></span>
+<br />
+Earth Observation * Machine Learning * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://www.sgveeravalli.com/) * [Research group](https://www.kau.se/en/researchers/sai-ganesh-veeravalli) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=qfnIdjQAAAAJ) * [ORCID](https://orcid.org/0000-0002-1670-8703)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
