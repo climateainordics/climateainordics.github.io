@@ -11,7 +11,7 @@ people:
 permalink: /events/2026-02-17-2026-03-19-bridging-data-gaps-in-the-global
 event_date: 2026-03-19
 event_time: "15:00"
-event_location: "Scheelevägen 17, Lund"Scheelevägen 17, Lund"
+event_location: "Scheelevägen 17, Lund"
 image: /images/posts/2026-02-17-2026-03-19-bridging-data-gaps-in-the-global.jpg
 youtube: ""
 --- 
