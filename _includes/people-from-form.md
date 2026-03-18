@@ -1032,12 +1032,6 @@ Earth Observation * Urban Planning * Computer Vision * Machine Learning
 Earth Observation * Climate Modeling * Sustainable Transport * Sustainable Cities * Efficient or Sustainable AI * [More info (researcher profile)](https://www.linkedin.com/in/devanshm) * [Research group](https://qualisafe.se)
 </div>
 
-<div class="content" markdown="1" data-tags="">
-<span title="PhD StudentKarlstad University."><strong>Sai Ganesh Veeravalli, PhD Student, Karlstad University</strong></span>
-<br />
-
-</div>
-
 <div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Biodiversity,Efficient or Sustainable AI,Computer Vision,Machine Learning,Deep Learning">
 <span title="https://www.linkedin.com/in/perholger/. IndustrySkogr Kaupa Group AI."><strong>Per Holger Dahlen, Industry, Skogr Kaupa Group AI</strong></span>
 <br />
