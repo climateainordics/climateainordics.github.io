@@ -47,7 +47,7 @@ DEPRIMAP addresses this gap by providing spatially explicit information on where
 
 **5. Example Outcome of Project**
 
-_Understanding Informal Settlement Transformation through Google’s 2.5D Dataset and Street View based Validation:_ Using Google’s Open Buildings 2.5D temporal dataset (2016-2023), this study analyses how informal settlements evolve over time. A rule-based classification on 100-meter grid cells identifies four change types: vertical densification, horizontal densification, combined growth, and decline. Validation using Google Earth Pro and Google Street View achieved 96.7% accuracy. Results show that horizontal densification dominates within informal settlements, while vertical growth is more common in surrounding formal areas, highlighting distinct development patterns within cities.
+[_Understanding Informal Settlement Transformation through Google’s 2.5D Dataset and Street View based Validation:_](https://doi.org/10.5194/isprs-archives-XLVIII-M-7-2025-245-2025) Using Google’s Open Buildings 2.5D temporal dataset (2016-2023), this study analyses how informal settlements evolve over time. A rule-based classification on 100-meter grid cells identifies four change types: vertical densification, horizontal densification, combined growth, and decline. Validation using Google Earth Pro and Google Street View achieved 96.7% accuracy. Results show that horizontal densification dominates within informal settlements, while vertical growth is more common in surrounding formal areas, highlighting distinct development patterns within cities.
 
 ![](/images/posts/2026-03-24-featured-work-deprimap2.png)
 
