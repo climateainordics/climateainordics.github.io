@@ -45,10 +45,13 @@ Climate risk is not evenly distributed within cities. Populations living in depr
 
 DEPRIMAP addresses this gap by providing spatially explicit information on where vulnerable populations are located and how they intersect with environmental hazards. This enables more targeted climate adaptation planning, improves risk modelling, and supports monitoring of global development frameworks such as SDG 11.1.1. By making hidden and underserved populations visible in data, the framework contributes to more equitable and effective climate decision-making.
 
-**5. Example Outcome of Project**
+**5. Example Outcomes of Project**
 
-[_Understanding Informal Settlement Transformation through Google’s 2.5D Dataset and Street View based Validation:_](https://doi.org/10.5194/isprs-archives-XLVIII-M-7-2025-245-2025) Using Google’s Open Buildings 2.5D temporal dataset (2016-2023), this study analyses how informal settlements evolve over time. A rule-based classification on 100-meter grid cells identifies four change types: vertical densification, horizontal densification, combined growth, and decline. Validation using Google Earth Pro and Google Street View achieved 96.7% accuracy. Results show that horizontal densification dominates within informal settlements, while vertical growth is more common in surrounding formal areas, highlighting distinct development patterns within cities.
+[_(A) Understanding Informal Settlement Transformation through Google’s 2.5D Dataset and Street View based Validation:_](https://doi.org/10.5194/isprs-archives-XLVIII-M-7-2025-245-2025) Using Google’s Open Buildings 2.5D temporal dataset (2016-2023), this study analyses how informal settlements evolve over time. A rule-based classification on 100-meter grid cells identifies four change types: vertical densification, horizontal densification, combined growth, and decline. Validation using Google Earth Pro and Google Street View achieved 96.7% accuracy. Results show that horizontal densification dominates within informal settlements, while vertical growth is more common in surrounding formal areas, highlighting distinct development patterns within cities.
 
 ![](/images/posts/2026-03-24-featured-work-deprimap2.png)
 
 *Example pairs of earlier and recent Google Street View imagery used for validation across different slum locations.*
+
+[_(B) Towards a Spatial Measure of SDG 11.1.1: Open Data for Urban Deprivation Mapping:_](https://doi.org/10.1109/JURSE60372.2025.11076033) This work introduces a scalable, open-data-driven framework for mapping urban deprivation using six indicators related to building morphology, vegetation, and infrastructure. Applied first in Nairobi and then across seven global cities, the framework demonstrates strong spatial alignment with known deprived areas. The analysis highlights globally robust indicators, such as building size and tree presence, while also revealing context-specific limitations, underscoring both the potential and challenges of globally transferable deprivation mapping.
+
