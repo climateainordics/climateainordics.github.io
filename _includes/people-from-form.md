@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Climate Impacts,Earth Observation,Machine Learning,Sustainable Cities,Satellite Remote Sensing,Atmospheric Composition,Air Quality">
-<span title="PhD, ResearcherNILU."><strong>Philipp Schneider, PhD, Researcher, NILU</strong></span>
-<br />
-Climate Impacts * Earth Observation * Machine Learning * Sustainable Cities * Satellite Remote Sensing * Atmospheric Composition * Air Quality * [Research group](https://nilu.no) * [Publications (Scholar)](https://scholar.google.com/citations?user=sxhr_i0AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-5686-8683)
-</div>
-
 <div class="content" markdown="1" data-tags="Earth Observation,Machine Learning,Sustainable Cities,Urban Planning">
 <span title="PhD StudentKarlstad University."><strong>Sai Ganesh Veeravalli, PhD Student, Karlstad University</strong></span>
 <br />
@@ -742,6 +736,12 @@ Climate Impacts * Earth Observation * Machine Learning * Sustainable Cities * Su
 <span title="Post DocKTH Royal Institute of Technology."><strong>Ritu Yadav, Post Doc, KTH Royal Institute of Technology</strong></span>
 <br />
 Earth Observation * Urban Planning * Sustainable Cities * Computer Vision * Machine Learning * Deep Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=EyM-XHgAAAAJ&amp;hl=en&amp;inst=3006122349567257957)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Earth Observation,Machine Learning,Sustainable Cities,Satellite Remote Sensing,Atmospheric Composition,Air Quality">
+<span title="PhD, ResearcherNILU."><strong>Philipp Schneider, PhD, Researcher, NILU</strong></span>
+<br />
+Climate Impacts * Earth Observation * Machine Learning * Sustainable Cities * Satellite Remote Sensing * Atmospheric Composition * Air Quality * [Research group](https://nilu.no) * [Publications (Scholar)](https://scholar.google.com/citations?user=sxhr_i0AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-5686-8683)
 </div>
 
 <div class="content" markdown="1" data-tags="">
