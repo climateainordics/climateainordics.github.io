@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Earth Observation,Machine Learning,Sustainable Cities,Urban Planning">
-<span title="PhD StudentKarlstad University."><strong>Sai Ganesh Veeravalli, PhD Student, Karlstad University</strong></span>
-<br />
-Earth Observation * Machine Learning * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://www.sgveeravalli.com/) * [Research group](https://www.kau.se/en/researchers/sai-ganesh-veeravalli) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=qfnIdjQAAAAJ) * [ORCID](https://orcid.org/0000-0002-1670-8703)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Earth System Modeling,Extreme Weather Events,Machine Learning">
 <span title="Climate Scientist &amp; Docent in Environmemtal Science. PhD, ResearcherLund University."><strong>Wilhelm May, PhD, Researcher, Lund University</strong></span>
 <br />
@@ -1186,6 +1180,12 @@ Biodiversity * Computer Vision * Deep Learning * Efficient or Sustainable AI * M
 <span title="I am studying Engineering Physics at LTH and I am currently doing my master thesis at RISE in bioacoustics/ML on the intersection between ecology and data science. I am curious in interdisciplinary research combining machine learning/data science and environmental science and I am looking for research opportunities in this field (e.g. PhD). StudentRISE, Lund University."><strong>Ida Heijmink, Student, RISE, Lund University</strong></span>
 <br />
 Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * NLP * Soundscape Analysis * Sustainable Cities * Sustainable Energy * Sustainable Transport * Urban Planning * Weather Forecasting * [Research group](https://auklab-audio.github.io/)
+</div>
+
+<div class="content" markdown="1" data-tags="Earth Observation,Machine Learning,Sustainable Cities,Urban Planning">
+<span title="PhD StudentKarlstad University."><strong>Sai Ganesh Veeravalli, PhD Student, Karlstad University</strong></span>
+<br />
+Earth Observation * Machine Learning * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://www.sgveeravalli.com/) * [Research group](https://www.kau.se/en/researchers/sai-ganesh-veeravalli) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=qfnIdjQAAAAJ) * [ORCID](https://orcid.org/0000-0002-1670-8703)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
