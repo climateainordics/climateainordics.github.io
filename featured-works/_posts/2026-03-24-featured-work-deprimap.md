@@ -3,7 +3,7 @@ title: "Featured project: DEPRIMAP - AI-driven Mapping of Urban Deprivation and 
 people:
 - Sai Ganesh Veeravalli
 - Stefanos Georganos
-image: /images/posts/2026-03-24-featured-work-deprimap1.png
+image: /images/posts/2026-03-24-featured-work-deprimap2.png
 summary: "Climate risk is not evenly distributed within cities. Motivated by this, the DEPRIMAP project develops AI and satellite data to identify where vulnerable populations live and how exposed they are to hazards across the Global South."
 ---
 
