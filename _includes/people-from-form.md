@@ -5,6 +5,12 @@
 Climate Impacts * Climate Modeling * Earth System Modeling * Extreme Weather Events * Machine Learning * [More info (researcher profile)](https://portal.research.lu.se/sv/persons/wilhelm-may/) * [ORCID](https://orcid.org/0000-0002-4933-3565)
 </div>
 
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Biodiversity,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Machine Learning">
+<span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. PhD, ResearcherRISE."><strong>Smita Chakraborty, PhD, Researcher, RISE</strong></span>
+<br />
+Bayesian Optimisation * Biodiversity * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Machine Learning * [More info (researcher profile)](https://smitachakraborty.gitlab.io/smitaspage/) * [ORCID](https://orcid.org/0000-0003-3796-9213)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -196,12 +202,6 @@ Bayesian Optimisation * Deep Learning * Earth Observation * Earth System Modelin
 <span title="I am an Associate Professor (Docent in Sweden and Reader in the UK) with extensive expertise in running a range of ecosystem and Earth system models, including the climate–plant–soil model CoupModel at plot scales; the dynamic global vegetation model LPJ-GUESS at regional and global scales; the regional Earth system models RCA-GUESS and RCAO-GUESS; and the global Earth system model EC-Earth, a CMIP6-class Earth system model. My current research focuses on integrating AI approaches with ecosystem modelling to better understand terrestrial ecosystem dynamics and their feedbacks to the climate system across spatial and temporal scales. Associate ProfessorLund University."><strong>Wenxin Zhang, Associate Professor, Lund University</strong></span>
 <br />
 Biodiversity * Climate Impacts * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Wind Energy * [More info (researcher profile)](https://portal.research.lu.se/en/persons/wenxin-zhang/) * [Publications (Scholar)](https://scholar.google.com/citations?user=E1NkwBoAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9477-563X)
-</div>
-
-<div class="content" markdown="1" data-tags="">
-<span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. PhD, ResearcherRISE Research Institutes of Sweden."><strong>Smita Chakraborty, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
-<br />
-
 </div>
 
 <div class="content" markdown="1" data-tags="">
