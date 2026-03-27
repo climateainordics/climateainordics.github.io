@@ -5,6 +5,12 @@
 Climate Impacts * Climate Modeling * Earth System Modeling * Extreme Weather Events * Machine Learning * [More info (researcher profile)](https://portal.research.lu.se/sv/persons/wilhelm-may/) * [ORCID](https://orcid.org/0000-0002-4933-3565)
 </div>
 
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Biodiversity,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Machine Learning">
+<span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. PhD, ResearcherRISE."><strong>Smita Chakraborty, PhD, Researcher, RISE</strong></span>
+<br />
+Bayesian Optimisation * Biodiversity * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Machine Learning * [More info (researcher profile)](https://smitachakraborty.gitlab.io/smitaspage/) * [ORCID](https://orcid.org/0000-0003-3796-9213)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
