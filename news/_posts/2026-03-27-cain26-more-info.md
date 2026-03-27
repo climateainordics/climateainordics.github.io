@@ -1,6 +1,6 @@
 ---
 title: "More info on the 2026 Nordic Workshop on AI for Climate"
-summary: "During 2026, two new Nordic networks/centers related to biodiversity, sustainability, AI will be initiated, with funding from [Nordforsk](https://www.nordforsk.org/). Check them out [here](https://www.nordforsk.org/projects/nordic-biodiversityai-network-strengthening-wildlife-animal-monitoring-through-image-based) and [here](https://www.nordforsk.org/projects/nextgen-nordic-geotechnics-bridging-sustainability-engineering-and-emerging-research)."
+summary: "Climate AI Nordics is excited to now provide more information about our upcoming annual workshop - [**The 2026 Nordic Workshop on AI for Climate**](https://climateainordics.com/events/2026-nordic-workshop) - to be held on June 26th, 2026 in Copenhagen!"
 image: /images/posts/cain2026-workshop-first-info.png
 people:
 - Nico Lang
