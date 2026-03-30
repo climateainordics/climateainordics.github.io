@@ -29,9 +29,7 @@ If you know colleagues in academia, public agencies, or industry who should be p
 
 Since launching in October 2024, our community has grown to 
 {% include people_from_form_count_number_only_nordics.md %}
-members across the Nordic region and 
-{% include people_from_form_count_number_outside_nordics.md %} 
-international supporters. Together, we connect researchers and practitioners working at the intersection of artificial intelligence and climate action—spanning mitigation, adaptation, and environmental monitoring.
+members. Together, we connect researchers and practitioners working at the intersection of artificial intelligence and climate action, spanning mitigation, adaptation, and environmental monitoring.
 
 If you know colleagues in academia, public agencies, or industry who share these interests, invite them to join us at
 [climateainordics.com/join](https://climateainordics.com/join).
