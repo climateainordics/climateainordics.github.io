@@ -33,7 +33,7 @@ except Exception as e:
     EASYOCR_AVAILABLE = False
 
 
-FORBIDDEN_WORDS = ['logo', 'partners', 'posts/newsletter']
+FORBIDDEN_WORDS = ['logo', 'partners', 'posts/newsletter', 'nordic-workshop-2026']
 
 # ---- Helpers ----
 def parse_size(s: str) -> Tuple[int, int]:
@@ -179,14 +179,13 @@ def extract_image_urls(page_url: str) -> List[str]:
     return ordered_urls
 
 def build_mosaic(urls: List[str], out_size: Tuple[int, int], gutter: int = 0) -> Image.Image:
-    out_w, out_h = out_size
+    target_w, _ = out_size
     processed_images = []
 
     print(f"Processing {len(urls)} images...")
     for url in urls:
         try:
             im = fetch_image(url)
-            # Apply safe crop to focus on text/content
             im = get_safe_crop(im)
             processed_images.append(im)
         except Exception as e:
@@ -195,8 +194,9 @@ def build_mosaic(urls: List[str], out_size: Tuple[int, int], gutter: int = 0) ->
     if not processed_images:
         raise ValueError("No images to process.")
 
-    # 1. Distribute images into rows based on natural aspect ratios
-    avg_row_height = out_h / math.sqrt(len(processed_images))
+    # 1. Distribute images into rows
+    # Target a row height that keeps the mosaic roughly square
+    avg_row_height = out_size[1] / math.sqrt(len(processed_images))
     rows = []
     current_row = []
     current_row_width = 0
@@ -206,52 +206,59 @@ def build_mosaic(urls: List[str], out_size: Tuple[int, int], gutter: int = 0) ->
         norm_w = avg_row_height * aspect
         current_row.append(im)
         current_row_width += norm_w + gutter
-        if current_row_width >= out_w:
+        if current_row_width >= target_w:
             rows.append(current_row)
             current_row = []
             current_row_width = 0
+
     if current_row:
         rows.append(current_row)
 
-    # 2. Render rows to an intermediate canvas to find total height
-    # We use a temporary list to store positioned tiles
-    placed_tiles = [] # List of (image, x, y, w, h)
-    curr_y = 0
-
+    # 2. Calculate row heights and total canvas height
+    row_data = []
+    total_h = 0
     for i, row in enumerate(rows):
         row_aspect_sum = sum(im.width / im.height for im in row)
-        usable_w = out_w - (gutter * (len(row) - 1))
+        usable_w = target_w - (gutter * (len(row) - 1))
+        row_h = int(usable_w / row_aspect_sum)
 
-        # Calculate height to make this row fit out_w perfectly
-        row_height = int(usable_w / row_aspect_sum)
+        # Cap last row height to avoid "Giant Image" syndrome
+        is_last = (i == len(rows) - 1)
+        if is_last and len(rows) > 1:
+            avg_h = sum(d['h'] for d in row_data) / len(row_data)
+            if row_h > avg_h * 1.5:
+                row_h = int(avg_h)
 
-        # If it's the last row and it's too sparse,
-        # we stretch it to out_w anyway to ensure no side-gaps.
+        row_data.append({'images': row, 'h': row_h, 'is_last': is_last})
+        total_h += row_h + (gutter if not is_last else 0)
+
+    # 3. Render with pixel-gap correction
+    canvas = Image.new("RGB", (target_w, total_h), (255, 255, 255))
+    curr_y = 0
+
+    for data in row_data:
+        row_h = data['h']
         curr_x = 0
-        for im in row:
-            target_w = int(row_height * (im.width / im.height))
-            placed_tiles.append((im, curr_x, curr_y, target_w, row_height))
-            curr_x += target_w + gutter
 
-        curr_y += row_height + gutter
+        for j, im in enumerate(data['images']):
+            # Calculate width based on the row height
+            img_w = int(row_h * (im.width / im.height))
 
-    # 3. Final vertical scaling to fill the out_h exactly
-    # total_height_used is curr_y - gutter
-    total_content_h = curr_y - gutter
-    v_scale = out_h / total_content_h
+            # --- PIXEL-PERFECT CORRECTION ---
+            # If this is the last image in a FULL row,
+            # make it fill exactly to the target_w edge.
+            is_last_in_row = (j == len(data['images']) - 1)
+            if is_last_in_row and not (data['is_last'] and curr_x + img_w < target_w * 0.8):
+                img_w = target_w - curr_x
+            # --------------------------------
 
-    # Create the final canvas
-    final_canvas = Image.new("RGB", (out_w, out_h), (255, 255, 255))
+            tile = im.resize((img_w, row_h), Image.LANCZOS)
+            canvas.paste(tile, (curr_x, curr_y))
+            curr_x += img_w + gutter
 
-    for im, x, y, w, h in placed_tiles:
-        # Scale the Y and Height by the vertical factor to fill the gap
-        new_y = int(y * v_scale)
-        new_h = int(h * v_scale)
-        # Re-scale width slightly if necessary to prevent rounding gaps
-        tile = im.resize((w, new_h), Image.LANCZOS)
-        final_canvas.paste(tile, (x, new_y))
+        curr_y += row_h + gutter
 
-    return final_canvas
+    return canvas
 
 # ---- CLI ----
 def main():
