@@ -16,4 +16,5 @@ backup_events/
 *sync-conflict*
 
 .venv/
+.syncthing*
 
