@@ -194,18 +194,21 @@ def build_mosaic(urls: List[str], out_size: Tuple[int, int], gutter: int = 0) ->
     if not processed_images:
         raise ValueError("No images to process.")
 
-    # 1. Distribute images into rows
-    # Target a row height that keeps the mosaic roughly square
-    avg_row_height = out_size[1] / math.sqrt(len(processed_images))
+    # 1. Distribute images into rows using a height bias
+    # Lower this number (e.g., 200) for a wider look,
+    # higher (e.g., 500) for a more square look.
+    bias_row_height = 350
+
     rows = []
     current_row = []
     current_row_width = 0
 
     for im in processed_images:
         aspect = im.width / im.height
-        norm_w = avg_row_height * aspect
+        norm_w = bias_row_height * aspect
         current_row.append(im)
         current_row_width += norm_w + gutter
+
         if current_row_width >= target_w:
             rows.append(current_row)
             current_row = []
@@ -214,41 +217,36 @@ def build_mosaic(urls: List[str], out_size: Tuple[int, int], gutter: int = 0) ->
     if current_row:
         rows.append(current_row)
 
-    # 2. Calculate row heights and total canvas height
+    # 2. Calculate row heights
     row_data = []
     total_h = 0
     for i, row in enumerate(rows):
         row_aspect_sum = sum(im.width / im.height for im in row)
         usable_w = target_w - (gutter * (len(row) - 1))
+
+        # Every row height is calculated to hit target_w exactly
         row_h = int(usable_w / row_aspect_sum)
 
-        # Cap last row height to avoid "Giant Image" syndrome
-        is_last = (i == len(rows) - 1)
-        if is_last and len(rows) > 1:
-            avg_h = sum(d['h'] for d in row_data) / len(row_data)
-            if row_h > avg_h * 1.5:
-                row_h = int(avg_h)
+        row_data.append({'images': row, 'h': row_h})
+        total_h += row_h + (gutter if i < len(rows) - 1 else 0)
 
-        row_data.append({'images': row, 'h': row_h, 'is_last': is_last})
-        total_h += row_h + (gutter if not is_last else 0)
-
-    # 3. Render with pixel-gap correction
+    # 3. Render with absolute edge-to-edge correction
     canvas = Image.new("RGB", (target_w, total_h), (255, 255, 255))
     curr_y = 0
 
-    for data in row_data:
+    for i, data in enumerate(row_data):
         row_h = data['h']
         curr_x = 0
+        num_imgs = len(data['images'])
 
         for j, im in enumerate(data['images']):
             # Calculate width based on the row height
             img_w = int(row_h * (im.width / im.height))
 
-            # --- PIXEL-PERFECT CORRECTION ---
-            # If this is the last image in a FULL row,
-            # make it fill exactly to the target_w edge.
-            is_last_in_row = (j == len(data['images']) - 1)
-            if is_last_in_row and not (data['is_last'] and curr_x + img_w < target_w * 0.8):
+            # --- PIXEL-PERFECT EDGE FORCE ---
+            # If this is the last image in ANY row,
+            # force it to touch the right edge (target_w)
+            if j == num_imgs - 1:
                 img_w = target_w - curr_x
             # --------------------------------
 
