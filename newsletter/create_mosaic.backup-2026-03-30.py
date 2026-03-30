@@ -21,19 +21,8 @@ import requests
 from PIL import Image
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
-import numpy as np
-EASYOCR_AVAILABLE = True
 
-try:
-    import easyocr
-    # Initialize Reader; this may also fail if model weights can't be downloaded
-    READER = easyocr.Reader(['en'])
-except Exception as e:
-    print(f"Notice: EasyOCR not initialized ({e}). Falling back to standard cropping.", file=sys.stderr)
-    EASYOCR_AVAILABLE = False
-
-
-FORBIDDEN_WORDS = ['logo', 'partners', 'posts/newsletter']
+FORBIDDEN_WORDS = ['logo', 'partners']
 
 # ---- Helpers ----
 def parse_size(s: str) -> Tuple[int, int]:
@@ -43,48 +32,20 @@ def parse_size(s: str) -> Tuple[int, int]:
     except Exception:
         raise argparse.ArgumentTypeError("Size must be like 1800x1200")
 
-def get_safe_crop(im: Image.Image) -> Image.Image:
+def cover_resize_crop(im: Image.Image, target_w: int, target_h: int) -> Image.Image:
     """
-    Returns a version of the image cropped to the boundary of all
-    detected text (plus a margin). If no text, returns original.
+    Resize using 'cover' behavior and center-crop to exactly (target_w, target_h).
     """
-    if not EASYOCR_AVAILABLE:
-        return im
+    src_w, src_h = im.size
+    scale = max(target_w / src_w, target_h / src_h)
+    new_w, new_h = int(math.ceil(src_w * scale)), int(math.ceil(src_h * scale))
+    im_resized = im.resize((new_w, new_h), Image.LANCZOS)
 
-    try:
-        img_np = np.array(im)
-        # We need the bounding boxes (detail=1)
-        results = READER.readtext(img_np, detail=1)
-
-        if not results:
-            return im
-
-        # Extract all corner points from all text blocks
-        all_points = []
-        for (bbox, text, prob) in results:
-            all_points.extend(bbox)
-
-        # Find the min/max bounds
-        t_left = min(p[0] for p in all_points)
-        t_top = min(p[1] for p in all_points)
-        t_right = max(p[0] for p in all_points)
-        t_bottom = max(p[1] for p in all_points)
-
-        # Add a 10% padding so text isn't flush against the tile edge
-        w, h = im.size
-        pad_w = int(w * 0.1)
-        pad_h = int(h * 0.1)
-
-        crop_box = (
-            max(0, t_left - pad_w),
-            max(0, t_top - pad_h),
-            min(w, t_right + pad_w),
-            min(h, t_bottom + pad_h)
-        )
-
-        return im.crop(crop_box)
-    except Exception:
-        return im
+    left = (new_w - target_w) // 2
+    top = (new_h - target_h) // 2
+    right = left + target_w
+    bottom = top + target_h
+    return im_resized.crop((left, top, right, bottom))
 
 def best_grid(n: int) -> Tuple[int, int]:
     """
@@ -179,79 +140,97 @@ def extract_image_urls(page_url: str) -> List[str]:
     return ordered_urls
 
 def build_mosaic(urls: List[str], out_size: Tuple[int, int], gutter: int = 0) -> Image.Image:
-    out_w, out_h = out_size
-    processed_images = []
+    n = len(urls)
+    if n == 0:
+        raise ValueError("No image URLs found on the page")
 
-    print(f"Processing {len(urls)} images...")
-    for url in urls:
+    rows, cols = best_grid(n)
+    out_w, out_h = out_size
+
+    # Compute standard tile size
+    total_gutter_x = (cols - 1) * gutter
+    total_gutter_y = (rows - 1) * gutter
+    
+    # Standard dimensions for full rows
+    std_tile_w = (out_w - total_gutter_x) // cols
+    tile_h = (out_h - total_gutter_y) // rows
+
+    canvas = Image.new("RGB", (out_w, out_h), (0, 0, 0))
+
+    # Calculate the index of the last row
+    max_r = (n - 1) // cols
+
+    for idx, url in enumerate(urls):
+        r = idx // cols
+        c = idx % cols
+        
+        # Default vertical position
+        y = r * (tile_h + gutter)
+
+        # Logic to handle the last row specifically
+        if r == max_r:
+            # Calculate how many items are actually in this last row
+            # If n % cols is 0, the row is full (count = cols). 
+            # Otherwise, it's the remainder.
+            remainder = n % cols
+            items_in_last_row = remainder if remainder > 0 else cols
+
+            # Recalculate width for this row to fill the canvas
+            last_row_gutter_total = (items_in_last_row - 1) * gutter
+            current_tile_w = (out_w - last_row_gutter_total) // items_in_last_row
+            
+            # Recalculate X position based on the new width
+            x = c * (current_tile_w + gutter)
+        else:
+            # Standard grid logic for non-last rows
+            current_tile_w = std_tile_w
+            x = c * (std_tile_w + gutter)
+
         try:
             im = fetch_image(url)
-            # Apply safe crop to focus on text/content
-            im = get_safe_crop(im)
-            processed_images.append(im)
+            # Use the calculated current_tile_w
+            tile = cover_resize_crop(im, current_tile_w, tile_h)
         except Exception as e:
-            print(f"Skipping {url}: {e}")
+            print(f"Warning: failed to fetch {url}: {e}", file=sys.stderr)
+            tile = Image.new("RGB", (current_tile_w, tile_h), (30, 30, 30))
+    
+        canvas.paste(tile, (x, y))
 
-    if not processed_images:
-        raise ValueError("No images to process.")
+    return canvas
 
-    # 1. Distribute images into rows based on natural aspect ratios
-    avg_row_height = out_h / math.sqrt(len(processed_images))
-    rows = []
-    current_row = []
-    current_row_width = 0
+def build_mosaic_old(urls: List[str], out_size: Tuple[int, int], gutter: int = 0) -> Image.Image:
+    n = len(urls)
+    if n == 0:
+        raise ValueError("No image URLs found on the page")
 
-    for im in processed_images:
-        aspect = im.width / im.height
-        norm_w = avg_row_height * aspect
-        current_row.append(im)
-        current_row_width += norm_w + gutter
-        if current_row_width >= out_w:
-            rows.append(current_row)
-            current_row = []
-            current_row_width = 0
-    if current_row:
-        rows.append(current_row)
+    rows, cols = best_grid(n)
+    out_w, out_h = out_size
 
-    # 2. Render rows to an intermediate canvas to find total height
-    # We use a temporary list to store positioned tiles
-    placed_tiles = [] # List of (image, x, y, w, h)
-    curr_y = 0
+    # Compute tile size accounting for gutters (default 0 for seamless mosaic)
+    total_gutter_x = (cols - 1) * gutter
+    total_gutter_y = (rows - 1) * gutter
+    tile_w = (out_w - total_gutter_x) // cols
+    tile_h = (out_h - total_gutter_y) // rows
 
-    for i, row in enumerate(rows):
-        row_aspect_sum = sum(im.width / im.height for im in row)
-        usable_w = out_w - (gutter * (len(row) - 1))
+    canvas = Image.new("RGB", (out_w, out_h), (0, 0, 0))
 
-        # Calculate height to make this row fit out_w perfectly
-        row_height = int(usable_w / row_aspect_sum)
+    for idx, url in enumerate(urls):
+        r = idx // cols
+        c = idx % cols
+        x = c * (tile_w + gutter)
+        y = r * (tile_h + gutter)
 
-        # If it's the last row and it's too sparse,
-        # we stretch it to out_w anyway to ensure no side-gaps.
-        curr_x = 0
-        for im in row:
-            target_w = int(row_height * (im.width / im.height))
-            placed_tiles.append((im, curr_x, curr_y, target_w, row_height))
-            curr_x += target_w + gutter
+        try:
+            im = fetch_image(url)
+            tile = cover_resize_crop(im, tile_w, tile_h)
+        except Exception as e:
+            print(f"Warning: failed to fetch {url}: {e}", file=sys.stderr)
+            # Use a blank tile if fetch fails
+            tile = Image.new("RGB", (tile_w, tile_h), (30, 30, 30))
 
-        curr_y += row_height + gutter
+        canvas.paste(tile, (x, y))
 
-    # 3. Final vertical scaling to fill the out_h exactly
-    # total_height_used is curr_y - gutter
-    total_content_h = curr_y - gutter
-    v_scale = out_h / total_content_h
-
-    # Create the final canvas
-    final_canvas = Image.new("RGB", (out_w, out_h), (255, 255, 255))
-
-    for im, x, y, w, h in placed_tiles:
-        # Scale the Y and Height by the vertical factor to fill the gap
-        new_y = int(y * v_scale)
-        new_h = int(h * v_scale)
-        # Re-scale width slightly if necessary to prevent rounding gaps
-        tile = im.resize((w, new_h), Image.LANCZOS)
-        final_canvas.paste(tile, (x, new_y))
-
-    return final_canvas
+    return canvas
 
 # ---- CLI ----
 def main():
