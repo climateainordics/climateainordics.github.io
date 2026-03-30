@@ -1,6 +1,6 @@
 ---
 title: "Research Scientist (Postdoc) - Remote Sensing"
-summary: "Natural Resources Institute Finland (Luke) is hiring a postdoctoral researcher for the "Digital Twin of Boreal Forest Structure" project, focusing on developing machine learning methods for large-scale, tree-level forest mapping using remote sensing data for biodiversity."
+summary: 'Natural Resources Institute Finland (Luke) is hiring a postdoctoral researcher for the "Digital Twin of Boreal Forest Structure" project, focusing on developing machine learning methods for large-scale, tree-level forest mapping using remote sensing data for biodiversity.'
 people:
 permalink:
 image: /images/external-organizations-logos/luke.png
