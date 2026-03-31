@@ -5,6 +5,18 @@
 Bayesian Optimisation * Biodiversity * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Machine Learning * [More info (researcher profile)](https://smitachakraborty.gitlab.io/smitaspage/) * [ORCID](https://orcid.org/0000-0003-3796-9213)
 </div>
 
+<div class="content" markdown="1" data-tags="AutoML,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning,NLP,Weather Forecasting">
+<span title="I am working as a postdoctoral researcher in the Computational Atmospheric Chemistry research group at Aarhus University, Denmark. My research focuses on determining the molecular-level mechanisms of various chemical reactions, particularly those involving atmospheric condensable vapors and their precursors, using state-of-the-art quantum chemical simulations.  I obtained my doctoral degree from the University of Helsinki, Finland. In addition, I hold a Master’s degree in Computational Chemistry from the University of Eastern Finland and a specialized Master of Engineering in Big Data (Data Science). PhD, ResearcherAarhus University."><strong>Galib Hasan, PhD, Researcher, Aarhus University</strong></span>
+<br />
+AutoML * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * NLP * Weather Forecasting * [Research group](https://chem.au.dk/forskning/forskningsomraader-og-grupper/teoretiskkemi/computational-atmospheric-chemistry) * [Publications (Scholar)](https://scholar.google.com/citations?user=toWA4f0AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-6273-4067)
+</div>
+
+<div class="content" markdown="1" data-tags="Deep Learning,Extreme Weather Events,Machine Learning,Weather Forecasting,Wind Energy">
+<span title="PhD, ResearcherFinnish Meteorological Institute."><strong>Irene Erner, PhD, Researcher, Finnish Meteorological Institute</strong></span>
+<br />
+Deep Learning * Extreme Weather Events * Machine Learning * Weather Forecasting * Wind Energy
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
