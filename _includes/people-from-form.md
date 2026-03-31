@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Earth System Modeling,Extreme Weather Events,Machine Learning">
-<span title="Climate Scientist &amp; Docent in Environmemtal Science. PhD, ResearcherLund University."><strong>Wilhelm May, PhD, Researcher, Lund University</strong></span>
-<br />
-Climate Impacts * Climate Modeling * Earth System Modeling * Extreme Weather Events * Machine Learning * [More info (researcher profile)](https://portal.research.lu.se/sv/persons/wilhelm-may/) * [ORCID](https://orcid.org/0000-0002-4933-3565)
-</div>
-
 <div class="content" markdown="1" data-tags="Bayesian Optimisation,Biodiversity,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Machine Learning">
 <span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. PhD, ResearcherRISE."><strong>Smita Chakraborty, PhD, Researcher, RISE</strong></span>
 <br />
@@ -736,6 +730,12 @@ Earth Observation * Urban Planning * Sustainable Cities * Computer Vision * Mach
 <span title="PhD, ResearcherNILU."><strong>Philipp Schneider, PhD, Researcher, NILU</strong></span>
 <br />
 Climate Impacts * Earth Observation * Machine Learning * Sustainable Cities * Satellite Remote Sensing * Atmospheric Composition * Air Quality * [Research group](https://nilu.no) * [Publications (Scholar)](https://scholar.google.com/citations?user=sxhr_i0AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-5686-8683)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Earth System Modeling,Extreme Weather Events,Machine Learning">
+<span title="Climate Scientist &amp; Docent in Environmemtal Science. PhD, ResearcherLund University."><strong>Wilhelm May, PhD, Researcher, Lund University</strong></span>
+<br />
+Climate Impacts * Climate Modeling * Earth System Modeling * Extreme Weather Events * Machine Learning * [More info (researcher profile)](https://portal.research.lu.se/sv/persons/wilhelm-may/) * [ORCID](https://orcid.org/0000-0002-4933-3565)
 </div>
 
 <div class="content" markdown="1" data-tags="">
