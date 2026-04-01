@@ -1596,3 +1596,9 @@ AutoML * Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeli
 <br />
 Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * Soundscape Analysis * Sustainable Cities * Urban Planning
 </div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Biodiversity,Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Marine Ecology,Soundscape Analysis,Sustainable Cities,Sustainable Production,Urban Planning,Weather Forecasting">
+<span title="PhD StudentUppsala University."><strong>Hanna Danko, PhD Student, Uppsala University</strong></span>
+<br />
+Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * Soundscape Analysis * Sustainable Cities * Sustainable Production * Urban Planning * Weather Forecasting * [ORCID](https://orcid.org/0000-0003-2023-8369)
+</div>
