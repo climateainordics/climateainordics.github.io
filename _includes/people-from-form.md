@@ -1608,3 +1608,9 @@ Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Deep
 <br />
 Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Extreme Weather Events * Machine Learning * Weather Forecasting * Stochastic Hydrology * [More info (researcher profile)](https://www.linkedin.com/in/avijit-majhi-7371a8113/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=JSfrntgAAAAJ) * [ORCID](https://orcid.org/0009-0009-3567-3022)
 </div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Climate Impacts,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning,Sustainable Production">
+<span title="PhD StudentLABEF."><strong>Marthe Paulette GUEDEZOUME BEHANZIN, PhD Student, LABEF</strong></span>
+<br />
+Bayesian Optimisation * Climate Impacts * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * Sustainable Production
+</div>
