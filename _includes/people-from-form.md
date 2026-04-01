@@ -1602,3 +1602,9 @@ Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observ
 <br />
 Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * Soundscape Analysis * Sustainable Cities * Sustainable Production * Urban Planning * Weather Forecasting * [ORCID](https://orcid.org/0000-0003-2023-8369)
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Extreme Weather Events,Machine Learning,Weather Forecasting,Stochastic Hydrology">
+<span title="I am a PhD researcher at UniCa specializing in hydrometeorology and hydroclimatology, focused on predicting extreme weather through hybrid data-driven models. My work advances precipitation ensemble nowcasting by integrating weather radar data with physics-guided deep learning and data assimilation. PhD StudentUniversity of Cagliari."><strong>Avijit Majhi, PhD Student, University of Cagliari</strong></span>
+<br />
+Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Extreme Weather Events * Machine Learning * Weather Forecasting * Stochastic Hydrology * [More info (researcher profile)](https://www.linkedin.com/in/avijit-majhi-7371a8113/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=JSfrntgAAAAJ) * [ORCID](https://orcid.org/0009-0009-3567-3022)
+</div>
