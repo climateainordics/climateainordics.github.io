@@ -1614,3 +1614,9 @@ Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Obs
 <br />
 Bayesian Optimisation * Climate Impacts * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * Sustainable Production
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Earth Observation,Extreme Weather Events,Machine Learning,Weather Forecasting">
+<span title="As a young researcher focused on anticipatory action, early warning systems, health and remote sensing, I am passionate about exploring the complex linkages between environmental change and human well-being. With a solid six-year background in proposal writing, research design, field implementation and project management, I am committed to developing innovative, evidence-based solutions that reduce climate risks and promote sustainable development. I have strong experience in programming (Python), GIS &amp; remote sensing (GEE, ArcGIS Pro, QGIS), and time-series forecasting using machine learning models. My research interests include:  - anticipatory action and early warning systems - hydrological processes and flood risk,  - climate change impacts on public health. ResearcherSave the Children Bangladesh."><strong>Mithun Dutta, Researcher, Save the Children Bangladesh</strong></span>
+<br />
+Climate Impacts * Earth Observation * Extreme Weather Events * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://sites.google.com/view/mithun-dutta/home) * [Research group](https://www.researchgate.net/profile/Mithun-Dutta) * [ORCID](https://orcid.org/0000-0003-3492-7878)
+</div>
