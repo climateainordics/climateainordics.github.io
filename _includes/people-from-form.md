@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Bayesian Optimisation,Biodiversity,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Machine Learning">
-<span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. PhD, ResearcherRISE."><strong>Smita Chakraborty, PhD, Researcher, RISE</strong></span>
-<br />
-Bayesian Optimisation * Biodiversity * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Machine Learning * [More info (researcher profile)](https://smitachakraborty.gitlab.io/smitaspage/) * [ORCID](https://orcid.org/0000-0003-3796-9213)
-</div>
-
 <div class="content" markdown="1" data-tags="AutoML,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning,NLP,Weather Forecasting">
 <span title="I am working as a postdoctoral researcher in the Computational Atmospheric Chemistry research group at Aarhus University, Denmark. My research focuses on determining the molecular-level mechanisms of various chemical reactions, particularly those involving atmospheric condensable vapors and their precursors, using state-of-the-art quantum chemical simulations.  I obtained my doctoral degree from the University of Helsinki, Finland. In addition, I hold a Master’s degree in Computational Chemistry from the University of Eastern Finland and a specialized Master of Engineering in Big Data (Data Science). PhD, ResearcherAarhus University."><strong>Galib Hasan, PhD, Researcher, Aarhus University</strong></span>
 <br />
@@ -748,6 +742,12 @@ Climate Impacts * Earth Observation * Machine Learning * Sustainable Cities * Sa
 <span title="Climate Scientist &amp; Docent in Environmemtal Science. PhD, ResearcherLund University."><strong>Wilhelm May, PhD, Researcher, Lund University</strong></span>
 <br />
 Climate Impacts * Climate Modeling * Earth System Modeling * Extreme Weather Events * Machine Learning * [More info (researcher profile)](https://portal.research.lu.se/sv/persons/wilhelm-may/) * [ORCID](https://orcid.org/0000-0002-4933-3565)
+</div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Biodiversity,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Machine Learning">
+<span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. PhD, ResearcherRISE."><strong>Smita Chakraborty, PhD, Researcher, RISE</strong></span>
+<br />
+Bayesian Optimisation * Biodiversity * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Machine Learning * [More info (researcher profile)](https://smitachakraborty.gitlab.io/smitaspage/) * [ORCID](https://orcid.org/0000-0003-3796-9213)
 </div>
 
 <div class="content" markdown="1" data-tags="">
