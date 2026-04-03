@@ -1620,3 +1620,9 @@ Bayesian Optimisation * Climate Impacts * Deep Learning * Earth Observation * Ea
 <br />
 Climate Impacts * Earth Observation * Extreme Weather Events * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://sites.google.com/view/mithun-dutta/home) * [Research group](https://www.researchgate.net/profile/Mithun-Dutta) * [ORCID](https://orcid.org/0000-0003-3492-7878)
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Deep Learning,Earth Observation,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,NLP">
+<span title="ResearcherImperial College London."><strong>Marta Koch, Researcher, Imperial College London</strong></span>
+<br />
+Climate Impacts * Deep Learning * Earth Observation * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * NLP
+</div>
