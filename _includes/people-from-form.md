@@ -1632,3 +1632,9 @@ Climate Impacts * Deep Learning * Earth Observation * Efficient or Sustainable A
 <br />
 Biodiversity * Climate Impacts * Climate Modeling * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * Sustainable Energy * [More info (researcher profile)](https://www.linkedin.com/in/chinonso-nwanevu-2a528084/) * [Publications (Scholar)](https://scholar.google.com/citations?user=Gu5Au6EAAAAJ&amp;hl=en)
 </div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,NLP,AI Bioacoustics,Representation Learning From Biological Time Series,Knowledge Graphs,Network Dynamics">
+<span title="Researcher (non-PhD) in transition."><strong>Luigi Assom, Researcher (non-PhD) in transition</strong></span>
+<br />
+Biodiversity * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * NLP * AI Bioacoustics * Representation Learning From Biological Time Series * Knowledge Graphs * Network Dynamics * [Publications (Scholar)](https://scholar.google.com/scholar?hl=it&amp;as_sdt=0%2C5&amp;q=luigi+assom) * [ORCID](https://orcid.org/0000-0002-4168-4627)
+</div>
