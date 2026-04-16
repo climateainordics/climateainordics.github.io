@@ -12,7 +12,7 @@ people:
 <br />
 
 Climate AI Nordics is excited to now provide more information about our upcoming annual workshop - [**The 2026 Nordic Workshop on AI for Climate**](https://climateainordics.com/events/2026-nordic-workshop) - to
-be held on June 26th, 2026 in Copenhagen! **Registration link coming very soon!**
+be held on June 26th, 2026 in Copenhagen! [**Registration is done here**](https://docs.google.com/forms/d/e/1FAIpQLSeBC2TY_d5fGPwsgD9krBXClFJJStkwC_YSy6qWsrmnEGCz4Q/viewform)
 
 Similar to [last year’s inaugural workshop in Gothenburg](https://climateainordics.com/news/2025-05-20-nordic-workshop/), we’ll have a day full of exciting keynotes, oral presentations and posters,
 as well as plenty of interaction among attendants.
