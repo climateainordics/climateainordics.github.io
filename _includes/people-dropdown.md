@@ -14,7 +14,7 @@
 <option value="Biodiversity">Biodiversity (84)</option>
 <option value="Bioinformatics">Bioinformatics (1)</option>
 <option value="Causal AI">Causal AI (1)</option>
-<option value="Climate Impacts">Climate Impacts (58)</option>
+<option value="Climate Impacts">Climate Impacts (59)</option>
 <option value="Climate Modeling">Climate Modeling (94)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
 <option value="Computer Vision">Computer Vision (98)</option>
@@ -24,7 +24,7 @@
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
 <option value="Earth Observation">Earth Observation (121)</option>
-<option value="Earth System Modeling">Earth System Modeling (39)</option>
+<option value="Earth System Modeling">Earth System Modeling (40)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
 <option value="Ecosystem-based Adaptation">Ecosystem-based Adaptation (1)</option>
@@ -33,6 +33,7 @@
 <option value="Efficient or Sustainable AI">Efficient or Sustainable AI (80)</option>
 <option value="Emulators">Emulators (1)</option>
 <option value="Environment Impacts of AI">Environment Impacts of AI (1)</option>
+<option value="Environmental and Ecological Statistics">Environmental and Ecological Statistics (1)</option>
 <option value="Extreme Weather">Extreme Weather (2)</option>
 <option value="Extreme Weather Events">Extreme Weather Events (37)</option>
 <option value="Fluid Dynamics">Fluid Dynamics (1)</option>
@@ -53,7 +54,7 @@
 <option value="Knowledge Graphs">Knowledge Graphs (2)</option>
 <option value="Land System Science">Land System Science (1)</option>
 <option value="Land Use Change Modelling">Land Use Change Modelling (1)</option>
-<option value="Machine Learning">Machine Learning (178)</option>
+<option value="Machine Learning">Machine Learning (179)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (27)</option>
 <option value="Materials">Materials (1)</option>

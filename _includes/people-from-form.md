@@ -1637,3 +1637,9 @@ Biodiversity * Climate Impacts * Climate Modeling * Efficient or Sustainable AI 
 <br />
 Biodiversity * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * NLP * AI Bioacoustics * Representation Learning From Biological Time Series * Knowledge Graphs * Network Dynamics * [Publications (Scholar)](https://scholar.google.com/scholar?hl=it&amp;as_sdt=0%2C5&amp;q=luigi+assom) * [ORCID](https://orcid.org/0000-0002-4168-4627)
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Earth System Modeling,Machine Learning,Environmental and Ecological Statistics">
+<span title="Professor."><strong>Bülent Tütmez, Professor</strong></span>
+<br />
+Climate Impacts * Earth System Modeling * Machine Learning * Environmental and Ecological Statistics * [Publications (Scholar)](https://scholar.google.com/citations?hl=tr&amp;user=MXlPRsgAAAAJ&amp;view_op=list_works&amp;sortby=pubdate) * [ORCID](https://orcid.org/0000-0002-2618-3285)
+</div>
