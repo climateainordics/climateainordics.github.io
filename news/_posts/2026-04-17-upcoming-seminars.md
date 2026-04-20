@@ -22,7 +22,7 @@ From satellite-driven crop mapping to the physics of Earth systems, this season'
 
 Our journey begins on April 23 with **Purnendu Sardar** from Lund University, who will dive into machine learning based classification of tree crops of Syrian Arab Republic. We return on May 7 to host **Solmaz Khazaei** from KTH Royal Institute of Technology for a deep dive into advanced flood detection techniques.
 
-On May 28, we welcome **Kelsey Doerksen** from the Oxford Applied and Theoretical Machine Learning Group (OATML), followed by Ariel Flint Ashery from City St George’s, University of London on June 4, who will discuss the fascinating emergence of social conventions in AI populations.
+On May 28, we welcome **Kelsey Doerksen** from the Oxford Applied and Theoretical Machine Learning Group (OATML), followed by **Ariel Flint Ashery** from City St George’s, University of London on June 4, who will discuss the fascinating emergence of social conventions in AI populations.
 
 The final stretch of the season features **Gustau Camps-Valls** from the University of Valencia on June 11, focusing on Earth observation. We wrap up the series on June 25 with a keynote-level presentation by **Markus Reichstein** from the Max-Planck-Institute for Biogeochemistry.
 
