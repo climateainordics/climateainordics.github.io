@@ -19,4 +19,4 @@ Key qualifications and tasks include:
 
 **Deadline:** May 3rd, 2026
 
-[Apply through the official recruitment system](https://smartforest.no/2026/03/26/2161/)
+[Apply through the official recruitment system](https://www.jobbnorge.no/en/available-jobs/job/298686/two-phd-scholarships-remote-sensing-and-ai-for-improved-forest-mapping-and-precision-forestry)
