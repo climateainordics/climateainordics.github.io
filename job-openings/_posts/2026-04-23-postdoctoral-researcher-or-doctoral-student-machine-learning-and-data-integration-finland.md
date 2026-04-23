@@ -3,7 +3,7 @@ title: "Postdoctoral researcher or doctoral student, machine learning and data i
 summary: "The Finnish Meteorological Institute is hiring a Postdoctoral or Doctoral Researcher for developing machine learning methods to generate high-resolution climate datasets for urban climate research."
 people:
 permalink:
-image: /images/external-organizations-logos/the-finnish-meteorological-institute.png
+image: /images/external-organizations-logos/luke.png
 youtube: ""
 deadline: April 30th, 2026
 ---
