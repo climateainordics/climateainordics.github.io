@@ -1,3 +1,10 @@
+## Affiliates - Recently Joined
+<div class="content" markdown="1" data-tags="AutoML,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Weather Forecasting,Wind Energy">
+<span title="Researcher on AI, ML, Data Science, Optimization.... Post DocTechnical University of Denmark, Denmark."><strong>Sebastian Basterrech, Post Doc, Technical University of Denmark, Denmark</strong></span>
+<br />
+AutoML * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Weather Forecasting * Wind Energy * [Publications (Scholar)](https://scholar.google.com/citations?user=fVrgRIIAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-9172-0155)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -1642,4 +1649,10 @@ Biodiversity * Computer Vision * Deep Learning * Earth Observation * Earth Syste
 <span title="Professor."><strong>Bülent Tütmez, Professor</strong></span>
 <br />
 Climate Impacts * Earth System Modeling * Machine Learning * Environmental and Ecological Statistics * [Publications (Scholar)](https://scholar.google.com/citations?hl=tr&amp;user=MXlPRsgAAAAJ&amp;view_op=list_works&amp;sortby=pubdate) * [ORCID](https://orcid.org/0000-0002-2618-3285)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning,NLP">
+<span title="PhD, ResearcherKwame Nkrumah University of Science and Technology."><strong>Henry Kwasi Asiedu, PhD, Researcher, Kwame Nkrumah University of Science and Technology</strong></span>
+<br />
+Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * NLP * [ORCID](https://orcid.org/0009-0006-3075-0744)
 </div>
