@@ -3,7 +3,7 @@ title: "Two PhD scholarships: Remote sensing and AI for improved forest mapping 
 summary: "The Norwegian University of Life Sciences is hiring two PhD candidates for developing machine learning models to map forest ecosystems and advance sustainable forest management."
 people:
 permalink:
-image: /images/external-organizations-logos/norwegian-university-of-life-sciences.png
+image: /images/external-organizations-logos/nmbu.png
 youtube: ""
 deadline: May 3rd, 2026
 ---
