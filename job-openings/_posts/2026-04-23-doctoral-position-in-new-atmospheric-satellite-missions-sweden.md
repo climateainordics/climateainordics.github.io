@@ -3,7 +3,7 @@ title: "Doctoral position in new atmospheric satellite missions"
 summary: "Chalmers University of Technology is hiring a Doctoral Student for bridging instrument design and space-based environmental observations using physics and machine learning."
 people:
 permalink:
-image: /images/external-organizations-logos/chalmers-university-of-technology.png
+image: /images/external-organizations-logos/chalmers.png
 youtube: ""
 deadline: May 15th, 2026
 ---
