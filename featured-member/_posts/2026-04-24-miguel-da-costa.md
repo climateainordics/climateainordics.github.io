@@ -5,7 +5,7 @@ people:
 - Miguel Nobre da Costa
 layout: single
 image: /images/people/featured/MiguelNobreDaCosta.jpg
-image_width: 50%
+image_width: 70%
 ---
 
 <br />
