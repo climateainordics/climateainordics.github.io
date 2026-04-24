@@ -1,3 +1,4 @@
+---
 title: "Featured project: SafeCityLearn - A benchmark for safety-constrained RL in distributed energy systems"
 people:
 - Amal Nammouchi
