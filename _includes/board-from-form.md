@@ -15,7 +15,7 @@ Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Lea
 
 <div class="content" markdown="1" data-tags="Earth Observation,Climate Modeling,Efficient or Sustainable AI,Machine Learning,Deep Learning">
 ![Alouette van Hove](/images/people/van-hove.jpg)
-<span title="Alouette van Hove is a PhD candidate at the University of Oslo. Her research interests includes the development of a novel framework to estimate land surface fluxes at a regional scale. The framework makes use of sensor measurements from drones, data assimilation, atmospheric fluid dynamics modeling, and reinforcement learning techniques. The goal is to deliver high-resolution surface maps of greenhouse gas fluxes in northern landscapes for validation of climate models. PhD StudentUniversity of Oslo."><strong>Alouette van Hove, PhD Student, University of Oslo</strong></span>
+<span title="Alouette van Hove is a Post Doc at the University of Oslo. Her research interests includes the development of a novel framework to estimate land surface fluxes at a regional scale. The framework makes use of sensor measurements from drones, data assimilation, atmospheric fluid dynamics modeling, and reinforcement learning techniques. The goal is to deliver high-resolution surface maps of greenhouse gas fluxes in northern landscapes for validation of climate models. Post DocUniversity of Oslo."><strong>Alouette van Hove, Post Doc, University of Oslo</strong></span>
 <br />
 Earth Observation * Climate Modeling * Efficient or Sustainable AI * Machine Learning * Deep Learning * [ORCID](https://orcid.org/0009-0004-4221-1647)
 </div>
