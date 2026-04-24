@@ -18,7 +18,7 @@ Our framework adopts a system-of-systems approach, combining climate, transport,
 
 We apply this framework to rain and pluvial flooding events (ranging from nuisance flooding to extreme events) in the Copenhagen capital region. Early results demonstrate the potential of reinforcement learning as a flexible decision-support tool for adaptive infrastructure planning under climate uncertainty, successfully balancing complex trade-offs between impact reduction and adaptation investment.
 
-My background and interests lie at the intersection of AI and transport, spanning urban mobility, road safety, geospatial analytics, urban form, and the gap between objective metrics and human perceptions. More broadly, I'm interested in how AI can support empower human decision-makers to navigate complex interactions and uncertain futures to make our cities safer, more livable, and sustainable.
+My background and interests lie at the intersection of AI and transport, spanning urban mobility, road safety, geospatial analytics, urban form, and the gap between objective metrics and human perceptions. More broadly, I'm interested in how AI can empower human decision-makers to navigate complex interactions and uncertain futures to make our cities safer, more livable, and sustainable.
 
 **What kinds of research opportunities or collaborations are you excited to be part of in the future?**
 
