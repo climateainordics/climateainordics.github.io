@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="AutoML,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Weather Forecasting,Wind Energy">
-<span title="Researcher on AI, ML, Data Science, Optimization.... Post DocTechnical University of Denmark, Denmark."><strong>Sebastian Basterrech, Post Doc, Technical University of Denmark, Denmark</strong></span>
-<br />
-AutoML * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Weather Forecasting * Wind Energy * [Publications (Scholar)](https://scholar.google.com/citations?user=fVrgRIIAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-9172-0155)
-</div>
-
 <div class="content" markdown="1" data-tags="Bayesian Optimisation,Climate Impacts,Climate Modeling,Deep Learning,Earth System Modeling,Extreme Weather Events,Machine Learning">
 <span title="I&#x27;m leading the Atmospheri Modeling Center Lahti which is a joint research initiative between the University of Helsinki and LUT University. AMC Lahti is dedicated to pioneering solutions for climate change and air pollution through cutting-edge atmospheric modelling and artificial intelligence. ProfessorUniversity of Helsinki, Lappeenranta University of Technology."><strong>Michael Boy, Professor, University of Helsinki, Lappeenranta University of Technology</strong></span>
 <br />
@@ -760,6 +754,12 @@ AutoML * Climate Modeling * Computer Vision * Deep Learning * Earth Observation 
 <span title="PhD, ResearcherFinnish Meteorological Institute."><strong>Irene Erner, PhD, Researcher, Finnish Meteorological Institute</strong></span>
 <br />
 Deep Learning * Extreme Weather Events * Machine Learning * Weather Forecasting * Wind Energy
+</div>
+
+<div class="content" markdown="1" data-tags="AutoML,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Weather Forecasting,Wind Energy">
+<span title="Researcher on AI, ML, Data Science, Optimization.... Post DocTechnical University of Denmark, Denmark."><strong>Sebastian Basterrech, Post Doc, Technical University of Denmark, Denmark</strong></span>
+<br />
+AutoML * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Weather Forecasting * Wind Energy * [Publications (Scholar)](https://scholar.google.com/citations?user=fVrgRIIAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-9172-0155)
 </div>
 
 <div class="content" markdown="1" data-tags="">
