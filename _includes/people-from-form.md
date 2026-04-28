@@ -1656,3 +1656,9 @@ Climate Impacts * Earth System Modeling * Machine Learning * Environmental and E
 <br />
 Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * NLP * [ORCID](https://orcid.org/0009-0006-3075-0744)
 </div>
+
+<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Biodiversity,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Extreme Weather Events,Machine Learning,NLP,Sustainable Cities,Sustainable Energy,Sustainable Production,Sustainable Transport,Weather Forecasting">
+<span title="Industry."><strong>LAISSA Oliveira, Industry</strong></span>
+<br />
+AutoML * Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Extreme Weather Events * Machine Learning * NLP * Sustainable Cities * Sustainable Energy * Sustainable Production * Sustainable Transport * Weather Forecasting
+</div>
