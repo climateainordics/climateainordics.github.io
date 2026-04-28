@@ -5,7 +5,7 @@ people:
 permalink:
 image: /images/external-organizations-logos/fmi.png
 youtube: ""
-deadline: April 30th, 2026
+deadline: 2026-04-30
 ---
 
 The Finnish Meteorological Institute is seeking a Postdoctoral Researcher or Doctoral Researcher for a fixed-term position to develop machine learning methods for urban climate research projects. Positioned within the Climate Impacts and Adaptation Unit's Climate Change and Future Cities group, the researcher will be primarily responsible for producing high-resolution climate datasets by integrating large volumes of multi-source data, including climate model outputs, geospatial datasets, and observational data.

@@ -5,7 +5,7 @@ people:
 permalink:
 image: /images/external-organizations-logos/chalmers.png
 youtube: ""
-deadline: May 15th, 2026
+deadline: 2026-05-15
 ---
 
 The Division of Geoscience and Remote Sensing at Chalmers University of Technology has announced a doctoral student position focused on new atmospheric satellite missions. The research project aims to bridge the gap between instrument design and the application of Earth observations, specifically utilizing microwave sensors and machine learning to improve weather forecasting and climate monitoring. The project is funded by the newly formed Swedish Space Research School and will involve close collaboration with the AAC Omnisys company.
