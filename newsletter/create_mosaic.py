@@ -191,6 +191,9 @@ def build_mosaic(urls: List[str], out_size: Tuple[int, int], gutter: int = 0) ->
         except Exception as e:
             print(f"Skipping {url}: {e}")
 
+    # reordering:
+    #processed_images = processed_images[0:3]+processed_images[4:]+[processed_images[3]]
+    
     if not processed_images:
         raise ValueError("No images to process.")
 
