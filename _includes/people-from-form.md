@@ -1662,3 +1662,9 @@ Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Efficient
 <br />
 AutoML * Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Extreme Weather Events * Machine Learning * NLP * Sustainable Cities * Sustainable Energy * Sustainable Production * Sustainable Transport * Weather Forecasting
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Extreme Weather Events,Machine Learning,Sustainable Cities,Urban Planning,Weather Forecasting,Wind Energy">
+<span title="Post DocNational Institute of Geophysics and Volcanology (INGV, Italy)."><strong>THI DUNG VU, Post Doc, National Institute of Geophysics and Volcanology (INGV, Italy)</strong></span>
+<br />
+Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Extreme Weather Events * Machine Learning * Sustainable Cities * Urban Planning * Weather Forecasting * Wind Energy * [ORCID](https://orcid.org/0009-0005-4250-7576)
+</div>
