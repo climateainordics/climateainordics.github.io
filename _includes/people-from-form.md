@@ -1680,3 +1680,9 @@ AutoML * Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeli
 <br />
 Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Extreme Weather Events * Machine Learning * Sustainable Cities * Urban Planning * Weather Forecasting * Wind Energy * [ORCID](https://orcid.org/0009-0005-4250-7576)
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Deep Learning,Earth Observation,Efficient or Sustainable AI">
+<span title="Associate ProfessorInsitute for AI Serbia."><strong>Milan Stojkovic, Associate Professor, Insitute for AI Serbia</strong></span>
+<br />
+Climate Impacts * Deep Learning * Earth Observation * Efficient or Sustainable AI * [More info (researcher profile)](https://scholar.google.com/citations?user=fIY3WLUAAAAJ&amp;hl=sr&amp;oi=ao) * [Publications (Scholar)](https://scholar.google.com/citations?user=fIY3WLUAAAAJ&amp;hl=sr&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-7817-9341)
+</div>
