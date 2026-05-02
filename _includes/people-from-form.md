@@ -1686,3 +1686,9 @@ Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth S
 <br />
 Climate Impacts * Deep Learning * Earth Observation * Efficient or Sustainable AI * [More info (researcher profile)](https://scholar.google.com/citations?user=fIY3WLUAAAAJ&amp;hl=sr&amp;oi=ao) * [Publications (Scholar)](https://scholar.google.com/citations?user=fIY3WLUAAAAJ&amp;hl=sr&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-7817-9341)
 </div>
+
+<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Weather Forecasting">
+<span title="I&#x27;m an operational forecaster at Zambia Met Department . Hold a Bsc in physics and a masters in applied meteorology and climate with Management. I work in Research and development Unit which includes exploring and leveraging AI innovations in operational weather forecasting and it&#x27;s applicability to the broader climate science.  ResearcherZambia Meteorological Department."><strong>Chimwemwe Chanda, Researcher, Zambia Meteorological Department</strong></span>
+<br />
+AutoML * Bayesian Optimisation * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Weather Forecasting
+</div>
