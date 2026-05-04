@@ -17,10 +17,10 @@
 <option value="Climate Impacts">Climate Impacts (68)</option>
 <option value="Climate Modeling">Climate Modeling (102)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
-<option value="Computer Vision">Computer Vision (102)</option>
+<option value="Computer Vision">Computer Vision (103)</option>
 <option value="Cryospheric Science">Cryospheric Science (1)</option>
 <option value="Data Assimilation">Data Assimilation (2)</option>
-<option value="Deep Learning">Deep Learning (157)</option>
+<option value="Deep Learning">Deep Learning (158)</option>
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
 <option value="Earth Observation">Earth Observation (125)</option>
@@ -30,7 +30,7 @@
 <option value="Ecosystem-based Adaptation">Ecosystem-based Adaptation (1)</option>
 <option value="Edna">Edna (1)</option>
 <option value="Education">Education (1)</option>
-<option value="Efficient or Sustainable AI">Efficient or Sustainable AI (85)</option>
+<option value="Efficient or Sustainable AI">Efficient or Sustainable AI (86)</option>
 <option value="Emulators">Emulators (1)</option>
 <option value="Environment Impacts of AI">Environment Impacts of AI (1)</option>
 <option value="Environmental and Ecological Statistics">Environmental and Ecological Statistics (1)</option>
@@ -54,7 +54,7 @@
 <option value="Knowledge Graphs">Knowledge Graphs (2)</option>
 <option value="Land System Science">Land System Science (1)</option>
 <option value="Land Use Change Modelling">Land Use Change Modelling (1)</option>
-<option value="Machine Learning">Machine Learning (187)</option>
+<option value="Machine Learning">Machine Learning (188)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (27)</option>
 <option value="Materials">Materials (1)</option>

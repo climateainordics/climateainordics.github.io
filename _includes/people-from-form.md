@@ -1698,3 +1698,9 @@ Climate Impacts * Deep Learning * Earth Observation * Efficient or Sustainable A
 <br />
 AutoML * Bayesian Optimisation * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Weather Forecasting
 </div>
+
+<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning">
+<span title="Student."><strong>Parna Saeidpour, Student</strong></span>
+<br />
+Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * [More info (researcher profile)](https://parnasaeidpour.com/)
+</div>
