@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Bayesian Optimisation,Climate Impacts,Climate Modeling,Deep Learning,Earth System Modeling,Extreme Weather Events,Machine Learning">
-<span title="I&#x27;m leading the Atmospheri Modeling Center Lahti which is a joint research initiative between the University of Helsinki and LUT University. AMC Lahti is dedicated to pioneering solutions for climate change and air pollution through cutting-edge atmospheric modelling and artificial intelligence. ProfessorUniversity of Helsinki, Lappeenranta University of Technology."><strong>Michael Boy, Professor, University of Helsinki, Lappeenranta University of Technology</strong></span>
-<br />
-Bayesian Optimisation * Climate Impacts * Climate Modeling * Deep Learning * Earth System Modeling * Extreme Weather Events * Machine Learning * [More info (researcher profile)](https://researchportal.helsinki.fi/en/persons/michael-boy/) * [Research group](https://amc-lahti.fi) * [Publications (Scholar)](https://scholar.google.com/citations?user=sv7zMEwAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-8107-4524)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Deep Learning,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Weather Forecasting">
 <span title="My research focuses on AI for Climate Downscaling, mainly in the Nordic region. PhD StudentUniversity of Helsinki."><strong>Helmi Toropainen, PhD Student, University of Helsinki</strong></span>
 <br />
@@ -208,6 +202,12 @@ Bayesian Optimisation * Deep Learning * Earth Observation * Earth System Modelin
 <span title="I am an Associate Professor (Docent in Sweden and Reader in the UK) with extensive expertise in running a range of ecosystem and Earth system models, including the climate–plant–soil model CoupModel at plot scales; the dynamic global vegetation model LPJ-GUESS at regional and global scales; the regional Earth system models RCA-GUESS and RCAO-GUESS; and the global Earth system model EC-Earth, a CMIP6-class Earth system model. My current research focuses on integrating AI approaches with ecosystem modelling to better understand terrestrial ecosystem dynamics and their feedbacks to the climate system across spatial and temporal scales. Associate ProfessorLund University."><strong>Wenxin Zhang, Associate Professor, Lund University</strong></span>
 <br />
 Biodiversity * Climate Impacts * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Wind Energy * [More info (researcher profile)](https://portal.research.lu.se/en/persons/wenxin-zhang/) * [Publications (Scholar)](https://scholar.google.com/citations?user=E1NkwBoAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9477-563X)
+</div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Climate Impacts,Climate Modeling,Deep Learning,Earth System Modeling,Extreme Weather Events,Machine Learning">
+<span title="I&#x27;m leading the Atmospheri Modeling Center Lahti which is a joint research initiative between the University of Helsinki and LUT University. AMC Lahti is dedicated to pioneering solutions for climate change and air pollution through cutting-edge atmospheric modelling and artificial intelligence. ProfessorUniversity of Helsinki, Lappeenranta University of Technology."><strong>Michael Boy, Professor, University of Helsinki, Lappeenranta University of Technology</strong></span>
+<br />
+Bayesian Optimisation * Climate Impacts * Climate Modeling * Deep Learning * Earth System Modeling * Extreme Weather Events * Machine Learning * [More info (researcher profile)](https://researchportal.helsinki.fi/en/persons/michael-boy/) * [Research group](https://amc-lahti.fi) * [Publications (Scholar)](https://scholar.google.com/citations?user=sv7zMEwAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-8107-4524)
 </div>
 
 <div class="content" markdown="1" data-tags="">
