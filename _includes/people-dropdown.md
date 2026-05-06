@@ -17,10 +17,10 @@
 <option value="Climate Impacts">Climate Impacts (68)</option>
 <option value="Climate Modeling">Climate Modeling (102)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
-<option value="Computer Vision">Computer Vision (103)</option>
+<option value="Computer Vision">Computer Vision (104)</option>
 <option value="Cryospheric Science">Cryospheric Science (1)</option>
 <option value="Data Assimilation">Data Assimilation (2)</option>
-<option value="Deep Learning">Deep Learning (158)</option>
+<option value="Deep Learning">Deep Learning (159)</option>
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
 <option value="Earth Observation">Earth Observation (125)</option>
@@ -35,7 +35,7 @@
 <option value="Environment Impacts of AI">Environment Impacts of AI (1)</option>
 <option value="Environmental and Ecological Statistics">Environmental and Ecological Statistics (1)</option>
 <option value="Extreme Weather">Extreme Weather (2)</option>
-<option value="Extreme Weather Events">Extreme Weather Events (44)</option>
+<option value="Extreme Weather Events">Extreme Weather Events (45)</option>
 <option value="Fluid Dynamics">Fluid Dynamics (1)</option>
 <option value="Food Microbiology">Food Microbiology (1)</option>
 <option value="Forest">Forest (1)</option>
@@ -54,7 +54,7 @@
 <option value="Knowledge Graphs">Knowledge Graphs (2)</option>
 <option value="Land System Science">Land System Science (1)</option>
 <option value="Land Use Change Modelling">Land Use Change Modelling (1)</option>
-<option value="Machine Learning">Machine Learning (188)</option>
+<option value="Machine Learning">Machine Learning (189)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (27)</option>
 <option value="Materials">Materials (1)</option>
@@ -91,7 +91,7 @@
 <option value="Use of Weather and Climate Data Outside of Academia">Use of Weather and Climate Data Outside of Academia (1)</option>
 <option value="Visual Analytics">Visual Analytics (1)</option>
 <option value="Visualization">Visualization (1)</option>
-<option value="Weather Forecasting">Weather Forecasting (27)</option>
+<option value="Weather Forecasting">Weather Forecasting (28)</option>
 <option value="Wildfire Growth Forecasting">Wildfire Growth Forecasting (1)</option>
 <option value="Wind Energy">Wind Energy (15)</option></select>
 

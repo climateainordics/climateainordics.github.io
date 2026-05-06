@@ -1704,3 +1704,9 @@ AutoML * Bayesian Optimisation * Climate Impacts * Climate Modeling * Computer V
 <br />
 Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * [More info (researcher profile)](https://parnasaeidpour.com/)
 </div>
+
+<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Extreme Weather Events,Machine Learning,Weather Forecasting">
+<span title="As a researcher on the Horizon WeatherGenerator project, I work on high resolution forecasts for extreme weather events. PhD, ResearcherRoyal Netherlands Meteorological Institute."><strong>Sarah Ibrahimi, PhD, Researcher, Royal Netherlands Meteorological Institute</strong></span>
+<br />
+Computer Vision * Deep Learning * Extreme Weather Events * Machine Learning * Weather Forecasting * [Research group](https://weathergenerator.eu) * [Publications (Scholar)](https://scholar.google.com/citations?user=SKSOF8kAAAAJ&amp;hl=en)
+</div>
