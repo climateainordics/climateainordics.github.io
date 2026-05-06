@@ -1,0 +1,45 @@
+---
+title: "More is different: emergent social conventions and tipping points in AI populations"
+summary: "Webinar with Ariel Flint Ashery, City St George’s, University of London. 
+
+ Social conventions are the foundation of social coordination, shaping how individuals come together to form a society. In this talk, I will present theoretical and experimental findings that demonstrate the spontaneous emergence of social norms in LLM populations, as well as the existence of tipping points in social convention. I will show that agentic AI populations can establish social conventions and highlight how collective biases can emerge even when individual agents appear unbiased. I will conclude by stressing how the ability of AI agents to develop norms without explicit programming has significant implications for designing AI systems that align with human values and societal goals."
+abstract: " Social conventions are the foundation of social coordination, shaping how individuals come together to form a society. In this talk, I will present theoretical and experimental findings that demonstrate the spontaneous emergence of social norms in LLM populations, as well as the existence of tipping points in social convention. I will show that agentic AI populations can establish social conventions and highlight how collective biases can emerge even when individual agents appear unbiased. I will conclude by stressing how the ability of AI agents to develop norms without explicit programming has significant implications for designing AI systems that align with human values and societal goals."
+people:
+- Olof Mogren
+permalink: /events/2026-05-06-2026-06-04-more-is-different-emergent-social-conventions
+event_date: 2026-06-04
+event_time: "15:00"
+event_location: ""
+image: /images/posts/2026-05-06-2026-06-04-more-is-different-emergent-social-conventions.jpg
+youtube: ""
+--- 
+Welcome to this week's Learning Machines seminar.
+
+This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
+
+**Title:** More is different: emergent social conventions and tipping points in AI populations
+
+**Speaker:** Ariel Flint Ashery, City St George’s, University of London
+
+**Abstract:**  Social conventions are the foundation of social coordination, shaping how individuals come together to form a society. In this talk, I will present theoretical and experimental findings that demonstrate the spontaneous emergence of social norms in LLM populations, as well as the existence of tipping points in social convention. I will show that agentic AI populations can establish social conventions and highlight how collective biases can emerge even when individual agents appear unbiased. I will conclude by stressing how the ability of AI agents to develop norms without explicit programming has significant implications for designing AI systems that align with human values and societal goals.
+
+**About the speaker:** Ariel Flint is a PhD student in Mathematics at City, University of London. He studies self-organisation in decentralised socio-technical systems, with work on social norms, coordination and cultural evolution. He also has a broader interest in climate-related challenges, including socio-political climate communication and aligning AI systems with climate goals. Previously, he completed a Master&#x27;s in Theoretical Physics at Imperial College London, and he continues to draw on methods from network science and statistical physics in his current research. His work has been published in Science Advances and has received international media coverage, including features in The Guardian and El País.
+
+**Location:** This is an online seminar. Connect using Zoom.
+
+**Date:** 2026-06-04 15:00
+
+
+
+**Upcoming seminars:**
+
+* 2026-06-11: Gustau Camps-Valls, University of Valencia
+* 2026-06-25: Markus Reichstein, Max-Planck-Institute for Biogeochemistry and ELLIS Unit Jena
+* All seminars are 15:00 CET.
+
+More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
+
+-- The Learning Machines Team
+
+
+
