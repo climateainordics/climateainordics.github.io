@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Deep Learning,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Weather Forecasting">
-<span title="My research focuses on AI for Climate Downscaling, mainly in the Nordic region. PhD StudentUniversity of Helsinki."><strong>Helmi Toropainen, PhD Student, University of Helsinki</strong></span>
-<br />
-Climate Impacts * Climate Modeling * Deep Learning * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://helmitoropainen.github.io/climate-downscaling/) * [Research group](https://amc-lahti.fi/) * [ORCID](https://orcid.org/0009-0000-0175-3520)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Deep Learning,Earth System Modeling,Extreme Weather Events,Machine Learning,Sustainable Cities,Sustainable Transport,Urban Planning">
 <span title="I am the head of the DTU ITS group (formerly known as MLSM: https://mlsm.man.dtu.dk), with a background in Machine Learning and Transport. I am strongly focused different several Climate AI projects, namely MAAT (https://mlsm.man.dtu.dk/research-projects/maat/), APEX (https://mlsm.man.dtu.dk/research-projects/apex/) and other initiatives (https://arxiv.org/abs/2510.07971). ProfessorTechnical University of Denmark."><strong>Francisco Pereira, Professor, Technical University of Denmark</strong></span>
 <br />
@@ -1222,6 +1216,12 @@ Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Comp
 <span title="PhD StudentKarlstad University."><strong>Sai Ganesh Veeravalli, PhD Student, Karlstad University</strong></span>
 <br />
 Earth Observation * Machine Learning * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://www.sgveeravalli.com/) * [Research group](https://www.kau.se/en/researchers/sai-ganesh-veeravalli) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=qfnIdjQAAAAJ) * [ORCID](https://orcid.org/0000-0002-1670-8703)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Deep Learning,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Weather Forecasting">
+<span title="My research focuses on AI for Climate Downscaling, mainly in the Nordic region. PhD StudentUniversity of Helsinki."><strong>Helmi Toropainen, PhD Student, University of Helsinki</strong></span>
+<br />
+Climate Impacts * Climate Modeling * Deep Learning * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://helmitoropainen.github.io/climate-downscaling/) * [Research group](https://amc-lahti.fi/) * [ORCID](https://orcid.org/0009-0000-0175-3520)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
