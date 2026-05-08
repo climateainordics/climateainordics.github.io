@@ -60,6 +60,12 @@ Get in touch! [contact@climateainordics.com](mailto:contact@climateainordics.com
 
 **[Read more on the Nordic AI Partnership's webpage!](https://www.nordicpartnership.ai/)**
 
+<img class="logo" src="/images/partners/ccai.png" />
+
+[**Climate Change AI (CCAI)**](https://www.climatechange.ai/) is a global nonprofit that empowers innovators, practitioners, and decision-makers to accelerate responsible climate action through the use of AI. By addressing critical gaps in expertise, education, and research-to-deployment infrastructure, CCAI connects thousands of stakeholders across the academic, private, and public sectors. Our collaboration focuses on the exchange of knowledge and resources to enhance the reach of AI-driven climate solutions.
+
+**[Visit climatechange.ai for more info!](https://www.climatechange.ai/)**
+
 ## Sponsors
 
 <img class="logo" src="/images/partners/rise.svg" />
