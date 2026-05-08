@@ -7,7 +7,7 @@ people:
 image: /images/partners/ccai.png
 ---
 
-# Scaling Global Climate Action: Climate AI Nordics joins forces with Climate Change AI
+# Scaling Global Climate Action: Climate AI Nordics Partners Up with Climate Change AI
 
 We are excited to announce that **Climate AI Nordics (CAIN)** has officially entered into a partnership with [**Climate Change AI (CCAI)**](https://www.climatechange.ai/). This partnership marks a significant milestone in our mission to mobilize the Nordic innovation ecosystem for planetary health.
 
