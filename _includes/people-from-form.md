@@ -1710,3 +1710,9 @@ Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning
 <br />
 Computer Vision * Deep Learning * Extreme Weather Events * Machine Learning * Weather Forecasting * [Research group](https://weathergenerator.eu) * [Publications (Scholar)](https://scholar.google.com/citations?user=SKSOF8kAAAAJ&amp;hl=en)
 </div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Extreme Weather Events,Soundscape Analysis,Sustainable Cities,Sustainable Transport,Urban Planning">
+<span title="Climate adaptation researcher (local level). PhD, ResearcherSEI."><strong>Heidi Tuhkanen, PhD, Researcher, SEI</strong></span>
+<br />
+Biodiversity * Climate Impacts * Extreme Weather Events * Soundscape Analysis * Sustainable Cities * Sustainable Transport * Urban Planning
+</div>
