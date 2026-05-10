@@ -1,10 +1,3 @@
-## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Deep Learning,Earth System Modeling,Extreme Weather Events,Machine Learning,Sustainable Cities,Sustainable Transport,Urban Planning">
-<span title="I am the head of the DTU ITS group (formerly known as MLSM: https://mlsm.man.dtu.dk), with a background in Machine Learning and Transport. I am strongly focused different several Climate AI projects, namely MAAT (https://mlsm.man.dtu.dk/research-projects/maat/), APEX (https://mlsm.man.dtu.dk/research-projects/apex/) and other initiatives (https://arxiv.org/abs/2510.07971). ProfessorTechnical University of Denmark."><strong>Francisco Pereira, Professor, Technical University of Denmark</strong></span>
-<br />
-Climate Impacts * Climate Modeling * Deep Learning * Earth System Modeling * Extreme Weather Events * Machine Learning * Sustainable Cities * Sustainable Transport * Urban Planning * [More info (researcher profile)](https://www.linkedin.com/in/francisco-pereira-77ab103/) * [Research group](https://mlsm.man.dtu.dk) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=k7pIUY0AAAAJ) * [ORCID](https://orcid.org/0000-0001-5457-9909)
-</div>
-
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -202,6 +195,12 @@ Biodiversity * Climate Impacts * Earth Observation * Earth System Modeling * Eff
 <span title="I&#x27;m leading the Atmospheri Modeling Center Lahti which is a joint research initiative between the University of Helsinki and LUT University. AMC Lahti is dedicated to pioneering solutions for climate change and air pollution through cutting-edge atmospheric modelling and artificial intelligence. ProfessorUniversity of Helsinki, Lappeenranta University of Technology."><strong>Michael Boy, Professor, University of Helsinki, Lappeenranta University of Technology</strong></span>
 <br />
 Bayesian Optimisation * Climate Impacts * Climate Modeling * Deep Learning * Earth System Modeling * Extreme Weather Events * Machine Learning * [More info (researcher profile)](https://researchportal.helsinki.fi/en/persons/michael-boy/) * [Research group](https://amc-lahti.fi) * [Publications (Scholar)](https://scholar.google.com/citations?user=sv7zMEwAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-8107-4524)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Deep Learning,Earth System Modeling,Extreme Weather Events,Machine Learning,Sustainable Cities,Sustainable Transport,Urban Planning">
+<span title="I am the head of the DTU ITS group (formerly known as MLSM: https://mlsm.man.dtu.dk), with a background in Machine Learning and Transport. I am strongly focused different several Climate AI projects, namely MAAT (https://mlsm.man.dtu.dk/research-projects/maat/), APEX (https://mlsm.man.dtu.dk/research-projects/apex/) and other initiatives (https://arxiv.org/abs/2510.07971). ProfessorTechnical University of Denmark."><strong>Francisco Pereira, Professor, Technical University of Denmark</strong></span>
+<br />
+Climate Impacts * Climate Modeling * Deep Learning * Earth System Modeling * Extreme Weather Events * Machine Learning * Sustainable Cities * Sustainable Transport * Urban Planning * [More info (researcher profile)](https://www.linkedin.com/in/francisco-pereira-77ab103/) * [Research group](https://mlsm.man.dtu.dk) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=k7pIUY0AAAAJ) * [ORCID](https://orcid.org/0000-0001-5457-9909)
 </div>
 
 <div class="content" markdown="1" data-tags="">
