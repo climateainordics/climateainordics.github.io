@@ -24,7 +24,7 @@ img {
 | ---- | -------- | ------- | ----------- |
 | 8:30 | | Coffee/find your seat | | 
 | 9:00-10:20 | | *Session 1* | *Session Chair: TBD* |
-| &nbsp;&nbsp;&nbsp;&nbsp;9:00 | | Ankit Kariyaa | Opening remarks |
+| &nbsp;&nbsp;&nbsp;&nbsp;9:00 | Opening remarks | Ankit Kariyaa | |
 | &nbsp;&nbsp;&nbsp;&nbsp;9:10 | Opening keynote | Céline Heuzé | AI and the Arctic |
 | &nbsp;&nbsp;&nbsp;&nbsp;9:50 | Selected oral #1 | TBD | TBD |
 | &nbsp;&nbsp;&nbsp;&nbsp;10:00 | Selected oral #2 | TBD | TBD |
