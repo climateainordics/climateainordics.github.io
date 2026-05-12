@@ -6,7 +6,7 @@ people:
 - Ankit Kariryaa
 - Aleksis Pirinen
 - Olof Mogren
-image: /images/posts/workshop-2026-announcement.png
+image: /images/posts/workshop-2026-for-schedule.png
 ---
 
 <style>
@@ -20,13 +20,13 @@ img {
 
 ## Schedule
 
-| Time | Category | Speaker | Title |
-| ---- | -------- | ------- | ----- |
+| Time | Category | Speaker | Title/Topic |
+| ---- | -------- | ------- | ----------- |
 | 8:30 | | Coffee/find your seat | | 
 | 9:00-10:20 | | *Session 1* | *Session Chair: TBD* |
 | &nbsp;&nbsp;&nbsp;&nbsp;9:00 | | Ankit Kariyaa | Opening remarks |
 | &nbsp;&nbsp;&nbsp;&nbsp;9:10 | Keynote | Céline Heuzé | AI and the Arctic |
-| &nbsp;&nbsp;&nbsp;&nbsp;9:50 | Oral | TBD | TBD |
+| &nbsp;&nbsp;&nbsp;&nbsp;9:50 | Selected oral | TBD | TBD |
 | &nbsp;&nbsp;&nbsp;&nbsp;10:00 | Oral | TBD | TBD |
 | &nbsp;&nbsp;&nbsp;&nbsp;10:10 | Oral | TBD | TBD |
 | 10:20 | | Coffee break |  |
@@ -35,16 +35,15 @@ img {
 | &nbsp;&nbsp;&nbsp;&nbsp;11:25 | Oral | TBD | TBD |
 | &nbsp;&nbsp;&nbsp;&nbsp;11:35 | Oral | TBD | TBD |
 | 11:45 | | Lunch |  |
-| 13:15-14:40 | | *Session 3: Industry* | *Session Chair: Ankit Kariyaa and Camilla* |
-| 14:30 | | Coffee |  |
+| 13:00-14:30 | | *Session 3: Industry* | *Session Chair: Ankit Kariyaa* |
+| 14:30 | | Coffee break |  |
 | 15:10-16:30 | | *Session 4* | *Session Chair: TBD* |
 | &nbsp;&nbsp;&nbsp;&nbsp;15:10 | Invited talk | Frida Berry Eklund | TBD |
-| &nbsp;&nbsp;&nbsp;&nbsp;15:40 | Panel discussion | TBD | TBD |
-| &nbsp;&nbsp;&nbsp;&nbsp;16:25 | Closing remarks | Aleksis Pirinen and Olof Mogren | TBD |
-| &nbsp;&nbsp;&nbsp;&nbsp;16:10 | | Aleksis Pirinen | Concluding remarks |
+| &nbsp;&nbsp;&nbsp;&nbsp;15:40 | Panel discussion | TBD | Thematic questions of 2026 workshop |
+| &nbsp;&nbsp;&nbsp;&nbsp;16:25 | Closing remarks | Aleksis Pirinen and Olof Mogren |  |
 | 16:30 | | [Posters and mingle](#posters) |  |
 | 18:00 | | Social dinner | |
 
 <a name="posters"></a>
-## 16:20 - 18:00 Poster presentations
+## 16:30 - 18:00 Poster presentations
 
