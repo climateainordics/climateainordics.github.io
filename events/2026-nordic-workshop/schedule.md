@@ -23,21 +23,21 @@ img {
 | Time | Category | Speaker | Title/Topic |
 | ---- | -------- | ------- | ----------- |
 | 8:30 | | Coffee/find your seat | | 
-| 9:00-10:20 | | *Session 1* | *Session Chair: Nico Lang* |
+| 9:00-10:20 | | _**Session 1**_ | *Session Chair: Nico Lang* |
 | &nbsp;&nbsp;&nbsp;&nbsp;9:00 | Opening remarks | Ankit Kariryaa | |
 | &nbsp;&nbsp;&nbsp;&nbsp;9:10 | Keynote | [Céline Heuzé](https://www.gu.se/om-universitetet/hitta-person/celineheuze) | AI and the Arctic |
 | &nbsp;&nbsp;&nbsp;&nbsp;9:50 | Selected oral #1 | TBD | TBD |
 | &nbsp;&nbsp;&nbsp;&nbsp;10:00 | Selected oral #2 | TBD | TBD |
 | &nbsp;&nbsp;&nbsp;&nbsp;10:10 | Selected oral #3 | TBD | TBD |
 | 10:20 | | Coffee break |  |
-| 11:00-11:45 | | *Session 2* | *Session Chair: Olof Mogren* |
+| 11:00-11:45 | | _**Session 2**_ | *Session Chair: Olof Mogren* |
 | &nbsp;&nbsp;&nbsp;&nbsp;11:00 | Invited talk | [Joakim B Haurum](https://joakimhaurum.github.io/) | Computer vision for biodiversity |
 | &nbsp;&nbsp;&nbsp;&nbsp;11:25 | Selected oral #4 | TBD | TBD |
 | &nbsp;&nbsp;&nbsp;&nbsp;11:35 | Selected oral #5 | TBD | TBD |
 | 11:45 | | Lunch |  |
-| 13:00-14:30 | | *Session 3: Industry* | *Session Chair: Ankit Kariryaa* |
+| 13:00-14:30 | | _**Session 3: Industry**_ | *Session Chair: Ankit Kariryaa* |
 | 14:30 | | Coffee break |  |
-| 15:10-16:30 | | *Session 4* | *Session Chair: Aleksis Pirinen* |
+| 15:10-16:30 | | _**Session 4**_ | *Session Chair: Aleksis Pirinen* |
 | &nbsp;&nbsp;&nbsp;&nbsp;15:10 | Invited talk | [Frida Berry Eklund](https://climate-pact.europa.eu/meet-community/climate-pact-ambassadors/frida-berry-eklund_en) | AI-based citizen platforms for emissions monitoring |
 | &nbsp;&nbsp;&nbsp;&nbsp;15:40 | Panel discussion | TBD | Thematic questions of 2026 workshop |
 | &nbsp;&nbsp;&nbsp;&nbsp;16:25 | Closing remarks | Aleksis Pirinen and Olof Mogren |  |
