@@ -3,13 +3,13 @@ title: "New Strategic Partnership: Climate AI Nordics and Climate Change AI"
 summary: "Climate AI Nordics (CAIN) is proud to announce a formal partnership with Climate Change AI (CCAI). This collaboration aims to bridge the gap between AI expertise and climate action by facilitating the exchange of knowledge, resources, and joint initiatives between the Nordic region and the global community. By aligning our missions, we seek to accelerate responsible AI-driven solutions for climate mitigation and adaptation."
 people:
 - Maria João Sousa
-- [Your Name]
+- Olof Mogren
 image: /images/partners/ccai.png
 ---
 
-# Scaling Global Climate Action: CAIN Joins Forces with Climate Change AI (CCAI)
+# Scaling Global Climate Action: Climate AI Nordics Partners Up with Climate Change AI
 
-We are excited to announce that **Climate AI Nordics (CAIN)** has officially entered into a partnership with **Climate Change AI (CCAI)**. This partnership marks a significant milestone in our mission to mobilize the Nordic innovation ecosystem for planetary health.
+We are excited to announce that **Climate AI Nordics (CAIN)** has officially entered into a partnership with [**Climate Change AI (CCAI)**](https://www.climatechange.ai/). This partnership marks a significant milestone in our mission to mobilize the Nordic innovation ecosystem for planetary health.
 
 Climate Change AI is a global nonprofit that catalyzes impactful work at the intersection of climate change and machine learning by addressing gaps in expertise, education, and coordination. By formalizing this relationship, we are connecting our regional expertise in the Nordics with a global network of innovators, practitioners, and decision-makers.
 

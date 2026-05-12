@@ -24,17 +24,29 @@ The following organizations are partners to Climate AI Nordics. We share similar
 
 Get in touch! [contact@climateainordics.com](mailto:contact@climateainordics.com).
 
-<img class="logo" src="/images/partners/climes.png" />
+<img class="logo" src="/images/partners/ccai.png" />
 
-[**The Swedish Centre for Impacts of Climate Extremes (climes)**](https://climes.se/) is a platform for research and training to promote scientific progress in the study of climate extremes and support societal resilience. The centre bridges the physical, medical, social and engineering sciences and focuses on three overarching themes: compiling data on impacts of climate extremes; investigating the societal and physical interplays determining the impacts of an extreme; and building policy-actionable scenarios of impacts of future extremes. The Centre is funded by the Swedish Research Council.
+[**Climate Change AI (CCAI)**](https://www.climatechange.ai/) is a global nonprofit that empowers innovators, practitioners, and decision-makers to accelerate responsible climate action through the use of AI. By addressing critical gaps in expertise, education, and research-to-deployment infrastructure, CCAI connects thousands of stakeholders across the academic, private, and public sectors. Our collaboration focuses on the exchange of knowledge and resources to enhance the reach of AI-driven climate solutions.
 
-**[Read more on climes' webpage!](https://climes.se/)**
+**[Visit climatechange.ai for more info!](https://www.climatechange.ai/)**
 
 <img class="logo" src="/images/partners/africlimateai.png" />
 
 [**AfriClimateAI**](https://africlimate.ai/) is a grassroots community that aims to empower Africans to become active shapers, not just observers, of the ongoing advancements in climate science and AI. This initiative goes beyond simply receiving knowledge from other regions. It strives to place Africans at the forefront, shaping AI and climate science solutions specifically relevant to the continent's needs and challenges.
 
 **[Visit africlimate.ai for more info!](https://africlimate.ai/)**
+
+<img class="logo" src="/images/partners/ellis.png" />
+
+[**The ELLIS Machine Learning for Earth and Climate Sciences Program**](https://ellis.eu/programs/machine-learning-for-earth-and-climate-sciences), part of the pan-European AI network of excellence ELLIS, is dedicated to modeling and understanding the Earth system through advanced machine learning and process understanding techniques, including spatio-temporal anomaly detection, dynamic forecasting, hybrid physics-ML modeling, causal inference, and data-model fusion. By benchmarking both synthetic and real datasets, the program drives innovative research in Earth and climate sciences while reinforcing Europe’s leadership and sovereignty in modern, human-centered AI.
+
+**[Read more on the ELLIS Machine Learning for Earth and Climate Sciences Program's webpage!](https://ellis.eu/programs/machine-learning-for-earth-and-climate-sciences)**
+
+<img class="logo" src="/images/partners/climes.png" />
+
+[**The Swedish Centre for Impacts of Climate Extremes (climes)**](https://climes.se/) is a platform for research and training to promote scientific progress in the study of climate extremes and support societal resilience. The centre bridges the physical, medical, social and engineering sciences and focuses on three overarching themes: compiling data on impacts of climate extremes; investigating the societal and physical interplays determining the impacts of an extreme; and building policy-actionable scenarios of impacts of future extremes. The Centre is funded by the Swedish Research Council.
+
+**[Read more on climes' webpage!](https://climes.se/)**
 
 <img class="logo" src="/images/partners/gwc.png" />
 
@@ -48,23 +60,11 @@ Get in touch! [contact@climateainordics.com](mailto:contact@climateainordics.com
 
 **[Read more on the Klimatkollen's webpage!](https://www.klimatkollen.se/in-english)**
 
-<img class="logo" src="/images/partners/ellis.png" />
-
-[**The ELLIS Machine Learning for Earth and Climate Sciences Program**](https://ellis.eu/programs/machine-learning-for-earth-and-climate-sciences), part of the pan-European AI network of excellence ELLIS, is dedicated to modeling and understanding the Earth system through advanced machine learning and process understanding techniques, including spatio-temporal anomaly detection, dynamic forecasting, hybrid physics-ML modeling, causal inference, and data-model fusion. By benchmarking both synthetic and real datasets, the program drives innovative research in Earth and climate sciences while reinforcing Europe’s leadership and sovereignty in modern, human-centered AI.
-
-**[Read more on the ELLIS Machine Learning for Earth and Climate Sciences Program's webpage!](https://ellis.eu/programs/machine-learning-for-earth-and-climate-sciences)**
-
 <img class="logo" src="/images/partners/nordic-ai-parthership-logo.png" />
 
 [**The Nordic AI Partnership**](https://www.nordicpartnership.ai/) is a collaboration between the Danish Pioneer Centre for Artificial Intelligence (P1), the Finnish Center for Artificial Intelligence (FCAI), the Icelandic Center for Analysis and Design of Intelligent Agents (CADIA), the Norwegian Artificial Intelligence Research Consortium (NORA), and the Swedish Wallenberg AI, Autonomous Systems and Software Program (WASP). Together, these actors are forming a lasting collaborative framework to advance AI research, strengthen education, and drive innovation in the Nordic region and beyond.
 
 **[Read more on the Nordic AI Partnership's webpage!](https://www.nordicpartnership.ai/)**
-
-<img class="logo" src="/images/partners/ccai.png" />
-
-[**Climate Change AI (CCAI)**](https://www.climatechange.ai/) is a global nonprofit that empowers innovators, practitioners, and decision-makers to accelerate responsible climate action through the use of AI. By addressing critical gaps in expertise, education, and research-to-deployment infrastructure, CCAI connects thousands of stakeholders across the academic, private, and public sectors. Our collaboration focuses on the exchange of knowledge and resources to enhance the reach of AI-driven climate solutions.
-
-**[Visit climatechange.ai for more info!](https://www.climatechange.ai/)**
 
 ## Sponsors
 
