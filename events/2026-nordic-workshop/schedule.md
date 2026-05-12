@@ -25,7 +25,7 @@ img {
 | 8:30 | | Coffee/find your seat | | 
 | 9:00-10:20 | | *Session 1* | *Session Chair: Nico Lang* |
 | &nbsp;&nbsp;&nbsp;&nbsp;9:00 | Opening remarks | Ankit Kariryaa | |
-| &nbsp;&nbsp;&nbsp;&nbsp;9:10 | Opening keynote | [Céline Heuzé](https://www.gu.se/om-universitetet/hitta-person/celineheuze) | AI and the Arctic |
+| &nbsp;&nbsp;&nbsp;&nbsp;9:10 | Keynote | [Céline Heuzé](https://www.gu.se/om-universitetet/hitta-person/celineheuze) | AI and the Arctic |
 | &nbsp;&nbsp;&nbsp;&nbsp;9:50 | Selected oral #1 | TBD | TBD |
 | &nbsp;&nbsp;&nbsp;&nbsp;10:00 | Selected oral #2 | TBD | TBD |
 | &nbsp;&nbsp;&nbsp;&nbsp;10:10 | Selected oral #3 | TBD | TBD |
