@@ -1,3 +1,10 @@
+## Affiliates - Recently Joined
+<div class="content" markdown="1" data-tags="Biodiversity,Deep Learning,Machine Learning,Marine Ecology,Soundscape Analysis,Bioacoustics,Passive Acoustic Monitoring,Cetacean Ecology,Underwater Noise,Conservation Policy">
+<span title="MSc student in Conservation Biology at Lund University, currently based at Stazione Zoologica Anton Dohrn (Naples) under Dr. Francesco Caruso, working on automated detection and classification of sperm whale clicks in passive acoustic monitoring data from the Western Ionian Sea (DIVES Project, PRIN 2022). My pipeline combines MATLAB-based signal processing (SPICE/Triton) with statistical analysis for body size estimation from inter-pulse intervals, and I am increasingly interested in how active learning and deep learning approaches could address the recall bottleneck inherent to large-scale bioacoustic monitoring. My broader background spans biotechnology, polar fish genetics at the Korea Polar Research Institute (KOPRI), cetacean bycatch policy work with the IWC, and participation in international biodiversity policy forums (IPBES). I am based in the Lund/Copenhagen area and looking to keep working at the intersection of marine bioacoustics, applied ML, and conservation. StudentLund University."><strong>Hauna Jang, Student, Lund University</strong></span>
+<br />
+Biodiversity * Deep Learning * Machine Learning * Marine Ecology * Soundscape Analysis * Bioacoustics * Passive Acoustic Monitoring * Cetacean Ecology * Underwater Noise * Conservation Policy * [More info (researcher profile)](https://www.linkedin.com/in/haunajang) * [ORCID](https://orcid.org/0009-0006-7030-5338)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -767,6 +774,12 @@ Deep Learning * Extreme Weather Events * Machine Learning * Weather Forecasting 
 AutoML * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Weather Forecasting * Wind Energy * [Publications (Scholar)](https://scholar.google.com/citations?user=fVrgRIIAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-9172-0155)
 </div>
 
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Extreme Weather Events,Soundscape Analysis,Sustainable Cities,Sustainable Transport,Urban Planning">
+<span title="Climate adaptation researcher (local level). PhD, ResearcherSEI."><strong>Heidi Tuhkanen, PhD, Researcher, SEI</strong></span>
+<br />
+Biodiversity * Climate Impacts * Extreme Weather Events * Soundscape Analysis * Sustainable Cities * Sustainable Transport * Urban Planning
+</div>
+
 <div class="content" markdown="1" data-tags="">
 <span title="I&#x27;m a PhD student at the Center for Mathematical Sciences focusing on anomaly detection and machine learning in earth observations and remote sensing. PhD StudentLund University."><strong>Oskar Åström, PhD Student, Lund University</strong></span>
 <br />
@@ -1217,6 +1230,12 @@ Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Comp
 Earth Observation * Machine Learning * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://www.sgveeravalli.com/) * [Research group](https://www.kau.se/en/researchers/sai-ganesh-veeravalli) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=qfnIdjQAAAAJ) * [ORCID](https://orcid.org/0000-0002-1670-8703)
 </div>
 
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Biodiversity,Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Marine Ecology,Soundscape Analysis,Sustainable Cities,Sustainable Production,Urban Planning,Weather Forecasting">
+<span title="PhD StudentUppsala University."><strong>Hanna Danko, PhD Student, Uppsala University</strong></span>
+<br />
+Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * Soundscape Analysis * Sustainable Cities * Sustainable Production * Urban Planning * Weather Forecasting * [ORCID](https://orcid.org/0000-0003-2023-8369)
+</div>
+
 <div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Deep Learning,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Weather Forecasting">
 <span title="My research focuses on AI for Climate Downscaling, mainly in the Nordic region. PhD StudentUniversity of Helsinki."><strong>Helmi Toropainen, PhD Student, University of Helsinki</strong></span>
 <br />
@@ -1614,18 +1633,6 @@ Climate Impacts * Earth Observation * Earth System Modeling * Sustainable Cities
 AutoML * Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Urban Planning * [More info (researcher profile)](https://Collins matiza) * [Research group](https://collins Matiza ) * [Publications (Scholar)](https://Collins Matiza ) * [BlueSky](https://bsky.app/profile/Collins Matiza )
 </div>
 
-<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Marine Ecology,Soundscape Analysis,Sustainable Cities,Urban Planning">
-<span title="PhD StudentUppsala University."><strong>Hanna Danko, PhD Student, Uppsala University</strong></span>
-<br />
-Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * Soundscape Analysis * Sustainable Cities * Urban Planning
-</div>
-
-<div class="content" markdown="1" data-tags="Bayesian Optimisation,Biodiversity,Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Marine Ecology,Soundscape Analysis,Sustainable Cities,Sustainable Production,Urban Planning,Weather Forecasting">
-<span title="PhD StudentUppsala University."><strong>Hanna Danko, PhD Student, Uppsala University</strong></span>
-<br />
-Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * Soundscape Analysis * Sustainable Cities * Sustainable Production * Urban Planning * Weather Forecasting * [ORCID](https://orcid.org/0000-0003-2023-8369)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Extreme Weather Events,Machine Learning,Weather Forecasting,Stochastic Hydrology">
 <span title="I am a PhD researcher at UniCa specializing in hydrometeorology and hydroclimatology, focused on predicting extreme weather through hybrid data-driven models. My work advances precipitation ensemble nowcasting by integrating weather radar data with physics-guided deep learning and data assimilation. PhD StudentUniversity of Cagliari."><strong>Avijit Majhi, PhD Student, University of Cagliari</strong></span>
 <br />
@@ -1708,10 +1715,4 @@ Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning
 <span title="As a researcher on the Horizon WeatherGenerator project, I work on high resolution forecasts for extreme weather events. PhD, ResearcherRoyal Netherlands Meteorological Institute."><strong>Sarah Ibrahimi, PhD, Researcher, Royal Netherlands Meteorological Institute</strong></span>
 <br />
 Computer Vision * Deep Learning * Extreme Weather Events * Machine Learning * Weather Forecasting * [Research group](https://weathergenerator.eu) * [Publications (Scholar)](https://scholar.google.com/citations?user=SKSOF8kAAAAJ&amp;hl=en)
-</div>
-
-<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Extreme Weather Events,Soundscape Analysis,Sustainable Cities,Sustainable Transport,Urban Planning">
-<span title="Climate adaptation researcher (local level). PhD, ResearcherSEI."><strong>Heidi Tuhkanen, PhD, Researcher, SEI</strong></span>
-<br />
-Biodiversity * Climate Impacts * Extreme Weather Events * Soundscape Analysis * Sustainable Cities * Sustainable Transport * Urban Planning
 </div>
