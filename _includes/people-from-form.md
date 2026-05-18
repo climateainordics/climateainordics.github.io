@@ -1,10 +1,3 @@
-## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Biodiversity,Deep Learning,Machine Learning,Marine Ecology,Soundscape Analysis,Bioacoustics,Passive Acoustic Monitoring,Cetacean Ecology,Underwater Noise,Conservation Policy">
-<span title="MSc student in Conservation Biology at Lund University, currently based at Stazione Zoologica Anton Dohrn (Naples) under Dr. Francesco Caruso, working on automated detection and classification of sperm whale clicks in passive acoustic monitoring data from the Western Ionian Sea (DIVES Project, PRIN 2022). My pipeline combines MATLAB-based signal processing (SPICE/Triton) with statistical analysis for body size estimation from inter-pulse intervals, and I am increasingly interested in how active learning and deep learning approaches could address the recall bottleneck inherent to large-scale bioacoustic monitoring. My broader background spans biotechnology, polar fish genetics at the Korea Polar Research Institute (KOPRI), cetacean bycatch policy work with the IWC, and participation in international biodiversity policy forums (IPBES). I am based in the Lund/Copenhagen area and looking to keep working at the intersection of marine bioacoustics, applied ML, and conservation. StudentLund University."><strong>Hauna Jang, Student, Lund University</strong></span>
-<br />
-Biodiversity * Deep Learning * Machine Learning * Marine Ecology * Soundscape Analysis * Bioacoustics * Passive Acoustic Monitoring * Cetacean Ecology * Underwater Noise * Conservation Policy * [More info (researcher profile)](https://www.linkedin.com/in/haunajang) * [ORCID](https://orcid.org/0009-0006-7030-5338)
-</div>
-
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -1246,6 +1239,12 @@ Climate Impacts * Climate Modeling * Deep Learning * Efficient or Sustainable AI
 <span title="Student."><strong>Parna Saeidpour, Student</strong></span>
 <br />
 Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * [More info (researcher profile)](https://parnasaeidpour.com/)
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Deep Learning,Machine Learning,Marine Ecology,Soundscape Analysis,Bioacoustics,Passive Acoustic Monitoring,Cetacean Ecology,Underwater Noise,Conservation Policy">
+<span title="MSc student in Conservation Biology at Lund University, currently based at Stazione Zoologica Anton Dohrn (Naples) under Dr. Francesco Caruso, working on automated detection and classification of sperm whale clicks in passive acoustic monitoring data from the Western Ionian Sea (DIVES Project, PRIN 2022). My pipeline combines MATLAB-based signal processing (SPICE/Triton) with statistical analysis for body size estimation from inter-pulse intervals, and I am increasingly interested in how active learning and deep learning approaches could address the recall bottleneck inherent to large-scale bioacoustic monitoring. My broader background spans biotechnology, polar fish genetics at the Korea Polar Research Institute (KOPRI), cetacean bycatch policy work with the IWC, and participation in international biodiversity policy forums (IPBES). I am based in the Lund/Copenhagen area and looking to keep working at the intersection of marine bioacoustics, applied ML, and conservation. StudentLund University."><strong>Hauna Jang, Student, Lund University</strong></span>
+<br />
+Biodiversity * Deep Learning * Machine Learning * Marine Ecology * Soundscape Analysis * Bioacoustics * Passive Acoustic Monitoring * Cetacean Ecology * Underwater Noise * Conservation Policy * [More info (researcher profile)](https://www.linkedin.com/in/haunajang) * [ORCID](https://orcid.org/0009-0006-7030-5338)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
