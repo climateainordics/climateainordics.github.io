@@ -1242,6 +1242,12 @@ Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Deep
 Climate Impacts * Climate Modeling * Deep Learning * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://helmitoropainen.github.io/climate-downscaling/) * [Research group](https://amc-lahti.fi/) * [ORCID](https://orcid.org/0009-0000-0175-3520)
 </div>
 
+<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning">
+<span title="Student."><strong>Parna Saeidpour, Student</strong></span>
+<br />
+Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * [More info (researcher profile)](https://parnasaeidpour.com/)
+</div>
+
 ## Supporting Affiliates (Outside Nordics)
 <div class="content" markdown="1" data-tags="Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI">
 <span title="I am a lecturer in Urban Planning at the University of Auckland, bringing over 13 years of experience in both research and practice. My focus is on addressing climate change challenges, enhancing urban resilience, promoting regeneration, and advocating for environmental justice. I am particularly interested in understanding and mitigating the risks that urban areas encounter, especially those related to climate change and natural hazards. My research examines how cities can adapt to these increasing threats, emphasising resilience, risk reduction, and sustainable planning to protect communities and infrastructure. Assistant ProfessorUniversity of Auckland."><strong>Iresh Jayawardena, Assistant Professor, University of Auckland</strong></span>
@@ -1703,12 +1709,6 @@ Climate Impacts * Deep Learning * Earth Observation * Efficient or Sustainable A
 <span title="I&#x27;m an operational forecaster at Zambia Met Department . Hold a Bsc in physics and a masters in applied meteorology and climate with Management. I work in Research and development Unit which includes exploring and leveraging AI innovations in operational weather forecasting and it&#x27;s applicability to the broader climate science.  ResearcherZambia Meteorological Department."><strong>Chimwemwe Chanda, Researcher, Zambia Meteorological Department</strong></span>
 <br />
 AutoML * Bayesian Optimisation * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Weather Forecasting
-</div>
-
-<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning">
-<span title="Student."><strong>Parna Saeidpour, Student</strong></span>
-<br />
-Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * [More info (researcher profile)](https://parnasaeidpour.com/)
 </div>
 
 <div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Extreme Weather Events,Machine Learning,Weather Forecasting">
