@@ -26,14 +26,14 @@ img {
 | 9:00-10:20 | | _**Session 1**_ | *Session Chair: Nico Lang* |
 | &nbsp;&nbsp;&nbsp;&nbsp;9:00 | Opening remarks | Ankit Kariryaa | |
 | &nbsp;&nbsp;&nbsp;&nbsp;9:10 | Keynote | [Céline Heuzé](https://www.gu.se/om-universitetet/hitta-person/celineheuze) | AI and the Arctic |
-| &nbsp;&nbsp;&nbsp;&nbsp;9:50 | Selected oral #1 | Talk on AI for climate | Selected from submissions after registration deadline |
-| &nbsp;&nbsp;&nbsp;&nbsp;10:00 | Selected oral #2 | TBD | TBD |
-| &nbsp;&nbsp;&nbsp;&nbsp;10:10 | Selected oral #3 | TBD | TBD |
+| &nbsp;&nbsp;&nbsp;&nbsp;9:50 | Selected oral #1 | Talk on AI for climate | _Selected from submissions after registration deadline_ |
+| &nbsp;&nbsp;&nbsp;&nbsp;10:00 | Selected oral #2 | Talk on AI for climate | _Selected from submissions after registration deadline_ |
+| &nbsp;&nbsp;&nbsp;&nbsp;10:10 | Selected oral #3 | Talk on AI for climate | _Selected from submissions after registration deadline_ |
 | 10:20 | | Coffee break |  |
 | 11:00-11:45 | | _**Session 2**_ | *Session Chair: Olof Mogren* |
 | &nbsp;&nbsp;&nbsp;&nbsp;11:00 | Invited talk | [Joakim B Haurum](https://joakimhaurum.github.io/) | Computer vision for biodiversity |
-| &nbsp;&nbsp;&nbsp;&nbsp;11:25 | Selected oral #4 | TBD | TBD |
-| &nbsp;&nbsp;&nbsp;&nbsp;11:35 | Selected oral #5 | TBD | TBD |
+| &nbsp;&nbsp;&nbsp;&nbsp;11:25 | Selected oral #4 | Talk on AI for climate | _Selected from submissions after registration deadline_ |
+| &nbsp;&nbsp;&nbsp;&nbsp;11:35 | Selected oral #5 | Talk on AI for climate | _Selected from submissions after registration deadline_ |
 | 11:45 | | Lunch |  |
 | 13:00-14:30 | | _**Session 3: Industry**_ | *Session Chair: Ankit Kariryaa* |
 | 14:30 | | Coffee break |  |
