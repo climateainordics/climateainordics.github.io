@@ -39,7 +39,7 @@ img {
 | 14:30 | | Coffee break |  |
 | 15:10-16:30 | | _**Session 4**_ | *Session Chair: Aleksis Pirinen* |
 | &nbsp;&nbsp;&nbsp;&nbsp;15:10 | Invited talk | [Frida Berry Eklund](https://climate-pact.europa.eu/meet-community/climate-pact-ambassadors/frida-berry-eklund_en) | AI-based citizen platforms for emissions monitoring |
-| &nbsp;&nbsp;&nbsp;&nbsp;15:40 | Panel discussion | TBD | Thematic questions of 2026 workshop |
+| &nbsp;&nbsp;&nbsp;&nbsp;15:40 | Panel discussion | Invited panelists | Thematic questions of 2026 workshop |
 | &nbsp;&nbsp;&nbsp;&nbsp;16:25 | Closing remarks | Aleksis Pirinen and Olof Mogren |  |
 | 16:30 | | Posters and mingle |  |
 | 18:00 | | Social dinner | |
