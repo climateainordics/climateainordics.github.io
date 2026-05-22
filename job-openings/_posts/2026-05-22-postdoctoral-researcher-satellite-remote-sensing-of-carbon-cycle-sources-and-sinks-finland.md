@@ -3,7 +3,7 @@ title: "Postdoctoral Researcher: Satellite Remote Sensing of Carbon Cycle Source
 summary: "The Finnish Meteorological Institute is seeking a postdoctoral researcher to analyze and exploit satellite remote sensing datasets, including CO₂ and SIF observations, using AI methods for research on the carbon cycle, greenhouse gas emissions, and carbon sinks. This role involves developing advanced methods for data interpretation and source-sink estimation."
 people:
 permalink:
-image: /images/external-organizations-logos/the-finnish-meteorological-institute.png
+image: /images/external-organizations-logos/fmi.png
 youtube: ""
 deadline: May 25th, 2026
 ---
