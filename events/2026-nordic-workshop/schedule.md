@@ -38,7 +38,7 @@ img {
 | 13:00-14:30 | | _**Session 3: Industry**_ | *Session Chair: Ankit Kariryaa* |
 | 14:30 | | Coffee break |  |
 | 15:10-16:30 | | _**Session 4**_ | *Session Chair: Aleksis Pirinen* |
-| &nbsp;&nbsp;&nbsp;&nbsp;15:10 | Invited talk | [Frida Berry Eklund](https://climate-pact.europa.eu/meet-community/climate-pact-ambassadors/frida-berry-eklund_en) | AI-based citizen platforms for emissions monitoring |
+| &nbsp;&nbsp;&nbsp;&nbsp;15:10 | Invited talk | [Frida Berry Eklund](https://climate-pact.europa.eu/meet-community/climate-pact-ambassadors/frida-berry-eklund_en) | **Building Radical Climate Transparency with AI** – Inside Klimatkollen’s mission to make emissions data available to citizens on Wikipedia |
 | &nbsp;&nbsp;&nbsp;&nbsp;15:40 | Panel discussion | Invited panelists | Thematic questions of 2026 workshop |
 | &nbsp;&nbsp;&nbsp;&nbsp;16:25 | Closing remarks | Aleksis Pirinen and Olof Mogren |  |
 | 16:30 | | Posters and mingle |  |
