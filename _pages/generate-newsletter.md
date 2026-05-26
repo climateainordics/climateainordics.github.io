@@ -16,28 +16,26 @@ body{font-family: arial, sans-serif;} img{ float: right; width: 8em; margin: 0.4
 
 Welcome to the {{ "now" | date: "%B" }} edition of the Climate AI Nordics Newsletter!
 
-{% if nowtime < december %}
-This month, we are celebrating a major milestone that highlights the true power of this community. Our partner Klimatkollen has secured 3 million SEK from the Postcode Lottery Foundation for a project on AI-driven climate plan analysis—a collaboration with NORCE that was formed explicitly through connections made right here in this network.
-
-In addition to this success story, we are continuing our one-year anniversary from last month with the launch of our official YouTube channel, giving you open access to our full archive of workshops and webinars.
-
-As our network grows to 199 members across the Nordics and 72 international supporters, we look forward to seeing many of you in Copenhagen next month for EurIPS 2025. Until then, explore our latest updates, job opportunities, and featured research below.
-
-If you know colleagues in academia, public agencies, or industry who should be part of this conversation, please invite them to join us at [climateainordics.com/join](https://climateainordics.com/join).
-
-{% else %}
-
-Since launching in October 2024, our community has grown to 
+{% comment %}Since launching in October 2024, our community has grown to 
 {% include people_from_form_count_number_only_nordics.md %}
-members. Together, we connect researchers and practitioners working at the intersection of artificial intelligence and climate action, spanning mitigation, adaptation, and environmental monitoring.
+members. {% endcomment %}
+
+Together, we connect researchers and practitioners working at the intersection of artificial intelligence and climate action, spanning mitigation, adaptation, and environmental monitoring.
 
 If you know colleagues in academia, public agencies, or industry who share these interests, invite them to join us at
 [climateainordics.com/join](https://climateainordics.com/join).
 
 This month’s issue features community updates, job opportunities, and our featured member.
 
-{% endif %}
+{% comment %} ######### PULL FIRST-PAGE HIGHLIGHTS:  ########## {% endcomment %}
 
+{% for p in site.posts %}
+{% if p.first_page %}> ## {{ p.title }}
+{% if p.image %}> ![]({{ p.image }}){% else %}>{% endif %}
+> {{ p.summary | replace: '\n', '\n> ' }}
+> **[(Read more)]({{ p.url }})**
+{% endif %}
+{% endfor %}
 
 {% comment %} ######### SPOTLIGHT: FEATURED WORK AND MEMBER ########## {% endcomment %}
 
