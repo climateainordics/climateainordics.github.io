@@ -44,7 +44,7 @@ _How can AI & CV researchers help practitioners make better decisions?_
 
 _How can the AI & CV communities benefit from tackling domain-specific problems?_
 
-## Speakers ##
+## Speakers
 * Devis Tuia (EPFL)
 * Bruno Sanchez-Andrade Nuño (LGND)
 * Nora Gourmelon (Friedrich-Alexander University of Erlangen–Nuremberg)
