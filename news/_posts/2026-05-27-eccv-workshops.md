@@ -66,3 +66,7 @@ As computer vision transitions from synthetic benchmarks to real-world applicati
 # Full list
 
 [https://eccv.ecva.net/Conferences/2026/Workshops](https://eccv.ecva.net/Conferences/2026/Workshops)
+
+# More info
+
+[https://eccv.ecva.net/](https://eccv.ecva.net/)
