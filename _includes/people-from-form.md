@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Climate Modeling,Earth Observation,Earth System Modeling,Machine Learning">
-<span title="Physical oceanographer and climate scientist by training, applying ML methods at the interface of satellites and simulations to better understand and predict the ocean. PhD, ResearcherFinnish Meteorological Institute."><strong>Aleksi Nummelin, PhD, Researcher, Finnish Meteorological Institute</strong></span>
-<br />
-Climate Modeling * Earth Observation * Earth System Modeling * Machine Learning * [More info (researcher profile)](https://aleksinummelin.github.io/) * [ORCID](https://orcid.org/0000-0002-7591-3504)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Modeling,Deep Learning,Extreme Weather Events,Machine Learning,Weather Forecasting">
 <span title="PhD, ResearcherUniversity of Bergen."><strong>Temesgen Gebremariam Asfaw, PhD, Researcher, University of Bergen</strong></span>
 <br />
@@ -784,6 +778,12 @@ AutoML * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * 
 <span title="Climate adaptation researcher (local level). PhD, ResearcherSEI."><strong>Heidi Tuhkanen, PhD, Researcher, SEI</strong></span>
 <br />
 Biodiversity * Climate Impacts * Extreme Weather Events * Soundscape Analysis * Sustainable Cities * Sustainable Transport * Urban Planning
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Earth Observation,Earth System Modeling,Machine Learning">
+<span title="Physical oceanographer and climate scientist by training, applying ML methods at the interface of satellites and simulations to better understand and predict the ocean. PhD, ResearcherFinnish Meteorological Institute."><strong>Aleksi Nummelin, PhD, Researcher, Finnish Meteorological Institute</strong></span>
+<br />
+Climate Modeling * Earth Observation * Earth System Modeling * Machine Learning * [More info (researcher profile)](https://aleksinummelin.github.io/) * [ORCID](https://orcid.org/0000-0002-7591-3504)
 </div>
 
 <div class="content" markdown="1" data-tags="">
