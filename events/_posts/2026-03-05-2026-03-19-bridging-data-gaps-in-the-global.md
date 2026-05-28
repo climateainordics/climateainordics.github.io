@@ -13,7 +13,7 @@ event_date: 2026-03-19
 event_time: "15:00"
 event_location: "Scheelevägen 17, Lund"
 image: /images/posts/2026-03-05-2026-03-19-bridging-data-gaps-in-the-global.jpg
-youtube: ""
+youtube: "https://www.youtube.com/watch?v=vJDXlvI0Tgo&list=PLqLiVcF3GKy1tuQFoDu5QKOM6S33t_4R1"
 --- 
 Welcome to this week's Learning Machines seminar.
 
@@ -43,8 +43,9 @@ This seminar will have an in-person presence at the RISE office in Lund, located
 **Upcoming seminars:**
 
 * 2026-03-26: Jeppe Rasmussen, University of Copenhagen, **digital and physical: Lindholmsallén 10, Gothenburg**
-* 2026-04-23: Purnendu Sardar, Lund University, **digital and physical: Scheelevägen 17, Lund**
-* 2026-05-28: Kelsey Doerksen, Oxford Applied and Theoretical Machine Learninch Group (OATML)
+* 2026-05-07: Solmaz Khazaei, KTH Royal Institute of Technology
+* 2026-05-28: Kelsey Doerksen, University of Cape Town and Arizona State University
+* 2026-06-04: Ariel Flint Ashery, City St George’s, University of London
 * All seminars are 15:00 CET.
 
 More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
