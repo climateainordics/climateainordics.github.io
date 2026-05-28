@@ -4,7 +4,7 @@ summary: "Alouette van Hove is a PostDoc at the University of Oslo and part of t
 people:
 - Alouette van Hove
 layout: single
-image: /images/people/featured/AlouetteVanHove.jpg
+image: /images/people/featured/AlouetteVanHove.JPG
 image_width: 70%
 ---
 
