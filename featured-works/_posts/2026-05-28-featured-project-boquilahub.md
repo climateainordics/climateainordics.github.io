@@ -24,9 +24,9 @@ or you can bring your own and they can just run (as long as the core architectur
 It currently runs many SOTA models—SpeciesNET, which is state-of-the-art for camera trap species classification; Perch 2, which leads biodiversity audio classification (birds, insects, frogs, mammals, etc); and much more, including even wildlife detection or
 bug segmentation (useful for counting under the microscope).
 
-![](/images/posts/boquilahub-img1.png)
-
 On a powerful computer, you could easily process a few terabytes of camera trap data in a single night, with SOTA AI predictions.
+
+![](/images/posts/boquilahub-img1.png)
 
 # The goal
 
