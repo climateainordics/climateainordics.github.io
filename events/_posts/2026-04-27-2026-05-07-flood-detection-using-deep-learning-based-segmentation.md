@@ -11,7 +11,7 @@ event_date: 2026-05-07
 event_time: "15:00"
 event_location: ""
 image: /images/posts/2026-04-27-2026-05-07-flood-detection-using-deep-learning-based-segmentation.jpg
-youtube: ""
+youtube: "https://www.youtube.com/watch?v=f4f8p-NWDHg&list=PLqLiVcF3GKy1tuQFoDu5QKOM6S33t_4R1"
 --- 
 Welcome to this week's Learning Machines seminar.
 
