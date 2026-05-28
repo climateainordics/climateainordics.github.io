@@ -20,7 +20,7 @@ Methane surface fluxes are highly spatially and temporally variable, yet field d
 
 **Is there anything else you would like to share with the Climate AI Nordics network?**
 
-I am looking forward to meeting many members of the network at the Climate AI Nordics workshop in Copenhagen!
+I am looking forward to meeting many members of the network at the [Climate AI Nordics workshop](https://climateainordics.com/events/2026-nordic-workshop) in Copenhagen in June (registration is still open)!
 
 **What is the best way for people to get in touch with you?**
 
