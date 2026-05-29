@@ -1728,3 +1728,9 @@ AutoML * Bayesian Optimisation * Climate Impacts * Climate Modeling * Computer V
 <br />
 Computer Vision * Deep Learning * Extreme Weather Events * Machine Learning * Weather Forecasting * [Research group](https://weathergenerator.eu) * [Publications (Scholar)](https://scholar.google.com/citations?user=SKSOF8kAAAAJ&amp;hl=en)
 </div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling">
+<span title="IndustryDHI."><strong>Spyros Kondylatos, Industry, DHI</strong></span>
+<br />
+Bayesian Optimisation * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * [More info (researcher profile)](https://skondylatos.github.io/) * [Research group](https://eo.dhigroup.com/) * [Publications (Scholar)](https://scholar.google.com/citations?view_op=list_works&amp;hl=en&amp;user=Za_CSbMAAAAJ&amp;gmla=AIqSsVsFK4er1JK93bME4s7Ya7zu-M6eXfHL5E86Gjz7WpJ4hyu7qd0TVfQ9Wx5LA7Uc643EXNYVqiTG6eU9aamIeD4HlQDAVktBOw4) * [ORCID](https://orcid.org/0000-0002-0949-8592)
+</div>
