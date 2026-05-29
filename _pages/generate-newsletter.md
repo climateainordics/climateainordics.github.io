@@ -20,7 +20,7 @@ Welcome to the {{ "now" | date: "%B" }} edition of the Climate AI Nordics Newsle
 {% include people_from_form_count_number_only_nordics.md %}
 members. {% endcomment %}
 
-Together, we connect researchers and practitioners working at the intersection of artificial intelligence and climate action, spanning mitigation, adaptation, and environmental monitoring.
+We connect the Nordic region’s researchers and practitioners at the intersection of AI and climate action. Whether your focus is on emission mitigation, ecosystem resilience, or biodiversity, this community is built to help your work thrive.
 
 If you know colleagues in academia, public agencies, or industry who share these interests, invite them to join us at
 [climateainordics.com/join](https://climateainordics.com/join).
