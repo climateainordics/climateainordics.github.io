@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Climate Modeling,Deep Learning,Extreme Weather Events,Machine Learning,Weather Forecasting">
-<span title="PhD, ResearcherUniversity of Bergen."><strong>Temesgen Gebremariam Asfaw, PhD, Researcher, University of Bergen</strong></span>
-<br />
-Climate Modeling * Deep Learning * Extreme Weather Events * Machine Learning * Weather Forecasting
-</div>
-
 <div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Earth Observation,Extreme Weather Events,Sustainable Cities,Urban Planning">
 <span title="StudentLund University."><strong>Yi Nam Xu, Student, Lund University</strong></span>
 <br />
@@ -790,6 +784,12 @@ Biodiversity * Climate Impacts * Extreme Weather Events * Soundscape Analysis * 
 <span title="Physical oceanographer and climate scientist by training, applying ML methods at the interface of satellites and simulations to better understand and predict the ocean. PhD, ResearcherFinnish Meteorological Institute."><strong>Aleksi Nummelin, PhD, Researcher, Finnish Meteorological Institute</strong></span>
 <br />
 Climate Modeling * Earth Observation * Earth System Modeling * Machine Learning * [More info (researcher profile)](https://aleksinummelin.github.io/) * [ORCID](https://orcid.org/0000-0002-7591-3504)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Deep Learning,Extreme Weather Events,Machine Learning,Weather Forecasting">
+<span title="PhD, ResearcherUniversity of Bergen."><strong>Temesgen Gebremariam Asfaw, PhD, Researcher, University of Bergen</strong></span>
+<br />
+Climate Modeling * Deep Learning * Extreme Weather Events * Machine Learning * Weather Forecasting
 </div>
 
 <div class="content" markdown="1" data-tags="">
