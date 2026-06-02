@@ -17,6 +17,7 @@ img {
 }
 </style>
 
+See also [the event page](https://climateainordics.com/events/2026-nordic-workshop) for additional information incl. on registration!
 
 ## Schedule
 
