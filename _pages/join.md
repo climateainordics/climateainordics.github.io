@@ -9,11 +9,15 @@ Please use the form below to join Climate AI Nordics (CAIN)!
 
 [Click here to open the form in its own window](https://forms.gle/RJ6HgucfwR1eKFfM6).
 
-By joining Climate AI Nordics (CAIN), you will **receive invitations to seminars and workshops**, and you can mark your affiliation with us by showing your name on our [people](/people/) page (you may also choose not too, if you prefer). You will also be able to share relevant **news**, **events** and **job openings** to the network through our webpage and our newsletter, and also **communicate with others in the network**, e.g. via our Slack workspace. Affiliated researchers operating in the Nordic region can also, if they wish, use "Climate AI Nordics" as an additional affiliation in relevant publications (in areas touching the intersection of AI, climate and/or the environment).
+By joining the Climate AI Nordics (CAIN) network, you will **receive invitations to seminars and workshops**, and you can mark your affiliation with us by showing your name on our [people](/people/) page (you may also choose not too, if you prefer). You will also be able to share relevant **news**, **events** and **job openings** to the network through our webpage and our newsletter, and also **communicate with others in the network**, e.g. via our Slack workspace.
+
+The form also gives you the option to join the CAIN association (a non-profit organization soon-to-be registered in Sweden; "ideell förening"). Members of our association will be invited to and have voting rights at our Annual General Assembly, with the possibility to influence the future plans of the association and network. 
+
+Affiliated researchers operating in the Nordic region can also, if they wish, use "Climate AI Nordics" as an additional affiliation in relevant publications (in areas touching the intersection of AI, climate and/or the environment).
 
 If you prefer, feel free to instead sign up by sending your information to us by email, [contact@climateainordics.com](mailto:contact@climateainordics.com). Also, if you instead would only like to follow our newsletter and social media, [click here!](/follow/).
 
-**Note:** CAIN is a network for individuals working in the intersection of AI, climate change, and the environment. Registering to CAIN does **not** mean that your organization automatically becomes a member of or a partner with CAIN. Please reach out to [contact@climateainordics.com](mailto:contact@climateainordics.com) if you would like to discuss partnerships with CAIN.
+**Note:** This is a network for individuals working in the intersection of AI, climate change, and the environment. Registering to CAIN does **not** mean that your organization automatically becomes a member of or a partner with CAIN. Please reach out to [contact@climateainordics.com](mailto:contact@climateainordics.com) if you would like to discuss partnerships with CAIN.
 
 If you have news, job openings or events relevant to AI for climate- and environment-related applications in the Nordic region, feel free to inform us about this.
 
