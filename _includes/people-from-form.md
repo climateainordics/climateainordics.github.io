@@ -769,7 +769,7 @@ Climate Impacts * Climate Modeling * Earth System Modeling * Extreme Weather Eve
 </div>
 
 <div class="content" markdown="1" data-tags="Bayesian Optimisation,Biodiversity,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Machine Learning">
-<span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. PhD, ResearcherRISE."><strong>Smita Chakraborty, PhD, Researcher, RISE</strong></span>
+<span title="I am AI/ML expert, actively working with physics-informed AI/ML, ML for EO datasets and quantum ML. My research interests are quantum theory at the fundamental level, quantum simulations and algorithms, and big data simulations. PhD, ResearcherRISE Research Institutes of Sweden."><strong>Smita Chakraborty, PhD, Researcher, RISE Research Institutes of Sweden</strong></span>
 <br />
 Bayesian Optimisation * Biodiversity * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Machine Learning * [More info (researcher profile)](https://smitachakraborty.gitlab.io/smitaspage/) * [ORCID](https://orcid.org/0000-0003-3796-9213)
 </div>
@@ -1249,7 +1249,7 @@ Biodiversity * Computer Vision * Deep Learning * Efficient or Sustainable AI * M
 </div>
 
 <div class="content" markdown="1" data-tags="Bayesian Optimisation,Biodiversity,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Marine Ecology,NLP,Soundscape Analysis,Sustainable Cities,Sustainable Energy,Sustainable Transport,Urban Planning,Weather Forecasting">
-<span title="I am studying Engineering Physics at LTH and I am currently doing my master thesis at RISE in bioacoustics/ML on the intersection between ecology and data science. I am curious in interdisciplinary research combining machine learning/data science and environmental science and I am looking for research opportunities in this field (e.g. PhD). StudentRISE, Lund University."><strong>Ida Heijmink, Student, RISE, Lund University</strong></span>
+<span title="I am studying Engineering Physics at LTH and I am currently doing my master thesis at RISE in bioacoustics/ML on the intersection between ecology and data science. I am curious in interdisciplinary research combining machine learning/data science and environmental science and I am looking for research opportunities in this field (e.g. PhD). StudentRISE Research Institutes of Sweden/Lund University."><strong>Ida Heijmink, Student, RISE Research Institutes of Sweden/Lund University</strong></span>
 <br />
 Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * NLP * Soundscape Analysis * Sustainable Cities * Sustainable Energy * Sustainable Transport * Urban Planning * Weather Forecasting * [Research group](https://auklab-audio.github.io/)
 </div>
