@@ -15,7 +15,7 @@ permalink: /events-without-sorting/
 {% capture eventtime %}{{ p.event_date | date: '%s'}}{% endcapture %}
 
 ## {{ p.title }}
-{% if p.image_small %}<img src="{{ p.image_small }}" style="float: right; width: 25%;" />{% endif %}
+{% if p.image_small %}<img src="{{ p.image_small }}" style="float: right; width: 25%;" />{% elsif p.image %}<img src="{{ p.image }}" style="float: right; width: 25%;" />{% endif %}
 
 {% if p.event_date %}
 <span style="color:grey;">**Event date:** *{{p.event_date | date: '%Y-%m-%d'}}*</span>

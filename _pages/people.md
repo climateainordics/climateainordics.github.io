@@ -27,7 +27,7 @@ We're a network of **250+ researchers** across the Nordics who work on problems 
 
 
 {% for p in site.categories.featured-member limit: 1 %}
-{% if p.image_small %} ![]({{ p.image_small }}){% endif %}
+{% if p.image_small %} ![]({{ p.image_small }}){% elsif p.image %} ![]({{ p.image }}){% endif %}
 
 ## This month's featured member: {{ p.people | first }}
 

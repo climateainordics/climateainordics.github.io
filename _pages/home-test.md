@@ -156,7 +156,7 @@ a:hover, .readmore:hover, .card__title a:hover { color: #67e8f9; }
     <h2>Spotlight</h2>
     {% for p in spotlight %}
       <div class="card">
-        {% if p.image %}<img class="card__img" src="{{ p.image }}" alt="Cover image for {{ p.title }}">{% endif %}
+        {% if p.image_small %}<img class="card__img" src="{{ p.image_small }}" alt="Cover image for {{ p.title }}">{% elsif p.image %}<img class="card__img" src="{{ p.image }}" alt="Cover image for {{ p.title }}">{% endif %}
         <div class="card__body">
           <div class="card__meta">{{ p.date | date: "%Y-%m-%d" }}</div>
           <h3 class="card__title">{{ p.title }}</h3>
@@ -174,7 +174,7 @@ a:hover, .readmore:hover, .card__title a:hover { color: #67e8f9; }
     <div class="grid grid-3">
       {% for p in site.categories.news limit: 3 %}
       <article class="card">
-        {% if p.image %}<img class="card__img" src="{{ p.image }}" alt="Image for {{ p.title }}">{% endif %}
+        {% if p.image_small %}<img class="card__img" src="{{ p.image_small }}" alt="Image for {{ p.title }}">{% elsif p.image %}<img class="card__img" src="{{ p.image }}" alt="Image for {{ p.title }}">{% endif %}
         <div class="card__body">
           <div class="card__meta">{{ p.date | date: "%Y-%m-%d" }}</div>
           <h3 class="card__title"><a href="{{ p.url }}">{{ p.title }}</a></h3>
@@ -192,7 +192,7 @@ a:hover, .readmore:hover, .card__title a:hover { color: #67e8f9; }
     <div class="grid grid-3">
       {% for p in site.categories.events limit: 3 %}
       <article class="card">
-        {% if p.image %}<img class="card__img" src="{{ p.image }}" alt="Image for {{ p.title }}">{% endif %}
+        {% if p.image_small %}<img class="card__img" src="{{ p.image_small }}" alt="Image for {{ p.title }}">{% elsif p.image %}<img class="card__img" src="{{ p.image }}" alt="Image for {{ p.title }}">{% endif %}
         <div class="card__body">
           <div class="card__meta">{{ p.event_date | default: p.date | date: "%Y-%m-%d" }}</div>
           <h3 class="card__title"><a href="{{ p.url }}">{{ p.title }}</a></h3>
@@ -210,7 +210,7 @@ a:hover, .readmore:hover, .card__title a:hover { color: #67e8f9; }
     <div class="grid grid-3">
       {% for p in site.categories["job-openings"] limit: 3 %}
       <article class="card">
-        {% if p.image %}<img class="card__img" src="{{ p.image }}" alt="Image for {{ p.title }}">{% endif %}
+        {% if p.image_small %}<img class="card__img" src="{{ p.image_small }}" alt="Image for {{ p.title }}">{% elsif p.image %}<img class="card__img" src="{{ p.image }}" alt="Image for {{ p.title }}">{% endif %}
         <div class="card__body">
           <div class="card__meta">{{ p.date | date: "%Y-%m-%d" }}</div>
           <h3 class="card__title"><a href="{{ p.url }}">{{ p.title }}</a></h3>

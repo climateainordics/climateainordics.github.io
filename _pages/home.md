@@ -24,7 +24,7 @@ Welcome to _Climate AI Nordics_. We are a [network of researchers](/people/) ded
 
 {% for p in site.posts %}
 {% if p.first_page %}> ## {{ p.title }}
-{% if p.image_small %}> ![]({{ p.image_small }}){% else %}>{% endif %}
+{% if p.image_small %}> ![]({{ p.image_small }}){% elsif p.image %}> ![]({{ p.image }}){% else %}>{% endif %}
 > {{ p.summary | replace: '\n', '\n> ' }}
 > **[(Read more)]({{ p.url }})**
 {% endif %}
@@ -46,7 +46,7 @@ We hope that the collaborative nature of Climate AI Nordics will accelerate prog
 
 
 {% for p in site.categories.news limit: 3 %}
-| &bull; | {{p.date | date: '%Y-%m-%d'}}: {{ p.title }} <br /> [(Read more)]({{ p.url }}) | {% if p.image_small %} ![]({{ p.image_small }}){% endif %} |
+| &bull; | {{p.date | date: '%Y-%m-%d'}}: {{ p.title }} <br /> [(Read more)]({{ p.url }}) | {% if p.image_small %} ![]({{ p.image_small }}){% elsif p.image %}![]({{ p.image }}){% endif %} |
 {%- endfor %}
 
 
@@ -54,21 +54,21 @@ We hope that the collaborative nature of Climate AI Nordics will accelerate prog
 
 
 {% for p in site.categories.featured-works limit: 3 %}
-| &bull; | {{p.date | date: '%Y-%m-%d'}}: {{ p.title }} <br /> [(Read more)]({{ p.url }}) | {% if p.image_small %} ![]({{ p.image_small }}){% endif %} |
+| &bull; | {{p.date | date: '%Y-%m-%d'}}: {{ p.title }} <br /> [(Read more)]({{ p.url }}) | {% if p.image_small %} ![]({{ p.image_small }}){% elsif p.image %}![]({{ p.image }}){% endif %} |
 {%- endfor %}
 
 
 ## [Events](/events/)
 
 {% for p in site.categories.events limit: 3 %}
-| &bull; | {{p.event_date | date: '%Y-%m-%d'}}{% if p.event_date_end %} to {{ p.event_date_end | date: '%Y-%m-%d'}}{% endif %}: {{ p.title }} <br /> [(Read more)]({{ p.url }}) | {% if p.image_small %} ![]({{ p.image_small }}){% endif %} |
+| &bull; | {{p.event_date | date: '%Y-%m-%d'}}{% if p.event_date_end %} to {{ p.event_date_end | date: '%Y-%m-%d'}}{% endif %}: {{ p.title }} <br /> [(Read more)]({{ p.url }}) | {% if p.image_small %} ![]({{ p.image_small }}){% elsif p.image %}![]({{ p.image }}){% endif %} |
 {%- endfor %}
 
 
 ## [Job openings](/job-openings/)
 
 {% for p in site.categories.job-openings limit: 3 %}
-| &bull; | {{p.date | date: '%Y-%m-%d'}}: {{ p.title }} <br /> [(Read more)]({{ p.url }}) | {% if p.image_small %} ![]({{ p.image_small }}){% endif %} |
+| &bull; | {{p.date | date: '%Y-%m-%d'}}: {{ p.title }} <br /> [(Read more)]({{ p.url }}) | {% if p.image_small %} ![]({{ p.image_small }}){% elsif p.image %}![]({{ p.image }}){% endif %} |
 {%- endfor %}
 
 
