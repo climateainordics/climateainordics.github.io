@@ -1,11 +1,15 @@
 ---
-title: "PhD Student for Sustainable and Resource-Efficient Machine Learning"
-summary: "Linköping University is seeking a PhD student to research sustainable and resource-efficient machine learning, focusing on methodologies to reduce computational, energy, and storage demands, and associated carbon emissions, while maintaining model quality."
-people:
-permalink:
-image: /images/external-organizations-logos/liu.png
-youtube: ""
 deadline: April 24th, 2026
+image: /images/external-organizations-logos/liu.png
+image_small: /images/external-organizations-logos/liu_small.png
+people: null
+permalink: null
+summary: Linköping University is seeking a PhD student to research sustainable and
+  resource-efficient machine learning, focusing on methodologies to reduce computational,
+  energy, and storage demands, and associated carbon emissions, while maintaining
+  model quality.
+title: PhD Student for Sustainable and Resource-Efficient Machine Learning
+youtube: ''
 ---
 
 This PhD project at Linköping University targets sustainable and resource-efficient machine learning, with a focus on methods that reduce compute, energy usage, memory, storage demands, and associated carbon emissions, all while aiming to maintain model quality. The work will involve developing new methodologies and algorithms for resource-efficient learning, potentially via data selection and filtering, and investigating complementary approaches to reduce inference and deployment costs, such as model compression and hardware-aware optimization. Research will also explore how resource-efficiency interacts with broader sustainability aspects of machine learning, including robustness, fairness, and accessibility.

@@ -1,18 +1,63 @@
 ---
-title: "Enhanced Flood Detection through Innovative integration of PolSAR, metaheuristic optimization, and deep learning-based segmentation"
-summary: "Webinar with Solmaz Khazaei, KTH Royal Institute of Technology. 
-
-Flood is the most common natural disaster in the world, and can have catastrophic impacts on human society and the environment, including infrastructure damage, agricultural losses, and casualties, resulting in widespread economic and social disruptions. In early studies, water body detection relied on on-the-spot investigation, hydrological models and common remote sensing techniques that face issues like slow processing and real-time delays. By addressing this challenges we propose a novel hybrid PoLSAR-metaheuristic-DL models and high-resolution remote sensing data to generate accurate and rapid flood mapping for one of the huge recent flood in France. Compared with standard synthetic aperture radars (SAR), polarimetric synthetic aperture radar (PolSAR) is an advanced technique of SAR remote sensing. So, by using polarimetric decomposition methods, features were extracted and feature selection problem, one of the most challenging, was solved by using metaheuristic techniques. The selected features fed into three deep learning-based segmentation models- U_Net_V3, Nested_UNet and Efficient_UNet. The reliability of the generated flood maps was evaluated using Accuracy, precision and recall metrics. Our experimental results indicate that Nested_UNet integrate with optimized PolSAR data achieves the highest segmentation performance, with an accuracy of 0.910, precision of 0.914, and recall of 0.909. These findings underscore the capability of Nested_UNet, demonstrates superior feature extraction abilities, making it a promising choice for real-time flood segmentation applications. Moreover, detecting the knowledge of flooded areas, officials can actively adopt steps to reduce the potential impact of flood, ensure the sustainable management of natural resources and mitigate flood impacts."
-abstract: "Flood is the most common natural disaster in the world, and can have catastrophic impacts on human society and the environment, including infrastructure damage, agricultural losses, and casualties, resulting in widespread economic and social disruptions. In early studies, water body detection relied on on-the-spot investigation, hydrological models and common remote sensing techniques that face issues like slow processing and real-time delays. By addressing this challenges we propose a novel hybrid PoLSAR-metaheuristic-DL models and high-resolution remote sensing data to generate accurate and rapid flood mapping for one of the huge recent flood in France. Compared with standard synthetic aperture radars (SAR), polarimetric synthetic aperture radar (PolSAR) is an advanced technique of SAR remote sensing. So, by using polarimetric decomposition methods, features were extracted and feature selection problem, one of the most challenging, was solved by using metaheuristic techniques. The selected features fed into three deep learning-based segmentation models- U_Net_V3, Nested_UNet and Efficient_UNet. The reliability of the generated flood maps was evaluated using Accuracy, precision and recall metrics. Our experimental results indicate that Nested_UNet integrate with optimized PolSAR data achieves the highest segmentation performance, with an accuracy of 0.910, precision of 0.914, and recall of 0.909. These findings underscore the capability of Nested_UNet, demonstrates superior feature extraction abilities, making it a promising choice for real-time flood segmentation applications. Moreover, detecting the knowledge of flooded areas, officials can actively adopt steps to reduce the potential impact of flood, ensure the sustainable management of natural resources and mitigate flood impacts."
+abstract: Flood is the most common natural disaster in the world, and can have catastrophic
+  impacts on human society and the environment, including infrastructure damage, agricultural
+  losses, and casualties, resulting in widespread economic and social disruptions.
+  In early studies, water body detection relied on on-the-spot investigation, hydrological
+  models and common remote sensing techniques that face issues like slow processing
+  and real-time delays. By addressing this challenges we propose a novel hybrid PoLSAR-metaheuristic-DL
+  models and high-resolution remote sensing data to generate accurate and rapid flood
+  mapping for one of the huge recent flood in France. Compared with standard synthetic
+  aperture radars (SAR), polarimetric synthetic aperture radar (PolSAR) is an advanced
+  technique of SAR remote sensing. So, by using polarimetric decomposition methods,
+  features were extracted and feature selection problem, one of the most challenging,
+  was solved by using metaheuristic techniques. The selected features fed into three
+  deep learning-based segmentation models- U_Net_V3, Nested_UNet and Efficient_UNet.
+  The reliability of the generated flood maps was evaluated using Accuracy, precision
+  and recall metrics. Our experimental results indicate that Nested_UNet integrate
+  with optimized PolSAR data achieves the highest segmentation performance, with an
+  accuracy of 0.910, precision of 0.914, and recall of 0.909. These findings underscore
+  the capability of Nested_UNet, demonstrates superior feature extraction abilities,
+  making it a promising choice for real-time flood segmentation applications. Moreover,
+  detecting the knowledge of flooded areas, officials can actively adopt steps to
+  reduce the potential impact of flood, ensure the sustainable management of natural
+  resources and mitigate flood impacts.
+event_date: 2026-05-07
+event_location: ''
+event_time: '15:00'
+image: /images/posts/2026-04-27-2026-05-07-flood-detection-using-deep-learning-based-segmentation.jpg
+image_small: /images/posts/2026-04-27-2026-05-07-flood-detection-using-deep-learning-based-segmentation_small.jpg
 people:
 - Olof Mogren
 permalink: /events/2026-04-27-2026-05-07-flood-detection-using-deep-learning-based-segmentation
-event_date: 2026-05-07
-event_time: "15:00"
-event_location: ""
-image: /images/posts/2026-04-27-2026-05-07-flood-detection-using-deep-learning-based-segmentation.jpg
-youtube: "https://www.youtube.com/watch?v=f4f8p-NWDHg&list=PLqLiVcF3GKy1tuQFoDu5QKOM6S33t_4R1"
---- 
+summary: 'Webinar with Solmaz Khazaei, KTH Royal Institute of Technology.
+
+  Flood is the most common natural disaster in the world, and can have catastrophic
+  impacts on human society and the environment, including infrastructure damage, agricultural
+  losses, and casualties, resulting in widespread economic and social disruptions.
+  In early studies, water body detection relied on on-the-spot investigation, hydrological
+  models and common remote sensing techniques that face issues like slow processing
+  and real-time delays. By addressing this challenges we propose a novel hybrid PoLSAR-metaheuristic-DL
+  models and high-resolution remote sensing data to generate accurate and rapid flood
+  mapping for one of the huge recent flood in France. Compared with standard synthetic
+  aperture radars (SAR), polarimetric synthetic aperture radar (PolSAR) is an advanced
+  technique of SAR remote sensing. So, by using polarimetric decomposition methods,
+  features were extracted and feature selection problem, one of the most challenging,
+  was solved by using metaheuristic techniques. The selected features fed into three
+  deep learning-based segmentation models- U_Net_V3, Nested_UNet and Efficient_UNet.
+  The reliability of the generated flood maps was evaluated using Accuracy, precision
+  and recall metrics. Our experimental results indicate that Nested_UNet integrate
+  with optimized PolSAR data achieves the highest segmentation performance, with an
+  accuracy of 0.910, precision of 0.914, and recall of 0.909. These findings underscore
+  the capability of Nested_UNet, demonstrates superior feature extraction abilities,
+  making it a promising choice for real-time flood segmentation applications. Moreover,
+  detecting the knowledge of flooded areas, officials can actively adopt steps to
+  reduce the potential impact of flood, ensure the sustainable management of natural
+  resources and mitigate flood impacts.'
+title: Enhanced Flood Detection through Innovative integration of PolSAR, metaheuristic
+  optimization, and deep learning-based segmentation
+youtube: https://www.youtube.com/watch?v=f4f8p-NWDHg&list=PLqLiVcF3GKy1tuQFoDu5QKOM6S33t_4R1
+---
+
 Welcome to this week's Learning Machines seminar.
 
 This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
@@ -44,6 +89,3 @@ This seminar is a collaboration between RISE and Climate AI Nordics -- [climatea
 More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
 
 -- The Learning Machines Team
-
-
-

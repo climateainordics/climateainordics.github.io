@@ -1,12 +1,20 @@
 ---
-title: "Featured Paper: Efficiency is Not Enough: A Critical Perspective of Environmentally Sustainable AI"
-summary: "This perspective paper discusses several reasons why it is crucial to look at the impact of machine learning (ML) using systems thinking, i.e. across the entire life cycle of models, from development to deployment."
-abstract: "This perspective paper discusses several reasons why it is crucial to look at the impact of machine learning (ML) using systems thinking, i.e. across the entire life cycle of models, from development to deployment."
-socialmedia: "This perspective paper discusses several reasons why it is crucial to look at the impact of machine learning (ML) using systems thinking, i.e. across the entire life cycle of models, from development to deployment."
+abstract: This perspective paper discusses several reasons why it is crucial to look
+  at the impact of machine learning (ML) using systems thinking, i.e. across the entire
+  life cycle of models, from development to deployment.
+image: /images/posts/2025-03-27-featured-paper.png
+image_small: /images/posts/2025-03-27-featured-paper_small.png
+imagealt: 'Figure 1: The Deep Learning model life cycle. (Wright et al., 2024)'
 people:
 - Nico Lang
-image: /images/posts/2025-03-27-featured-paper.png
-imagealt: "Figure 1: The Deep Learning model life cycle. (Wright et al., 2024)"
+socialmedia: This perspective paper discusses several reasons why it is crucial to
+  look at the impact of machine learning (ML) using systems thinking, i.e. across
+  the entire life cycle of models, from development to deployment.
+summary: This perspective paper discusses several reasons why it is crucial to look
+  at the impact of machine learning (ML) using systems thinking, i.e. across the entire
+  life cycle of models, from development to deployment.
+title: 'Featured Paper: Efficiency is Not Enough: A Critical Perspective of Environmentally
+  Sustainable AI'
 ---
 
 Authors: **Dustin Wright, Christian Igel, Gabrielle Samuel and Raghavendra Selvan<br />

@@ -1,12 +1,16 @@
 ---
-title: "Postdoctoral Position in Bat Population Monitoring"
-summary: "Aarhus University is hiring a postdoctoral researcher to develop and optimize methods for monitoring and quantifying bat populations, with a focus on camera-based systems and AI-based workflows."
-people:
-permalink:
-image: /images/external-organizations-logos/aarhus-university.png
-youtube: ""
 deadline: 2026-02-12
+image: /images/external-organizations-logos/aarhus-university.png
+image_small: /images/external-organizations-logos/aarhus-university_small.png
+people: null
+permalink: null
+summary: Aarhus University is hiring a postdoctoral researcher to develop and optimize
+  methods for monitoring and quantifying bat populations, with a focus on camera-based
+  systems and AI-based workflows.
+title: Postdoctoral Position in Bat Population Monitoring
+youtube: ''
 ---
+
 The Department of Ecoscience at Aarhus University, Denmark, invites applications for a 2-year postdoctoral position focused on the monitoring and quantification of bat populations. This research project will contribute to next-generation wildlife monitoring approaches by advancing bat population monitoring through the optimization of camera-based systems and AI-based workflows.
 
 The position is based in Aarhus, Denmark, at the Section for Wildlife Ecology. Experience with computational image analysis or wildlife ecology is advantageous. The research will focus on a Danish hibernaculum. The expected starting date is June 2026, with the exact date to be agreed upon by the postdoctoral researcher and the Department. Proficiency in Danish and/or German is considered a bonus.

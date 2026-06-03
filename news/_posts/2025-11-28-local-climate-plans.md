@@ -1,13 +1,18 @@
 ---
-title: "Community win: Klimatkollen secures 3 MSEK to analyze climate plans with AI"
-summary: "Great news from our community! Through partnerships found right here at Climate AI Nordics, Klimatkollen has received 3 million SEK from the Swedish Postcode Lottery Foundation. They are teaming up with NORCE to use the AI model \"Garbo AI\" to analyze municipal climate plans. This project will increase transparency and help standardize local climate data across Sweden."
-people: 
+image: /images/partners/klimatkollen.png
+image_small: /images/partners/klimatkollen_small.png
+people:
 - Sigrid Passano Hellan
 - Jesse Schrage
 - Frida Berry Eklund
-permalink:
-image: /images/partners/klimatkollen.png
-youtube:
+permalink: null
+summary: Great news from our community! Through partnerships found right here at Climate
+  AI Nordics, Klimatkollen has received 3 million SEK from the Swedish Postcode Lottery
+  Foundation. They are teaming up with NORCE to use the AI model "Garbo AI" to analyze
+  municipal climate plans. This project will increase transparency and help standardize
+  local climate data across Sweden.
+title: 'Community win: Klimatkollen secures 3 MSEK to analyze climate plans with AI'
+youtube: null
 ---
 
 We are thrilled to announce a major success story born directly from the Climate AI Nordics network! Our partner Klimatkollen has been awarded 3 million SEK from the Swedish Postcode Lottery Foundation (Postkodlotteriets stiftelse).

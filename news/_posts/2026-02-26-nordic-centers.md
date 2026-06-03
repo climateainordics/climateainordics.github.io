@@ -1,10 +1,14 @@
 ---
-title: "Two new Nordic networks/centers related to biodiversity, sustainability, AI"
-summary: "During 2026, two new Nordic networks/centers related to biodiversity, sustainability, AI will be initiated, with funding from [Nordforsk](https://www.nordforsk.org/). Check them out [here](https://www.nordforsk.org/projects/nordic-biodiversityai-network-strengthening-wildlife-animal-monitoring-through-image-based) and [here](https://www.nordforsk.org/projects/nextgen-nordic-geotechnics-bridging-sustainability-engineering-and-emerging-research)."
 image: /images/posts/nordforsk_logo.png
+image_small: /images/posts/nordforsk_logo_small.png
 people:
 - Junwen Guo
 - Stefan Ritter
+summary: During 2026, two new Nordic networks/centers related to biodiversity, sustainability,
+  AI will be initiated, with funding from [Nordforsk](https://www.nordforsk.org/).
+  Check them out [here](https://www.nordforsk.org/projects/nordic-biodiversityai-network-strengthening-wildlife-animal-monitoring-through-image-based)
+  and [here](https://www.nordforsk.org/projects/nextgen-nordic-geotechnics-bridging-sustainability-engineering-and-emerging-research).
+title: Two new Nordic networks/centers related to biodiversity, sustainability, AI
 ---
 
 <br />

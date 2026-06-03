@@ -1,9 +1,14 @@
 ---
-title: "Featured project: BoquilaHUB - SOTA AI models for biodiversity"
+image: /images/posts/boquilahub-img2.png
+image_small: /images/posts/boquilahub-img2_small.png
 people:
 - José Díaz
-image: /images/posts/boquilahub-img2.png
-summary: "BoquilaHUB is an open-source desktop application that makes state-of-the-art AI for biodiversity accessible without complex setup or coding. It enables researchers to efficiently process large-scale camera trap and bioacoustic data using leading models like SpeciesNet and Perch 2. It also supports easy local deployment and shared GPU access, helping democratize AI tools for conservation worldwide."
+summary: BoquilaHUB is an open-source desktop application that makes state-of-the-art
+  AI for biodiversity accessible without complex setup or coding. It enables researchers
+  to efficiently process large-scale camera trap and bioacoustic data using leading
+  models like SpeciesNet and Perch 2. It also supports easy local deployment and shared
+  GPU access, helping democratize AI tools for conservation worldwide.
+title: 'Featured project: BoquilaHUB - SOTA AI models for biodiversity'
 ---
 
 **Authors:** José Díaz

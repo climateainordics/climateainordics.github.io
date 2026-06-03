@@ -1,12 +1,18 @@
 ---
-title: "Open position: Assistant professor in AI for Sustainable transformation"
-summary: "Lund University is hiring an Assistant Professor in AI for Sustainable Transformation at the IIIEE, focusing on cutting-edge interdisciplinary research that bridges digital technologies and climate action. The position offers strong support for external funding, teaching, and collaboration with societal partners, with a pathway to permanent employment. Applications are open until 11 August 2025, and international researchers are especially encouraged to apply."
+image: /images/external-organizations-logos/lund-university.png
+image_small: /images/external-organizations-logos/lund-university_small.png
 people:
 - Olof Mogren
-permalink: 
-image: /images/external-organizations-logos/lund-university.png
-youtube: ""
---- 
+permalink: null
+summary: Lund University is hiring an Assistant Professor in AI for Sustainable Transformation
+  at the IIIEE, focusing on cutting-edge interdisciplinary research that bridges digital
+  technologies and climate action. The position offers strong support for external
+  funding, teaching, and collaboration with societal partners, with a pathway to permanent
+  employment. Applications are open until 11 August 2025, and international researchers
+  are especially encouraged to apply.
+title: 'Open position: Assistant professor in AI for Sustainable transformation'
+youtube: ''
+---
 
 Lund University is recruiting a new Assistant Professor in Artificial Intelligence for Sustainable Transformation, based at the International Institute for Industrial Environmental Economics (IIIEE).
 This is a unique opportunity to help shape the future of AI-driven sustainability research in one of the world’s top universities.

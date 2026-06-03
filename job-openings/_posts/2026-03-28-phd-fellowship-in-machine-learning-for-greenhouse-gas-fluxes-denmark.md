@@ -1,11 +1,15 @@
 ---
-title: "PhD Fellowship in Machine Learning for Wetland-Based Climate Change Mitigation"
-summary: "The University of Copenhagen is offering a fully-funded PhD fellowship at its Department of Computer Science, focusing on developing novel machine learning methods to model greenhouse gas fluxes from wetlands using remote sensing and ground-level measurements for climate change mitigation."
-people:
-permalink:
-image: /images/external-organizations-logos/ku.png
-youtube: ""
 deadline: April 06th, 2026
+image: /images/external-organizations-logos/ku.png
+image_small: /images/external-organizations-logos/ku_small.png
+people: null
+permalink: null
+summary: The University of Copenhagen is offering a fully-funded PhD fellowship at
+  its Department of Computer Science, focusing on developing novel machine learning
+  methods to model greenhouse gas fluxes from wetlands using remote sensing and ground-level
+  measurements for climate change mitigation.
+title: PhD Fellowship in Machine Learning for Wetland-Based Climate Change Mitigation
+youtube: ''
 ---
 
 This fully-funded PhD fellowship at the University of Copenhagen is part of the Global Wetland Center (GWC), an initiative funded by the Novo Nordisk Foundation. The GWC contributes to the development of wetland-based climate change mitigation strategies through a combination of biogeochemical and hydrological modelling, satellite remote sensing, and the use of artificial intelligence techniques.

@@ -1,13 +1,38 @@
 ---
-title: "Featured Project: Acoustic Monitoring of Guillemot Life at Stora Karlsö"
-summary: "The AukLab project on Stora Karlsö enhances its AI-driven monitoring of Common Guillemots by adding continuous acoustic recording to its existing camera surveillance. A new system using synchronized Raspberry Pi units captures and analyzes guillemot vocalizations, integrating this audio data with visual and thermal information. Researchers aim to use machine learning on this combined dataset to gain deeper insights into social interactions, parental care, environmental responses, and potentially even detect fish arrivals acoustically. This addition represents a significant step towards creating a comprehensive digital representation of the guillemot colony for broader research access."
-abstract: "The AukLab project on Stora Karlsö enhances its AI-driven monitoring of Common Guillemots by adding continuous acoustic recording to its existing camera surveillance. A new system using synchronized Raspberry Pi units captures and analyzes guillemot vocalizations, integrating this audio data with visual and thermal information. Researchers aim to use machine learning on this combined dataset to gain deeper insights into social interactions, parental care, environmental responses, and potentially even detect fish arrivals acoustically. This addition represents a significant step towards creating a comprehensive digital representation of the guillemot colony for broader research access."
-socialmedia: "The AukLab project on Stora Karlsö enhances its AI-driven monitoring of Common Guillemots by adding continuous acoustic recording to its existing camera surveillance. A new system using synchronized Raspberry Pi units captures and analyzes guillemot vocalizations, integrating this audio data with visual and thermal information. Researchers aim to use machine learning on this combined dataset to gain deeper insights into social interactions, parental care, environmental responses, and potentially even detect fish arrivals acoustically. This addition represents a significant step towards creating a comprehensive digital representation of the guillemot colony for broader research access."
+abstract: The AukLab project on Stora Karlsö enhances its AI-driven monitoring of
+  Common Guillemots by adding continuous acoustic recording to its existing camera
+  surveillance. A new system using synchronized Raspberry Pi units captures and analyzes
+  guillemot vocalizations, integrating this audio data with visual and thermal information.
+  Researchers aim to use machine learning on this combined dataset to gain deeper
+  insights into social interactions, parental care, environmental responses, and potentially
+  even detect fish arrivals acoustically. This addition represents a significant step
+  towards creating a comprehensive digital representation of the guillemot colony
+  for broader research access.
+image: /images/posts/2025-04-30-featured-project/guillemots.png
+image_small: /images/posts/2025-04-30-featured-project/guillemots_small.png
+imagealt: 'Figure 1: Common Guillemots at Stora Karlsö.'
 people:
 - John Martinsson
 - Olof Mogren
-image: /images/posts/2025-04-30-featured-project/guillemots.png
-imagealt: "Figure 1: Common Guillemots at Stora Karlsö."
+socialmedia: The AukLab project on Stora Karlsö enhances its AI-driven monitoring
+  of Common Guillemots by adding continuous acoustic recording to its existing camera
+  surveillance. A new system using synchronized Raspberry Pi units captures and analyzes
+  guillemot vocalizations, integrating this audio data with visual and thermal information.
+  Researchers aim to use machine learning on this combined dataset to gain deeper
+  insights into social interactions, parental care, environmental responses, and potentially
+  even detect fish arrivals acoustically. This addition represents a significant step
+  towards creating a comprehensive digital representation of the guillemot colony
+  for broader research access.
+summary: The AukLab project on Stora Karlsö enhances its AI-driven monitoring of Common
+  Guillemots by adding continuous acoustic recording to its existing camera surveillance.
+  A new system using synchronized Raspberry Pi units captures and analyzes guillemot
+  vocalizations, integrating this audio data with visual and thermal information.
+  Researchers aim to use machine learning on this combined dataset to gain deeper
+  insights into social interactions, parental care, environmental responses, and potentially
+  even detect fish arrivals acoustically. This addition represents a significant step
+  towards creating a comprehensive digital representation of the guillemot colony
+  for broader research access.
+title: 'Featured Project: Acoustic Monitoring of Guillemot Life at Stora Karlsö'
 ---
 
 Project actors: **John Martinsson (RISE), Jonas Hentati Sundberg (SLU), Delia Fano Yela (RISE), Henrik Österblom (SU), and Olof Mogren (RISE)**
@@ -30,4 +55,3 @@ To explore the AukLab project further and view the 3D model of the artificial ro
 
 ![The installation of cameras, microphones, cables, and switches in the Auklab.](/images/posts/2025-04-30-featured-project/cables.png)
 ![PA working on the installation of recorders in the Auklab.](/images/posts/2025-04-30-featured-project/pa-installing.png)
-

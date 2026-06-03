@@ -1,9 +1,24 @@
 ---
-title: "Reflections on the first EurIPS and a successful AICC workshop"
-summary: "Climate AI Nordics joined the inaugural EurIPS conference in Copenhagen last week, connecting with the community at our booth shared with the Nordic AI Partnership and Pioneer Centre for AI. On Saturday, we successfully hosted the full-day AICC workshop, featuring an inspiring lineup of speakers and over 30 posters bridging machine learning and climate science. While the research highlights covered diverse topics like weather forecasting, a significant portion of the program focused on analyzing forests as vital carbon sinks and biodiversity havens. We are grateful to our partners and all amazing researchers from around Europe and the rest of the world for supporting this memorable week of collaboration, glögg, and impactful science."
-tags: [EurIPS, AICC, Climate AI, Workshop, Copenhagen]
 author: Climate AI Nordics Team
 image: /images/events/2025-eurips/booth.jpg
+image_small: /images/events/2025-eurips/booth_small.jpg
+summary: Climate AI Nordics joined the inaugural EurIPS conference in Copenhagen last
+  week, connecting with the community at our booth shared with the Nordic AI Partnership
+  and Pioneer Centre for AI. On Saturday, we successfully hosted the full-day AICC
+  workshop, featuring an inspiring lineup of speakers and over 30 posters bridging
+  machine learning and climate science. While the research highlights covered diverse
+  topics like weather forecasting, a significant portion of the program focused on
+  analyzing forests as vital carbon sinks and biodiversity havens. We are grateful
+  to our partners and all amazing researchers from around Europe and the rest of the
+  world for supporting this memorable week of collaboration, glögg, and impactful
+  science.
+tags:
+- EurIPS
+- AICC
+- Climate AI
+- Workshop
+- Copenhagen
+title: Reflections on the first EurIPS and a successful AICC workshop
 ---
 
 Last week marked a significant milestone for the European AI community with the inaugural **EurIPS** conference taking place in Copenhagen. The atmosphere was electric, bringing together experts in the field to discuss the future of machine learning in Europe.
@@ -70,5 +85,3 @@ This week wouldn't have been possible without the support of our partners and co
 From the muddy walks through the city parks to the networking social event and the packed auditorium on Saturday, EurIPS 2025 was a memorable event. We look forward to seeing how the collaborations formed this week will evolve into impactful climate solutions.
 
 *Did you miss the workshop? You can check out the list of accepted papers and speakers on our [AICC website](https://sites.google.com/g.harvard.edu/aicceurips). Recordings will end up on our [youtube channel](https://youtube.com/@climateainordics) shortly.*
-
-

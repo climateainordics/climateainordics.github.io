@@ -1,12 +1,16 @@
 ---
-title: "TreeSense Center of Excellence Officially Launched at University of Copenhagen"
-summary: "The TreeSense Center of Excellence was officially launched on 24 June 2025 at the University of Copenhagen. The new research center, supported by the Danish National Research Foundation, brings together experts in remote sensing, ecology, and AI to revolutionize how we monitor global tree resources."
+image: /images/posts/2025-06-24-treesense.png
+image_small: /images/posts/2025-06-24-treesense_small.png
 people:
 - Christian Igel
 - Ankit Kariryaa
-permalink:
-image: /images/posts/2025-06-24-treesense.png
-youtube: ""
+permalink: null
+summary: The TreeSense Center of Excellence was officially launched on 24 June 2025
+  at the University of Copenhagen. The new research center, supported by the Danish
+  National Research Foundation, brings together experts in remote sensing, ecology,
+  and AI to revolutionize how we monitor global tree resources.
+title: TreeSense Center of Excellence Officially Launched at University of Copenhagen
+youtube: ''
 ---
 
 The **TreeSense Center of Excellence** was officially launched on **24 June 2025** at the University of Copenhagen. Hosted by the Department of Geosciences and Natural Resource Management (IGN), the event marked the beginning of a major new research initiative supported by the **Danish National Research Foundation**.
@@ -49,4 +53,3 @@ The center is funded with a grant of **DKK 59,909,600** and officially began its
 - **Andreas Egelund Christensen** (UCPH-IGN), Center Administrator
 
 [Read more on ku.dk](https://ign.ku.dk/english/calender/2025/opening-of-treesense/).
-

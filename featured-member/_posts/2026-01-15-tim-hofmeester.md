@@ -1,9 +1,13 @@
 ---
-title: "Featured member, January 2026: Tim Hofmeester"
-summary: "Tim Hofmeester is an Associate Professor in wildlife biology at the Swedish University of Agricultural Sciences (SLU). His work focuses on the application of conservation technology to study and monitor wildlife. Tim is the coordinator for SLU's Environmental Monitoring and Assessment program Wildlife."
+image: /images/people/featured/TimHofmeester.jpg
+image_small: /images/people/featured/TimHofmeester_small.jpg
 people:
 - Tim Hofmeester
-image: /images/people/featured/TimHofmeester.jpg
+summary: Tim Hofmeester is an Associate Professor in wildlife biology at the Swedish
+  University of Agricultural Sciences (SLU). His work focuses on the application of
+  conservation technology to study and monitor wildlife. Tim is the coordinator for
+  SLU's Environmental Monitoring and Assessment program Wildlife.
+title: 'Featured member, January 2026: Tim Hofmeester'
 ---
 
 <br />

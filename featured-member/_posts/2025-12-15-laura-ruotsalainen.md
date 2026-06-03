@@ -1,9 +1,16 @@
 ---
-title: "Featured member, December 2025: Laura Ruotsalainen"
-summary: "Laura Ruotsalainen is a Professor of Computer Science at the University of Helsinki and leads the Spatiotemporal Data Analysis research group. Her work focuses on developing machine learning methods for spatiotemporal data, particularly in reinforcement learning, representation learning, and uncertainty-aware models, motivated by challenges in climate, sustainability, and urban resilience. She also serves as Vice-Chair of the ELLIS Institute Finland and is a steering group member of the Finnish Center for Artificial Intelligence (FCAI)"
+image: /images/people/featured/Laura Ruotsalainen-2.jpg
+image_small: /images/people/featured/Laura Ruotsalainen-2_small.jpg
 people:
 - Laura Ruotsalainen
-image: /images/people/featured/Laura Ruotsalainen-2.jpg
+summary: Laura Ruotsalainen is a Professor of Computer Science at the University of
+  Helsinki and leads the Spatiotemporal Data Analysis research group. Her work focuses
+  on developing machine learning methods for spatiotemporal data, particularly in
+  reinforcement learning, representation learning, and uncertainty-aware models, motivated
+  by challenges in climate, sustainability, and urban resilience. She also serves
+  as Vice-Chair of the ELLIS Institute Finland and is a steering group member of the
+  Finnish Center for Artificial Intelligence (FCAI)
+title: 'Featured member, December 2025: Laura Ruotsalainen'
 ---
 
 <br />

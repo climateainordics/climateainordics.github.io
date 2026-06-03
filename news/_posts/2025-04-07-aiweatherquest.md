@@ -1,12 +1,16 @@
 ---
-title: "Will you join the #AIWeatherQuest?"
-summary: "ECMWF invites AI/ML experts to improve sub-seasonal forecasts (days 19-25 & 26-31)—key for climate adaptation & planning. Open to all, any tools/datasets."
-abstract: "ECMWF invites AI/ML experts to improve sub-seasonal forecasts (days 19-25 & 26-31)—key for climate adaptation & planning. Open to all, any tools/datasets."
-socialmedia: "ECMWF invites AI/ML experts to improve sub-seasonal forecasts (days 19-25 & 26-31)—key for climate adaptation & planning. Open to all, any tools/datasets."
+abstract: ECMWF invites AI/ML experts to improve sub-seasonal forecasts (days 19-25
+  & 26-31)—key for climate adaptation & planning. Open to all, any tools/datasets.
+image: /images/posts/2025-04-07-aiweatherquest.jpg
+image_small: /images/posts/2025-04-07-aiweatherquest_small.jpg
+imagealt: 'Figure 1: The Deep Learning model life cycle. (Wright et al., 2024)'
 people:
 - Olof Mogren
-image: /images/posts/2025-04-07-aiweatherquest.jpg
-imagealt: "Figure 1: The Deep Learning model life cycle. (Wright et al., 2024)"
+socialmedia: ECMWF invites AI/ML experts to improve sub-seasonal forecasts (days 19-25
+  & 26-31)—key for climate adaptation & planning. Open to all, any tools/datasets.
+summary: ECMWF invites AI/ML experts to improve sub-seasonal forecasts (days 19-25
+  & 26-31)—key for climate adaptation & planning. Open to all, any tools/datasets.
+title: 'Will you join the #AIWeatherQuest?'
 ---
 
 **Call for Climate AI Nordics to apply our expertise to a global forecasting competition: join the ECMWF AI Weather Quest** 
@@ -43,5 +47,4 @@ The competition is open to individuals and teams from research institutions, pri
 * [08:00–09:00 UTC – Register here](https://events.ecmwf.int/event/469/)   
 * [14:00–15:00 UTC – Register here](https://events.ecmwf.int/event/470/) 
 
-🔗 **Explore the Quest and register here**: [https://aiweatherquest.ecmwf.int](https://aiweatherquest.ecmwf.int) 
-
+🔗 **Explore the Quest and register here**: [https://aiweatherquest.ecmwf.int](https://aiweatherquest.ecmwf.int)

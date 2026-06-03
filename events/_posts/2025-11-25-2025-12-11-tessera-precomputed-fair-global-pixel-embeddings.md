@@ -1,18 +1,49 @@
 ---
-title: "TESSERA: precomputed FAIR global pixel embeddings for earth representation and analysis"
-summary: "Webinar with Zhengpeng (Frank) Feng, Cambridge. 
-
-Petabytes of satellite Earth Observation (EO) data are freely available and can address critical global challenges. However, EO data quality is poor due to clouds and variable lighting conditions. To address this, practitioners typically use compositing, but this critically removes the temporal phenological signal. Moreover, supervised machine learning to map composited pixels to task-specific classes requires accurately labelled data that are rarely available. We present TESSERA, a pixel-oriented foundation model for EO time series that creates 128-dimensional latent embeddings requiring only a few labels for task-specific training to achieve state-of-the-art performance across diverse complex tasks. TESSERA uses two encoders that combine optical data with synthetic aperture radar backscatter coefficients at 10m resolution, creating embeddings fused with a multilayer perceptron to generate annual global embedding maps. TESSERA closely matches or outperforms state-of-the-art task-specific models and other foundation models across five diverse downstream tasks. It is unprecedented in ease of use, scale, and accuracy: no other open foundation model provides precomputed outputs with global, annual coverage at 10m resolution."
-abstract: "Petabytes of satellite Earth Observation (EO) data are freely available and can address critical global challenges. However, EO data quality is poor due to clouds and variable lighting conditions. To address this, practitioners typically use compositing, but this critically removes the temporal phenological signal. Moreover, supervised machine learning to map composited pixels to task-specific classes requires accurately labelled data that are rarely available. We present TESSERA, a pixel-oriented foundation model for EO time series that creates 128-dimensional latent embeddings requiring only a few labels for task-specific training to achieve state-of-the-art performance across diverse complex tasks. TESSERA uses two encoders that combine optical data with synthetic aperture radar backscatter coefficients at 10m resolution, creating embeddings fused with a multilayer perceptron to generate annual global embedding maps. TESSERA closely matches or outperforms state-of-the-art task-specific models and other foundation models across five diverse downstream tasks. It is unprecedented in ease of use, scale, and accuracy: no other open foundation model provides precomputed outputs with global, annual coverage at 10m resolution."
+abstract: 'Petabytes of satellite Earth Observation (EO) data are freely available
+  and can address critical global challenges. However, EO data quality is poor due
+  to clouds and variable lighting conditions. To address this, practitioners typically
+  use compositing, but this critically removes the temporal phenological signal. Moreover,
+  supervised machine learning to map composited pixels to task-specific classes requires
+  accurately labelled data that are rarely available. We present TESSERA, a pixel-oriented
+  foundation model for EO time series that creates 128-dimensional latent embeddings
+  requiring only a few labels for task-specific training to achieve state-of-the-art
+  performance across diverse complex tasks. TESSERA uses two encoders that combine
+  optical data with synthetic aperture radar backscatter coefficients at 10m resolution,
+  creating embeddings fused with a multilayer perceptron to generate annual global
+  embedding maps. TESSERA closely matches or outperforms state-of-the-art task-specific
+  models and other foundation models across five diverse downstream tasks. It is unprecedented
+  in ease of use, scale, and accuracy: no other open foundation model provides precomputed
+  outputs with global, annual coverage at 10m resolution.'
+event_date: 2025-12-11
+event_location: ''
+event_time: '15:00'
+image: /images/posts/2025-11-25-2025-12-11-tessera-precomputed-fair-global-pixel-embeddings.jpg
+image_small: /images/posts/2025-11-25-2025-12-11-tessera-precomputed-fair-global-pixel-embeddings_small.jpg
 people:
 - Olof Mogren
 permalink: /events/2025-11-25-2025-12-11-tessera-precomputed-fair-global-pixel-embeddings
-event_date: 2025-12-11
-event_time: "15:00"
-event_location: ""
-image: /images/posts/2025-11-25-2025-12-11-tessera-precomputed-fair-global-pixel-embeddings.jpg
-youtube: "https://www.youtube.com/watch?v=AQhzSBxvhVM&list=PLqLiVcF3GKy0-jZFGg-VqLzh51LqCfduN"
---- 
+summary: 'Webinar with Zhengpeng (Frank) Feng, Cambridge.
+
+  Petabytes of satellite Earth Observation (EO) data are freely available and can
+  address critical global challenges. However, EO data quality is poor due to clouds
+  and variable lighting conditions. To address this, practitioners typically use compositing,
+  but this critically removes the temporal phenological signal. Moreover, supervised
+  machine learning to map composited pixels to task-specific classes requires accurately
+  labelled data that are rarely available. We present TESSERA, a pixel-oriented foundation
+  model for EO time series that creates 128-dimensional latent embeddings requiring
+  only a few labels for task-specific training to achieve state-of-the-art performance
+  across diverse complex tasks. TESSERA uses two encoders that combine optical data
+  with synthetic aperture radar backscatter coefficients at 10m resolution, creating
+  embeddings fused with a multilayer perceptron to generate annual global embedding
+  maps. TESSERA closely matches or outperforms state-of-the-art task-specific models
+  and other foundation models across five diverse downstream tasks. It is unprecedented
+  in ease of use, scale, and accuracy: no other open foundation model provides precomputed
+  outputs with global, annual coverage at 10m resolution.'
+title: 'TESSERA: precomputed FAIR global pixel embeddings for earth representation
+  and analysis'
+youtube: https://www.youtube.com/watch?v=AQhzSBxvhVM&list=PLqLiVcF3GKy0-jZFGg-VqLzh51LqCfduN
+---
+
 Welcome to this week's Learning Machines seminar.
 
 This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
@@ -42,4 +73,3 @@ This seminar is a collaboration between RISE and Climate AI Nordics -- [climatea
 More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
 
 -- The Learning Machines Team
-

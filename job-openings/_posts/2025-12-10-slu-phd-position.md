@@ -1,11 +1,14 @@
 ---
-title: "PhD position: Machine learning and passive acoustic monitoring of birds and bats in Swedish forests"
-summary: "The Swedish University of Agricultural Sciences is hiring a PhD student within the Wallenberg Initiative in Forest Research (WIFORCE)."
-people:
-permalink:
-image: /images/external-organizations-logos/slu.png
-youtube: ""
 deadline: 2026-02-10
+image: /images/external-organizations-logos/slu.png
+image_small: /images/external-organizations-logos/slu_small.png
+people: null
+permalink: null
+summary: The Swedish University of Agricultural Sciences is hiring a PhD student within
+  the Wallenberg Initiative in Forest Research (WIFORCE).
+title: 'PhD position: Machine learning and passive acoustic monitoring of birds and
+  bats in Swedish forests'
+youtube: ''
 ---
 
 The Swedish University of Agricultural Sciences (in Umeå) is hiring a PhD student within the Wallenberg Initiative in Forest Research (WIFORCE).

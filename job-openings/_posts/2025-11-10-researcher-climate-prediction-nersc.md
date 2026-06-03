@@ -1,11 +1,13 @@
 ---
-title: "Researcher in climate prediction"
-summary: "Permanent position at NERSC (Bergen) to develop the Norwegian Climate Prediction Model using data assimilation and machine learning."
-people:
-permalink:
+deadline: '2025-12-07'
 image: /images/external-organizations-logos/nersc.png
-youtube: ""
-deadline: "2025-12-07"
+image_small: /images/external-organizations-logos/nersc_small.png
+people: null
+permalink: null
+summary: Permanent position at NERSC (Bergen) to develop the Norwegian Climate Prediction
+  Model using data assimilation and machine learning.
+title: Researcher in climate prediction
+youtube: ''
 ---
 
 The Nansen Environmental and Remote Sensing Center (NERSC) in Bergen, Norway, is seeking a researcher with expertise in seasonal-to-decadal climate prediction.

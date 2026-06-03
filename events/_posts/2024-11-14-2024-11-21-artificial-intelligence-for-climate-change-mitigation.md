@@ -1,31 +1,59 @@
 ---
-title: "Artificial Intelligence for Climate Change Mitigation"
-summary: "Webinar with Alp Kucukelbir, Columbia University. 
+abstract: 'Artificial intelligence (AI) has the potential to make very significant
+  contributions to climate change mitigation. The complexity and scale of the challenge
+  is broad. In this talk, I break down opportunities for AI to effect incremental
+  and transformational change across multiple sectors, focusing on industries with
+  large carbon footprints.
 
-Artificial intelligence (AI) has the potential to make very significant contributions to climate change mitigation. The complexity and scale of the challenge is broad. In this talk, I break down opportunities for AI to effect incremental and transformational change across multiple sectors, focusing on industries with large carbon footprints.
+  I highlight barriers and risks to the adoption of AI, including the carbon footprint
+  of AI usage worldwide. I focus on the multiple definitions (and ultimate importance)
+  of &quot;trust in AI&quot; and its impact on the integration of AI into complex
+  workflows.
 
-I highlight barriers and risks to the adoption of AI, including the carbon footprint of AI usage worldwide. I focus on the multiple definitions (and ultimate importance) of &quot;trust in AI&quot; and its impact on the integration of AI into complex workflows. 
-
-This talk is for AI practitioners looking to understand how AI fits into the bigger picture of climate change. I highlight opportunities and challenges in each sector that I hope will motivate collaboration across academia and industry."
-abstract: "Artificial intelligence (AI) has the potential to make very significant contributions to climate change mitigation. The complexity and scale of the challenge is broad. In this talk, I break down opportunities for AI to effect incremental and transformational change across multiple sectors, focusing on industries with large carbon footprints.
-
-I highlight barriers and risks to the adoption of AI, including the carbon footprint of AI usage worldwide. I focus on the multiple definitions (and ultimate importance) of &quot;trust in AI&quot; and its impact on the integration of AI into complex workflows. 
-
-This talk is for AI practitioners looking to understand how AI fits into the bigger picture of climate change. I highlight opportunities and challenges in each sector that I hope will motivate collaboration across academia and industry."
-socialmedia: "Artificial intelligence (AI) has the potential to make very significant contributions to climate change mitigation. The complexity and scale of the challenge is broad. In this talk, I break down opportunities for AI to effect incremental and transformational change across multiple sectors, focusing on industries with large carbon footprints.
-
-I highlight barriers and risks to the adoption of AI, including the carbon footprint of AI usage worldwide. I focus on the multiple definitions (and ultimate importance) of &quot;trust in AI&quot; and its impact on the integration of AI into complex workflows. 
-
-This talk is for AI practitioners looking to understand how AI fits into the bigger picture of climate change. I highlight opportunities and challenges in each sector that I hope will motivate collaboration across academia and industry."
+  This talk is for AI practitioners looking to understand how AI fits into the bigger
+  picture of climate change. I highlight opportunities and challenges in each sector
+  that I hope will motivate collaboration across academia and industry.'
+event_date: 2024-11-21
+event_location: ''
+event_time: '15:00'
+image: /images/posts/2024-11-14-2024-11-21-artificial-intelligence-for-climate-change-mitigation.jpg
+image_small: /images/posts/2024-11-14-2024-11-21-artificial-intelligence-for-climate-change-mitigation_small.jpg
 people:
 - Olof Mogren
 permalink: /events/2024-11-14-2024-11-21-artificial-intelligence-for-climate-change-mitigation
-event_date: 2024-11-21
-event_time: "15:00"
-event_location: ""
-image: /images/posts/2024-11-14-2024-11-21-artificial-intelligence-for-climate-change-mitigation.jpg
+socialmedia: 'Artificial intelligence (AI) has the potential to make very significant
+  contributions to climate change mitigation. The complexity and scale of the challenge
+  is broad. In this talk, I break down opportunities for AI to effect incremental
+  and transformational change across multiple sectors, focusing on industries with
+  large carbon footprints.
+
+  I highlight barriers and risks to the adoption of AI, including the carbon footprint
+  of AI usage worldwide. I focus on the multiple definitions (and ultimate importance)
+  of &quot;trust in AI&quot; and its impact on the integration of AI into complex
+  workflows.
+
+  This talk is for AI practitioners looking to understand how AI fits into the bigger
+  picture of climate change. I highlight opportunities and challenges in each sector
+  that I hope will motivate collaboration across academia and industry.'
+summary: 'Webinar with Alp Kucukelbir, Columbia University.
+
+  Artificial intelligence (AI) has the potential to make very significant contributions
+  to climate change mitigation. The complexity and scale of the challenge is broad.
+  In this talk, I break down opportunities for AI to effect incremental and transformational
+  change across multiple sectors, focusing on industries with large carbon footprints.
+
+  I highlight barriers and risks to the adoption of AI, including the carbon footprint
+  of AI usage worldwide. I focus on the multiple definitions (and ultimate importance)
+  of &quot;trust in AI&quot; and its impact on the integration of AI into complex
+  workflows.
+
+  This talk is for AI practitioners looking to understand how AI fits into the bigger
+  picture of climate change. I highlight opportunities and challenges in each sector
+  that I hope will motivate collaboration across academia and industry.'
+title: Artificial Intelligence for Climate Change Mitigation
 youtube: n4uzazl1g4A
---- 
+---
+
 Welcome to this week's Learning Machines seminar.
 
 This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
@@ -59,4 +87,3 @@ This talk is for AI practitioners looking to understand how AI fits into the big
 More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
 
 -- The Learning Machines Team
-

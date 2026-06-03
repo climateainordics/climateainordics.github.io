@@ -1,18 +1,46 @@
 ---
-title: "EarthShift: A new testbed for benchmarking robustnessGeospatial Foundation Models to real-world distribution shifts"
-summary: "Webinar with Kelsey Doerksen, University of Cape Town and Arizona State University. 
-
-Geospatial Foundation Models claim to offer powerful solutions to simplify and accelerate real-world problems, enabling the capabilities to monitor, analyze, and predict changes on our planet. Current Earth Observation benchmarks to quantify the performance of these models focus on measuring performance on diverse tasks and applications, typically measuring generalization in-distribution. However, when models are deployed, they must generalize to many out-of-distribution scenarios, such as new time periods, geographies, and sensors; and in many contexts, these models are brittle. We introduce EarthShift: the first public testbed for benchmarking robustness across multiple realistic distribution shifts encountered in remote sensing. EarthShift enables users to measure distributional robustness by comparing performance in- and out-of-distribution using datasets from paired data sources, temporal windows, geographic locations, and sensors. EarthShift provides a testbed to guide future work to create foundation models that are robust and reliable in real-world applications."
-abstract: "Geospatial Foundation Models claim to offer powerful solutions to simplify and accelerate real-world problems, enabling the capabilities to monitor, analyze, and predict changes on our planet. Current Earth Observation benchmarks to quantify the performance of these models focus on measuring performance on diverse tasks and applications, typically measuring generalization in-distribution. However, when models are deployed, they must generalize to many out-of-distribution scenarios, such as new time periods, geographies, and sensors; and in many contexts, these models are brittle. We introduce EarthShift: the first public testbed for benchmarking robustness across multiple realistic distribution shifts encountered in remote sensing. EarthShift enables users to measure distributional robustness by comparing performance in- and out-of-distribution using datasets from paired data sources, temporal windows, geographic locations, and sensors. EarthShift provides a testbed to guide future work to create foundation models that are robust and reliable in real-world applications."
+abstract: 'Geospatial Foundation Models claim to offer powerful solutions to simplify
+  and accelerate real-world problems, enabling the capabilities to monitor, analyze,
+  and predict changes on our planet. Current Earth Observation benchmarks to quantify
+  the performance of these models focus on measuring performance on diverse tasks
+  and applications, typically measuring generalization in-distribution. However, when
+  models are deployed, they must generalize to many out-of-distribution scenarios,
+  such as new time periods, geographies, and sensors; and in many contexts, these
+  models are brittle. We introduce EarthShift: the first public testbed for benchmarking
+  robustness across multiple realistic distribution shifts encountered in remote sensing.
+  EarthShift enables users to measure distributional robustness by comparing performance
+  in- and out-of-distribution using datasets from paired data sources, temporal windows,
+  geographic locations, and sensors. EarthShift provides a testbed to guide future
+  work to create foundation models that are robust and reliable in real-world applications.'
+event_date: 2026-05-28
+event_location: ''
+event_time: '15:00'
+image: /images/posts/2026-05-25-2026-05-28-earthshift-a-new-testbed-for-benchmarking.jpg
+image_small: /images/posts/2026-05-25-2026-05-28-earthshift-a-new-testbed-for-benchmarking_small.jpg
 people:
 - Olof Mogren
 permalink: /events/2026-05-25-2026-05-28-earthshift-a-new-testbed-for-benchmarking
-event_date: 2026-05-28
-event_time: "15:00"
-event_location: ""
-image: /images/posts/2026-05-25-2026-05-28-earthshift-a-new-testbed-for-benchmarking.jpg
-youtube: ""
---- 
+summary: 'Webinar with Kelsey Doerksen, University of Cape Town and Arizona State
+  University.
+
+  Geospatial Foundation Models claim to offer powerful solutions to simplify and accelerate
+  real-world problems, enabling the capabilities to monitor, analyze, and predict
+  changes on our planet. Current Earth Observation benchmarks to quantify the performance
+  of these models focus on measuring performance on diverse tasks and applications,
+  typically measuring generalization in-distribution. However, when models are deployed,
+  they must generalize to many out-of-distribution scenarios, such as new time periods,
+  geographies, and sensors; and in many contexts, these models are brittle. We introduce
+  EarthShift: the first public testbed for benchmarking robustness across multiple
+  realistic distribution shifts encountered in remote sensing. EarthShift enables
+  users to measure distributional robustness by comparing performance in- and out-of-distribution
+  using datasets from paired data sources, temporal windows, geographic locations,
+  and sensors. EarthShift provides a testbed to guide future work to create foundation
+  models that are robust and reliable in real-world applications.'
+title: 'EarthShift: A new testbed for benchmarking robustnessGeospatial Foundation
+  Models to real-world distribution shifts'
+youtube: ''
+---
+
 Welcome to this week's Learning Machines seminar.
 
 This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
@@ -41,6 +69,3 @@ This seminar is a collaboration between RISE and Climate AI Nordics -- [climatea
 More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
 
 -- The Learning Machines Team
-
-
-

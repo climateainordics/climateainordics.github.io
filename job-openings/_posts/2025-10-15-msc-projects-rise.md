@@ -1,14 +1,18 @@
 ---
-title: "Master's thesis projects in AI for Earth observation, ecology, and bioacoustics"
-summary: "We are looking for master's students for four exciting Master's thesis projects focusing on species distribution modeling with Earth observation and ML-based bioacoustic analysis. Join the RIDR group and contribute to cutting-edge research in collaboration with academic and wildlife management partners."
+image: /images/posts/2025-10-15-msc-projects.png
+image_small: /images/posts/2025-10-15-msc-projects_small.png
 people:
 - Olof Mogren
 - Aleksis Pirinen
 - John Martinsson
 - Delia Fano Yela
-permalink:
-image: /images/posts/2025-10-15-msc-projects.png
-youtube: ""
+permalink: null
+summary: We are looking for master's students for four exciting Master's thesis projects
+  focusing on species distribution modeling with Earth observation and ML-based bioacoustic
+  analysis. Join the RIDR group and contribute to cutting-edge research in collaboration
+  with academic and wildlife management partners.
+title: Master's thesis projects in AI for Earth observation, ecology, and bioacoustics
+youtube: ''
 ---
 
 The [RIDR (RISE Deep Learning Research) group](https://ridr.se) is offering several exciting Master's thesis opportunities for students passionate about applying artificial intelligence to real-world ecological challenges. These projects offer a chance to work with unique datasets, collaborate with interdisciplinary teams, and contribute to impactful research with the potential for publication.

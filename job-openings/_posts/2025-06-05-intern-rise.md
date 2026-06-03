@@ -1,11 +1,15 @@
 ---
-title: "Internship Opportunity at RISE Lund: Ecological Annotation of Drone Imagery"
-summary: "RISE Research Institutes of Sweden is looking for 1–2 motivated interns in Fall 2025 to annotate drone imagery for biodiversity AI research, supporting a collaborative project with Arla. Part-time (50%), based in Lund, and perfect for students in ecology, biology, or environmental science."
+image: /images/external-organizations-logos/rise-margins.png
+image_small: /images/external-organizations-logos/rise-margins_small.png
 people:
 - Aleksis Pirinen
-permalink:
-image: /images/external-organizations-logos/rise-margins.png
-youtube: ""
+permalink: null
+summary: RISE Research Institutes of Sweden is looking for 1–2 motivated interns in
+  Fall 2025 to annotate drone imagery for biodiversity AI research, supporting a collaborative
+  project with Arla. Part-time (50%), based in Lund, and perfect for students in ecology,
+  biology, or environmental science.
+title: 'Internship Opportunity at RISE Lund: Ecological Annotation of Drone Imagery'
+youtube: ''
 ---
 
 RISE Research Institutes of Sweden is offering an internship opportunity at its Lund office as part of a 2-year research project in collaboration with Arla.
@@ -42,4 +46,3 @@ No prior experience with remote sensing or drone imagery is required — trainin
 - Schedule: Flexible, allowing compatibility with ongoing studies
 
 Interested or have tips? Please contact [aleksis.pirinen@ri.se](mailto:aleksis.pirinen@ri.se).
-

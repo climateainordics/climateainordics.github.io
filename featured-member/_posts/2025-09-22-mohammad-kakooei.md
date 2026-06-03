@@ -1,11 +1,18 @@
 ---
-title: "Featured member, September 2025: Mohammad Kakooei"
-summary: "Mohammad is a researcher at the AI and Global Development Lab, specializing in applying machine learning to Earth Observation (EO). His work focuses on scalable and trustworthy AI models that use satellite data to tackle societal and environmental challenges, including poverty estimation, disaster management, and climate change impacts. He has held positions at KTH Royal Institute of Technology and Chalmers University of Technology, and collaborated internationally with partners such as Harvard University. His long-term vision is to advance AI–EO research for sustainability and the UN Sustainable Development Goals."
+image: /images/people/mohammad-kakooei.jpg
+image_small: /images/people/mohammad-kakooei_small.jpg
 people:
 - Mohammad Kakooei
-image: /images/people/mohammad-kakooei.jpg
+summary: Mohammad is a researcher at the AI and Global Development Lab, specializing
+  in applying machine learning to Earth Observation (EO). His work focuses on scalable
+  and trustworthy AI models that use satellite data to tackle societal and environmental
+  challenges, including poverty estimation, disaster management, and climate change
+  impacts. He has held positions at KTH Royal Institute of Technology and Chalmers
+  University of Technology, and collaborated internationally with partners such as
+  Harvard University. His long-term vision is to advance AI–EO research for sustainability
+  and the UN Sustainable Development Goals.
+title: 'Featured member, September 2025: Mohammad Kakooei'
 ---
-
 
 **Hi Mohammad! Tell us about yourself and your work.**
 

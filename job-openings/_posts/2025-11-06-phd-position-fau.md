@@ -1,11 +1,13 @@
 ---
-title: "PhD position in deep learning for glacier monitoring"
-summary: "A fully-funded 4-year PhD position in Germany focused on developing deep learning methods for glacier surface and bedrock detection."
-people:
-permalink:
+deadline: '2025-12-07'
 image: /images/external-organizations-logos/fau.png
-youtube: ""
-deadline: "2025-12-07"
+image_small: /images/external-organizations-logos/fau_small.png
+people: null
+permalink: null
+summary: A fully-funded 4-year PhD position in Germany focused on developing deep
+  learning methods for glacier surface and bedrock detection.
+title: PhD position in deep learning for glacier monitoring
+youtube: ''
 ---
 
 A fully-funded 4-year PhD position is available starting June 01, 2026, in Erlangen, Germany, as part of the M3OCCA program.

@@ -13,7 +13,7 @@ Welcome to our and our partners' events! To see a list of recordings from previo
 
 {% capture posts %}
   {% for post in site.categories.events %}
-    |||||{{post.event_date}}#####{{ post.event_time }}#####{{ post.title }}#####{{ post.image }}#####{{ post.summary }}#####{{ post.url  }}#####{{ post.youtube }}
+    |||||{{post.event_date}}#####{{ post.event_time }}#####{{ post.title }}#####{{ post.image_small }}#####{{ post.summary }}#####{{ post.url  }}#####{{ post.youtube }}
   {% endfor %}
 {% endcapture %}
 

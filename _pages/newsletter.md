@@ -15,7 +15,7 @@ The newsletter is distributed to all members of Climate AI Nordics.
 
 {% for p in site.categories.newsletter %}
 ## {{ p.title }}
-{% if p.image %}<img src="{{ p.image }}" style="float: right; width: 25%;" />{% endif %}
+{% if p.image_small %}<img src="{{ p.image_small }}" style="float: right; width: 25%;" />{% endif %}
 
 {{ p.summary }}
 

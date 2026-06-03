@@ -1,11 +1,14 @@
 ---
-title: "Junior researcher in machine learning"
-summary: "RISE is hiring a junior researcher in machine learning to develop AI-based tools for creating smarter, more sustainable cities and to help build a greener future."
-people:
-permalink:
+deadline: '2025-11-30'
 image: /images/external-organizations-logos/rise.png
-youtube: ""
-deadline: "2025-11-30"
+image_small: /images/external-organizations-logos/rise_small.png
+people: null
+permalink: null
+summary: RISE is hiring a junior researcher in machine learning to develop AI-based
+  tools for creating smarter, more sustainable cities and to help build a greener
+  future.
+title: Junior researcher in machine learning
+youtube: ''
 ---
 
 RISE is hiring a junior researcher in machine learning for climate adaptation.
@@ -17,4 +20,3 @@ Main duties include developing machine learning solutions, writing scientific ar
 The position is in-person, in Gothenburg, Sweden.
 
 [Apply here!](https://www.ri.se/sv/om-rise/jobba-hos-oss/lediga-jobb/junior-researcher-in-machine-learning)
-

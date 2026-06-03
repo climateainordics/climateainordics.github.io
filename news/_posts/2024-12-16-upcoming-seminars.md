@@ -1,8 +1,15 @@
 ---
-title: "Upcoming seminars"
-summary: "Climate AI Nordics will be hosting many seminars in 2025, featuring leading researchers exploring the role of AI in addressing climate change. Some speakers in the first quarter include Amal Nammouchi on leveraging large language models and deep reinforcement learning for trustworthy decision-making in energy management. Abdulhakim Abdi on the use of AI and Earth observation data to monitor ecosystems amid the biodiversity crisis. Atakan Aral on AI-driven environmental monitoring systems, and Sherrie Wang on AI applications in sustainable agriculture and climate mitigation. María J. Molina on AI's potential to predict extreme weather and inform climate strategies. Together uniting diverse perspectives on AI-driven climate solutions."
-abstract: "Climate AI Nordics will be hosting many seminars in 2025, featuring leading researchers exploring the role of AI in addressing climate change. Some speakers in the first quarter include Amal Nammouchi on leveraging large language models and deep reinforcement learning for trustworthy decision-making in energy management. Abdulhakim Abdi on the use of AI and Earth observation data to monitor ecosystems amid the biodiversity crisis. Atakan Aral on AI-driven environmental monitoring systems, and Sherrie Wang on AI applications in sustainable agriculture and climate mitigation. María J. Molina on AI's potential to predict extreme weather and inform climate strategies. Together uniting diverse perspectives on AI-driven climate solutions."
-socialmedia: "🌍✨ Climate AI Nordics kicks off 2025 with seminars featuring top researchers on AI's role in tackling climate change. Energy, ecosystems, agriculture, extreme weather—don't miss these inspiring talks!"
+abstract: Climate AI Nordics will be hosting many seminars in 2025, featuring leading
+  researchers exploring the role of AI in addressing climate change. Some speakers
+  in the first quarter include Amal Nammouchi on leveraging large language models
+  and deep reinforcement learning for trustworthy decision-making in energy management.
+  Abdulhakim Abdi on the use of AI and Earth observation data to monitor ecosystems
+  amid the biodiversity crisis. Atakan Aral on AI-driven environmental monitoring
+  systems, and Sherrie Wang on AI applications in sustainable agriculture and climate
+  mitigation. María J. Molina on AI's potential to predict extreme weather and inform
+  climate strategies. Together uniting diverse perspectives on AI-driven climate solutions.
+image: /images/posts/2024-12-16-upcoming-seminars.png
+image_small: /images/posts/2024-12-16-upcoming-seminars_small.png
 people:
 - Olof Mogren
 - Amal Nammouchi
@@ -10,7 +17,19 @@ people:
 - Atakan Aral
 - Sherrie Wang
 - María J. Molina
-image: /images/posts/2024-12-16-upcoming-seminars.png
+socialmedia: "\U0001F30D✨ Climate AI Nordics kicks off 2025 with seminars featuring
+  top researchers on AI's role in tackling climate change. Energy, ecosystems, agriculture,
+  extreme weather—don't miss these inspiring talks!"
+summary: Climate AI Nordics will be hosting many seminars in 2025, featuring leading
+  researchers exploring the role of AI in addressing climate change. Some speakers
+  in the first quarter include Amal Nammouchi on leveraging large language models
+  and deep reinforcement learning for trustworthy decision-making in energy management.
+  Abdulhakim Abdi on the use of AI and Earth observation data to monitor ecosystems
+  amid the biodiversity crisis. Atakan Aral on AI-driven environmental monitoring
+  systems, and Sherrie Wang on AI applications in sustainable agriculture and climate
+  mitigation. María J. Molina on AI's potential to predict extreme weather and inform
+  climate strategies. Together uniting diverse perspectives on AI-driven climate solutions.
+title: Upcoming seminars
 ---
 
 Climate AI Nordics is thrilled to announce coming seminars in early 2025, featuring researchers who are advancing the field of artificial intelligence addressing climate change. These seminars will explore AI applications for both climate change mitigation and adaptation, in alignment with our mission to foster work that address this pressing challenge.

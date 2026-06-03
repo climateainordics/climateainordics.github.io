@@ -1,11 +1,14 @@
 ---
-title: "Postdoc Deep Learning for Image-Based Biodiversity Surveys"
-summary: "NIBIO is seeking a postdoctoral researcher for developing deep learning and computer vision methods to analyze image-based biodiversity surveys, contributing to improved biodiversity monitoring in Europe."
-people:
-permalink:
-image: /images/external-organizations-logos/nibio.png
-youtube: ""
 deadline: May 27th, 2026
+image: /images/external-organizations-logos/nibio.png
+image_small: /images/external-organizations-logos/nibio_small.png
+people: null
+permalink: null
+summary: NIBIO is seeking a postdoctoral researcher for developing deep learning and
+  computer vision methods to analyze image-based biodiversity surveys, contributing
+  to improved biodiversity monitoring in Europe.
+title: Postdoc Deep Learning for Image-Based Biodiversity Surveys
+youtube: ''
 ---
 
 This position offers a central role in the NextBON project, a large Horizon Europe initiative coordinated by the University of Copenhagen involving over 20 leading institutions across Europe. The project aims to transform how biodiversity is monitored in Europe. The selected candidate will develop new methods in deep learning and computer vision to convert large photo and video datasets, alongside data from other sensors, into Essential Biodiversity Variables (EBVs).

@@ -1,11 +1,15 @@
 ---
-title: "Featured member, March 2026: Armi Tiihonen"
-summary: "Armi Tiihonen is an Assistant Professor at Chalmers University of Technology, in the Department of Mechanical Engineering. Her research focuses on the development of materials for more robust and stable solar cells, using approaches accelerated by machine learning and laboratory automation."
+image: /images/people/featured/ArmiTiihonen.png
+image_small: /images/people/featured/ArmiTiihonen_small.png
+image_width: 50%
+layout: single
 people:
 - Armi Tiihonen
-layout: single
-image: /images/people/featured/ArmiTiihonen.png
-image_width: 50%
+summary: Armi Tiihonen is an Assistant Professor at Chalmers University of Technology,
+  in the Department of Mechanical Engineering. Her research focuses on the development
+  of materials for more robust and stable solar cells, using approaches accelerated
+  by machine learning and laboratory automation.
+title: 'Featured member, March 2026: Armi Tiihonen'
 ---
 
 <br />

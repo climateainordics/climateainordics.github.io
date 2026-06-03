@@ -1,11 +1,15 @@
 ---
-title: "PhD Fellow in Machine Learning for Generative Emulators of the Arctic Ocean"
-summary: "The Nansen Environmental and Remote Sensing Center (NERSC) is offering a 3-year PhD fellowship focused on developing generative machine learning emulators to improve Arctic Ocean forecasting and investigate the reliability of data-driven climate models."
-people:
-permalink:
-image: /images/external-organizations-logos/nersc.png
-youtube: ""
 deadline: 2026-04-30
+image: /images/external-organizations-logos/nersc.png
+image_small: /images/external-organizations-logos/nersc_small.png
+people: null
+permalink: null
+summary: The Nansen Environmental and Remote Sensing Center (NERSC) is offering a
+  3-year PhD fellowship focused on developing generative machine learning emulators
+  to improve Arctic Ocean forecasting and investigate the reliability of data-driven
+  climate models.
+title: PhD Fellow in Machine Learning for Generative Emulators of the Arctic Ocean
+youtube: ''
 ---
 
 This 3-year PhD fellow position at the Nansen Environmental and Remote Sensing Center (NERSC) is connected to the Data Assimilation group and conducted in collaboration with the Sea Ice and Ocean Modelling groups. The project, titled "The reliability of generative emulators of the Arctic Ocean," aims to investigate how effectively the Arctic Ocean observing system can support building data-driven machine learning forecasts.
@@ -23,4 +27,4 @@ The position is based in Bergen, Norway, at the Nansen Center, a recognized envi
 
 **Deadline:** April 30th, 2026 
 
-[Apply through the official recruitment system](https://www.jobbnorge.no/en/available-jobs/job/298771/phd-fellow-in-machine-learning) 
+[Apply through the official recruitment system](https://www.jobbnorge.no/en/available-jobs/job/298771/phd-fellow-in-machine-learning)

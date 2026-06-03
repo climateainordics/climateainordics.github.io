@@ -1,11 +1,15 @@
 ---
-title: "Postdoc in Production Management: AI-driven Sustainability and Resilience"
-summary: "KTH Royal Institute of Technology is seeking a postdoctoral researcher in Production Management to investigate how AI and machine learning can support sustainable and resilient production systems, including circular manufacturing and green industrial transition."
-people:
-permalink:
-image: /images/external-organizations-logos/kth.png
-youtube: ""
 deadline: June 17th, 2026
+image: /images/external-organizations-logos/kth.png
+image_small: /images/external-organizations-logos/kth_small.png
+people: null
+permalink: null
+summary: KTH Royal Institute of Technology is seeking a postdoctoral researcher in
+  Production Management to investigate how AI and machine learning can support sustainable
+  and resilient production systems, including circular manufacturing and green industrial
+  transition.
+title: 'Postdoc in Production Management: AI-driven Sustainability and Resilience'
+youtube: ''
 ---
 
 This postdoctoral research position in Production Management focuses on applications of AI and related enabling technologies in manufacturing operations. The research addresses how AI and machine learning can support more sustainable and resilient production systems, including their role in decision-making for production planning, coordination of material flows, and management of uncertainty in complex industrial environments. Particular attention is given to the integration of AI into production contexts where human decision-makers remain central.

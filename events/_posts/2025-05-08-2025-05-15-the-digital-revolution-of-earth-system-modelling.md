@@ -1,18 +1,40 @@
 ---
-title: "The digital revolution of Earth system modelling"
-summary: "Webinar with Peter Dueben, European Centre for Medium-Range Weather Forecasts. 
-
-This talk will outline three revolutions that happened in Earth system modelling in the past decades. The quiet revolution has leveraged better observations and more compute power to allow for constant improvements of prediction quality of the last decades, the digital revolution has enabled us to perform km-scale simulations on modern supercomputers that further increase the quality of our models, and the machine learning revolution has now shown that machine-learned weather models are competitive with physics based weather models for many forecast scores while being easier, smaller and cheaper. This talk will summarize the past developments, explain current challenges and opportunities, and outline how the future of Earth system modelling will look like. In particular, regarding machine-learned foundation models in a physical domain such as Earth system modelling."
-abstract: "This talk will outline three revolutions that happened in Earth system modelling in the past decades. The quiet revolution has leveraged better observations and more compute power to allow for constant improvements of prediction quality of the last decades, the digital revolution has enabled us to perform km-scale simulations on modern supercomputers that further increase the quality of our models, and the machine learning revolution has now shown that machine-learned weather models are competitive with physics based weather models for many forecast scores while being easier, smaller and cheaper. This talk will summarize the past developments, explain current challenges and opportunities, and outline how the future of Earth system modelling will look like. In particular, regarding machine-learned foundation models in a physical domain such as Earth system modelling."
+abstract: This talk will outline three revolutions that happened in Earth system modelling
+  in the past decades. The quiet revolution has leveraged better observations and
+  more compute power to allow for constant improvements of prediction quality of the
+  last decades, the digital revolution has enabled us to perform km-scale simulations
+  on modern supercomputers that further increase the quality of our models, and the
+  machine learning revolution has now shown that machine-learned weather models are
+  competitive with physics based weather models for many forecast scores while being
+  easier, smaller and cheaper. This talk will summarize the past developments, explain
+  current challenges and opportunities, and outline how the future of Earth system
+  modelling will look like. In particular, regarding machine-learned foundation models
+  in a physical domain such as Earth system modelling.
+event_date: 2025-05-15
+event_location: ''
+event_time: '15:00'
+image: /images/posts/2025-05-08-2025-05-15-the-digital-revolution-of-earth-system-modelling.jpg
+image_small: /images/posts/2025-05-08-2025-05-15-the-digital-revolution-of-earth-system-modelling_small.jpg
 people:
 - Olof Mogren
 permalink: /events/2025-05-08-2025-05-15-the-digital-revolution-of-earth-system-modelling
-event_date: 2025-05-15
-event_time: "15:00"
-event_location: ""
-image: /images/posts/2025-05-08-2025-05-15-the-digital-revolution-of-earth-system-modelling.jpg
-youtube: "https://www.youtube.com/watch?v=vWaiFVLF_fw&list=PLqLiVcF3GKy0-jZFGg-VqLzh51LqCfduN"
---- 
+summary: 'Webinar with Peter Dueben, European Centre for Medium-Range Weather Forecasts.
+
+  This talk will outline three revolutions that happened in Earth system modelling
+  in the past decades. The quiet revolution has leveraged better observations and
+  more compute power to allow for constant improvements of prediction quality of the
+  last decades, the digital revolution has enabled us to perform km-scale simulations
+  on modern supercomputers that further increase the quality of our models, and the
+  machine learning revolution has now shown that machine-learned weather models are
+  competitive with physics based weather models for many forecast scores while being
+  easier, smaller and cheaper. This talk will summarize the past developments, explain
+  current challenges and opportunities, and outline how the future of Earth system
+  modelling will look like. In particular, regarding machine-learned foundation models
+  in a physical domain such as Earth system modelling.'
+title: The digital revolution of Earth system modelling
+youtube: https://www.youtube.com/watch?v=vWaiFVLF_fw&list=PLqLiVcF3GKy0-jZFGg-VqLzh51LqCfduN
+---
+
 Welcome to this week's Learning Machines seminar.
 
 This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
@@ -42,4 +64,3 @@ This seminar is a collaboration between RISE and Climate AI Nordics -- [climatea
 More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
 
 -- The Learning Machines Team
-

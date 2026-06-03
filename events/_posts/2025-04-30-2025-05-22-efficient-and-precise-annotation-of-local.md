@@ -1,25 +1,66 @@
 ---
-title: "Efficient and precise annotation of local structures in data"
-summary: "Webinar with John Martinsson, RISE and Lund University. 
+abstract: 'Machine learning models now help scientists analyze vast datasets across
+  every branch of science. These models typically improve with more data and larger
+  architectures, mainly through supervised learning. Both training and evaluation
+  therefore rely on labeled datasets. A main challenge is scaling the data labeling
+  effort to the volumes required, because it is costly and label quality can vary.
+  Methods that deliver inexpensive yet accurate labels are therefore essential.
 
-Machine learning models now help scientists analyze vast datasets across every branch of science. These models typically improve with more data and larger architectures, mainly through supervised learning. Both training and evaluation therefore rely on labeled datasets. A main challenge is scaling the data labeling effort to the volumes required, because it is costly and label quality can vary. Methods that deliver inexpensive yet accurate labels are therefore essential.
-
-This talk examines how to lower annotation cost and increase label quality when labeling local structures in data—for example, a local structure can be a sound event in an audio recording. By detecting the boundaries of such structures automatically, we let annotators focus on supplying concise textual descriptions for the content within those boundaries. In this setting we analyze a widely used labeling method for audio where fixed and equal length audio segments are labeled with presence or absence of an event class. We benchmark it against an oracle method that defines an upper bound, and propose adaptive labeling techniques that achieve higher‑quality labels for the studied datasets at a lower cost."
-abstract: "Machine learning models now help scientists analyze vast datasets across every branch of science. These models typically improve with more data and larger architectures, mainly through supervised learning. Both training and evaluation therefore rely on labeled datasets. A main challenge is scaling the data labeling effort to the volumes required, because it is costly and label quality can vary. Methods that deliver inexpensive yet accurate labels are therefore essential.
-
-This talk examines how to lower annotation cost and increase label quality when labeling local structures in data—for example, a local structure can be a sound event in an audio recording. By detecting the boundaries of such structures automatically, we let annotators focus on supplying concise textual descriptions for the content within those boundaries. In this setting we analyze a widely used labeling method for audio where fixed and equal length audio segments are labeled with presence or absence of an event class. We benchmark it against an oracle method that defines an upper bound, and propose adaptive labeling techniques that achieve higher‑quality labels for the studied datasets at a lower cost."
-socialmedia: "Machine learning models now help scientists analyze vast datasets across every branch of science. These models typically improve with more data and larger architectures, mainly through supervised learning. Both training and evaluation therefore rely on labeled datasets. A main challenge is scaling the data labeling effort to the volumes required, because it is costly and label quality can vary. Methods that deliver inexpensive yet accurate labels are therefore essential.
-
-This talk examines how to lower annotation cost and increase label quality when labeling local structures in data—for example, a local structure can be a sound event in an audio recording. By detecting the boundaries of such structures automatically, we let annotators focus on supplying concise textual descriptions for the content within those boundaries. In this setting we analyze a widely used labeling method for audio where fixed and equal length audio segments are labeled with presence or absence of an event class. We benchmark it against an oracle method that defines an upper bound, and propose adaptive labeling techniques that achieve higher‑quality labels for the studied datasets at a lower cost."
+  This talk examines how to lower annotation cost and increase label quality when
+  labeling local structures in data—for example, a local structure can be a sound
+  event in an audio recording. By detecting the boundaries of such structures automatically,
+  we let annotators focus on supplying concise textual descriptions for the content
+  within those boundaries. In this setting we analyze a widely used labeling method
+  for audio where fixed and equal length audio segments are labeled with presence
+  or absence of an event class. We benchmark it against an oracle method that defines
+  an upper bound, and propose adaptive labeling techniques that achieve higher‑quality
+  labels for the studied datasets at a lower cost.'
+event_date: 2025-05-22
+event_location: ''
+event_time: '15:00'
+image: /images/posts/2025-04-30-2025-05-22-efficient-and-precise-annotation-of-local.png
+image_small: /images/posts/2025-04-30-2025-05-22-efficient-and-precise-annotation-of-local_small.png
 people:
 - Olof Mogren
 permalink: /events/2025-04-30-2025-05-22-efficient-and-precise-annotation-of-local
-event_date: 2025-05-22
-event_time: "15:00"
-event_location: ""
-image: /images/posts/2025-04-30-2025-05-22-efficient-and-precise-annotation-of-local.png
-youtube: "https://www.youtube.com/watch?v=OKZDCabQ16w&list=PLqLiVcF3GKy1tuQFoDu5QKOM6S33t_4R1"
---- 
+socialmedia: 'Machine learning models now help scientists analyze vast datasets across
+  every branch of science. These models typically improve with more data and larger
+  architectures, mainly through supervised learning. Both training and evaluation
+  therefore rely on labeled datasets. A main challenge is scaling the data labeling
+  effort to the volumes required, because it is costly and label quality can vary.
+  Methods that deliver inexpensive yet accurate labels are therefore essential.
+
+  This talk examines how to lower annotation cost and increase label quality when
+  labeling local structures in data—for example, a local structure can be a sound
+  event in an audio recording. By detecting the boundaries of such structures automatically,
+  we let annotators focus on supplying concise textual descriptions for the content
+  within those boundaries. In this setting we analyze a widely used labeling method
+  for audio where fixed and equal length audio segments are labeled with presence
+  or absence of an event class. We benchmark it against an oracle method that defines
+  an upper bound, and propose adaptive labeling techniques that achieve higher‑quality
+  labels for the studied datasets at a lower cost.'
+summary: 'Webinar with John Martinsson, RISE and Lund University.
+
+  Machine learning models now help scientists analyze vast datasets across every branch
+  of science. These models typically improve with more data and larger architectures,
+  mainly through supervised learning. Both training and evaluation therefore rely
+  on labeled datasets. A main challenge is scaling the data labeling effort to the
+  volumes required, because it is costly and label quality can vary. Methods that
+  deliver inexpensive yet accurate labels are therefore essential.
+
+  This talk examines how to lower annotation cost and increase label quality when
+  labeling local structures in data—for example, a local structure can be a sound
+  event in an audio recording. By detecting the boundaries of such structures automatically,
+  we let annotators focus on supplying concise textual descriptions for the content
+  within those boundaries. In this setting we analyze a widely used labeling method
+  for audio where fixed and equal length audio segments are labeled with presence
+  or absence of an event class. We benchmark it against an oracle method that defines
+  an upper bound, and propose adaptive labeling techniques that achieve higher‑quality
+  labels for the studied datasets at a lower cost.'
+title: Efficient and precise annotation of local structures in data
+youtube: https://www.youtube.com/watch?v=OKZDCabQ16w&list=PLqLiVcF3GKy1tuQFoDu5QKOM6S33t_4R1
+---
+
 Welcome to this week's Learning Machines seminar.
 
 This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
@@ -51,4 +92,3 @@ This talk examines how to lower annotation cost and increase label quality when 
 More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
 
 -- The Learning Machines Team
-

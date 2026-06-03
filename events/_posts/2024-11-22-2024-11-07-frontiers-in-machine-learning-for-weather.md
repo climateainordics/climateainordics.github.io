@@ -1,19 +1,54 @@
 ---
-title: "Frontiers in machine learning for weather forecasting"
-summary: "Webinar with Joel Oskarsson, Linköping University. 
-
-Recent years have seen rapid progress in using machine learning models for weather forecasting. These models show impressive performance, matching or even outperforming existing physics-based models, while running in a fraction of the time. This is fundamentally and rapidly changing the landscape of weather forecasting today. In this talk I will discuss the factors that enabled this paradigm shift, the core machine learning methods used and the research questions at the bleeding edge of machine learning for weather. In particular I will focus on how current methods can be extended to regional and probabilistic forecasting. For regional forecasting I will showcase graph-based methods for building limited area weather forecasting models. I will also discuss how generative machine learning methods can enable probabilistic forecasting, giving much-needed estimates of uncertainty and allowing for predicting extreme weather events."
-abstract: "Recent years have seen rapid progress in using machine learning models for weather forecasting. These models show impressive performance, matching or even outperforming existing physics-based models, while running in a fraction of the time. This is fundamentally and rapidly changing the landscape of weather forecasting today. In this talk I will discuss the factors that enabled this paradigm shift, the core machine learning methods used and the research questions at the bleeding edge of machine learning for weather. In particular I will focus on how current methods can be extended to regional and probabilistic forecasting. For regional forecasting I will showcase graph-based methods for building limited area weather forecasting models. I will also discuss how generative machine learning methods can enable probabilistic forecasting, giving much-needed estimates of uncertainty and allowing for predicting extreme weather events."
-socialmedia: "Recent years have seen rapid progress in using machine learning models for weather forecasting. These models show impressive performance, matching or even outperforming existing physics-based models, while running in a fraction of the time. This is fundamentally and rapidly changing the landscape of weather forecasting today. In this talk I will discuss the factors that enabled this paradigm shift, the core machine learning methods used and the research questions at the bleeding edge of machine learning for weather. In particular I will focus on how current methods can be extended to regional and probabilistic forecasting. For regional forecasting I will showcase graph-based methods for building limited area weather forecasting models. I will also discuss how generative machine learning methods can enable probabilistic forecasting, giving much-needed estimates of uncertainty and allowing for predicting extreme weather events."
+abstract: Recent years have seen rapid progress in using machine learning models for
+  weather forecasting. These models show impressive performance, matching or even
+  outperforming existing physics-based models, while running in a fraction of the
+  time. This is fundamentally and rapidly changing the landscape of weather forecasting
+  today. In this talk I will discuss the factors that enabled this paradigm shift,
+  the core machine learning methods used and the research questions at the bleeding
+  edge of machine learning for weather. In particular I will focus on how current
+  methods can be extended to regional and probabilistic forecasting. For regional
+  forecasting I will showcase graph-based methods for building limited area weather
+  forecasting models. I will also discuss how generative machine learning methods
+  can enable probabilistic forecasting, giving much-needed estimates of uncertainty
+  and allowing for predicting extreme weather events.
+event_date: 2024-11-07
+event_location: ''
+event_time: '15:00'
+image: /images/posts/2024-11-22-2024-11-07-frontiers-in-machine-learning-for-weather.jpg
+image_small: /images/posts/2024-11-22-2024-11-07-frontiers-in-machine-learning-for-weather_small.jpg
 people:
 - Olof Mogren
 permalink: /events/2024-11-22-2024-11-07-frontiers-in-machine-learning-for-weather
-event_date: 2024-11-07
-event_time: "15:00"
-event_location: ""
-image: /images/posts/2024-11-22-2024-11-07-frontiers-in-machine-learning-for-weather.jpg
+socialmedia: Recent years have seen rapid progress in using machine learning models
+  for weather forecasting. These models show impressive performance, matching or even
+  outperforming existing physics-based models, while running in a fraction of the
+  time. This is fundamentally and rapidly changing the landscape of weather forecasting
+  today. In this talk I will discuss the factors that enabled this paradigm shift,
+  the core machine learning methods used and the research questions at the bleeding
+  edge of machine learning for weather. In particular I will focus on how current
+  methods can be extended to regional and probabilistic forecasting. For regional
+  forecasting I will showcase graph-based methods for building limited area weather
+  forecasting models. I will also discuss how generative machine learning methods
+  can enable probabilistic forecasting, giving much-needed estimates of uncertainty
+  and allowing for predicting extreme weather events.
+summary: 'Webinar with Joel Oskarsson, Linköping University.
+
+  Recent years have seen rapid progress in using machine learning models for weather
+  forecasting. These models show impressive performance, matching or even outperforming
+  existing physics-based models, while running in a fraction of the time. This is
+  fundamentally and rapidly changing the landscape of weather forecasting today. In
+  this talk I will discuss the factors that enabled this paradigm shift, the core
+  machine learning methods used and the research questions at the bleeding edge of
+  machine learning for weather. In particular I will focus on how current methods
+  can be extended to regional and probabilistic forecasting. For regional forecasting
+  I will showcase graph-based methods for building limited area weather forecasting
+  models. I will also discuss how generative machine learning methods can enable probabilistic
+  forecasting, giving much-needed estimates of uncertainty and allowing for predicting
+  extreme weather events.'
+title: Frontiers in machine learning for weather forecasting
 youtube: b2B9DYpFprc
---- 
+---
+
 Welcome to this week's Learning Machines seminar.
 
 This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
@@ -43,4 +78,3 @@ This seminar is a collaboration between RISE and Climate AI Nordics -- [climatea
 More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
 
 -- The Learning Machines Team
-

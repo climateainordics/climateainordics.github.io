@@ -1,11 +1,13 @@
 ---
-title: "Researcher in coastal environmental hazards"
-summary: "Permanent position at NERSC (Bergen) focusing on marine ecosystem assessment, optical remote sensing, and machine learning."
-people:
-permalink:
+deadline: '2025-12-07'
 image: /images/external-organizations-logos/nersc.png
-youtube: ""
-deadline: "2025-12-07"
+image_small: /images/external-organizations-logos/nersc_small.png
+people: null
+permalink: null
+summary: Permanent position at NERSC (Bergen) focusing on marine ecosystem assessment,
+  optical remote sensing, and machine learning.
+title: Researcher in coastal environmental hazards
+youtube: ''
 ---
 
 The Nansen Environmental and Remote Sensing Center (NERSC) in Bergen, Norway, is seeking a researcher with expertise in marine ecosystem assessment, optical remote sensing, and machine learning.

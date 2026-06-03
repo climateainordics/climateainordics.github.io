@@ -1,11 +1,15 @@
 ---
-title: "Research Scientist (Postdoc) - Remote Sensing"
-summary: 'Natural Resources Institute Finland (Luke) is hiring a postdoctoral researcher for the "Digital Twin of Boreal Forest Structure" project, focusing on developing machine learning methods for large-scale, tree-level forest mapping using remote sensing data for biodiversity.'
-people:
-permalink:
-image: /images/external-organizations-logos/luke.png
-youtube: ""
 deadline: April 22nd, 2026
+image: /images/external-organizations-logos/luke.png
+image_small: /images/external-organizations-logos/luke_small.png
+people: null
+permalink: null
+summary: Natural Resources Institute Finland (Luke) is hiring a postdoctoral researcher
+  for the "Digital Twin of Boreal Forest Structure" project, focusing on developing
+  machine learning methods for large-scale, tree-level forest mapping using remote
+  sensing data for biodiversity.
+title: Research Scientist (Postdoc) - Remote Sensing
+youtube: ''
 ---
 
 This postdoctoral position at Natural Resources Institute Finland (Luke) is part of the “Digital Twin of Boreal Forest Structure with Remote Sensing and Forest Inventories (DigiTForest)” project, funded by the Academy of Finland. The objective is to develop methods for large-scale tree-level mapping of forests, with a special focus on biodiversity, using remote sensing data such as airborne laser scanning. The postdoctoral researcher will be supervised by Dr. Joel Kostensalo and will collaborate closely with Luke’s remote sensing experts and project collaborators from Sweden, Norway, and Canada. This work includes research visits to international collaborators.

@@ -1,11 +1,17 @@
 ---
-title: "Early-career computer scientist: AI tools for data extraction in sustainable development"
-summary: "Stockholm Environment Institute (SEI) is seeking an early-career computer scientist to develop AI tools for data extraction and classification in sustainable development research. The role involves maintaining AI-driven pipelines, fine-tuning language models, and collaborating with multidisciplinary teams to integrate AI into evidence synthesis and policy-relevant projects."
-people:
-permalink:
-image: /images/external-organizations-logos/stockholm-env-institute.png
-youtube: ""
 deadline: 2026-01-08
+image: /images/external-organizations-logos/stockholm-env-institute.png
+image_small: /images/external-organizations-logos/stockholm-env-institute_small.png
+people: null
+permalink: null
+summary: Stockholm Environment Institute (SEI) is seeking an early-career computer
+  scientist to develop AI tools for data extraction and classification in sustainable
+  development research. The role involves maintaining AI-driven pipelines, fine-tuning
+  language models, and collaborating with multidisciplinary teams to integrate AI
+  into evidence synthesis and policy-relevant projects.
+title: 'Early-career computer scientist: AI tools for data extraction in sustainable
+  development'
+youtube: ''
 ---
 
 Become part of Stockholm Environment Institute (SEI), an international non-profit research institute tackling global environment and sustainable development challenges. SEI empowers partners through cutting-edge research, knowledge,

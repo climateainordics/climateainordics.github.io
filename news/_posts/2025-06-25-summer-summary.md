@@ -1,11 +1,15 @@
 ---
-title: "Climate AI Nordics first 9 months"
-summary: "From pioneering AI models for weather and biodiversity to our first Nordic Workshop on AI for Climate Change, the Climate AI Nordics community has grown and thrived over the past 9 months. Here's a look back at our webinars, newsletters, and key milestones."
-people: 
-- Olof Mogren
-permalink:
 image: /images/posts/2025-06-25-summer-summary.png
-youtube:
+image_small: /images/posts/2025-06-25-summer-summary_small.png
+people:
+- Olof Mogren
+permalink: null
+summary: From pioneering AI models for weather and biodiversity to our first Nordic
+  Workshop on AI for Climate Change, the Climate AI Nordics community has grown and
+  thrived over the past 9 months. Here's a look back at our webinars, newsletters,
+  and key milestones.
+title: Climate AI Nordics first 9 months
+youtube: null
 ---
 
 In October 2024 we started **Climate AI Nordics**, and we have been amazed at what we have achieved together with you all. We will now take a summer break, and there will be no newsletter in July. [We will resume the webinars on August 28](https://climateainordics.com/events/2025-06-16-2025-08-28-debiasing-ai-predictions-for-causal-inference).
@@ -38,4 +42,3 @@ Our newsletters aim to inform and connect—amplifying your successes, sharing c
 
 
 Thank you for being part of this amazing and growing community. We are proud of what we've built together—and excited for what's ahead!
-

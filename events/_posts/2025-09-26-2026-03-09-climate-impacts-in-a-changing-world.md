@@ -1,14 +1,18 @@
 ---
-title: "International Conference: Climate Impacts in a Changing World 2026"
-summary: "The Swedish Centre for Impacts of Climate Extremes (CLIMES) invites abstract submissions for the international conference Climate Impacts in a Changing World 2026, held in Uppsala on March 9–11, 2026. The event fosters interdisciplinary dialogue on the wide-ranging impacts of climate extremes on human and natural systems."
-people:
-- Stefan Döring
 event_date: 2026-03-09
 event_date_end: 2026-03-11
-event_time: ""
-event_location: "Central Uppsala, Sweden"
+event_location: Central Uppsala, Sweden
+event_time: ''
 image: /images/partners/climes.png
-youtube: ""
+image_small: /images/partners/climes_small.png
+people:
+- Stefan Döring
+summary: The Swedish Centre for Impacts of Climate Extremes (CLIMES) invites abstract
+  submissions for the international conference Climate Impacts in a Changing World
+  2026, held in Uppsala on March 9–11, 2026. The event fosters interdisciplinary dialogue
+  on the wide-ranging impacts of climate extremes on human and natural systems.
+title: 'International Conference: Climate Impacts in a Changing World 2026'
+youtube: ''
 ---
 
 Abstract submission will open on **29 September 2025** for the international conference **Climate Impacts in a Changing World 2026**, scheduled for **March 9–11, 2026**, in Uppsala, Sweden.
@@ -31,4 +35,3 @@ The conference is organised by the **Swedish Centre for Impacts of Climate Extre
 Gabriele Messori, Frank Biermann, Emily Boyd, Giuliano Di Baldassarre, Stefan Döring, Emmanouil Flaounas, Samira Khodayar, Joakim Nivre, Elena Raffetti, Claudia Teutschbein.  
 
 [Read more on climes.se](https://www.climes.se/event/impactsconference/)
-

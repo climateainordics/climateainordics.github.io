@@ -1,12 +1,16 @@
 ---
-title: "PhD in Remote Sensing of Vegetation Structure in Landscapes under Transformative Change"
-summary: "Aarhus University (Denmark) is hiring a PhD student in remote sensing of vegetation structure, focusing on monitoring biodiversity and sustainability in managed and natural landscapes under transformative change."
+image: /images/external-organizations-logos/aarhus.png
+image_small: /images/external-organizations-logos/aarhus_small.png
 people:
 - Aleksis Pirinen
-permalink: 
-image: /images/external-organizations-logos/aarhus.png
-youtube: ""
---- 
+permalink: null
+summary: Aarhus University (Denmark) is hiring a PhD student in remote sensing of
+  vegetation structure, focusing on monitoring biodiversity and sustainability in
+  managed and natural landscapes under transformative change.
+title: PhD in Remote Sensing of Vegetation Structure in Landscapes under Transformative
+  Change
+youtube: ''
+---
 
 Aarhus University’s **Graduate School of Natural Sciences** is offering a **PhD position in remote sensing of vegetation structure in landscapes under transformative change**.  
 The project is available from February 2025 or later within the Biology programme, supervised by **Professor Signe Normand** and **Tenure Track Assistant Professor Fabian Daniel Schneider**.
@@ -36,4 +40,4 @@ Strong writing skills, interdisciplinary collaboration, and enthusiasm for susta
 - Deadline: **1 November 2025 at 23:59 CET**  
 - Apply via [phd.nat.au.dk](https://phd.nat.au.dk/for-applicants/open-calls/november-2025/phd-in-remote-sensing-of-vegetation-structure-in-landscapes-under-transformative-change)  
 
-The hired PhD student will be based in Aarhus, Denmark.  
+The hired PhD student will be based in Aarhus, Denmark.

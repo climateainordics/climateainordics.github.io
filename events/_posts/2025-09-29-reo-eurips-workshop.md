@@ -1,14 +1,16 @@
 ---
-title: "Workshop on Advances in Representation Learning for Earth Observation (REO) at EurIPS 2025"
-summary: "The REO workshop will take place in Copenhagen, Denmark, Dec 6th. (Co-located with EurIPS)!"
+event_date: 2025-12-06
+event_location: Bella Center, Copenhagen
+image: /images/posts/2025-REO-Eurips-workshop-call.jpeg
+image_small: /images/posts/2025-REO-Eurips-workshop-call_small.jpeg
 people:
 - Hui Zhang
 - Nico Lang
-event_date: 2025-12-06
-#event_time: "09:00-17:00"
-event_location: "Bella Center, Copenhagen"
-image: /images/posts/2025-REO-Eurips-workshop-call.jpeg
-youtube: ""
+summary: The REO workshop will take place in Copenhagen, Denmark, Dec 6th. (Co-located
+  with EurIPS)!
+title: Workshop on Advances in Representation Learning for Earth Observation (REO)
+  at EurIPS 2025
+youtube: ''
 ---
 
 The REO workshop will take place in Copenhagen, Denmark, Dec 6th (Co-located with EurIPS)!

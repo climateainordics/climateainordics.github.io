@@ -1,12 +1,20 @@
 ---
-title: "Climate AI Nordics launches official YouTube channel"
-summary: "To celebrate our one-year anniversary, Climate AI Nordics is launching a new YouTube channel dedicated to sharing knowledge within the AI and climate community. The channel features a complete set of recordings from the inaugural Nordic Workshop on AI for Climate Change held in Gothenburg this past May. In addition to workshop content, viewers can access an extensive library of past webinars covering topics such as biodiversity monitoring, weather forecasting, and Earth system modelling. We invite researchers and practitioners to explore these valuable resources and join us as we look forward to another year of collaboration and innovation."
-people: 
+image: /images/posts/youtube-channel.png
+image_small: /images/posts/youtube-channel_small.png
+people:
 - Olof Mogren
 - Aleksis Pirinen
-permalink:
-image: /images/posts/youtube-channel.png
-youtube:
+permalink: null
+summary: To celebrate our one-year anniversary, Climate AI Nordics is launching a
+  new YouTube channel dedicated to sharing knowledge within the AI and climate community.
+  The channel features a complete set of recordings from the inaugural Nordic Workshop
+  on AI for Climate Change held in Gothenburg this past May. In addition to workshop
+  content, viewers can access an extensive library of past webinars covering topics
+  such as biodiversity monitoring, weather forecasting, and Earth system modelling.
+  We invite researchers and practitioners to explore these valuable resources and
+  join us as we look forward to another year of collaboration and innovation.
+title: Climate AI Nordics launches official YouTube channel
+youtube: null
 ---
 
 🔴 We’re Live!
@@ -42,4 +50,3 @@ This YouTube channel is just one more way we are connecting the Nordic AI/Climat
 [👉 Click here to visit the channel and subscribe!](https://youtube.com/@climateainordics/)
 
 A special thank you to RISE Research Institutes of Sweden for sponsoring our work, and to all the speakers who have made this first year a resounding success.
-

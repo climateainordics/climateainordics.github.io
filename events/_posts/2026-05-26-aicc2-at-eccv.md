@@ -1,7 +1,8 @@
 ---
-title: "2nd Workshop on AI for Climate and Conservation (AICC-2) at ECCV 2026"
-summary: "Climate AI Nordics is glad to announce that the [2nd Workshop on AI for Climate and Conservation (AICC-)](https://sites.google.com/g.harvard.edu/aicc2eccv26/) has been accepted at
-[ECCV 2026](https://eccv.ecva.net/)! The AICC-2 workshop will take place in Malmö, Sweden, Sep 8th or 9th (TBD)."
+event_date: 2026-09-08
+event_location: Malmö
+image: /images/posts/aicc2-announcement.png
+image_small: /images/posts/aicc2-announcement_small.png
 people:
 - Aleksis Pirinen
 - Ankit Kariryaa
@@ -10,11 +11,12 @@ people:
 - Isabelle Tingzon
 - Lucia Gordon
 - Olof Mogren
-event_date: 2026-09-08
-#event_time: "09:00-17:00"
-event_location: "Malmö"
-image: /images/posts/aicc2-announcement.png
-youtube: ""
+summary: Climate AI Nordics is glad to announce that the [2nd Workshop on AI for Climate
+  and Conservation (AICC-)](https://sites.google.com/g.harvard.edu/aicc2eccv26/) has
+  been accepted at [ECCV 2026](https://eccv.ecva.net/)! The AICC-2 workshop will take
+  place in Malmö, Sweden, Sep 8th or 9th (TBD).
+title: 2nd Workshop on AI for Climate and Conservation (AICC-2) at ECCV 2026
+youtube: ''
 ---
 
 Climate AI Nordics is glad to announce that the [2nd Workshop on AI for Climate and Conservation (AICC-)](https://sites.google.com/g.harvard.edu/aicc2eccv26/) has been accepted at

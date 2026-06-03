@@ -1,12 +1,15 @@
 ---
-title: "Doctoral student in accelerated solar cell materials exploration"
-summary: "Chalmers University of Technology is recruiting a PhD student to optimize the stability of perovskite solar cells using automated and data-driven approaches."
-people:
-permalink:
-image: /images/external-organizations-logos/chalmers.png
-youtube: ""
 deadline: 2026-03-08
+image: /images/external-organizations-logos/chalmers.png
+image_small: /images/external-organizations-logos/chalmers_small.png
+people: null
+permalink: null
+summary: Chalmers University of Technology is recruiting a PhD student to optimize
+  the stability of perovskite solar cells using automated and data-driven approaches.
+title: Doctoral student in accelerated solar cell materials exploration
+youtube: ''
 ---
+
 Sustainable energy and accelerated laboratory approaches are two frontier research areas. Improving solar cell stability is key to achieving more efficient and durable energy solutions.  
 
 The Department of Industrial and Materials Science at Chalmers University of Technology is recruiting a PhD student to improve solar cells by combining optimization approaches (machine learning/statistics-based) with laboratory synthesis work. The position offers interdisciplinary training, including both experimental and computational work, and is ideal for students interested in the intersection of materials science, machine learning, and laboratory automation.  

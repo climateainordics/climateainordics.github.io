@@ -1,12 +1,18 @@
 ---
-title: "Open position: Associate Professor or Assistant Professor in Satellite Remote Sensing"
-summary: "Chalmers University of Technology is hiring an Assistant or Associate Professor in Satellite Remote Sensing to join its leading Geoscience and Remote Sensing Division. The role focuses on advancing satellite-based Earth observation through research, teaching, and collaboration across academia and industry. Applications are open until 24 August 2025."
+image: /images/external-organizations-logos/chalmers.png
+image_small: /images/external-organizations-logos/chalmers_small.png
 people:
 - Olof Mogren
-permalink: 
-image: /images/external-organizations-logos/chalmers.png
-youtube: ""
---- 
+permalink: null
+summary: Chalmers University of Technology is hiring an Assistant or Associate Professor
+  in Satellite Remote Sensing to join its leading Geoscience and Remote Sensing Division.
+  The role focuses on advancing satellite-based Earth observation through research,
+  teaching, and collaboration across academia and industry. Applications are open
+  until 24 August 2025.
+title: 'Open position: Associate Professor or Assistant Professor in Satellite Remote
+  Sensing'
+youtube: ''
+---
 
 Chalmers University of Technology is hiring a new faculty member (open rank) in Satellite Remote Sensing to strengthen Earth observation science and innovation.
 The position is based at the Geoscience and Remote Sensing Division, a world-class hub integrating satellite data, instrumentation, retrieval methods, and climate applications.

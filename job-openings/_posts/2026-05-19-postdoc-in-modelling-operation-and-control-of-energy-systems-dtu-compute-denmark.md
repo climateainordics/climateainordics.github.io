@@ -1,11 +1,14 @@
 ---
-title: "Postdoc in Modelling, Operation, and Control of Energy Systems – DTU Compute"
-summary: "DTU Compute is seeking a postdoctoral researcher to develop AI-driven solutions for modelling, operating, and controlling sustainable energy systems, focusing on forecasting, optimization, and state estimation for energy production and consumption."
-people:
-permalink:
-image: /images/external-organizations-logos/dtu.png
-youtube: ""
 deadline: May 21st, 2026
+image: /images/external-organizations-logos/dtu.png
+image_small: /images/external-organizations-logos/dtu_small.png
+people: null
+permalink: null
+summary: DTU Compute is seeking a postdoctoral researcher to develop AI-driven solutions
+  for modelling, operating, and controlling sustainable energy systems, focusing on
+  forecasting, optimization, and state estimation for energy production and consumption.
+title: Postdoc in Modelling, Operation, and Control of Energy Systems – DTU Compute
+youtube: ''
 ---
 
 The Section for Dynamical Systems at DTU Compute is looking for a postdoctoral researcher to join projects in the domain of energy. The projects aim to provide innovative and sustainable solutions for energy systems modelling, forecasting, state estimation, and optimization of energy production, distribution, and consumption. This work will improve energy performance in buildings, support renewable energy resources, and add value to demand-side management through new opportunities for flexibility.

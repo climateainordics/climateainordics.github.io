@@ -17,7 +17,7 @@ Welcome to our list of recordings from previous talks!
 {% capture posts %}
   {% for post in site.categories.events %}
     {% unless post.youtube == blank %}
-    |||||{{post.event_date}}#####{{ post.event_time }}#####{{ post.title }}#####{{ post.image }}#####{{ post.summary }}#####{{ post.url  }}#####{{ post.youtube }}
+    |||||{{post.event_date}}#####{{ post.event_time }}#####{{ post.title }}#####{{ post.image_small }}#####{{ post.summary }}#####{{ post.url  }}#####{{ post.youtube }}
     {% endunless %}
   {% endfor %}
 {% endcapture %}

@@ -1,12 +1,14 @@
 ---
-title: "PhD position: Data-driven insights of human adaptability to climate change"
-summary: "The IT University (ITU) of Copenhagen is hiring a PhD student within the project “ClimateAdapt: Human adaptability to climate change”, which
-is funded by the Independent Research Fund Denmark."
-people:
-permalink:
-image: /images/external-organizations-logos/ITU_copenhagen.png
-youtube: ""
 deadline: 2026-01-11
+image: /images/external-organizations-logos/ITU_copenhagen.png
+image_small: /images/external-organizations-logos/ITU_copenhagen_small.png
+people: null
+permalink: null
+summary: 'The IT University (ITU) of Copenhagen is hiring a PhD student within the
+  project “ClimateAdapt: Human adaptability to climate change”, which is funded by
+  the Independent Research Fund Denmark.'
+title: 'PhD position: Data-driven insights of human adaptability to climate change'
+youtube: ''
 ---
 
 The IT University (ITU) of Copenhagen is hiring a PhD student within the project “ClimateAdapt: Human adaptability to climate change”, which

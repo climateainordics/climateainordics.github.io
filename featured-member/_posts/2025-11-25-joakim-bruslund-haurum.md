@@ -1,11 +1,19 @@
 ---
-title: "Featured member, November 2025: Joakim Bruslund Haurum"
-summary: "Joakim Bruslund Haurum, an Assistant Professor at the University of Southern Denmark’s new Vejle Campus and the Pioneer Centre for AI, is the featured member for November 2025. He is a Computer Vision researcher specializing in expert tasks, balancing pure research on algorithms with applied work in infrastructure inspection and biodiversity monitoring. Beyond his studies on hierarchical data, Joakim engages with the scientific community (and with Climate AI Nordics) by co-organizing events like the AI for Climate and Conservation workshop at EurIPS. He is currently seeking collaborations with others interested in solving challenges related to messy data in expert domains."
+image: /images/people/featured/bruslund.jpg
+image_small: /images/people/featured/bruslund_small.jpg
 people:
 - Joakim Bruslund Haurum
-image: /images/people/featured/bruslund.jpg
+summary: Joakim Bruslund Haurum, an Assistant Professor at the University of Southern
+  Denmark’s new Vejle Campus and the Pioneer Centre for AI, is the featured member
+  for November 2025. He is a Computer Vision researcher specializing in expert tasks,
+  balancing pure research on algorithms with applied work in infrastructure inspection
+  and biodiversity monitoring. Beyond his studies on hierarchical data, Joakim engages
+  with the scientific community (and with Climate AI Nordics) by co-organizing events
+  like the AI for Climate and Conservation workshop at EurIPS. He is currently seeking
+  collaborations with others interested in solving challenges related to messy data
+  in expert domains.
+title: 'Featured member, November 2025: Joakim Bruslund Haurum'
 ---
-
 
 **Hi Joakim! Tell us about yourself and your work.**
 
@@ -26,4 +34,3 @@ Feel free to reach out to me on any of the following channels!
 * LinkedIN: [https://www.linkedin.com/in/joakimhaurum/](https://www.linkedin.com/in/joakimhaurum/)
 * Twitter: [@jbhaurum](https://x.com/jbhaurum)
 * Bsky: [@jbhaurum.bsky.social](https://bsky.app/profile/jbhaurum.bsky.social)
-

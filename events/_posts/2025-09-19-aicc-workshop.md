@@ -1,7 +1,8 @@
 ---
-title: "Workshop on AI for Climate and Conservation (AICC) at EurIPS 2025"
-summary: "Climate AI Nordics is excited to announce that the [Workshop on AI for Climate and Conservation (AICC)](https://sites.google.com/g.harvard.edu/aicceurips) has been accepted for
-[EurIPS 2025](https://eurips.cc/workshops/)! The AICC workshop will take place in Copenhagen, Denmark, Dec 6th! (Co-located with EurIPS)."
+event_date: 2025-12-06
+event_location: Bella Center, Copenhagen
+image: /images/posts/aicc-image.jpg
+image_small: /images/posts/aicc-image_small.jpg
 people:
 - Joakim B. Haurum
 - Nico Lang
@@ -9,11 +10,12 @@ people:
 - Isabelle Tingzon
 - Lucia Gordon
 - Aleksis Pirinen
-event_date: 2025-12-06
-#event_time: "09:00-17:00"
-event_location: "Bella Center, Copenhagen"
-image: /images/posts/aicc-image.jpg
-youtube: ""
+summary: Climate AI Nordics is excited to announce that the [Workshop on AI for Climate
+  and Conservation (AICC)](https://sites.google.com/g.harvard.edu/aicceurips) has
+  been accepted for [EurIPS 2025](https://eurips.cc/workshops/)! The AICC workshop
+  will take place in Copenhagen, Denmark, Dec 6th! (Co-located with EurIPS).
+title: Workshop on AI for Climate and Conservation (AICC) at EurIPS 2025
+youtube: ''
 ---
 
 Climate AI Nordics is excited to announce that the [Workshop on AI for Climate and Conservation (AICC)](https://sites.google.com/g.harvard.edu/aicceurips) has been accepted for

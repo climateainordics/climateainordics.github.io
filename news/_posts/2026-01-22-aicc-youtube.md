@@ -1,7 +1,6 @@
 ---
-title: "Recordings from AICC at EurIPS 2025 now available on YouTube!"
-summary: "We're happy to announce that the video recordings of the invited talks at the [AICC workshop](https://sites.google.com/g.harvard.edu/aicceurips) at EurIPS 2025 are now [available on our YouTube channel](https://www.youtube.com/watch?v=FjTlhcIBKn4&list=PL6JkQH3tvn4SPEkEpC8ATiUQXHvB871PX) - check them out!"
 image: /images/posts/aicc-final.png
+image_small: /images/posts/aicc-final_small.png
 people:
 - Nico Lang
 - Ankit Kariryaa
@@ -9,6 +8,11 @@ people:
 - Lucia Gordon
 - Joakim Bruslund Haurum
 - Isabelle Tingzon
+summary: We're happy to announce that the video recordings of the invited talks at
+  the [AICC workshop](https://sites.google.com/g.harvard.edu/aicceurips) at EurIPS
+  2025 are now [available on our YouTube channel](https://www.youtube.com/watch?v=FjTlhcIBKn4&list=PL6JkQH3tvn4SPEkEpC8ATiUQXHvB871PX)
+  - check them out!
+title: Recordings from AICC at EurIPS 2025 now available on YouTube!
 ---
 
 <br />

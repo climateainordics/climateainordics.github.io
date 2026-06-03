@@ -1,6 +1,6 @@
 ---
-title: "Several climate related workshops at ECCV 2026"
-summary: "ECCV 2026 in Malmö features as many as 93 workshops, several of which are related to climate and environment and Earth observation, highlighting a growing momentum for environmental applications in computer vision. Climate AI Nordics is proud to co-organize the second edition of the AI for Climate and Conservation (AICC2) workshop as a full-day event. The conference also features two specialized Earth Observation workshops and two additional climate and ecology-focused tracks, bringing together leading global researchers to address urgent planetary challenges."
+image: /images/posts/2026-05-27-eccv-malmo.jpg
+image_small: /images/posts/2026-05-27-eccv-malmo_small.jpg
 people:
 - Aleksis Pirinen, RISE Research Institutes of Sweden
 - Ankit Kariryaa, University of Copenhagen
@@ -10,7 +10,14 @@ people:
 - Isabelle Tingzon, RISE & KTH
 - Lucia Gordon, Harvard University
 - Joakim B. Haurum, University of Southern Denmark
-image: /images/posts/2026-05-27-eccv-malmo.jpg
+summary: ECCV 2026 in Malmö features as many as 93 workshops, several of which are
+  related to climate and environment and Earth observation, highlighting a growing
+  momentum for environmental applications in computer vision. Climate AI Nordics is
+  proud to co-organize the second edition of the AI for Climate and Conservation (AICC2)
+  workshop as a full-day event. The conference also features two specialized Earth
+  Observation workshops and two additional climate and ecology-focused tracks, bringing
+  together leading global researchers to address urgent planetary challenges.
+title: Several climate related workshops at ECCV 2026
 ---
 
 # Climate-related workshops at ECCV 2026

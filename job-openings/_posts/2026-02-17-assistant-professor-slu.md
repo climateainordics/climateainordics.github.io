@@ -1,11 +1,15 @@
 ---
-title: "Associate Senior Lecturer (Assistant Professor) in Data-Driven Evolution and Biodiversity"
-summary: "The Swedish University of Agricultural Sciences (SLU) is recruiting a tenure-track fellow to develop data-driven research in evolution and biodiversity, applying machine learning and computational methods to aquatic or terrestrial systems."
-people:
-permalink:
-image: /images/external-organizations-logos/slu.png
-youtube: ""
 deadline: 2026-04-17
+image: /images/external-organizations-logos/slu.png
+image_small: /images/external-organizations-logos/slu_small.png
+people: null
+permalink: null
+summary: The Swedish University of Agricultural Sciences (SLU) is recruiting a tenure-track
+  fellow to develop data-driven research in evolution and biodiversity, applying machine
+  learning and computational methods to aquatic or terrestrial systems.
+title: Associate Senior Lecturer (Assistant Professor) in Data-Driven Evolution and
+  Biodiversity
+youtube: ''
 ---
 
 Data-driven life science is transforming how we understand evolution and biodiversity. This tenure-track position focuses on developing innovative computational and AI-based approaches to study ecological and evolutionary processes shaping biological diversity across aquatic or terrestrial environments.
@@ -32,4 +36,4 @@ The position is based in Umeå or Uppsala, Sweden. Swedish language skills are n
 
 **Deadline:** April 17th, 2026  
 
-[Apply here!](https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/bitradande-universitetslektor-i-datadriven-evolution-och-biodiversitet/)  
+[Apply here!](https://www.slu.se/en/about-slu/work-at-slu/jobs-and-vacancies/bitradande-universitetslektor-i-datadriven-evolution-och-biodiversitet/)

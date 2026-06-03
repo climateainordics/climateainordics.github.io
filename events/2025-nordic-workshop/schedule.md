@@ -1,9 +1,15 @@
 ---
-title: 2025 Nordic Workshop on AI for Climate Change
-summary: "The 2025 Nordic Workshop on AI for Climate Change will gather researchers from the Nordics. This one-day, in-person workshop, will take place in Gothenburg, Sweden, May 13th 2025. The workshop will feature a mix of keynotes, oral presentations, and posters around the topics of AI for climate change, including AI for biodiversity and the green transition. The workshop will be a meeting point for a wide range of researchers from (primarily) around the Nordic countries."
+image: /images/nordic-workshop-1200x846.png
+image_small: /images/nordic-workshop-1200x846_small.png
 people:
 - Olof Mogren
-image: /images/nordic-workshop-1200x846.png
+summary: The 2025 Nordic Workshop on AI for Climate Change will gather researchers
+  from the Nordics. This one-day, in-person workshop, will take place in Gothenburg,
+  Sweden, May 13th 2025. The workshop will feature a mix of keynotes, oral presentations,
+  and posters around the topics of AI for climate change, including AI for biodiversity
+  and the green transition. The workshop will be a meeting point for a wide range
+  of researchers from (primarily) around the Nordic countries.
+title: 2025 Nordic Workshop on AI for Climate Change
 ---
 
 <style>
@@ -498,4 +504,3 @@ We validate our approach through experiments with artificial problems that have 
 **Abstract:** Recent studies of observed and simulated changes in precipitation patterns suggest intensifying local extremes with increased warming levels. While global climate models may provide comprehensive climate information, high resolution is needed to properly resolve the time and location of extreme events, especially over topographically complex terrain. Although regional climate models are ideal tools to calculate high-resolution climate information, they are computationally expensive. Here we present DETEX – a machine learning based framework, designed to predict high-resolution extremes from low-resolution data in present and future climates. Our machine learning model provides a better estimate for the extreme precipitation observed in regional model simulations than the interpolated global climate model data that was used to drive the regional model. The correlation with the ground truth data is particularly strong in many high precipitation areas, such as the coast of Norway, the Alps and the eastern Adriatic coast. However, the correlation remains weak in areas with more continental climates. The model, trained on the historical data, retains its predictive power in the SSP370 scenario, demonstrating the transferability. We plan to test the model with other datasets (particularly the reanalysis), as well as to compare it with other machine learning methodologies.
 
 [Back to top of page](#top)
-

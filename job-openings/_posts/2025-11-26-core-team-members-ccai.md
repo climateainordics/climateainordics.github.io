@@ -1,12 +1,16 @@
 ---
-title: "Join the Climate Change AI Core Team!"
-summary: "Climate Change AI is looking for new core team members to play leading roles in the organization’s ongoing activities. (Note that this is for the world-spanning organization Climate Change AI. Currently, Climate AI Nordics is not looking for Core team members.)"
+deadline: ''
+image: /images/external-organizations-logos/ccai.png
+image_small: /images/external-organizations-logos/ccai_small.png
 people:
 - Lynn Kaack
-permalink:
-image: /images/external-organizations-logos/ccai.png
-youtube: ""
-deadline: ""
+permalink: null
+summary: Climate Change AI is looking for new core team members to play leading roles
+  in the organization’s ongoing activities. (Note that this is for the world-spanning
+  organization Climate Change AI. Currently, Climate AI Nordics is not looking for
+  Core team members.)
+title: Join the Climate Change AI Core Team!
+youtube: ''
 ---
 
 Climate Change AI (CCAI, [https://www.climatechange.ai/](https://www.climatechange.ai/)) is looking for new core team members. CCAI empowers a global community of innovators, practitioners, and decision-makers to accelerate responsible climate action through the use of AI, by addressing critical gaps in expertise, education, coordination, and research-to-deployment infrastructure. Core team members are volunteers who are expected to dedicate 5-10 hours of time per week. Most core team members have a background in either machine learning or areas relevant to climate change (such as energy, transportation, climate science, etc.), and a strong interest in both topics.

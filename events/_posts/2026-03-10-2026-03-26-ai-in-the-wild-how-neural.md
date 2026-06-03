@@ -1,26 +1,54 @@
 ---
-title: "AI in the wild: How Neural Networks Help Us Understand Our World Through Sound"
-summary: "Webinar with Jeppe Rasmussen, University of Copenhagen. 
+abstract: 'Bioacoustics, the study of nature’s sounds, has long been a powerful tool
+  for studying wildlife. With the rise of artificial intelligence, particularly deep
+  learning, the potential of this field has expanded dramatically. By applying advanced
+  AI algorithms to bioacoustic data, researchers can now identify and monitor species
+  with greater accuracy, even in environments where visual observation is difficult,
+  such as dense forests or deep oceans.
 
-Bioacoustics, the study of nature’s sounds, has long been a powerful tool for studying wildlife. With the rise of artificial intelligence, particularly deep learning, the potential of this field has expanded dramatically. By applying advanced AI algorithms to bioacoustic data, researchers can now identify and monitor species with greater accuracy, even in environments where visual observation is difficult, such as dense forests or deep oceans.
+  This capability is especially critical as we face the sixth mass extinction. AI-enhanced
+  monitoring offers new hope for conservation by providing deeper insights into the
+  presence, behavior, and well-being of endangered species. Beyond detection, AI also
+  opens doors to understanding animal communication and emotional states, thanks to
+  its ability to autonomously identify and prioritize key acoustic features.
 
-This capability is especially critical as we face the sixth mass extinction. AI-enhanced monitoring offers new hope for conservation by providing deeper insights into the presence, behavior, and well-being of endangered species. Beyond detection, AI also opens doors to understanding animal communication and emotional states, thanks to its ability to autonomously identify and prioritize key acoustic features.
-
-In this talk, I will present a series of case studies spanning multiple species and ecosystems to illustrate how cutting‑edge AI research can meaningfully advance our understanding of the living, complex world around us—and how these methods can help mitigate the biodiversity crisis we face and discover the surprisingly rich inner life of the animals surrounding us."
-abstract: "Bioacoustics, the study of nature’s sounds, has long been a powerful tool for studying wildlife. With the rise of artificial intelligence, particularly deep learning, the potential of this field has expanded dramatically. By applying advanced AI algorithms to bioacoustic data, researchers can now identify and monitor species with greater accuracy, even in environments where visual observation is difficult, such as dense forests or deep oceans.
-
-This capability is especially critical as we face the sixth mass extinction. AI-enhanced monitoring offers new hope for conservation by providing deeper insights into the presence, behavior, and well-being of endangered species. Beyond detection, AI also opens doors to understanding animal communication and emotional states, thanks to its ability to autonomously identify and prioritize key acoustic features.
-
-In this talk, I will present a series of case studies spanning multiple species and ecosystems to illustrate how cutting‑edge AI research can meaningfully advance our understanding of the living, complex world around us—and how these methods can help mitigate the biodiversity crisis we face and discover the surprisingly rich inner life of the animals surrounding us."
+  In this talk, I will present a series of case studies spanning multiple species
+  and ecosystems to illustrate how cutting‑edge AI research can meaningfully advance
+  our understanding of the living, complex world around us—and how these methods can
+  help mitigate the biodiversity crisis we face and discover the surprisingly rich
+  inner life of the animals surrounding us.'
+event_date: 2026-03-26
+event_location: Lindholmsallén 10, Gothenburg
+event_time: '15:00'
+image: /images/posts/2026-03-10-2026-03-26-ai-in-the-wild-how-neural.webp
+image_small: /images/posts/2026-03-10-2026-03-26-ai-in-the-wild-how-neural_small.webp
 people:
 - Olof Mogren
 permalink: /events/2026-03-10-2026-03-26-ai-in-the-wild-how-neural
-event_date: 2026-03-26
-event_time: "15:00"
-event_location: "Lindholmsallén 10, Gothenburg"
-image: /images/posts/2026-03-10-2026-03-26-ai-in-the-wild-how-neural.webp
-youtube: ""
---- 
+summary: 'Webinar with Jeppe Rasmussen, University of Copenhagen.
+
+  Bioacoustics, the study of nature’s sounds, has long been a powerful tool for studying
+  wildlife. With the rise of artificial intelligence, particularly deep learning,
+  the potential of this field has expanded dramatically. By applying advanced AI algorithms
+  to bioacoustic data, researchers can now identify and monitor species with greater
+  accuracy, even in environments where visual observation is difficult, such as dense
+  forests or deep oceans.
+
+  This capability is especially critical as we face the sixth mass extinction. AI-enhanced
+  monitoring offers new hope for conservation by providing deeper insights into the
+  presence, behavior, and well-being of endangered species. Beyond detection, AI also
+  opens doors to understanding animal communication and emotional states, thanks to
+  its ability to autonomously identify and prioritize key acoustic features.
+
+  In this talk, I will present a series of case studies spanning multiple species
+  and ecosystems to illustrate how cutting‑edge AI research can meaningfully advance
+  our understanding of the living, complex world around us—and how these methods can
+  help mitigate the biodiversity crisis we face and discover the surprisingly rich
+  inner life of the animals surrounding us.'
+title: 'AI in the wild: How Neural Networks Help Us Understand Our World Through Sound'
+youtube: ''
+---
+
 Welcome to this week's Learning Machines seminar.
 
 This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
@@ -62,6 +90,3 @@ This seminar will have an in-person presence at RISE office in Gothenburg locate
 More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
 
 -- The Learning Machines Team
-
-
-

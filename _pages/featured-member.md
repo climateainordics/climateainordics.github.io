@@ -17,7 +17,7 @@ On this page, you will find the history of featured members in Climate AI Nordic
   {% if p.categories contains "featured-member" %}
 
 ## {{ p.people | first }}
-{% if p.image %}<img src="{{ p.image }}" style="float: right; width: 25%;" />{% endif %}
+{% if p.image_small %}<img src="{{ p.image_small }}" style="float: right; width: 25%;" />{% endif %}
 
 
 <span style="color:grey;">*{{p.date | date: '%Y-%m-%d'}}{% if p.categories contains "job-openings" %}; Job Opening{% endif %}*</span>

@@ -1,11 +1,16 @@
 ---
-title: "Featured member, October 2025: Signe Riemer-Sørensen"
-summary: "Signe focuses on using AI to improve efficiency and reduce resource waste, collaborating with industries on applications such as predictive maintenance and route optimization. As a Senior Research Scientist at SINTEF, she leads the Analytics and AI group and co-leads the Norwegian Center for AI in Decisions, working with over 50 partners to advance research that helps society make better, data-informed decisions."
+image: /images/people/signe-riemer.png
+image_small: /images/people/signe-riemer_small.png
 people:
 - Signe Riemer-Sørensen
-image: /images/people/signe-riemer.png
+summary: Signe focuses on using AI to improve efficiency and reduce resource waste,
+  collaborating with industries on applications such as predictive maintenance and
+  route optimization. As a Senior Research Scientist at SINTEF, she leads the Analytics
+  and AI group and co-leads the Norwegian Center for AI in Decisions, working with
+  over 50 partners to advance research that helps society make better, data-informed
+  decisions.
+title: 'Featured member, October 2025: Signe Riemer-Sørensen'
 ---
-
 
 **Hi Signe! Tell us about yourself and your work.**
 

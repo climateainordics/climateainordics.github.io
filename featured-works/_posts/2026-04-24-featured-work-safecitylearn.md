@@ -1,12 +1,18 @@
 ---
-title: "Featured project: SafeCityLearn - A benchmark for safety-constrained RL in distributed energy systems"
+image: /images/posts/2026-04-24-featured-work-safecitylearn.png
+image_small: /images/posts/2026-04-24-featured-work-safecitylearn_small.png
 people:
 - Amal Nammouchi
 - Andreas Kassler
 - Arunselvan Ramaswamy
 - Andreas Theocharis
-image: /images/posts/2026-04-24-featured-work-safecitylearn.png
-summary: "When deploying reinforcement learning-based systems for adaptive control of distributed energy systems often ignore physical limits, such as battery discharge limits, thermal comfort limits, or grid import thresholds. SafeCityLearn introduces the first benchmark to ensure reinforcement learning agents respect safety constraints while optimizing for sustainability."
+summary: When deploying reinforcement learning-based systems for adaptive control
+  of distributed energy systems often ignore physical limits, such as battery discharge
+  limits, thermal comfort limits, or grid import thresholds. SafeCityLearn introduces
+  the first benchmark to ensure reinforcement learning agents respect safety constraints
+  while optimizing for sustainability.
+title: 'Featured project: SafeCityLearn - A benchmark for safety-constrained RL in
+  distributed energy systems'
 ---
 
 **Authors:** Amal Nammouchi, Andreas Kassler, Arunselvan Ramaswamy, and Andreas Theocharis.

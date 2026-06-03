@@ -1,10 +1,12 @@
 ---
-title: "Partnership between Climate AI Nordics and Klimatkollen"
-summary: "We are thrilled to share our partnership with [Klimatkollen](https://climateainordics.com/partners/) 🌍📈!"
+image: /images/partners/Klimatkollen_Black.png
+image_small: /images/partners/Klimatkollen_Black_small.png
 people:
 - Olof Mogren
 - Aleksis Pirinen
-image: /images/partners/Klimatkollen_Black.png
+summary: "We are thrilled to share our partnership with [Klimatkollen](https://climateainordics.com/partners/)
+  \U0001F30D\U0001F4C8!"
+title: Partnership between Climate AI Nordics and Klimatkollen
 ---
 
 We are thrilled to share our partnership with [Klimatkollen](https://climateainordics.com/partners/) 🌍📈!

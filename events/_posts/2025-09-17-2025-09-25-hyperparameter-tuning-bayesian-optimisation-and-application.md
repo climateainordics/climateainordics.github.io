@@ -1,22 +1,57 @@
 ---
-title: "Hyperparameter tuning, Bayesian optimisation and applications related to climate change"
-summary: "Webinar with Sigrid Passano Hellan, NORCE Norwegian Research Centre. 
+abstract: 'If you don’t want to be setting and tuning machine learning model hyperparameters
+  such as the learning rate yourself, then hyperparameter tuning is a good alternative.
+  Also called hyperparameter optimisation, it has been developed to reduce the amount
+  of machine learning experience required to set up a model by automatically finding
+  the best hyperparameters. By reducing these hurdles to adoption, machine learning
+  can be adopted for more climate applications. Bayesian optimisation is a popular
+  method for hyperparameter optimisation, and consists of fitting a probabilistic
+  model and using that to inform the optimisation process. Both hyperparameter optimisation
+  and Bayesian optimisation can be greatly enhanced using transfer learning, where
+  we learn from previous optimisation problems to speed up the current one.
 
-If you don’t want to be setting and tuning machine learning model hyperparameters such as the learning rate yourself, then hyperparameter tuning is a good alternative. Also called hyperparameter optimisation, it has been developed to reduce the amount of machine learning experience required to set up a model by automatically finding the best hyperparameters. By reducing these hurdles to adoption, machine learning can be adopted for more climate applications. Bayesian optimisation is a popular method for hyperparameter optimisation, and consists of fitting a probabilistic model and using that to inform the optimisation process. Both hyperparameter optimisation and Bayesian optimisation can be greatly enhanced using transfer learning, where we learn from previous optimisation problems to speed up the current one.
-
-In this talk I will give an introduction to methods for hyperparameter tuning and Bayesian optimisation, and how transfer learning can be used. Then I will present how Bayesian optimisation has been applied to climate related research, as we discussed in a recent survey. We found the main application areas to be material discovery – finding better materials for solar panels; wind farm layouts – deciding where to place turbines; optimal control of renewables – e.g. adjusting wind turbine blade angles to current conditions; and environmental monitoring – e.g. finding pollution maxima. "
-abstract: "If you don’t want to be setting and tuning machine learning model hyperparameters such as the learning rate yourself, then hyperparameter tuning is a good alternative. Also called hyperparameter optimisation, it has been developed to reduce the amount of machine learning experience required to set up a model by automatically finding the best hyperparameters. By reducing these hurdles to adoption, machine learning can be adopted for more climate applications. Bayesian optimisation is a popular method for hyperparameter optimisation, and consists of fitting a probabilistic model and using that to inform the optimisation process. Both hyperparameter optimisation and Bayesian optimisation can be greatly enhanced using transfer learning, where we learn from previous optimisation problems to speed up the current one.
-
-In this talk I will give an introduction to methods for hyperparameter tuning and Bayesian optimisation, and how transfer learning can be used. Then I will present how Bayesian optimisation has been applied to climate related research, as we discussed in a recent survey. We found the main application areas to be material discovery – finding better materials for solar panels; wind farm layouts – deciding where to place turbines; optimal control of renewables – e.g. adjusting wind turbine blade angles to current conditions; and environmental monitoring – e.g. finding pollution maxima. "
+  In this talk I will give an introduction to methods for hyperparameter tuning and
+  Bayesian optimisation, and how transfer learning can be used. Then I will present
+  how Bayesian optimisation has been applied to climate related research, as we discussed
+  in a recent survey. We found the main application areas to be material discovery
+  – finding better materials for solar panels; wind farm layouts – deciding where
+  to place turbines; optimal control of renewables – e.g. adjusting wind turbine blade
+  angles to current conditions; and environmental monitoring – e.g. finding pollution
+  maxima. '
+event_date: 2025-09-25
+event_location: ''
+event_time: '15:00'
+image: /images/posts/2025-09-17-2025-09-25-hyperparameter-tuning-bayesian-optimisation-and-application.jpg
+image_small: /images/posts/2025-09-17-2025-09-25-hyperparameter-tuning-bayesian-optimisation-and-application_small.jpg
 people:
 - Olof Mogren
 permalink: /events/2025-09-17-2025-09-25-hyperparameter-tuning-bayesian-optimisation-and-application
-event_date: 2025-09-25
-event_time: "15:00"
-event_location: ""
-image: /images/posts/2025-09-17-2025-09-25-hyperparameter-tuning-bayesian-optimisation-and-application.jpg
-youtube: "https://www.youtube.com/watch?v=8hS638bP150&list=PLqLiVcF3GKy0-jZFGg-VqLzh51LqCfduN"
---- 
+summary: 'Webinar with Sigrid Passano Hellan, NORCE Norwegian Research Centre.
+
+  If you don’t want to be setting and tuning machine learning model hyperparameters
+  such as the learning rate yourself, then hyperparameter tuning is a good alternative.
+  Also called hyperparameter optimisation, it has been developed to reduce the amount
+  of machine learning experience required to set up a model by automatically finding
+  the best hyperparameters. By reducing these hurdles to adoption, machine learning
+  can be adopted for more climate applications. Bayesian optimisation is a popular
+  method for hyperparameter optimisation, and consists of fitting a probabilistic
+  model and using that to inform the optimisation process. Both hyperparameter optimisation
+  and Bayesian optimisation can be greatly enhanced using transfer learning, where
+  we learn from previous optimisation problems to speed up the current one.
+
+  In this talk I will give an introduction to methods for hyperparameter tuning and
+  Bayesian optimisation, and how transfer learning can be used. Then I will present
+  how Bayesian optimisation has been applied to climate related research, as we discussed
+  in a recent survey. We found the main application areas to be material discovery
+  – finding better materials for solar panels; wind farm layouts – deciding where
+  to place turbines; optimal control of renewables – e.g. adjusting wind turbine blade
+  angles to current conditions; and environmental monitoring – e.g. finding pollution
+  maxima. '
+title: Hyperparameter tuning, Bayesian optimisation and applications related to climate
+  change
+youtube: https://www.youtube.com/watch?v=8hS638bP150&list=PLqLiVcF3GKy0-jZFGg-VqLzh51LqCfduN
+---
+
 Welcome to this week's Learning Machines seminar.
 
 This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
@@ -48,4 +83,3 @@ In this talk I will give an introduction to methods for hyperparameter tuning an
 More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
 
 -- The Learning Machines Team
-

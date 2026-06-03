@@ -1,11 +1,14 @@
 ---
-title: "Featured member, May 2026: Alouette van Hove"
-summary: "Alouette van Hove is a PostDoc at the University of Oslo and part of the core team of Climate AI Nordics. Her research focuses on probabilistic experimental design methods for quantifying Arctic methane emissions."
+image: /images/people/featured/AlouetteVanHove.JPG
+image_small: /images/people/featured/AlouetteVanHove_small.JPG
+image_width: 70%
+layout: single
 people:
 - Alouette van Hove
-layout: single
-image: /images/people/featured/AlouetteVanHove.JPG
-image_width: 70%
+summary: Alouette van Hove is a PostDoc at the University of Oslo and part of the
+  core team of Climate AI Nordics. Her research focuses on probabilistic experimental
+  design methods for quantifying Arctic methane emissions.
+title: 'Featured member, May 2026: Alouette van Hove'
 ---
 
 <br />

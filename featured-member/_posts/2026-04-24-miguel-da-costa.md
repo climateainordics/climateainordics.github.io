@@ -1,11 +1,14 @@
 ---
-title: "Featured member, April 2026: Miguel Nobre da Costa"
-summary: "Miguel Nobre da Costa is a PostDoc at the Technical University of Denmark. His research focuses on AI-driven decision support for climate adaptation in cities and transport systems."
+image: /images/people/featured/MiguelNobreDaCosta.jpg
+image_small: /images/people/featured/MiguelNobreDaCosta_small.jpg
+image_width: 70%
+layout: single
 people:
 - Miguel Nobre da Costa
-layout: single
-image: /images/people/featured/MiguelNobreDaCosta.jpg
-image_width: 70%
+summary: Miguel Nobre da Costa is a PostDoc at the Technical University of Denmark.
+  His research focuses on AI-driven decision support for climate adaptation in cities
+  and transport systems.
+title: 'Featured member, April 2026: Miguel Nobre da Costa'
 ---
 
 <br />

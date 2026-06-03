@@ -1,11 +1,17 @@
 ---
-title: "Postdoctoral Researcher: Satellite Remote Sensing of Carbon Cycle Sources and Sinks"
-summary: "The Finnish Meteorological Institute is seeking a postdoctoral researcher to analyze and exploit satellite remote sensing datasets, including CO₂ and SIF observations, using AI methods for research on the carbon cycle, greenhouse gas emissions, and carbon sinks. This role involves developing advanced methods for data interpretation and source-sink estimation."
-people:
-permalink:
-image: /images/external-organizations-logos/fmi.png
-youtube: ""
 deadline: May 25th, 2026
+image: /images/external-organizations-logos/fmi.png
+image_small: /images/external-organizations-logos/fmi_small.png
+people: null
+permalink: null
+summary: The Finnish Meteorological Institute is seeking a postdoctoral researcher
+  to analyze and exploit satellite remote sensing datasets, including CO₂ and SIF
+  observations, using AI methods for research on the carbon cycle, greenhouse gas
+  emissions, and carbon sinks. This role involves developing advanced methods for
+  data interpretation and source-sink estimation.
+title: 'Postdoctoral Researcher: Satellite Remote Sensing of Carbon Cycle Sources
+  and Sinks'
+youtube: ''
 ---
 
 The Greenhouse Gases Coordination Group at the Finnish Meteorological Institute (FMI) is seeking a postdoctoral researcher for a fixed-term position. This group studies the global distribution of greenhouse gases using satellite observations, develops advanced methods for data interpretation and source-sink estimation, and evaluates the reliability of satellite observations, including validation measurements at the FMI Arctic Space Centre in Sodankylä.

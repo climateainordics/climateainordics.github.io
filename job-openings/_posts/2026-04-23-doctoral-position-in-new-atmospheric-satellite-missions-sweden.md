@@ -1,11 +1,14 @@
 ---
-title: "Doctoral position in new atmospheric satellite missions"
-summary: "Chalmers University of Technology is hiring a Doctoral Student for bridging instrument design and space-based environmental observations using physics and machine learning."
-people:
-permalink:
-image: /images/external-organizations-logos/chalmers.png
-youtube: ""
 deadline: 2026-05-15
+image: /images/external-organizations-logos/chalmers.png
+image_small: /images/external-organizations-logos/chalmers_small.png
+people: null
+permalink: null
+summary: Chalmers University of Technology is hiring a Doctoral Student for bridging
+  instrument design and space-based environmental observations using physics and machine
+  learning.
+title: Doctoral position in new atmospheric satellite missions
+youtube: ''
 ---
 
 The Division of Geoscience and Remote Sensing at Chalmers University of Technology has announced a doctoral student position focused on new atmospheric satellite missions. The research project aims to bridge the gap between instrument design and the application of Earth observations, specifically utilizing microwave sensors and machine learning to improve weather forecasting and climate monitoring. The project is funded by the newly formed Swedish Space Research School and will involve close collaboration with the AAC Omnisys company.

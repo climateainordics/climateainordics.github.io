@@ -1,10 +1,14 @@
 ---
-title: "Featured project: DEPRIMAP - AI-driven Mapping of Urban Deprivation and Climate Vulnerability at Global Scale"
+image: /images/posts/2026-03-24-featured-work-deprimap2.png
+image_small: /images/posts/2026-03-24-featured-work-deprimap2_small.png
 people:
 - Sai Ganesh Veeravalli
 - Stefanos Georganos
-image: /images/posts/2026-03-24-featured-work-deprimap2.png
-summary: "Climate risk is not evenly distributed within cities. Motivated by this, the DEPRIMAP project develops AI and satellite data to identify where vulnerable populations live and how exposed they are to hazards across the Global South."
+summary: Climate risk is not evenly distributed within cities. Motivated by this,
+  the DEPRIMAP project develops AI and satellite data to identify where vulnerable
+  populations live and how exposed they are to hazards across the Global South.
+title: 'Featured project: DEPRIMAP - AI-driven Mapping of Urban Deprivation and Climate
+  Vulnerability at Global Scale'
 ---
 
 <!--![](/images/posts/2025-11-14-featured-paper-chevrollier-figure1.png)
@@ -54,4 +58,3 @@ DEPRIMAP addresses this gap by providing spatially explicit information on where
 *Example pairs of earlier and recent Google Street View imagery used for validation across different slum locations.*
 
 [_(B) Towards a Spatial Measure of SDG 11.1.1: Open Data for Urban Deprivation Mapping:_](https://doi.org/10.1109/JURSE60372.2025.11076033) This work introduces a scalable, open-data-driven framework for mapping urban deprivation using six indicators related to building morphology, vegetation, and infrastructure. Applied first in Nairobi and then across seven global cities, the framework demonstrates strong spatial alignment with known deprived areas. The analysis highlights globally robust indicators, such as building size and tree presence, while also revealing context-specific limitations, underscoring both the potential and challenges of globally transferable deprivation mapping.
-

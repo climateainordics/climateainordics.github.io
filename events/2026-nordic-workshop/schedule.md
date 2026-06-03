@@ -1,12 +1,18 @@
 ---
-title: 2026 Nordic Workshop on AI for Climate
-summary: "The 2026 Nordic Workshop on AI for Climate will gather researchers from the Nordics. This one-day, in-person workshop, will take place in Copenhagen, Denmark, June 26th 2026. The workshop will feature a mix of keynotes, oral presentations, and posters around the topics of AI for tackling climate change, including AI for biodiversity and the green transition. The workshop will be a meeting point for a wide range of researchers from (primarily) around the Nordic countries."
+image: /images/posts/workshop-2026-for-schedule.png
+image_small: /images/posts/workshop-2026-for-schedule_small.png
 people:
 - Nico Lang
 - Ankit Kariryaa
 - Aleksis Pirinen
 - Olof Mogren
-image: /images/posts/workshop-2026-for-schedule.png
+summary: The 2026 Nordic Workshop on AI for Climate will gather researchers from the
+  Nordics. This one-day, in-person workshop, will take place in Copenhagen, Denmark,
+  June 26th 2026. The workshop will feature a mix of keynotes, oral presentations,
+  and posters around the topics of AI for tackling climate change, including AI for
+  biodiversity and the green transition. The workshop will be a meeting point for
+  a wide range of researchers from (primarily) around the Nordic countries.
+title: 2026 Nordic Workshop on AI for Climate
 ---
 
 <style>
@@ -48,4 +54,3 @@ See also [the event page](https://climateainordics.com/events/2026-nordic-worksh
 <!--
 <a name="posters"></a>
 ## 16:30 - 18:00 Poster presentations-->
-

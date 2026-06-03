@@ -1,12 +1,17 @@
 ---
-title: "PhD position: Determining the utility of newly available hyperspectral satellite data to better understand and quantify biochemical and biophysical properties of tundra vegetation negatively impacted by changing climatic conditions."
-summary: "University of Gothenburg is hiring a PhD student in Natural Sciences, specializing in Physical Geography. Project funded mainly be the Swedish National Space Agency."
-people:
-permalink:
-image: /images/external-organizations-logos/gu.png
-youtube: ""
 deadline: 2026-01-19
+image: /images/external-organizations-logos/gu.png
+image_small: /images/external-organizations-logos/gu_small.png
+people: null
+permalink: null
+summary: University of Gothenburg is hiring a PhD student in Natural Sciences, specializing
+  in Physical Geography. Project funded mainly be the Swedish National Space Agency.
+title: 'PhD position: Determining the utility of newly available hyperspectral satellite
+  data to better understand and quantify biochemical and biophysical properties of
+  tundra vegetation negatively impacted by changing climatic conditions.'
+youtube: ''
 ---
+
 Tundra vegetation is being impacted by extreme climatic changes now influencing much of the Arctic. Increased temperatures, change in season length, and altered precipitation patterns affect plant health, biomass, and species composition. Satellite data are used to observe changes in tundra vegetation, and hyperspectral data have the potential to provide detailed insights into tundra vegetation’s biochemical and biophysical properties.
 
 This PhD project aims to determine the utility of newly available hyperspectral satellite data to better understand and quantify biochemical and biophysical properties of tundra vegetation negatively impacted by changing climatic conditions. The study areas will be located in the Swedish tundra area. Research questions to be addressed are, for example, can biochemical and biophysical properties of tundra vegetation associated with a drier and warmer climate be detected using hyperspectral satellite data? Can hyperspectral satellite data be used to detect tundra plant diversity? Is there a benefit to synergistic use of data from hyperspectral and multispectral satellites?

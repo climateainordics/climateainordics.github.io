@@ -1,12 +1,15 @@
 ---
-title: "Climate AI Nordics in Computer Sweden on how AI can help save the climate"
-summary: "As COP29 is convening in Azerbajdzjan, Olof Mogren, co-founder of Climate AI Nordics was interviewed in Computer Sweden. \"When it comes to climate change, we have to work broadly both with mitigation techniques and by adapting to the effects we are already seeing\". \"AI can be a tool to support these efforts\"."
+image: /images/posts/2024-11-12-climateainordics-in-computer-sweden.webp
+image_small: /images/posts/2024-11-12-climateainordics-in-computer-sweden_small.webp
 people:
 - Olof Mogren
-image: /images/posts/2024-11-12-climateainordics-in-computer-sweden.webp
+summary: As COP29 is convening in Azerbajdzjan, Olof Mogren, co-founder of Climate
+  AI Nordics was interviewed in Computer Sweden. "When it comes to climate change,
+  we have to work broadly both with mitigation techniques and by adapting to the effects
+  we are already seeing". "AI can be a tool to support these efforts".
+title: Climate AI Nordics in Computer Sweden on how AI can help save the climate
 ---
 
 Olof Mogren, co-founder of Climate AI Nordics was interviewed in Computer Sweden. "When it comes to climate change, we have to work broadly both with mitigation techniques and by adapting to the effects we are already seeing. AI can be a tool to support these efforts", he says.
 
   [The article (computersweden.se)](https://computersweden.se/article/3602548/sa-kan-ai-anvandas-for-att-radda-klimatet.html) mentions [Climate AI Nordics](https://climateainordics.com/), the new network for research on AI for climate change related applications in the Nordic countries.
-

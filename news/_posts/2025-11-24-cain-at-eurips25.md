@@ -1,7 +1,7 @@
 ---
-title: "Climate AI Nordics at EurIPS 2025"
-summary: "Here we summarize Climate AI Nordics-related activities at EurIPS 2025!"
-people: 
+image: /images/posts/cain-at-eurips2025.png
+image_small: /images/posts/cain-at-eurips2025_small.png
+people:
 - Olof Mogren
 - Aleksis Pirinen
 - Nico Lang
@@ -10,7 +10,8 @@ people:
 - Maria Bånkestad
 - Serge Belongie
 - Christian Igel
-image: /images/posts/cain-at-eurips2025.png
+summary: Here we summarize Climate AI Nordics-related activities at EurIPS 2025!
+title: Climate AI Nordics at EurIPS 2025
 ---
 
 With [EurIPS 2025 in Copenhagen](https://eurips.cc) just around the corner, below is a summary of Climate AI Nordics-related activities at the conference - hope to see you in several of these!

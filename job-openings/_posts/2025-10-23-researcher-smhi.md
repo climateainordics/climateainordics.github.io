@@ -1,11 +1,14 @@
 ---
-title: "Researcher in meteorological remote sensing "
-summary: "SMHI, the Swedish Meteorological and Hydrological Institute, is hiring a researcher in meteorological remote sensing with a focus on climate monitoring of clouds, precipitation, and radiation."
-people:
-permalink: 
 image: /images/external-organizations-logos/SMHILogo.png
-youtube: ""
---- 
+image_small: /images/external-organizations-logos/SMHILogo.png
+people: null
+permalink: null
+summary: SMHI, the Swedish Meteorological and Hydrological Institute, is hiring a
+  researcher in meteorological remote sensing with a focus on climate monitoring of
+  clouds, precipitation, and radiation.
+title: 'Researcher in meteorological remote sensing '
+youtube: ''
+---
 
 SMHI, the Swedish Meteorological and Hydrological Institute, is hiring a researcher in meteorological remote sensing with a focus on climate monitoring of clouds, precipitation, and radiation.
 

@@ -1,22 +1,45 @@
 ---
-title: "Optimising green infrastructure for climate-resilient cities: AI-driven approaches to urban cooling"
-summary: "Webinar with Abdul Shaamala, Queensland University of Technology. 
+abstract: 'Green infrastructure (GI) is critical in enhancing urban resilience, mitigating
+  heat stress, and improving environmental sustainability. However, optimising the
+  placement and configuration of green elements such as trees, parks, and vegetative
+  corridors, requires a data-driven approach that accounts for microclimate variations,
+  urban morphology, and long-term ecosystem benefits.
 
-Green infrastructure (GI) is critical in enhancing urban resilience, mitigating heat stress, and improving environmental sustainability. However, optimising the placement and configuration of green elements such as trees, parks, and vegetative corridors, requires a data-driven approach that accounts for microclimate variations, urban morphology, and long-term ecosystem benefits.
-
-This talk explores how artificial intelligence (AI), machine learning (ML), and geospatial analysis can be leveraged to optimise GI for urban cooling and climate adaptation. Specifically, it delves into tree optimisation strategies that enhance shade provision, reduce urban heat islands (UHI), and improve outdoor thermal comfort. By utilising computational models, including optimisation algorithms and thermal analysis, cities can strategically position vegetation to maximise cooling benefits while balancing urban development needs."
-abstract: "Green infrastructure (GI) is critical in enhancing urban resilience, mitigating heat stress, and improving environmental sustainability. However, optimising the placement and configuration of green elements such as trees, parks, and vegetative corridors, requires a data-driven approach that accounts for microclimate variations, urban morphology, and long-term ecosystem benefits.
-
-This talk explores how artificial intelligence (AI), machine learning (ML), and geospatial analysis can be leveraged to optimise GI for urban cooling and climate adaptation. Specifically, it delves into tree optimisation strategies that enhance shade provision, reduce urban heat islands (UHI), and improve outdoor thermal comfort. By utilising computational models, including optimisation algorithms and thermal analysis, cities can strategically position vegetation to maximise cooling benefits while balancing urban development needs."
+  This talk explores how artificial intelligence (AI), machine learning (ML), and
+  geospatial analysis can be leveraged to optimise GI for urban cooling and climate
+  adaptation. Specifically, it delves into tree optimisation strategies that enhance
+  shade provision, reduce urban heat islands (UHI), and improve outdoor thermal comfort.
+  By utilising computational models, including optimisation algorithms and thermal
+  analysis, cities can strategically position vegetation to maximise cooling benefits
+  while balancing urban development needs.'
+event_date: 2025-04-03
+event_location: ''
+event_time: '15:00'
+image: /images/posts/2025-03-20-2025-04-03-optimising-green-infrastructure-for-climate-resilient-cities.jpg
+image_small: /images/posts/2025-03-20-2025-04-03-optimising-green-infrastructure-for-climate-resilient-cities_small.jpg
 people:
 - Olof Mogren
 permalink: /events/2025-03-20-2025-04-03-optimising-green-infrastructure-for-climate-resilient-cities
-event_date: 2025-04-03
-event_time: "15:00"
-event_location: ""
-image: /images/posts/2025-03-20-2025-04-03-optimising-green-infrastructure-for-climate-resilient-cities.jpg
-youtube: "https://www.youtube.com/watch?v=83XysQtGUDQ&list=PLqLiVcF3GKy0-jZFGg-VqLzh51LqCfduN"
---- 
+summary: 'Webinar with Abdul Shaamala, Queensland University of Technology.
+
+  Green infrastructure (GI) is critical in enhancing urban resilience, mitigating
+  heat stress, and improving environmental sustainability. However, optimising the
+  placement and configuration of green elements such as trees, parks, and vegetative
+  corridors, requires a data-driven approach that accounts for microclimate variations,
+  urban morphology, and long-term ecosystem benefits.
+
+  This talk explores how artificial intelligence (AI), machine learning (ML), and
+  geospatial analysis can be leveraged to optimise GI for urban cooling and climate
+  adaptation. Specifically, it delves into tree optimisation strategies that enhance
+  shade provision, reduce urban heat islands (UHI), and improve outdoor thermal comfort.
+  By utilising computational models, including optimisation algorithms and thermal
+  analysis, cities can strategically position vegetation to maximise cooling benefits
+  while balancing urban development needs.'
+title: 'Optimising green infrastructure for climate-resilient cities: AI-driven approaches
+  to urban cooling'
+youtube: https://www.youtube.com/watch?v=83XysQtGUDQ&list=PLqLiVcF3GKy0-jZFGg-VqLzh51LqCfduN
+---
+
 Welcome to this week's Learning Machines seminar.
 
 This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
@@ -48,4 +71,3 @@ This talk explores how artificial intelligence (AI), machine learning (ML), and 
 More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
 
 -- The Learning Machines Team
-

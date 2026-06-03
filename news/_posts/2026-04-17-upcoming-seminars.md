@@ -1,6 +1,6 @@
 ---
-title: "Upcoming seminars spring/summer 2026"
-summary: "The Spring/Summer 2026 Climate AI Nordics webinar series features an elite lineup of experts exploring the intersection of artificial intelligence and climate science. The program covers diverse topics ranging from satellite-based crop mapping and flood detection to the emergence of social conventions in AI populations. This effort brings together prestigious speakers from institutions like Lund, Oxford, and the Max-Planck-Institute to share cutting-edge research with a global audience. These sessions provide a vital platform for researchers and policymakers to engage in innovative solutions for navigating the world's most pressing climate challenges."
+image: /images/posts/2026-04-17-upcoming-seminars.png
+image_small: /images/posts/2026-04-17-upcoming-seminars_small.png
 people:
 - Olof Mogren
 - Gustau Camps-Valls
@@ -9,7 +9,15 @@ people:
 - Solmaz Khazaei
 - Kelsey Doerksen
 - Ariel Flint Ashery
-image: /images/posts/2026-04-17-upcoming-seminars.png
+summary: The Spring/Summer 2026 Climate AI Nordics webinar series features an elite
+  lineup of experts exploring the intersection of artificial intelligence and climate
+  science. The program covers diverse topics ranging from satellite-based crop mapping
+  and flood detection to the emergence of social conventions in AI populations. This
+  effort brings together prestigious speakers from institutions like Lund, Oxford,
+  and the Max-Planck-Institute to share cutting-edge research with a global audience.
+  These sessions provide a vital platform for researchers and policymakers to engage
+  in innovative solutions for navigating the world's most pressing climate challenges.
+title: Upcoming seminars spring/summer 2026
 ---
 
 # Announcing the Spring/Summer 2026 Climate AI Nordics Webinars!

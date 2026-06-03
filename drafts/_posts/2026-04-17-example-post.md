@@ -1,10 +1,11 @@
 ---
-title: "Featured project or paper"
+image: /images/climateainordics-logo-globeonly-600x600.png
+image_small: /images/climateainordics-logo-globeonly-600x600_small.png
 people:
 - First person
 - Second person
-image: /images/climateainordics-logo-globeonly-600x600.png
-summary: "Featured work"
+summary: Featured work
+title: Featured project or paper
 ---
 
 **Project actors:** people, et al.
@@ -30,4 +31,3 @@ summary: "Featured work"
 **5. Example Outcomes of Project**
 
 ...
-

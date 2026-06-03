@@ -1,18 +1,36 @@
 ---
-title: "High-stakes decisions from low-quality data: AI decision-making for conservation"
-summary: "Webinar with Lily Xu, Columbia University. 
-
-Like many of society&#x27;s grand challenges, biodiversity conservation requires effectively allocating and managing our limited resources in the face of imperfect information. My research develops data-driven AI decision-making methods to do so, overcoming the messy data ubiquitous in these settings. Here, I’ll present technical advances in machine learning, reinforcement learning, and causal inference, addressing research questions that emerged from on-the-ground challenges in wildlife conservation. I’ll also discuss bridging the gap from research and practice, with anti-poaching field tests in Cambodia, field visits in Belize and Uganda, and large-scale deployment with SMART conservation software."
-abstract: "Like many of society&#x27;s grand challenges, biodiversity conservation requires effectively allocating and managing our limited resources in the face of imperfect information. My research develops data-driven AI decision-making methods to do so, overcoming the messy data ubiquitous in these settings. Here, I’ll present technical advances in machine learning, reinforcement learning, and causal inference, addressing research questions that emerged from on-the-ground challenges in wildlife conservation. I’ll also discuss bridging the gap from research and practice, with anti-poaching field tests in Cambodia, field visits in Belize and Uganda, and large-scale deployment with SMART conservation software."
+abstract: Like many of society&#x27;s grand challenges, biodiversity conservation
+  requires effectively allocating and managing our limited resources in the face of
+  imperfect information. My research develops data-driven AI decision-making methods
+  to do so, overcoming the messy data ubiquitous in these settings. Here, I’ll present
+  technical advances in machine learning, reinforcement learning, and causal inference,
+  addressing research questions that emerged from on-the-ground challenges in wildlife
+  conservation. I’ll also discuss bridging the gap from research and practice, with
+  anti-poaching field tests in Cambodia, field visits in Belize and Uganda, and large-scale
+  deployment with SMART conservation software.
+event_date: 2025-06-19
+event_location: ''
+event_time: '15:00'
+image: /images/posts/2025-05-27-2025-06-19-ai-decision-making-for-conservation.jpg
+image_small: /images/posts/2025-05-27-2025-06-19-ai-decision-making-for-conservation_small.jpg
 people:
 - Olof Mogren
 permalink: /events/2025-05-27-2025-06-19-ai-decision-making-for-conservation
-event_date: 2025-06-19
-event_time: "15:00"
-event_location: ""
-image: /images/posts/2025-05-27-2025-06-19-ai-decision-making-for-conservation.jpg
-youtube: "https://www.youtube.com/watch?v=a2B675quBHo&list=PLqLiVcF3GKy0-jZFGg-VqLzh51LqCfduN"
---- 
+summary: 'Webinar with Lily Xu, Columbia University.
+
+  Like many of society&#x27;s grand challenges, biodiversity conservation requires
+  effectively allocating and managing our limited resources in the face of imperfect
+  information. My research develops data-driven AI decision-making methods to do so,
+  overcoming the messy data ubiquitous in these settings. Here, I’ll present technical
+  advances in machine learning, reinforcement learning, and causal inference, addressing
+  research questions that emerged from on-the-ground challenges in wildlife conservation.
+  I’ll also discuss bridging the gap from research and practice, with anti-poaching
+  field tests in Cambodia, field visits in Belize and Uganda, and large-scale deployment
+  with SMART conservation software.'
+title: 'High-stakes decisions from low-quality data: AI decision-making for conservation'
+youtube: https://www.youtube.com/watch?v=a2B675quBHo&list=PLqLiVcF3GKy0-jZFGg-VqLzh51LqCfduN
+---
+
 Welcome to this week's Learning Machines seminar.
 
 This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
@@ -42,4 +60,3 @@ This seminar is a collaboration between RISE and Climate AI Nordics -- [climatea
 More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
 
 -- The Learning Machines Team
-

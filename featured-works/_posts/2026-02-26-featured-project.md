@@ -1,13 +1,26 @@
 ---
-title: "Featured Project: Open-Insect: Benchmarking Open-Set Recognition of Novel Species in Biodiversity Monitoring"
-summary: "We propose a new open-set recognition dataset, Open-Insect, and evaluate 38 algorithms for new species detection on geographical open-set splits with varying difficulty."
-abstract: "Researchers from Climate AI Nordics have introduced Open-Insect, a large-scale dataset designed to benchmark open-set recognition (OSR) by evaluating how machine learning models detect previously unseen insect species across different geographic regions. The study categorized and tested 38 different OSR algorithms, finding that while no single method was universally superior, simple post-hoc techniques remain surprisingly effective baselines.
+abstract: 'Researchers from Climate AI Nordics have introduced Open-Insect, a large-scale
+  dataset designed to benchmark open-set recognition (OSR) by evaluating how machine
+  learning models detect previously unseen insect species across different geographic
+  regions. The study categorized and tested 38 different OSR algorithms, finding that
+  while no single method was universally superior, simple post-hoc techniques remain
+  surprisingly effective baselines.
 
-A key discovery was that \"local\" unknown species are significantly harder to identify than non-local ones, though top-performing models still achieved a strong AUROC of over 85%. Ultimately, the benchmark demonstrates that OSR can effectively automate species discovery, providing a vital tool for monitoring and preserving global biodiversity."
+  A key discovery was that "local" unknown species are significantly harder to identify
+  than non-local ones, though top-performing models still achieved a strong AUROC
+  of over 85%. Ultimately, the benchmark demonstrates that OSR can effectively automate
+  species discovery, providing a vital tool for monitoring and preserving global biodiversity.'
+image: /images/posts/2026-02-26-open-insect.png
+image_small: /images/posts/2026-02-26-open-insect_small.png
 people:
 - Sigrid Passano Hellan
-image: /images/posts/2026-02-26-open-insect.png
+summary: We propose a new open-set recognition dataset, Open-Insect, and evaluate
+  38 algorithms for new species detection on geographical open-set splits with varying
+  difficulty.
+title: 'Featured Project: Open-Insect: Benchmarking Open-Set Recognition of Novel
+  Species in Biodiversity Monitoring'
 ---
+
 **Paper**: Open-Insect: Benchmarking Open-Set Recognition of Novel Species in Biodiversity Monitoring
 
 **Authors**:  Yuyan Chen, Nico Lang, B. Christian Schmidt, Aditya Jain, Yves Basset, Sara Beery, Maxim Larrivée, David Rolnick
@@ -27,4 +40,3 @@ Though no method consistently outperforms the others across datasets, we observe
 One common concern of domain experts to adopt ML-based tools for species discovery is that models only use background features instead of species-level fine-grained features to determine whether the species are from the open-set or not. We conducted an experiment to empirically verify that background features are not enough to achieve good OSR performance on Open-Insect. 
 
 We hope that the Open-Insect benchmark will draw attention to the problem of  species discovery and enable further work within the ML research community on OSR and OOD detection methods for biodiversity. Such work stands to benefit the preservation of ecosystem services on which humanity depends.
-

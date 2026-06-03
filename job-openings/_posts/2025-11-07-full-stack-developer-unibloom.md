@@ -1,11 +1,13 @@
 ---
-title: "AI/UI full stack engineer"
-summary: "Unibloom is looking for an AI-native developer to help transform procurement collaboration for sustainability goals."
-people:
-permalink:
+deadline: ''
 image: /images/external-organizations-logos/unibloom.png
-youtube: ""
-deadline: ""
+image_small: /images/external-organizations-logos/unibloom.png
+people: null
+permalink: null
+summary: Unibloom is looking for an AI-native developer to help transform procurement
+  collaboration for sustainability goals.
+title: AI/UI full stack engineer
+youtube: ''
 ---
 
 Unibloom is on a mission to transform how procurement collaborates faster and smarter to achieve both climate and financial goals. Their platform connects emissions, cost, and supply chain data, automating scenario calculations to help procurement and innovation teams identify and prioritize sustainability initiatives.

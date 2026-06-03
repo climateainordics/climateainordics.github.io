@@ -1,12 +1,15 @@
 ---
-title: "More info on the 2026 Nordic Workshop on AI for Climate"
-summary: "Climate AI Nordics is excited to now provide more information about our upcoming annual workshop - [**The 2026 Nordic Workshop on AI for Climate**](https://climateainordics.com/events/2026-nordic-workshop) - to be held on June 26th, 2026 in Copenhagen!"
 image: /images/posts/cain2026-workshop-first-info.png
+image_small: /images/posts/cain2026-workshop-first-info_small.png
 people:
 - Nico Lang
 - Ankit Kariryaa
 - Aleksis Pirinen
 - Olof Mogren
+summary: Climate AI Nordics is excited to now provide more information about our upcoming
+  annual workshop - [**The 2026 Nordic Workshop on AI for Climate**](https://climateainordics.com/events/2026-nordic-workshop)
+  - to be held on June 26th, 2026 in Copenhagen!
+title: More info on the 2026 Nordic Workshop on AI for Climate
 ---
 
 <br />

@@ -1,9 +1,13 @@
 ---
-title: "Remote Sensing Training Course: Satellite and UAV Remote Sensing of the Arctic Biosphere"
-summary: "Registration is open for the SIOS Remote Sensing Training Course: Satellite and UAV Remote Sensing of the Arctic Biosphere. The course will be held in Longyearbyen, Svalbard from 14 to 19 September."
 image: /images/posts/2026-SIOS-remote-sensing-course.png
+image_small: /images/posts/2026-SIOS-remote-sensing-course_small.png
 people:
 - Alouette van Hove
+summary: 'Registration is open for the SIOS Remote Sensing Training Course: Satellite
+  and UAV Remote Sensing of the Arctic Biosphere. The course will be held in Longyearbyen,
+  Svalbard from 14 to 19 September.'
+title: 'Remote Sensing Training Course: Satellite and UAV Remote Sensing of the Arctic
+  Biosphere'
 ---
 
 <br />

@@ -1,9 +1,15 @@
 ---
-title: 2025 Nordic Workshop on AI for Climate Change
-summary: "The 2025 Nordic Workshop on AI for Climate Change will gather researchers from the Nordics. This one-day, in-person workshop, will take place in Gothenburg, Sweden, May 13th 2025. The workshop will feature a mix of keynotes, oral presentations, and posters around the topics of AI for climate change, including AI for biodiversity and the green transition. The workshop will be a meeting point for a wide range of researchers from (primarily) around the Nordic countries."
+image: /images/nordic-workshop-1200x846.png
+image_small: /images/nordic-workshop-1200x846_small.png
 people:
 - Olof Mogren
-image: /images/nordic-workshop-1200x846.png
+summary: The 2025 Nordic Workshop on AI for Climate Change will gather researchers
+  from the Nordics. This one-day, in-person workshop, will take place in Gothenburg,
+  Sweden, May 13th 2025. The workshop will feature a mix of keynotes, oral presentations,
+  and posters around the topics of AI for climate change, including AI for biodiversity
+  and the green transition. The workshop will be a meeting point for a wide range
+  of researchers from (primarily) around the Nordic countries.
+title: 2025 Nordic Workshop on AI for Climate Change
 ---
 
 ## Short Gothenburg Guide
@@ -49,5 +55,3 @@ It's generally easy to find vegetarian food in Sweden. Here we list some exclusi
 * [Andrum](https://www.instagram.com/andrum.veg/) - Vegetarian restaurant with a couple of hot dishes in a buffé. Always serves a wonderful daal. [Östra hamngatan 19](https://maps.app.goo.gl/qumMpuYUHpk69MXy5).
 * [En Deli Haga](https://www.instagram.com/endelihaga/) - Vegetarian café. Buffé behind the counter, point at what you want among many delicous options. [Haga Nygata 15](https://maps.app.goo.gl/XYuumHHQ2eWWqwfm6).
 * See "*Majornas bryggeri*" above.
-
-

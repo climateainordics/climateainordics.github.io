@@ -1,9 +1,20 @@
 ---
-title: "Featured paper: Continuous urban change detection from satellite image time series with temporal feature refinement and multitask integration"
+image: /images/posts/2025-10-29-continuous-urban-change.png
+image_small: /images/posts/2025-10-29-continuous-urban-change_small.png
 people:
 - Sebastian Hafner
-image: /images/posts/2025-10-29-continuous-urban-change.png
-summary: "This paper presents a method to continuously detect urban changes in high-resolution satellite image time series (SITS). Traditional urban change detection models often rely on bi-temporal image pairs acquired multiple years apart, limiting their ability to capture gradual, ongoing urbanization processes. The paper introduces a deep learning framework, including two novel modules to enhance segmentation feature maps extracted from SITS and integrate multi-task model outputs (i.e., building segmentations and dense change information). The paper’s findings show the limitations of bi-temporal change detection methods, as they cannot exploit multitemporal information in SITS. In contrast, their continuous urban change detection method achieves accurate urbanization monitoring results even at short time intervals."
+summary: This paper presents a method to continuously detect urban changes in high-resolution
+  satellite image time series (SITS). Traditional urban change detection models often
+  rely on bi-temporal image pairs acquired multiple years apart, limiting their ability
+  to capture gradual, ongoing urbanization processes. The paper introduces a deep
+  learning framework, including two novel modules to enhance segmentation feature
+  maps extracted from SITS and integrate multi-task model outputs (i.e., building
+  segmentations and dense change information). The paper’s findings show the limitations
+  of bi-temporal change detection methods, as they cannot exploit multitemporal information
+  in SITS. In contrast, their continuous urban change detection method achieves accurate
+  urbanization monitoring results even at short time intervals.
+title: 'Featured paper: Continuous urban change detection from satellite image time
+  series with temporal feature refinement and multitask integration'
 ---
 
 **Authors:** Sebastian Hafner, Heng Fang, Hossein Azizpour, and Yifang Ban

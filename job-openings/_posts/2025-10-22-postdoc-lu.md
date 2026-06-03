@@ -1,11 +1,14 @@
 ---
-title: "Postdoctoral fellow in earth observation"
-summary: "Lund University is hiring a Postdoctoral fellow in earth observation to study the patterns, drivers, and effects of vegetation fires and land abandonment using remote sensing and spatio-temporal analysis."
-people:
-permalink: 
 image: /images/external-organizations-logos/lund-university.png
-youtube: ""
---- 
+image_small: /images/external-organizations-logos/lund-university_small.png
+people: null
+permalink: null
+summary: Lund University is hiring a Postdoctoral fellow in earth observation to study
+  the patterns, drivers, and effects of vegetation fires and land abandonment using
+  remote sensing and spatio-temporal analysis.
+title: Postdoctoral fellow in earth observation
+youtube: ''
+---
 
 Lund University is hiring a Postdoctoral fellow in earth observation.
 

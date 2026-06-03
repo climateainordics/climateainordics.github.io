@@ -1,11 +1,15 @@
 ---
-title: "Two PhD scholarships: Remote sensing and AI for improved forest mapping and precision forestry"
-summary: "The Norwegian University of Life Sciences is hiring two PhD candidates for developing machine learning models to map forest ecosystems and advance sustainable forest management."
-people:
-permalink:
-image: /images/external-organizations-logos/nmbu.png
-youtube: ""
 deadline: 2026-05-03
+image: /images/external-organizations-logos/nmbu.png
+image_small: /images/external-organizations-logos/nmbu_small.png
+people: null
+permalink: null
+summary: The Norwegian University of Life Sciences is hiring two PhD candidates for
+  developing machine learning models to map forest ecosystems and advance sustainable
+  forest management.
+title: 'Two PhD scholarships: Remote sensing and AI for improved forest mapping and
+  precision forestry'
+youtube: ''
 ---
 
 The Faculty of Environmental Sciences and Natural Resource Management (MINA) at the Norwegian University of Life Sciences (NMBU) has announced two vacant three-year PhD positions focused on utilizing artificial intelligence to map forest ecosystems through the SmartForest initiative. The selected candidates will work to develop advanced machine learning models designed to produce detailed forest information at both local and landscape scales, ultimately contributing to sustainable forest management.

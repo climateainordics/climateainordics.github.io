@@ -1,11 +1,14 @@
 ---
-title: "Postdoctoral researcher or doctoral student, machine learning and data integration"
-summary: "The Finnish Meteorological Institute is hiring a Postdoctoral or Doctoral Researcher for developing machine learning methods to generate high-resolution climate datasets for urban climate research."
-people:
-permalink:
-image: /images/external-organizations-logos/fmi.png
-youtube: ""
 deadline: 2026-04-30
+image: /images/external-organizations-logos/fmi.png
+image_small: /images/external-organizations-logos/fmi_small.png
+people: null
+permalink: null
+summary: The Finnish Meteorological Institute is hiring a Postdoctoral or Doctoral
+  Researcher for developing machine learning methods to generate high-resolution climate
+  datasets for urban climate research.
+title: Postdoctoral researcher or doctoral student, machine learning and data integration
+youtube: ''
 ---
 
 The Finnish Meteorological Institute is seeking a Postdoctoral Researcher or Doctoral Researcher for a fixed-term position to develop machine learning methods for urban climate research projects. Positioned within the Climate Impacts and Adaptation Unit's Climate Change and Future Cities group, the researcher will be primarily responsible for producing high-resolution climate datasets by integrating large volumes of multi-source data, including climate model outputs, geospatial datasets, and observational data.

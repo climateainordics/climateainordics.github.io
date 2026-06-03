@@ -27,7 +27,7 @@ We're a network of researchers who work on problems related to tackling climate 
 
 
 {% for p in site.categories.featured-member limit: 1 %}
-{% if p.image %} ![]({{ p.image }}){% endif %}
+{% if p.image_small %} ![]({{ p.image_small }}){% endif %}
 
 ## This month's featured member: {{ p.people | first }}
 

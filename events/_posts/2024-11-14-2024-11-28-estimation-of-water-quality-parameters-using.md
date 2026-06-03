@@ -1,19 +1,43 @@
 ---
-title: "Estimation of water quality parameters using remote sensing data and machine learning models"
-summary: "Webinar with Alireza Taheri Dehkordi, Lund University. 
-
-The global decline in water quality, exacerbated by climate change and population growth, underscores the need for continuous and accurate monitoring of water quality parameters (WQPs). Remote sensing (RS) data, especially from multispectral satellites like Sentinel-2 and Landsat-8, offers large-scale, periodic observations for tracking WQPs. However, deriving accurate estimates solely from RS data is complex due to the intricate relationships between spectral bands and water quality indicators. This talk presents two novel machine learning approaches that leverage advanced RS data processing to enhance water quality monitoring."
-abstract: "The global decline in water quality, exacerbated by climate change and population growth, underscores the need for continuous and accurate monitoring of water quality parameters (WQPs). Remote sensing (RS) data, especially from multispectral satellites like Sentinel-2 and Landsat-8, offers large-scale, periodic observations for tracking WQPs. However, deriving accurate estimates solely from RS data is complex due to the intricate relationships between spectral bands and water quality indicators. This talk presents two novel machine learning approaches that leverage advanced RS data processing to enhance water quality monitoring."
-socialmedia: "The global decline in water quality, exacerbated by climate change and population growth, underscores the need for continuous and accurate monitoring of water quality parameters (WQPs). Remote sensing (RS) data, especially from multispectral satellites like Sentinel-2 and Landsat-8, offers large-scale, periodic observations for tracking WQPs. However, deriving accurate estimates solely from RS data is complex due to the intricate relationships between spectral bands and water quality indicators. This talk presents two novel machine learning approaches that leverage advanced RS data processing to enhance water quality monitoring."
+abstract: The global decline in water quality, exacerbated by climate change and population
+  growth, underscores the need for continuous and accurate monitoring of water quality
+  parameters (WQPs). Remote sensing (RS) data, especially from multispectral satellites
+  like Sentinel-2 and Landsat-8, offers large-scale, periodic observations for tracking
+  WQPs. However, deriving accurate estimates solely from RS data is complex due to
+  the intricate relationships between spectral bands and water quality indicators.
+  This talk presents two novel machine learning approaches that leverage advanced
+  RS data processing to enhance water quality monitoring.
+event_date: 2024-11-28
+event_location: Scheelevägen 17, Lund
+event_time: '15:00'
+image: /images/posts/2024-11-14-2024-11-28-estimation-of-water-quality-parameters-using.jpg
+image_small: /images/posts/2024-11-14-2024-11-28-estimation-of-water-quality-parameters-using_small.jpg
 people:
 - Olof Mogren
 permalink: /events/2024-11-14-2024-11-28-estimation-of-water-quality-parameters-using
-event_date: 2024-11-28
-event_time: "15:00"
-event_location: "Scheelevägen 17, Lund"
-image: /images/posts/2024-11-14-2024-11-28-estimation-of-water-quality-parameters-using.jpg
+socialmedia: The global decline in water quality, exacerbated by climate change and
+  population growth, underscores the need for continuous and accurate monitoring of
+  water quality parameters (WQPs). Remote sensing (RS) data, especially from multispectral
+  satellites like Sentinel-2 and Landsat-8, offers large-scale, periodic observations
+  for tracking WQPs. However, deriving accurate estimates solely from RS data is complex
+  due to the intricate relationships between spectral bands and water quality indicators.
+  This talk presents two novel machine learning approaches that leverage advanced
+  RS data processing to enhance water quality monitoring.
+summary: 'Webinar with Alireza Taheri Dehkordi, Lund University.
+
+  The global decline in water quality, exacerbated by climate change and population
+  growth, underscores the need for continuous and accurate monitoring of water quality
+  parameters (WQPs). Remote sensing (RS) data, especially from multispectral satellites
+  like Sentinel-2 and Landsat-8, offers large-scale, periodic observations for tracking
+  WQPs. However, deriving accurate estimates solely from RS data is complex due to
+  the intricate relationships between spectral bands and water quality indicators.
+  This talk presents two novel machine learning approaches that leverage advanced
+  RS data processing to enhance water quality monitoring.'
+title: Estimation of water quality parameters using remote sensing data and machine
+  learning models
 youtube: S0guqSER0co
---- 
+---
+
 Welcome to this week's Learning Machines seminar.
 
 This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
@@ -47,4 +71,3 @@ This seminar will have an in-person presence at the RISE office in Lund, located
 More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
 
 -- The Learning Machines Team
-
