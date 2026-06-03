@@ -1,8 +1,26 @@
 ## Affiliates - Recently Joined
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling">
+<span title="IndustryDHI."><strong>Spyros Kondylatos, Industry, DHI</strong></span>
+<br />
+Bayesian Optimisation * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * [More info (researcher profile)](https://skondylatos.github.io/) * [Research group](https://eo.dhigroup.com/) * [Publications (Scholar)](https://scholar.google.com/citations?view_op=list_works&amp;hl=en&amp;user=Za_CSbMAAAAJ&amp;gmla=AIqSsVsFK4er1JK93bME4s7Ya7zu-M6eXfHL5E86Gjz7WpJ4hyu7qd0TVfQ9Wx5LA7Uc643EXNYVqiTG6eU9aamIeD4HlQDAVktBOw4) * [ORCID](https://orcid.org/0000-0002-0949-8592)
+</div>
+
 <div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Earth Observation,Extreme Weather Events,Sustainable Cities,Urban Planning">
 <span title="StudentLund University."><strong>Yi Nam Xu, Student, Lund University</strong></span>
 <br />
 Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Extreme Weather Events * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://bit.ly/deanna-yi-nam-xu) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=8l0Tw60AAAAJ)
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity; Sustainable Agriculture">
+<span title="IndustryArla Foods."><strong>Samuel Phipps, Industry, Arla Foods</strong></span>
+<br />
+Biodiversity; Sustainable Agriculture * [More info (researcher profile)](https://www.linkedin.com/in/samuel-phipps/)
+</div>
+
+<div class="content" markdown="1" data-tags="">
+<span title="PhD StudentRISE Research Institutes of Sweden."><strong>Klas Segeljakt, PhD Student, RISE Research Institutes of Sweden</strong></span>
+<br />
+[More info (researcher profile)](https://segeljakt.tilda.ws/) * [Publications (Scholar)](https://scholar.google.se/citations?user=k4bVwsIAAAAJ&amp;hl=en)
 </div>
 
 ## Affiliates
@@ -1248,6 +1266,12 @@ Earth Observation * Machine Learning * Sustainable Cities * Urban Planning * [Mo
 Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * Soundscape Analysis * Sustainable Cities * Sustainable Production * Urban Planning * Weather Forecasting * [ORCID](https://orcid.org/0000-0003-2023-8369)
 </div>
 
+<div class="content" markdown="1" data-tags="Biodiversity,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,NLP,AI Bioacoustics,Representation Learning From Biological Time Series,Knowledge Graphs,Network Dynamics">
+<span title="Researcher (non-PhD) in transition."><strong>Luigi Assom, Researcher (non-PhD) in transition</strong></span>
+<br />
+Biodiversity * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * NLP * AI Bioacoustics * Representation Learning From Biological Time Series * Knowledge Graphs * Network Dynamics * [Publications (Scholar)](https://scholar.google.com/scholar?hl=it&amp;as_sdt=0%2C5&amp;q=luigi+assom) * [ORCID](https://orcid.org/0000-0002-4168-4627)
+</div>
+
 <div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Deep Learning,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Weather Forecasting">
 <span title="My research focuses on AI for Climate Downscaling, mainly in the Nordic region. PhD StudentUniversity of Helsinki."><strong>Helmi Toropainen, PhD Student, University of Helsinki</strong></span>
 <br />
@@ -1664,7 +1688,7 @@ Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Obs
 </div>
 
 <div class="content" markdown="1" data-tags="Bayesian Optimisation,Climate Impacts,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning,Sustainable Production">
-<span title="PhD StudentLABEF."><strong>Marthe Paulette GUEDEZOUME BEHANZIN, PhD Student, LABEF</strong></span>
+<span title="PhD StudentLABEF."><strong>Marthe Paulette Guedezoume Behanzin, PhD Student, LABEF</strong></span>
 <br />
 Bayesian Optimisation * Climate Impacts * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * Sustainable Production
 </div>
@@ -1687,12 +1711,6 @@ Climate Impacts * Deep Learning * Earth Observation * Efficient or Sustainable A
 Biodiversity * Climate Impacts * Climate Modeling * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * Sustainable Energy * [More info (researcher profile)](https://www.linkedin.com/in/chinonso-nwanevu-2a528084/) * [Publications (Scholar)](https://scholar.google.com/citations?user=Gu5Au6EAAAAJ&amp;hl=en)
 </div>
 
-<div class="content" markdown="1" data-tags="Biodiversity,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,NLP,AI Bioacoustics,Representation Learning From Biological Time Series,Knowledge Graphs,Network Dynamics">
-<span title="Researcher (non-PhD) in transition."><strong>Luigi Assom, Researcher (non-PhD) in transition</strong></span>
-<br />
-Biodiversity * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * NLP * AI Bioacoustics * Representation Learning From Biological Time Series * Knowledge Graphs * Network Dynamics * [Publications (Scholar)](https://scholar.google.com/scholar?hl=it&amp;as_sdt=0%2C5&amp;q=luigi+assom) * [ORCID](https://orcid.org/0000-0002-4168-4627)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Impacts,Earth System Modeling,Machine Learning,Environmental and Ecological Statistics">
 <span title="Professor."><strong>Bülent Tütmez, Professor</strong></span>
 <br />
@@ -1706,13 +1724,13 @@ Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Efficient
 </div>
 
 <div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Biodiversity,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Extreme Weather Events,Machine Learning,NLP,Sustainable Cities,Sustainable Energy,Sustainable Production,Sustainable Transport,Weather Forecasting">
-<span title="Industry."><strong>LAISSA Oliveira, Industry</strong></span>
+<span title="Industry."><strong>Laissa Oliveira, Industry</strong></span>
 <br />
 AutoML * Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Extreme Weather Events * Machine Learning * NLP * Sustainable Cities * Sustainable Energy * Sustainable Production * Sustainable Transport * Weather Forecasting
 </div>
 
 <div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Extreme Weather Events,Machine Learning,Sustainable Cities,Urban Planning,Weather Forecasting,Wind Energy">
-<span title="Post DocNational Institute of Geophysics and Volcanology (INGV, Italy)."><strong>THI DUNG VU, Post Doc, National Institute of Geophysics and Volcanology (INGV, Italy)</strong></span>
+<span title="Post DocNational Institute of Geophysics and Volcanology (INGV, Italy)."><strong>Thi Dung VU, Post Doc, National Institute of Geophysics and Volcanology (INGV, Italy)</strong></span>
 <br />
 Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Extreme Weather Events * Machine Learning * Sustainable Cities * Urban Planning * Weather Forecasting * Wind Energy * [ORCID](https://orcid.org/0009-0005-4250-7576)
 </div>
@@ -1735,14 +1753,14 @@ AutoML * Bayesian Optimisation * Climate Impacts * Climate Modeling * Computer V
 Computer Vision * Deep Learning * Extreme Weather Events * Machine Learning * Weather Forecasting * [Research group](https://weathergenerator.eu) * [Publications (Scholar)](https://scholar.google.com/citations?user=SKSOF8kAAAAJ&amp;hl=en)
 </div>
 
-<div class="content" markdown="1" data-tags="Bayesian Optimisation,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling">
-<span title="IndustryDHI."><strong>Spyros Kondylatos, Industry, DHI</strong></span>
-<br />
-Bayesian Optimisation * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * [More info (researcher profile)](https://skondylatos.github.io/) * [Research group](https://eo.dhigroup.com/) * [Publications (Scholar)](https://scholar.google.com/citations?view_op=list_works&amp;hl=en&amp;user=Za_CSbMAAAAJ&amp;gmla=AIqSsVsFK4er1JK93bME4s7Ya7zu-M6eXfHL5E86Gjz7WpJ4hyu7qd0TVfQ9Wx5LA7Uc643EXNYVqiTG6eU9aamIeD4HlQDAVktBOw4) * [ORCID](https://orcid.org/0000-0002-0949-8592)
-</div>
-
 <div class="content" markdown="1" data-tags="Sustainable Energy,Sustainable Transport">
 <span title="PhD StudentThe Hong Kong University of Science and Technology."><strong>Lunlong Li, PhD Student, The Hong Kong University of Science and Technology</strong></span>
 <br />
 Sustainable Energy * Sustainable Transport * [More info (researcher profile)](https://lunlong-li.com) * [Publications (Scholar)](https://scholar.google.com/citations?user=LFwwHm4AAAAJ&amp;hl=zh-CN)
+</div>
+
+<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Earth Observation,Machine Learning,Marine Ecology,NLP">
+<span title="I am Gabrielė Tijūnaitytė, a Research Engineer in the Artificial Intelligence group at Wageningen University, specialising in AI for Earth Observations.  With a strong foundation in Geo-Information Science, my work lies at the intersection of deep learning, computer vision, and geospatial analysis. I am dedicated to building impactful, data-driven solutions to environmental challenges. My primary expertise involves working with multi-modal satellite imagery, large vision-language models, and contrastive deep learning frameworks. ResearcherWageningen University."><strong>Gabriele Tijunaityte, Researcher, Wageningen University</strong></span>
+<br />
+Computer Vision * Deep Learning * Earth Observation * Machine Learning * Marine Ecology * NLP * [More info (researcher profile)](https://gabrieletijunaityte.github.io) * [Research group](https://www.wur.nl/en/chair-groups/artificial-intelligence-group)
 </div>
