@@ -1153,7 +1153,7 @@ Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learn
 </div>
 
 <div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Climate Modeling,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,Marine Ecology,NLP">
-<span title="StudentKTH Royal Institute of Technology, Stockholm School of Economics."><strong>Bennet M, Student, KTH Royal Institute of Technology, Stockholm School of Economics</strong></span>
+<span title="StudentKTH Royal Institute of Technology / Stockholm School of Economics."><strong>Bennet M, Student, KTH Royal Institute of Technology / Stockholm School of Economics</strong></span>
 <br />
 AutoML * Bayesian Optimisation * Climate Modeling * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Marine Ecology * NLP
 </div>
