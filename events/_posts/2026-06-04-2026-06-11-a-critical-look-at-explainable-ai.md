@@ -1,0 +1,45 @@
+---
+title: "A Critical Look at Explainable AI"
+summary: "Webinar with Gustau Camps-Valls, University of Valencia. 
+
+I will give a sarcastic and quite op-ed tour trying to explain why XAI is misleading us. Everything from SHAP plots to counterfactuals may look trustworthy, but underneath, they&#x27;re often driven by correlations, not causation. In fields like climate, neuroscience and social sciences, that&#x27;s a serious risk. Inspired by philosophy of science, I argue that explanations must go beyond surface patterns. Fortunately, the frontier is moving fast: causal‐informed SHAP, meaningful counterfactuals (you can&#x27;t go younger), causal certification in explanations, and structural causal modeling are all promising. Yet, it&#x27;s time we treat XAI not just as a cosmetic fix, but as a tool grounded in truth: seamful, thought-provoking, and scientifically defensible. And if time allows I&#x27;d like to say a few words about why AI needs a new philosophy of science."
+abstract: "I will give a sarcastic and quite op-ed tour trying to explain why XAI is misleading us. Everything from SHAP plots to counterfactuals may look trustworthy, but underneath, they&#x27;re often driven by correlations, not causation. In fields like climate, neuroscience and social sciences, that&#x27;s a serious risk. Inspired by philosophy of science, I argue that explanations must go beyond surface patterns. Fortunately, the frontier is moving fast: causal‐informed SHAP, meaningful counterfactuals (you can&#x27;t go younger), causal certification in explanations, and structural causal modeling are all promising. Yet, it&#x27;s time we treat XAI not just as a cosmetic fix, but as a tool grounded in truth: seamful, thought-provoking, and scientifically defensible. And if time allows I&#x27;d like to say a few words about why AI needs a new philosophy of science."
+people:
+- Olof Mogren
+permalink: /events/2026-06-04-2026-06-11-a-critical-look-at-explainable-ai
+event_date: 2026-06-11
+event_time: "15:00"
+event_location: ""
+image: /images/posts/2026-06-04-2026-06-11-a-critical-look-at-explainable-ai.png
+youtube: ""
+--- 
+Welcome to this week's Learning Machines seminar.
+
+This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
+
+**Title:** A Critical Look at Explainable AI
+
+**Speaker:** Gustau Camps-Valls, University of Valencia
+
+**Abstract:** I will give a sarcastic and quite op-ed tour trying to explain why XAI is misleading us. Everything from SHAP plots to counterfactuals may look trustworthy, but underneath, they&#x27;re often driven by correlations, not causation. In fields like climate, neuroscience and social sciences, that&#x27;s a serious risk. Inspired by philosophy of science, I argue that explanations must go beyond surface patterns. Fortunately, the frontier is moving fast: causal‐informed SHAP, meaningful counterfactuals (you can&#x27;t go younger), causal certification in explanations, and structural causal modeling are all promising. Yet, it&#x27;s time we treat XAI not just as a cosmetic fix, but as a tool grounded in truth: seamful, thought-provoking, and scientifically defensible. And if time allows I&#x27;d like to say a few words about why AI needs a new philosophy of science.
+
+**About the speaker:** Gustau Camps-Valls is a professor in Electrical Engineering at the Universitat de València, leader of the ISP group at the same university. https://isp.uv.es
+
+**Location:** This is an online seminar. Connect using Zoom.
+
+**Date:** 2026-06-11 15:00
+
+
+
+**Upcoming seminars:**
+
+* 2026-06-25: Markus Reichstein, Max-Planck-Institute for Biogeochemistry and ELLIS Unit Jena
+* 2026-08-27: Ariel Flint Ashery, City St George’s, University of London
+* All seminars are 15:00 CET.
+
+More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
+
+-- The Learning Machines Team
+
+
+
