@@ -1,0 +1,46 @@
+---
+title: "EarthShift: A benchmark for real-world ditribution shifts in Earth observation"
+summary: "Webinar with Kelsey Doerksen, University of Cape Town and Arizona State University. 
+
+Geospatial Foundation Models claim to offer powerful solutions to simplify and accelerate real-world problems, enabling the capabilities to monitor, analyze, and predict changes on our planet. Current Earth Observation benchmarks to quantify the performance of these models focus on measuring performance on diverse tasks and applications, typically measuring generalization in-distribution. However, when models are deployed, they must generalize to many out-of-distribution scenarios, such as new time periods, geographies, and sensors; and in many contexts, these models are brittle. We introduce EarthShift: the first public testbed for benchmarking robustness across multiple realistic distribution shifts encountered in remote sensing. EarthShift enables users to measure distributional robustness by comparing performance in- and out-of-distribution using datasets from paired data sources, temporal windows, geographic locations, and sensors. EarthShift provides a testbed to guide future work to create foundation models that are robust and reliable in real-world applications."
+abstract: "Geospatial Foundation Models claim to offer powerful solutions to simplify and accelerate real-world problems, enabling the capabilities to monitor, analyze, and predict changes on our planet. Current Earth Observation benchmarks to quantify the performance of these models focus on measuring performance on diverse tasks and applications, typically measuring generalization in-distribution. However, when models are deployed, they must generalize to many out-of-distribution scenarios, such as new time periods, geographies, and sensors; and in many contexts, these models are brittle. We introduce EarthShift: the first public testbed for benchmarking robustness across multiple realistic distribution shifts encountered in remote sensing. EarthShift enables users to measure distributional robustness by comparing performance in- and out-of-distribution using datasets from paired data sources, temporal windows, geographic locations, and sensors. EarthShift provides a testbed to guide future work to create foundation models that are robust and reliable in real-world applications."
+people:
+- Olof Mogren
+permalink: /events/2026-06-05-2026-05-28-earthshift-a-benchmark-for-real-world-ditribution
+event_date: 2026-05-28
+event_time: "15:00"
+event_location: ""
+image: /images/posts/2026-06-05-2026-05-28-earthshift-a-benchmark-for-real-world-ditribution.jpg
+youtube: ""
+--- 
+Welcome to this week's Learning Machines seminar.
+
+This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
+
+**Title:** EarthShift: A benchmark for real-world ditribution shifts in Earth observation
+
+**Speaker:** Kelsey Doerksen, University of Cape Town and Arizona State University
+
+**Abstract:** Geospatial Foundation Models claim to offer powerful solutions to simplify and accelerate real-world problems, enabling the capabilities to monitor, analyze, and predict changes on our planet. Current Earth Observation benchmarks to quantify the performance of these models focus on measuring performance on diverse tasks and applications, typically measuring generalization in-distribution. However, when models are deployed, they must generalize to many out-of-distribution scenarios, such as new time periods, geographies, and sensors; and in many contexts, these models are brittle. We introduce EarthShift: the first public testbed for benchmarking robustness across multiple realistic distribution shifts encountered in remote sensing. EarthShift enables users to measure distributional robustness by comparing performance in- and out-of-distribution using datasets from paired data sources, temporal windows, geographic locations, and sensors. EarthShift provides a testbed to guide future work to create foundation models that are robust and reliable in real-world applications.
+
+**About the speaker:** Kelsey Doerksen is a joint postdoctoral fellow at the University of Cape Town&#x27;s Climate Risk Lab and Arizona State University in the School of Augmented Intelligence and Computing and research affiliate at the NASA Jet Propulsion Laboratory. Her research focuses on combining her expertise in AI, Earth Observation, and Foundation Models to applied problems in the climate, food security, and biodiversity domains. She is a recent graduate from the Autonomous Intelligent Machines where she completed her thesis in the Oxford Applied and Theoretical Machine Learning Group on &quot;Applied Machine Learning for Earth Systems Science&quot;, collaborating with the United Nations, European Space Agency and NASA during her PhD.
+
+**Location:** This is an online seminar. Connect using Zoom.
+
+**Date:** 2026-05-28 15:00
+
+
+
+**Upcoming seminars:**
+
+* 2026-06-11: *More is different: emergent social conventions and tipping points in AI populations*, Gustau Camps-Valls, University of Valencia
+* 2026-06-25: *More is different: emergent social conventions and tipping points in AI populations*, Markus Reichstein, Max-Planck-Institute for Biogeochemistry and ELLIS Unit Jena
+* 2026-08-27: *More is different: emergent social conventions and tipping points in AI populations*, Ariel Flint Ashery, City St George’s, University of London
+* All seminars are 15:00 CET.
+
+More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
+
+-- The Learning Machines Team
+
+
+
