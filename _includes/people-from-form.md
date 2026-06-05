@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Earth Observation,Extreme Weather Events,Sustainable Cities,Urban Planning">
-<span title="StudentLund University."><strong>Yi Nam Xu, Student, Lund University</strong></span>
-<br />
-Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Extreme Weather Events * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://bit.ly/deanna-yi-nam-xu) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=8l0Tw60AAAAJ)
-</div>
-
 <div class="content" markdown="1" data-tags="Biodiversity; Sustainable Agriculture">
 <span title="IndustryArla Foods."><strong>Samuel Phipps, Industry, Arla Foods</strong></span>
 <br />
@@ -1288,6 +1282,12 @@ Biodiversity * Deep Learning * Machine Learning * Marine Ecology * Soundscape An
 <span title="IndustryDHI."><strong>Spyros Kondylatos, Industry, DHI</strong></span>
 <br />
 Bayesian Optimisation * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * [More info (researcher profile)](https://skondylatos.github.io/) * [Research group](https://eo.dhigroup.com/) * [Publications (Scholar)](https://scholar.google.com/citations?view_op=list_works&amp;hl=en&amp;user=Za_CSbMAAAAJ&amp;gmla=AIqSsVsFK4er1JK93bME4s7Ya7zu-M6eXfHL5E86Gjz7WpJ4hyu7qd0TVfQ9Wx5LA7Uc643EXNYVqiTG6eU9aamIeD4HlQDAVktBOw4) * [ORCID](https://orcid.org/0000-0002-0949-8592)
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Earth Observation,Extreme Weather Events,Sustainable Cities,Urban Planning">
+<span title="StudentLund University."><strong>Yi Nam Xu, Student, Lund University</strong></span>
+<br />
+Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Extreme Weather Events * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://bit.ly/deanna-yi-nam-xu) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=8l0Tw60AAAAJ)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
