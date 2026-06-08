@@ -1764,3 +1764,9 @@ Sustainable Energy * Sustainable Transport * [More info (researcher profile)](ht
 <br />
 Computer Vision * Deep Learning * Earth Observation * Machine Learning * Marine Ecology * NLP * [More info (researcher profile)](https://gabrieletijunaityte.github.io) * [Research group](https://www.wur.nl/en/chair-groups/artificial-intelligence-group)
 </div>
+
+<div class="content" markdown="1" data-tags="AutoML,Climate Impacts,Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning,NLP,Sustainable Energy">
+<span title="CIO for a company with an initiative called CIOCO2 where we have a network of over 150 CIOs that we discuss sustainable IT and the impact we have and might have i the future.  Industry."><strong>Maria Hjorth, Industry</strong></span>
+<br />
+AutoML * Climate Impacts * Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * NLP * Sustainable Energy
+</div>
