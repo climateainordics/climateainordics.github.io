@@ -118,7 +118,7 @@ For speakers, see presentation instructions [here](speaker-instructions.html).
 
 <a name="celine"></a>
 ![](celine.png)
-**{{ presentation_number }}. Céline Heuzé**, University of Gothenburg<br />
+**{{ presentation_number }}. Céline Heuzé**, University of Gothenburg, Sweden<br />
 **Title:** AI and the Arctic<br />
 **Presentation type:** Keynote, Poster <br />
 **Abstract:** The Arctic is the place on Earth changing fastest and most profoundly in response to climate change. At the same time, its already complex geopolitical situation has dramatically worsened recently, with large areas now off limit to scientists, while its economic exploitation has exploded. That is, there is simultaneously an urgent need for climate and biodiversity research in the Arctic, and seriously reduced means to conduct this research in the field. Can AI close this gap? In this talk, I will present what has already been done with AI in the Arctic, discuss which areas of research are promising, but also reflect on the remaining limitations and some ethical considerations. <br />
