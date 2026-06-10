@@ -41,14 +41,17 @@ See also [the event page](https://climateainordics.com/events/2026-nordic-worksh
 | &nbsp;&nbsp;&nbsp;&nbsp;11:00 | Invited talk | [Joakim B Haurum](https://joakimhaurum.github.io/) | **Computer Vision and Multimodal AI for Ecological Monitoring** |
 | &nbsp;&nbsp;&nbsp;&nbsp;11:25 | Selected oral #4 | [John Martinsson](#john) | A multimodal audio-video dataset for AI-based monitoring of a Baltic seabird colony under climate change |
 | &nbsp;&nbsp;&nbsp;&nbsp;11:35 | Selected oral #5 | [Hui Zhang](#hui) | [A vertical vegetation structure model of the Earth](#hui) |
-| 11:45 | | Lunch |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;11:45 | Selected oral #6 | [Miguel Costa](#miguel) | [Learning long term climate adaptation pathways for flooding impacts using reinforcement learning](#miguel) |
+| 11:55 | | Lunch |  |
 | 13:00-14:30 | | _**Session 3: Industry**_ | *Session Chair: Ankit Kariryaa* |
 | 14:30 | | Coffee break |  |
 | 15:10-16:30 | | _**Session 4**_ | *Session Chair: Aleksis Pirinen* |
 | &nbsp;&nbsp;&nbsp;&nbsp;15:10 | Invited talk | [Frida Berry Eklund](https://climate-pact.europa.eu/meet-community/climate-pact-ambassadors/frida-berry-eklund_en) | **Building Radical Climate Transparency with AI** – Inside Klimatkollen’s mission to make emissions data available to citizens on Wikipedia |
-| &nbsp;&nbsp;&nbsp;&nbsp;15:40 | Panel discussion | Invited panelists | Thematic questions of 2026 workshop |
-| &nbsp;&nbsp;&nbsp;&nbsp;16:25 | Closing remarks | Aleksis Pirinen and Olof Mogren |  |
-| 16:30 | | Posters and mingle |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;15:40 | Selected oral #7 | [James White](#james) | [Green-Teaming AI: Noticing ‘the (missing) environment’ in generative AI](#james) |
+| &nbsp;&nbsp;&nbsp;&nbsp;15:50 | Selected oral #8 | [Sai Ganesh Veeravalli](#sai) | [Making urban deprivation visible for climate adaptation planning](#sai) |
+| &nbsp;&nbsp;&nbsp;&nbsp;16:00 | Panel discussion | Invited panelists | Thematic questions of 2026 workshop |
+| &nbsp;&nbsp;&nbsp;&nbsp;16:45 | Closing remarks | Aleksis Pirinen and Olof Mogren |  |
+| 16:50 | | Posters and mingle |  |
 | 18:00 | | Social dinner | |
 
 
@@ -73,7 +76,7 @@ See also [the event page](https://climateainordics.com/events/2026-nordic-worksh
 {% assign poster_number = poster_number | plus: 1 -%}
 | {{ poster_number }}  | [Venkanna Babu Guthula](#venkanna) | [Align and Segment: Unsupervised Learning for Building Segmentation From Misaligned Labels](#venkanna) |
 {% assign poster_number = poster_number | plus: 1 -%}
-| {{ poster_number }}  | [Sai Ganesh Veeravalli](#sai) | [Making Urban Deprivation Visible for Climate Adaptation Planning](#sai) |
+| {{ poster_number }}  | [Sai Ganesh Veeravalli](#sai) | [Making urban deprivation visible for climate adaptation planning](#sai) |
 {% assign poster_number = poster_number | plus: 1 -%}
 | {{ poster_number }}  | [Joakim Haurum](#joakim) | [TBD](#joakim) |
 {% assign poster_number = poster_number | plus: 1 -%}
