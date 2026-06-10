@@ -78,8 +78,8 @@ See also [the event page](https://climateainordics.com/events/2026-nordic-worksh
 {% assign presentation_number = presentation_number | plus: 1 -%}
 | {{ presentation_number }}  | [James White](#james) | [Green-Teaming AI: Noticing ‘the (missing) environment’ in generative AI](#james) |
 {% assign presentation_number = presentation_number | plus: 1 -%}
-| {{ presentation_number }}  | [Aleksis Pirinen](#aleksis) | [TBD](#aleksis) |
-{% assign presentation_number = presentation_number | plus: 1 -%}
+<!--| {{ presentation_number }}  | [Aleksis Pirinen](#aleksis) | [TBD](#aleksis) |
+{% assign presentation_number = presentation_number | plus: 1 -%}-->
 | {{ presentation_number }}  | [Venkanna Babu Guthula](#venkanna) | [Align and Segment: Unsupervised Learning for Building Segmentation From Misaligned Labels](#venkanna) |
 {% assign presentation_number = presentation_number | plus: 1 -%}
 | {{ presentation_number }}  | [Sai Ganesh Veeravalli](#sai) | [Making urban deprivation visible for climate adaptation planning](#sai) |
@@ -197,12 +197,13 @@ For speakers, see presentation instructions [here](speaker-instructions.html).
 
 [Back to top of page](#top)
 
+<!--
 {% assign presentation_number = presentation_number | plus: 1 %}
 <a name="aleksis"></a>
 **{{ presentation_number }}. Aleksis Pirinen**, RISE Research Institutes of Sweden, Sweden<br />
 **Title:** TBD<br />
 **Presentation type:** Poster
-**Abstract:** TBD
+**Abstract:** TBD-->
 
 [Back to top of page](#top)
 
