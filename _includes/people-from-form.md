@@ -1769,3 +1769,9 @@ Computer Vision * Deep Learning * Earth Observation * Machine Learning * Marine 
 <br />
 AutoML * Climate Impacts * Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * NLP * Sustainable Energy
 </div>
+
+<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Machine Learning,Sustainable Supply Chain Management">
+<span title="Siavash Khajavi is an Assistant Professor of Operations Management at Aalto University in Helsinki, Finland. His research examines how transformative digital technologies shape operations management practices. His areas of interest include additive manufacturing, digital twins, blockchain technology, computer vision, and robotics. He earned his Ph.D. from Aalto University in 2018, with a dissertation exploring the impact of additive manufacturing on operations management. His work has been published in leading outlets, including the Journal of Operations Management. Assistant ProfessorAalto University."><strong>Siavash Khajavi, Assistant Professor, Aalto University</strong></span>
+<br />
+Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * Sustainable Supply Chain Management * [Publications (Scholar)](https://scholar.google.com/citations?user=yLPaXdoAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-5166-4021)
+</div>
