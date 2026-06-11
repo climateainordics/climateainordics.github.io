@@ -52,7 +52,9 @@ See also [the event page](https://climateainordics.com/events/2026-nordic-worksh
 | &nbsp;&nbsp;&nbsp;&nbsp;16:00 | Panel discussion | Invited panelists | Thematic questions of 2026 workshop |
 | &nbsp;&nbsp;&nbsp;&nbsp;16:45 | Closing remarks | Aleksis Pirinen and Olof Mogren |  |
 | 16:50 | | Posters and mingle |  |
-| 18:00 | | Social dinner | |
+| 17:45 | | Relocation to social | |
+| 18:15 | | Social activity | |
+| 19:00 | | Dinner | |
 
 
 <a name="posters"></a>
@@ -131,7 +133,7 @@ For speakers, see presentation instructions [here](speaker-instructions.html).
 <a name="joakim"></a>
 **{{ presentation_number }}. Joakim Haurum**, University of Southern Denmark & Pioneer Centre for AI, Denmark<br />
 **Title:** Computer Vision and Multimodal AI for Ecological Monitoring<br />
-**Presentation type:** Invited talk, Poster
+**Presentation type:** Invited talk
 **Abstract:** Measuring biodiversity is crucial for understanding ecosystem health. However, differentiating different species often requires taxonomists who have acquired expert level knowledge over several years. This is both time inefficient and the science of taxonomy has been de-prioritized over the years. Therefore, developing Computer Vision and AI methodologies and benchmarks specifically for biodiversity monitoring is of great importance, in order to alleviate, assist, and enable domain experts. In this talk, I will present recent work from the BIOSCAN-ML group where we have developed the multimodal benchmarks and methods for insect biodiversity monitoring. Uniquely these developments no only work on images of insects, but also incorporate the strong domain knowledge embedded into DNA barcode and text-based representations of taxonomic labels.<br />
 **Bio:** Joakim is an Assistant Professor at the University of Southern Denmark, and also affiliated with the Pioneer Centre for Artificial Intelligence. Joakim works on both foundational machine learning and computer vision, as well as their application in domains such as biodiversity monitoring. His recent work centers on handling messy, real‑world expert data and designing computer vision models that can generalize in open‑world conditions—critical for large‑scale biodiversity assessment.<br />
 **More info:** [https://joakimhaurum.github.io/](https://joakimhaurum.github.io/)
