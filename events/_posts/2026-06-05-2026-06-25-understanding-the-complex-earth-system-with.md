@@ -1,0 +1,50 @@
+---
+title: "Understanding the complex Earth system with Machine Learning and Hybrid Modelling"
+summary: "Webinar with Markus Reichstein, Max-Planck-Institute for Biogeochemistry and ELLIS Unit Jena. 
+
+The Earth system is a complex, dynamic and strongly interconnected system, shaped by interactions between climate, ecosystems, biogeochemical cycles and human activities. Rapidly growing streams of satellite, in-situ and experimental observations, together with advances in machine learning, offer new opportunities to detect patterns, infer processes and improve prediction across scales. Yet purely data-driven approaches often lack physical consistency and interpretability, while classical process-based models remain limited by uncertain parameterizations and incomplete representations of complex feedbacks.
+
+In this talk I will discuss how machine learning and hybrid modelling can help bridge this gap. By combining the versatility of data-driven methods with the constraints and explanatory power of mechanistic understanding, hybrid approaches can support more robust, interpretable and physically consistent models of the Earth system. Examples from the terrestrial biosphere, land-atmosphere exchange, carbon and water cycles, and climate extremes will illustrate how such approaches can contribute not only to improved prediction, but also to deeper scientific understanding of Earth system dynamics."
+abstract: "The Earth system is a complex, dynamic and strongly interconnected system, shaped by interactions between climate, ecosystems, biogeochemical cycles and human activities. Rapidly growing streams of satellite, in-situ and experimental observations, together with advances in machine learning, offer new opportunities to detect patterns, infer processes and improve prediction across scales. Yet purely data-driven approaches often lack physical consistency and interpretability, while classical process-based models remain limited by uncertain parameterizations and incomplete representations of complex feedbacks.
+
+In this talk I will discuss how machine learning and hybrid modelling can help bridge this gap. By combining the versatility of data-driven methods with the constraints and explanatory power of mechanistic understanding, hybrid approaches can support more robust, interpretable and physically consistent models of the Earth system. Examples from the terrestrial biosphere, land-atmosphere exchange, carbon and water cycles, and climate extremes will illustrate how such approaches can contribute not only to improved prediction, but also to deeper scientific understanding of Earth system dynamics."
+people:
+- Olof Mogren
+permalink: /events/2026-06-05-2026-06-25-understanding-the-complex-earth-system-with
+event_date: 2026-06-25
+event_time: "15:00"
+event_location: ""
+image: /images/posts/2026-06-05-2026-06-25-understanding-the-complex-earth-system-with.jpg
+youtube: ""
+--- 
+Welcome to this week's Learning Machines seminar.
+
+This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
+
+**Title:** Understanding the complex Earth system with Machine Learning and Hybrid Modelling
+
+**Speaker:** Markus Reichstein, Max-Planck-Institute for Biogeochemistry and ELLIS Unit Jena
+
+**Abstract:** The Earth system is a complex, dynamic and strongly interconnected system, shaped by interactions between climate, ecosystems, biogeochemical cycles and human activities. Rapidly growing streams of satellite, in-situ and experimental observations, together with advances in machine learning, offer new opportunities to detect patterns, infer processes and improve prediction across scales. Yet purely data-driven approaches often lack physical consistency and interpretability, while classical process-based models remain limited by uncertain parameterizations and incomplete representations of complex feedbacks.
+
+In this talk I will discuss how machine learning and hybrid modelling can help bridge this gap. By combining the versatility of data-driven methods with the constraints and explanatory power of mechanistic understanding, hybrid approaches can support more robust, interpretable and physically consistent models of the Earth system. Examples from the terrestrial biosphere, land-atmosphere exchange, carbon and water cycles, and climate extremes will illustrate how such approaches can contribute not only to improved prediction, but also to deeper scientific understanding of Earth system dynamics.
+
+**About the speaker:** Markus Reichstein is Director of the Biogeochemical Integration Department at the Max Planck Institute for Biogeochemistry and Professor for Global Geoecology at FSU Jena. His primary research interests center on how ecosystems respond and feedback to climatic variability, with a particular focus on the interplay between climate extremes and ecosystem resilience. To address these complex challenges, he combines artificial intelligence and system modeling approaches to exploit extensive ground- and satellite-based Earth observations. He is Program Director of the ELLIS Machine Learning for Earth and Climate Sciences program and founding Director of the ELLIS Unit Jena. Notably, he has served as a lead author for the IPCC Special Report on Climate Extremes (SREX) and was awarded the prestigious Gottfried Wilhelm Leibniz Prize in 2020. His groundbreaking collaborative research has also been supported by a major European Research Council (ERC) Synergy Grant.
+
+**Location:** This is an online seminar. Connect using Zoom.
+
+**Date:** 2026-06-25 15:00
+
+
+
+**Upcoming seminars:**
+
+* 2026-08-27: *More is different: emergent social conventions and tipping points in AI populations*, Ariel Flint Ashery, City St George’s, University of London
+* All seminars are 15:00 CET.
+
+More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
+
+-- The Learning Machines Team
+
+
+
