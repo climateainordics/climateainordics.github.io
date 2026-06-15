@@ -50,8 +50,8 @@ See also [the event page](https://climateainordics.com/events/2026-nordic-worksh
 | &nbsp;&nbsp;&nbsp;&nbsp;15:40 | Selected oral #7 | [James White](#james) | [Green-Teaming AI: Noticing ‘the (missing) environment’ in generative AI](#james) |
 | &nbsp;&nbsp;&nbsp;&nbsp;15:50 | Selected oral #8 | [Sai Ganesh Veeravalli](#sai) | [Making urban deprivation visible for climate adaptation planning](#sai) |
 | &nbsp;&nbsp;&nbsp;&nbsp;16:00 | Panel discussion | Invited panelists | Thematic questions of 2026 workshop |
-| &nbsp;&nbsp;&nbsp;&nbsp;16:45 | Closing remarks | Aleksis Pirinen and Olof Mogren |  |
-| 16:50 | | Posters and mingle |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;16:35 | Closing remarks | Aleksis Pirinen and Olof Mogren |  |
+| 16:40 | | Posters and mingle |  |
 | 17:45 | | Relocation to social | |
 | 18:15 | | Social activity | |
 | 19:00 | | Dinner | |
