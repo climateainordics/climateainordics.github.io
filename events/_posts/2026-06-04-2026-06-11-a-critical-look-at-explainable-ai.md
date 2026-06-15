@@ -11,7 +11,7 @@ event_date: 2026-06-11
 event_time: "15:00"
 event_location: ""
 image: /images/posts/2026-06-04-2026-06-11-a-critical-look-at-explainable-ai.png
-youtube: ""
+youtube: "https://www.youtube.com/watch?v=saoF4x7ZpsQ&list=PLqLiVcF3GKy1tuQFoDu5QKOM6S33t_4R1"
 --- 
 Welcome to this week's Learning Machines seminar.
 
