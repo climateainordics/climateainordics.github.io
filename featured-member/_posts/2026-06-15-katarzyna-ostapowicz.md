@@ -1,7 +1,7 @@
 ---
 image: /images/people/featured/KatarzynaOstapowiczPortrait.jpg
 image_small: /images/people/featured/KatarzynaOstapowiczPortrait.jpg
-image_width: 70%
+image_width: 40%
 layout: single
 people:
 - Katarzyna Ostapowicz
