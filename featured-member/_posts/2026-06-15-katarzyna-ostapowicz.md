@@ -1,6 +1,6 @@
 ---
-image: /images/people/featured/KatarzynaOstapowicz.JPG
-image_small: /images/people/featured/KatarzynaOstapowicz.JPG
+image: /images/people/featured/KatarzynaOstapowicz.jpg
+image_small: /images/people/featured/KatarzynaOstapowicz.jpg
 image_width: 70%
 layout: single
 people:
