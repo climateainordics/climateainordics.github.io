@@ -53,12 +53,12 @@ See also [the event page](https://climateainordics.com/events/2026-nordic-worksh
 | &nbsp;&nbsp;&nbsp;&nbsp;16:35 | Closing remarks | Aleksis Pirinen and Olof Mogren |  |
 | 16:40 | | Posters and mingle |  |
 | 17:45 | | Relocation to social | |
-| 18:15 | | Social activity | |
-| 19:00 | | Dinner | |
+| 18:15 | | Social activity | Ferry ride in Copenhagen to the dinner |
+| 19:00 | | Dinner | Reffen, the largest outside street food court in the Nordics |
 
 
 <a name="posters"></a>
-## 16:20 - 18:00 Poster presentations
+## 16:40 - 17:45 Poster presentations
 
 {% assign presentation_number = 1 %}
 
