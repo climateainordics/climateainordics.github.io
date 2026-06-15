@@ -11,7 +11,7 @@ event_date: 2026-05-28
 event_time: "15:00"
 event_location: ""
 image: /images/posts/2026-06-05-2026-05-28-earthshift-a-benchmark-for-real-world-ditribution.jpg
-youtube: ""
+youtube: "https://www.youtube.com/watch?v=v8bGOmmITJw&list=PLqLiVcF3GKy1tuQFoDu5QKOM6S33t_4R1"
 --- 
 Welcome to this week's Learning Machines seminar.
 
