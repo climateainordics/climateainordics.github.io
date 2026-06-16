@@ -108,7 +108,6 @@ See also [the event page](https://climateainordics.com/events/2026-nordic-worksh
 {% assign presentation_number = presentation_number | plus: 1 -%}
 | {{ presentation_number }}  | [Luca Ciampi](#luca) | [Neuro‑Inspired Visual Pattern Recognition via Biological Reservoir Computing](#luca) |
 
-
 ## Speaker instructions.
 
 For speakers, see presentation instructions [here](speaker-instructions.html).
