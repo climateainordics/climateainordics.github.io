@@ -48,7 +48,7 @@ See also [the event page](https://climateainordics.com/events/2026-nordic-worksh
 | 15:10-16:30 | | _**Session 4**_ | *Session Chair: Aleksis Pirinen* |
 | &nbsp;&nbsp;&nbsp;&nbsp;15:10 | Invited talk | [Frida Berry Eklund](#frida) | [Building Radical Climate Transparency with AI – Inside Klimatkollen’s mission to make emissions data available to citizens on Wikipedia](#frida) |
 | &nbsp;&nbsp;&nbsp;&nbsp;15:40 | Selected oral #7 | [James White](#james) | [Green-Teaming AI: Noticing ‘the (missing) environment’ in generative AI](#james) |
-| &nbsp;&nbsp;&nbsp;&nbsp;15:50 | Selected oral #8 | [Sai Ganesh Veeravalli](#sai) | [Making urban deprivation visible for climate adaptation planning](#sai) |
+| &nbsp;&nbsp;&nbsp;&nbsp;15:50 | Selected oral #8 | [Sai Ganesh Veeravalli](#sai1) | [Making urban deprivation visible for climate adaptation planning](#sai) |
 | &nbsp;&nbsp;&nbsp;&nbsp;16:00 | Panel discussion | Invited panelists | Thematic questions of 2026 workshop |
 | &nbsp;&nbsp;&nbsp;&nbsp;16:35 | Closing remarks | Aleksis Pirinen and Olof Mogren |  |
 | 16:40 | | Posters and mingle |  |
@@ -82,7 +82,9 @@ See also [the event page](https://climateainordics.com/events/2026-nordic-worksh
 {% assign presentation_number = presentation_number | plus: 1 -%}
 | {{ presentation_number }}  | [Venkanna Babu Guthula](#venkanna) | [Align and Segment: Unsupervised Learning for Building Segmentation From Misaligned Labels](#venkanna) |
 {% assign presentation_number = presentation_number | plus: 1 -%}
-| {{ presentation_number }}  | [Sai Ganesh Veeravalli](#sai) | [Making urban deprivation visible for climate adaptation planning](#sai) |
+| {{ presentation_number }}  | [Sai Ganesh Veeravalli](#sai1) | [Making urban deprivation visible for climate adaptation planning](#sai1) |
+{% assign presentation_number = presentation_number | plus: 1 -%}
+| {{ presentation_number }}  | [Sai Ganesh Veeravalli](#sai2) | [SESAC - Centre for Satellite Data in Social Research](#sai2) |
 {% assign presentation_number = presentation_number | plus: 1 -%}
 | {{ presentation_number }}  | [Gabrielė Tijūnaitytė](#gabriele) | [Language Alignment for Explainable Predictions from Geospatial Foundation Models](#gabriele) |
 {% assign presentation_number = presentation_number | plus: 1 -%}
@@ -217,11 +219,22 @@ For speakers, see presentation instructions [here](speaker-instructions.html).
 [Back to top of page](#top)
 
 {% assign presentation_number = presentation_number | plus: 1 %}
-<a name="sai"></a>
+<a name="sai1"></a>
 **{{ presentation_number }}. Sai Ganesh Veeravalli**, Karlstad University, Sweden<br />
 **Title:** Making Urban Deprivation Visible for Climate Adaptation Planning<br />
 **Presentation type:** Oral, Poster
 **Abstract:** Climate risk is not evenly distributed within cities. Deprived urban areas often combine dense and irregular built form, limited road access, inadequate infrastructure, and reduced capacity to cope with hazards such as flooding and extreme heat. Yet these neighbourhoods remain poorly represented in many global datasets, especially in small and medium cities where local data are limited. This study presents a globally consistent framework for mapping City Segment Morphological Deprivation (CSMD) across cities in Africa, Asia, and Latin America and the Caribbean. Using harmonized open geospatial data on buildings, roads, and population, together with supervised learning trained on labelled benchmark cities, the framework identifies neighbourhood-scale patterns associated with morphological deprivation. It complements household-based indicators by capturing built-environment and access conditions that shape urban inequality. Applied across the Global South, the analysis estimates that approximately 395 million people, or 20.2% of the covered urban population, live in morphologically deprived city segments. More than one-third of this population, about 136 million people, live in small and medium cities, highlighting a major burden beyond the megacities that often dominate urban and climate debates. By making deprived urban areas spatially visible, this work provides a screening layer that can support SDG 11.1.1 monitoring, prioritization of urban investments, and future integration with flood and heat exposure data for more equitable climate adaptation planning.
+
+[Back to top of page](#top)
+
+{% assign presentation_number = presentation_number | plus: 1 %}
+<a name="sai2"></a>
+**{{ presentation_number }}. Sai Ganesh Veeravalli**, Karlstad University, Sweden<br />
+**Title:** SESAC - Centre for Satellite Data in Social Research<br />
+**Presentation type:** Poster
+**Abstract:** SESAC (Swedish Competence Centre for Satellite Enabled Social Science Analytics) is a national competence centre which, with support from the Swedish National Space Agency, makes satellite data available to social science researchers.
+
+[More info](https://www.sam.lu.se/en/sesac)
 
 [Back to top of page](#top)
 
