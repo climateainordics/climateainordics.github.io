@@ -25,6 +25,8 @@ img {
 
 See also [the event page](https://climateainordics.com/events/2026-nordic-workshop) for additional information incl. on registration!
 
+**Location:** Thorvaldsensvej 40, 1871 Frederiksberg, Copenhagen.
+
 ## Schedule
 
 | Time | Category | Speaker | Title/Topic |
