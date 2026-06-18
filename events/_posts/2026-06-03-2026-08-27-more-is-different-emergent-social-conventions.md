@@ -10,7 +10,7 @@ permalink: /events/2026-06-03-2026-08-27-more-is-different-emergent-social-conve
 event_date: 2026-08-27
 event_time: "15:00"
 event_location: ""
-
+image: /images/posts/2026-06-03-2026-08-27-more-is-different-emergent-social-conventions.jpg
 youtube: ""
 --- 
 Welcome to this week's Learning Machines seminar.
