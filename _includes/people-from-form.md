@@ -785,6 +785,12 @@ Climate Modeling * Earth Observation * Earth System Modeling * Machine Learning 
 Climate Modeling * Deep Learning * Extreme Weather Events * Machine Learning * Weather Forecasting
 </div>
 
+<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Machine Learning,Sustainable Supply Chain Management">
+<span title="Siavash Khajavi is an Assistant Professor of Operations Management at Aalto University in Helsinki, Finland. His research examines how transformative digital technologies shape operations management practices. His areas of interest include additive manufacturing, digital twins, blockchain technology, computer vision, and robotics. He earned his Ph.D. from Aalto University in 2018, with a dissertation exploring the impact of additive manufacturing on operations management. His work has been published in leading outlets, including the Journal of Operations Management. Assistant ProfessorAalto University."><strong>Siavash Khajavi, Assistant Professor, Aalto University</strong></span>
+<br />
+Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * Sustainable Supply Chain Management * [Publications (Scholar)](https://scholar.google.com/citations?user=yLPaXdoAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-5166-4021)
+</div>
+
 <div class="content" markdown="1" data-tags="">
 <span title="I&#x27;m a PhD student at the Center for Mathematical Sciences focusing on anomaly detection and machine learning in earth observations and remote sensing. PhD StudentLund University."><strong>Oskar Åström, PhD Student, Lund University</strong></span>
 <br />
@@ -1289,6 +1295,12 @@ Biodiversity; Sustainable Agriculture * [More info (researcher profile)](https:/
 [More info (researcher profile)](https://segeljakt.tilda.ws/) * [Publications (Scholar)](https://scholar.google.se/citations?user=k4bVwsIAAAAJ&amp;hl=en)
 </div>
 
+<div class="content" markdown="1" data-tags="AutoML,Climate Impacts,Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning,NLP,Sustainable Energy">
+<span title="CIO for a company with an initiative called CIOCO2 where we have a network of over 150 CIOs that we discuss sustainable IT and the impact we have and might have i the future.  Industry."><strong>Maria Hjorth, Industry</strong></span>
+<br />
+AutoML * Climate Impacts * Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * NLP * Sustainable Energy
+</div>
+
 ## Supporting Affiliates (Outside Nordics)
 <div class="content" markdown="1" data-tags="Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI">
 <span title="I am a lecturer in Urban Planning at the University of Auckland, bringing over 13 years of experience in both research and practice. My focus is on addressing climate change challenges, enhancing urban resilience, promoting regeneration, and advocating for environmental justice. I am particularly interested in understanding and mitigating the risks that urban areas encounter, especially those related to climate change and natural hazards. My research examines how cities can adapt to these increasing threats, emphasising resilience, risk reduction, and sustainable planning to protect communities and infrastructure. Assistant ProfessorUniversity of Auckland."><strong>Iresh Jayawardena, Assistant Professor, University of Auckland</strong></span>
@@ -1762,16 +1774,4 @@ Sustainable Energy * Sustainable Transport * [More info (researcher profile)](ht
 <span title="I am Gabrielė Tijūnaitytė, a Research Engineer in the Artificial Intelligence group at Wageningen University, specialising in AI for Earth Observations.  With a strong foundation in Geo-Information Science, my work lies at the intersection of deep learning, computer vision, and geospatial analysis. I am dedicated to building impactful, data-driven solutions to environmental challenges. My primary expertise involves working with multi-modal satellite imagery, large vision-language models, and contrastive deep learning frameworks. ResearcherWageningen University."><strong>Gabriele Tijunaityte, Researcher, Wageningen University</strong></span>
 <br />
 Computer Vision * Deep Learning * Earth Observation * Machine Learning * Marine Ecology * NLP * [More info (researcher profile)](https://gabrieletijunaityte.github.io) * [Research group](https://www.wur.nl/en/chair-groups/artificial-intelligence-group)
-</div>
-
-<div class="content" markdown="1" data-tags="AutoML,Climate Impacts,Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning,NLP,Sustainable Energy">
-<span title="CIO for a company with an initiative called CIOCO2 where we have a network of over 150 CIOs that we discuss sustainable IT and the impact we have and might have i the future.  Industry."><strong>Maria Hjorth, Industry</strong></span>
-<br />
-AutoML * Climate Impacts * Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * NLP * Sustainable Energy
-</div>
-
-<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Machine Learning,Sustainable Supply Chain Management">
-<span title="Siavash Khajavi is an Assistant Professor of Operations Management at Aalto University in Helsinki, Finland. His research examines how transformative digital technologies shape operations management practices. His areas of interest include additive manufacturing, digital twins, blockchain technology, computer vision, and robotics. He earned his Ph.D. from Aalto University in 2018, with a dissertation exploring the impact of additive manufacturing on operations management. His work has been published in leading outlets, including the Journal of Operations Management. Assistant ProfessorAalto University."><strong>Siavash Khajavi, Assistant Professor, Aalto University</strong></span>
-<br />
-Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * Sustainable Supply Chain Management * [Publications (Scholar)](https://scholar.google.com/citations?user=yLPaXdoAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-5166-4021)
 </div>
