@@ -39,14 +39,14 @@ See also [the event page](https://climateainordics.com/events/2026-nordic-worksh
 | &nbsp;&nbsp;&nbsp;&nbsp;10:00 | Selected oral #2 | [Gabrielė Tijūnaitytė](#gabriele) | [Language Alignment for Explainable Predictions from Geospatial Foundation Models](#gabriele) |
 | &nbsp;&nbsp;&nbsp;&nbsp;10:05 | Selected oral #3 | [Aprilia Nidia Rinasti](#aprilia) | [MethaneState: A Multimodal Satellite Remote Sensing Benchmark Dataset for Methane Mapping](#aprilia)  |
 | 10:20 | | Coffee break |  |
-| 11:00-11:45 | | _**Session 2**_ | *Session Chair: Olof Mogren* |
+| 11:00-11:55 | | _**Session 2**_ | *Session Chair: Olof Mogren* |
 | &nbsp;&nbsp;&nbsp;&nbsp;11:00 | Invited talk | [Joakim B Haurum](#joakim) | [Computer Vision and Multimodal AI for Ecological Monitoring](#joakim) |
 | &nbsp;&nbsp;&nbsp;&nbsp;11:25 | Selected oral #4 | [John Martinsson](#john) | A multimodal audio-video dataset for AI-based monitoring of a Baltic seabird colony under climate change |
 | &nbsp;&nbsp;&nbsp;&nbsp;11:35 | Selected oral #5 | [Hui Zhang](#hui) | [A vertical vegetation structure model of the Earth](#hui) |
 | &nbsp;&nbsp;&nbsp;&nbsp;11:45 | Selected oral #6 | [Miguel Costa](#miguel) | [Learning long term climate adaptation pathways for flooding impacts using reinforcement learning](#miguel) |
 | 11:55 | | Lunch |  |
-| 13:00-14:20 | | _**Session 3: Industry**_ | *Session Chair: Ankit Kariryaa* |
-| 14:20 | | Coffee break |  |
+| 13:00-14:30 | | _**Session 3: Industry**_ | *Session Chair: Ankit Kariryaa* |
+| 14:30 | | Coffee break |  |
 | 14:55-16:15 | | _**Session 4**_ | *Session Chair: Aleksis Pirinen* |
 | &nbsp;&nbsp;&nbsp;&nbsp;14:55 | Invited talk | [Frida Berry Eklund](#frida) | [Building Radical Climate Transparency with AI – Inside Klimatkollen’s mission to make emissions data available to citizens on Wikipedia](#frida) |
 | &nbsp;&nbsp;&nbsp;&nbsp;15:25 | Selected oral #7 | [James White](#james) | [Green-Teaming AI: Noticing ‘the (missing) environment’ in generative AI](#james) |
@@ -57,7 +57,6 @@ See also [the event page](https://climateainordics.com/events/2026-nordic-worksh
 | 17:30 | | Relocation to social | |
 | 18:00 | | Social activity | Ferry ride in Copenhagen to the dinner |
 | 19:00 | | Dinner | Reffen, the largest outside street food court in the Nordics |
-
 
 <a name="posters"></a>
 ## 16:40 - 17:45 Poster presentations
