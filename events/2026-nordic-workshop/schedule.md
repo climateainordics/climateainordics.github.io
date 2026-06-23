@@ -64,7 +64,7 @@ See also [the event page](https://climateainordics.com/events/2026-nordic-worksh
 | 19:00 | | Dinner | Reffen, the largest outside street food court in the Nordics |
 
 <a name="posters"></a>
-## 16:40 - 17:45 Poster presentations
+## 16:20 - 17:30 Poster presentations
 
 {% assign presentation_number = 1 %}
 
