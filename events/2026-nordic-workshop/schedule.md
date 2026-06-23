@@ -56,7 +56,7 @@ See also [the event page](https://climateainordics.com/events/2026-nordic-worksh
 | &nbsp;&nbsp;&nbsp;&nbsp;14:55 | Invited talk | [Frida Berry Eklund](#frida) | [Building Radical Climate Transparency with AI – Inside Klimatkollen’s mission to make emissions data available to citizens on Wikipedia](#frida) |
 | &nbsp;&nbsp;&nbsp;&nbsp;15:25 | Selected oral #7 | [James White](#james) | [Green-Teaming AI: Noticing ‘the (missing) environment’ in generative AI](#james) |
 | &nbsp;&nbsp;&nbsp;&nbsp;15:35 | Selected oral #8 | [Sai Ganesh Veeravalli](#sai1) | [Making urban deprivation visible for climate adaptation planning](#sai) |
-| &nbsp;&nbsp;&nbsp;&nbsp;15:45 | Panel discussion | Invited panelists | Thematic questions of 2026 workshop |
+| &nbsp;&nbsp;&nbsp;&nbsp;15:45 | Panel discussion | [Céline Heuzé](https://cheuze.com/), [Joakim B Haurum](https://joakimhaurum.github.io/), [Frida Berry Eklund](https://climate-pact.europa.eu/meet-community/climate-pact-ambassadors/frida-berry-eklund_en), [Samuel Phipps](https://dk.linkedin.com/in/samuel-phipps) | Thematic questions of 2026 workshop |
 | &nbsp;&nbsp;&nbsp;&nbsp;16:15 | Closing remarks | Aleksis Pirinen |  |
 | 16:20 | | Posters and mingle |  |
 | 17:30 | | Relocation to social | |
