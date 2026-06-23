@@ -34,18 +34,23 @@ See also [the event page](https://climateainordics.com/events/2026-nordic-worksh
 | 8:30 | | Coffee/find your seat | | 
 | 9:00-10:20 | | _**Session 1**_ | *Session Chair: Nico Lang* |
 | &nbsp;&nbsp;&nbsp;&nbsp;9:00 | Opening remarks | Ankit Kariryaa | |
-| &nbsp;&nbsp;&nbsp;&nbsp;9:10 | Keynote | [Céline Heuzé](#celine) | [AI and the Arctic](celine) |
-| &nbsp;&nbsp;&nbsp;&nbsp;9:50 | Selected oral #1 | [Fuxing Wang](#fuxing) | [Emulating land–atmosphere feedbacks in convection-permitting regional climate models using machine learning](#fuxing) | 
-| &nbsp;&nbsp;&nbsp;&nbsp;10:00 | Selected oral #2 | [Gabrielė Tijūnaitytė](#gabriele) | [Language Alignment for Explainable Predictions from Geospatial Foundation Models](#gabriele) |
+| &nbsp;&nbsp;&nbsp;&nbsp;9:05 | Keynote | [Céline Heuzé](#celine) | [AI and the Arctic](celine) |
+| &nbsp;&nbsp;&nbsp;&nbsp;9:45 | Selected oral #1 | [Fuxing Wang](#fuxing) | [Emulating land–atmosphere feedbacks in convection-permitting regional climate models using machine learning](#fuxing) | 
+| &nbsp;&nbsp;&nbsp;&nbsp;9:55 | Selected oral #2 | [Gabrielė Tijūnaitytė](#gabriele) | [Language Alignment for Explainable Predictions from Geospatial Foundation Models](#gabriele) |
 | &nbsp;&nbsp;&nbsp;&nbsp;10:05 | Selected oral #3 | [Aprilia Nidia Rinasti](#aprilia) | [MethaneState: A Multimodal Satellite Remote Sensing Benchmark Dataset for Methane Mapping](#aprilia)  |
-| 10:20 | | Coffee break |  |
-| 11:00-11:55 | | _**Session 2**_ | *Session Chair: Olof Mogren* |
-| &nbsp;&nbsp;&nbsp;&nbsp;11:00 | Invited talk | [Joakim B Haurum](#joakim) | [Computer Vision and Multimodal AI for Ecological Monitoring](#joakim) |
-| &nbsp;&nbsp;&nbsp;&nbsp;11:25 | Selected oral #4 | [John Martinsson](#john) | A multimodal audio-video dataset for AI-based monitoring of a Baltic seabird colony under climate change |
-| &nbsp;&nbsp;&nbsp;&nbsp;11:35 | Selected oral #5 | [Hui Zhang](#hui) | [A vertical vegetation structure model of the Earth](#hui) |
-| &nbsp;&nbsp;&nbsp;&nbsp;11:45 | Selected oral #6 | [Miguel Costa](#miguel) | [Learning long term climate adaptation pathways for flooding impacts using reinforcement learning](#miguel) |
-| 11:55 | | Lunch |  |
+| 10:15 | | Coffee break |  |
+| 10:45-11:45 | | _**Session 2**_ | *Session Chair: Olof Mogren* |
+| &nbsp;&nbsp;&nbsp;&nbsp;10:45 | Invited talk | [Joakim B Haurum](#joakim) | [Computer Vision and Multimodal AI for Ecological Monitoring](#joakim) |
+| &nbsp;&nbsp;&nbsp;&nbsp;11:15 | Selected oral #4 | [John Martinsson](#john) | A multimodal audio-video dataset for AI-based monitoring of a Baltic seabird colony under climate change |
+| &nbsp;&nbsp;&nbsp;&nbsp;11:25 | Selected oral #5 | [Hui Zhang](#hui) | [A vertical vegetation structure model of the Earth](#hui) |
+| &nbsp;&nbsp;&nbsp;&nbsp;11:35 | Selected oral #6 | [Miguel Costa](#miguel) | [Learning long term climate adaptation pathways for flooding impacts using reinforcement learning](#miguel) |
+| 11:45 | | Lunch |  |
 | 13:00-14:30 | | _**Session 3: Industry**_ | *Session Chair: Ankit Kariryaa* |
+| &nbsp;&nbsp;&nbsp;&nbsp;13:00 | Session opening |  |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;13:05 | Industry talk #1 | [Puzhao Zhang](#puzhao) | [Uncertainty-aware ML, wetland mapping, actionable decision-making](#puzhao) |
+| &nbsp;&nbsp;&nbsp;&nbsp;13:15 | Industry talk #2 | [Spyros Kondylatos](#spyros) | [Earth Observation (EO) foundation models, operational workflows, wetlands/coastal systems, uncertainty](#spyros) |
+| &nbsp;&nbsp;&nbsp;&nbsp;13:25 | Industry talk #3 | [Theodor Christensen](#theodor) | [From pixels to prices: turning Earth observation and machine learning into risk decisions banks and insurers can act on](#theodor) |
+| &nbsp;&nbsp;&nbsp;&nbsp;13:35 | Industry talk #4 | [Marta Malinowska](#marta) | [Climate stress, labor-intensive fieldwork vs. big data, AI frameworks for actionable insights, industry gaps](#marta) |
 | 14:30 | | Coffee break |  |
 | 14:55-16:15 | | _**Session 4**_ | *Session Chair: Aleksis Pirinen* |
 | &nbsp;&nbsp;&nbsp;&nbsp;14:55 | Invited talk | [Frida Berry Eklund](#frida) | [Building Radical Climate Transparency with AI – Inside Klimatkollen’s mission to make emissions data available to citizens on Wikipedia](#frida) |
@@ -66,6 +71,8 @@ See also [the event page](https://climateainordics.com/events/2026-nordic-worksh
 | No. | Speaker | Title |
 | ---- | -------------------------- | --------------------------------------------------------------- |
 | {{ presentation_number }}   | [Céline Heuzé](#celine) | [AI and the Arctic](#lucia) |
+{% assign presentation_number = presentation_number | plus: 1 -%}
+{% comment %} Joakim has no poster. Fixing number below. {% endcomment %}
 {% assign presentation_number = presentation_number | plus: 1 -%}
 | {{ presentation_number }}  | [Joakim Haurum](#joakim) | [Computer Vision and Multimodal AI for Ecological Monitoring](#joakim) |
 {% assign presentation_number = presentation_number | plus: 1 -%}
@@ -340,4 +347,48 @@ Ongoing analyses include MSc projects on detecting individual chicks, detecting 
 **Abstract:** In this paper, we present a neuro-inspired approach to reservoir computing (RC) in which a network of in vitro cultured cortical neurons serves as the physical reservoir. Rather than relying on artificial recurrent models to approximate neural dynamics, our biological reservoir computing (BRC) system leverages the spontaneous and stimulus‑evoked activity of living neural circuits as its computational substrate. A high-density multi-electrode array (HD-MEA) provides simultaneous stimulation and readout across hundreds of channels: input patterns are delivered through selected electrodes, while the remaining ones capture the resulting high-dimensional neural responses, yielding a biologically grounded feature representation. A linear readout layer (single-layer perceptron) is then trained to classify these reservoir states, enabling the living neural network to perform static visual pattern-recognition tasks within a computer-vision framework. We evaluate the system across a sequence of tasks of increasing difficulty, ranging from pointwise stimuli to oriented bars, clock‑digit‑like shapes, and handwritten digits from the MNIST dataset. Despite the inherent variability of biological neural responses---arising from noise, spontaneous activity, and inter‑session differences---the system consistently generates high‑dimensional representations that support accurate classification. These results demonstrate that in vitro cortical networks can function as effective reservoirs for static visual pattern recognition, opening new avenues for integrating living neural substrates into neuromorphic computing frameworks. More broadly, this work contributes to the effort to incorporate biological principles into machine learning and supports the goals of neuro‑inspired vision by illustrating how living neural systems can inform the design of efficient and biologically grounded computational models.
 
 [Back to top of page](#top)
+
+**Industry session**
+
+{% assign presentation_number = 1 %}
+
+{% assign presentation_number = presentation_number | plus: 1 %}
+<a name="puzhao"></a>
+**{{ presentation_number }}. Puzhao Zhang**, DHI<br />
+**Title:** Uncertainty-aware ML, wetland mapping, actionable decision-making<br />
+**Presentation type:** Oral <br />
+**Abstract:** At DHI, we have investigated the use of uncertainty-aware machine learning within wetland mapping workflows, explicitly accounting for the uncertainty arising from noisy labels, observation, and feature extraction processes. However, a key open challenge remains: how can we effectively use, evaluate, and communicate uncertainty in practice to support real-world environmental decision-making? Addressing this gap is critical to turn uncertainty into actionable information that guides biodiversity monitoring, conservation prioritization, and risk-aware decision-making.
+
+
+[Back to top of page](#top)
+
+{% assign presentation_number = presentation_number | plus: 1 %}
+<a name="spyros"></a>
+**{{ presentation_number }}. Spyros Kondylatos**, DHI<br />
+**Title:** Earth Observation (EO) foundation models, operational workflows, wetlands/coastal systems, uncertainty<br />
+**Presentation type:** Oral <br />
+**Abstract:** At DHI, we actively investigate the use of EO foundation models for operational environmental applications. We have demonstrated their effectiveness in tasks such as regional tree-species mapping in Denmark and wetland mapping, highlighting their potential to complement or replace traditional satellite-based workflows. Building on this, we aim to further advance the understanding and practical deployment of these models by exploring their applicability in water-related environments (e.g., coastal systems), developing uncertainty-aware EO foundation models to enhance reliability, and systematically quantifying the data requirements needed to achieve robust performance.
+
+[Back to top of page](#top)
+
+{% assign presentation_number = presentation_number | plus: 1 %}
+<a name="theodor"></a>
+**{{ presentation_number }}. Theodor Christensen**, Envira<br />
+**Title:** From pixels to prices: turning Earth observation and machine learning into risk decisions banks and insurers can act on<br />
+**Presentation type:** Oral <br />
+**Abstract:** Envira translates satellite and radar data into commercial decision inputs for insurers, banks, and agricultural finance institutions, across crop monitoring and harvest forecasting (EnviraAgro), hail damage verification, and flood risk (Envira Flood). Our core thesis is that Earth observation data only creates value once it is modelled into something a risk manager, underwriter, or portfolio analyst can actually price and act on.
+
+This talk presents three challenges we are working on at the boundary between deep EO research and commercial deployment. First, data modelling at scale: moving from pixel-level signals to field-, portfolio-, and country-level metrics that hold up to scrutiny from quants and actuaries, where the bottleneck is rarely the raw data but the modelling layer above it. Second, building trust in the outputs: financial and insurance customers need to understand uncertainty, validation, and ground-truthing before they will embed satellite-derived numbers in pricing or capital decisions, which makes uncertainty quantification a commercial gating criterion as much as a research question. Third, hybrid digital-twin models that combine physical and process-based models of crop growth and hydrology with machine learning on EO data, where the integration is where most of the interesting questions sit. I will close on why Nordic banks and insurers, as early movers on climate risk disclosure, are an ideal first market for proving that EO-derived risk metrics can hold up in regulated decisions.
+
+
+[Back to top of page](#top)
+
+{% assign presentation_number = presentation_number | plus: 1 %}
+<a name="marta"></a>
+**Title:** Climate stress, labor-intensive fieldwork vs. big data, AI frameworks for actionable insights, industry gaps<br />
+**{{ presentation_number }}. Marta Malinowska**, DLF Seeds<br />
+**Presentation type:** Oral <br />
+**Abstract:** We are facing a growing gap between the challenges ahead and our current capabilities: drought stress and increasingly severe disease pressures are becoming more frequent, yet our ability to assess these traits reliably in the field remains limited, with current approaches still largely labour-intensive, subjective, and difficult to scale. At the same time, the data landscape is evolving rapidly, with access to large volumes of environmental and imaging data—from satellites, public sources, and emerging drone platforms, yet we lack the tools and frameworks to translate this into actionable insights. The key question is whether AI can help us unlock value from this complex, real-world data. I will highlight where the biggest gaps remain and where we see the greatest opportunity to move forward together.
+
+
 
