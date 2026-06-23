@@ -13,9 +13,9 @@ people:
 summary: ECCV 2026 in Malmö features as many as 93 workshops, several of which are
   related to climate and environment and Earth observation, highlighting a growing
   momentum for environmental applications in computer vision. Climate AI Nordics is
-  proud to co-organize the second edition of the AI for Climate and Conservation (AICC2)
+  proud to co-organize the second edition of the AI for Climate and Conservation (AICC-2)
   workshop as a full-day event. The conference also features two specialized Earth
-  Observation workshops and two additional climate and ecology-focused tracks, bringing
+  Observation workshops and three additional climate and ecology-focused tracks, bringing
   together leading global researchers to address urgent planetary challenges.
 title: Several climate related workshops at ECCV 2026
 ---
@@ -35,41 +35,47 @@ We are incredibly excited to announce that **Climate AI Nordics** is organizing 
 If you are attending ECCV in Malmö this September, these six workshops features interesting applications of computer vision for planetary health, ecology, and remote sensing.
 
 
-### Our feature event: 2nd Workshop on AI for Climate and Conservation (AICC2)
+### Our feature event: 2nd Workshop on AI for Climate and Conservation (AICC-2)
 * **Duration:** Full-day
 * **Main organizer:** Aleksis Pirinen
 * **Submission deadline:** August 7th
+* **Workshop date:** September 9th (full day)
 * **Learn More:** [AICC2 ECCV 2026 Website](https://sites.google.com/g.harvard.edu/aicc2eccv26/)
 
-Building on the success of our inaugural track, AICC2 brings together researchers from machine learning, climate science, and ecology. This full-day workshop will dive into how advanced vision systems can monitor biodiversity loss, model climate risk, and optimize mitigation strategies. We invite the global community to join us in Malmö to push the boundaries of what climate AI can achieve.
+Building on the success of our inaugural track, AICC-2 brings together researchers from machine learning, climate science, and ecology. This full-day workshop will dive into how advanced vision systems can monitor biodiversity loss, model climate risk, and optimize mitigation strategies. We invite the global community to join us in Malmö to push the boundaries of what climate AI can achieve.
 
 ### Complementary climate & ecology tracks
-Alongside AICC2, three other crucial half-day and full-day workshops focus heavily on biodiversity and natural resources:
+Alongside AICC-2, three other crucial half-day and full-day workshops focus heavily on biodiversity, humanitarian causes, and/or natural resources:
 
-* **2nd Workshop on Marine Vision** (Full-day)
+* **2nd Workshop on Marine Vision** (September 8th, full-day)
   *Main organizer: Malte Pedersen*
   Highlighting the critical need for automated computer vision solutions to overcome the unique physical and visual challenges of underwater imaging, enabling researchers to efficiently monitor and protect rapidly degrading marine ecosystems.
   *Website: [https://vap.aau.dk/marinevision/](https://vap.aau.dk/marinevision/)*
-  
-* **CVNH – Computer vision for natural heritage** (Half-day)  
-  *Main organizer: Juan Miguel Valverde*  
-  Focusing on the preservation, documentation, and automated monitoring of vulnerable natural landmarks and ecosystem heritages worldwide.
-  *Website: [https://computer-vision-for-natural-heritage.github.io/](https://computer-vision-for-natural-heritage.github.io/)*
-  
-* **3rd workshop on computer vision for ecology** (Full-day)  
+
+* **3rd workshop on computer vision for ecology** (September 8th, full-day)  
   *Main organizer: Julia Chae*  
   An vital forum focused on species identification, animal tracking, and behavioral analysis in the wild to support ecological research and anti-poaching efforts.
   *Website: [https://cv4e-workshop.github.io/](https://cv4e-workshop.github.io/)*
 
+* **CV4GOOD: Computer Vision for Humanitarian Action** (September 8th, half-day)  
+  *Main organizer: Pier Luigi Dovesi*  
+  Born from a partnership between The Good AI Lab and Médecins Sans Frontières, this workshop pairs researchers building vision and Earth-observation pipelines with practitioners who can say what works in the field, what fails, and what is missing.
+  *Website: [https://cv4good.thegoodailab.org/](https://cv4good.thegoodailab.org/)*
+
+* **CVNH – Computer vision for natural heritage** (September 8th, half-day)  
+  *Main organizer: Juan Miguel Valverde*  
+  Focusing on the preservation, documentation, and automated monitoring of vulnerable natural landmarks and ecosystem heritages worldwide.
+  *Website: [https://computer-vision-for-natural-heritage.github.io/](https://computer-vision-for-natural-heritage.github.io/)*
+
 ### Earth observation-centric workshops
 For those working with satellite imagery and geospatial data streams, two dedicated workshops cover the infrastructure and models needed to sense planetary changes at scale:
 
-* **TerraBytes II: Towards global datasets and models for Earth observation** (Full-day)  
+* **TerraBytes II: Towards global datasets and models for Earth observation** (September 8th, full-day)  
   *Main organizer: Mikolaj Czerkawski*  
   Addressing the challenges of scaling up vision models to ingest, process, and accurately interpret global-scale satellite and remote sensing datasets.
   *Website: [https://terrabytes-workshop.github.io/](https://terrabytes-workshop.github.io/)*
   
-* **GAIA 2026: Geospatial AI and foundation models** (Half-day)  
+* **GAIA 2026: Geospatial AI and foundation models** (September 9th, half-day)  
   *Main organizer: Danda Paudel*  
   Exploring how modern foundation models can be adapted to spatial, geographic, and temporal dimensions for land-use mapping and environmental prediction.
 
