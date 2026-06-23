@@ -15,7 +15,7 @@ summary: ECCV 2026 in Malmö features as many as 93 workshops, several of which 
   momentum for environmental applications in computer vision. Climate AI Nordics is
   proud to co-organize the second edition of the AI for Climate and Conservation (AICC-2)
   workshop as a full-day event. The conference also features two specialized Earth
-  Observation workshops and three additional climate and ecology-focused tracks, bringing
+  Observation workshops and four additional climate and ecology-focused tracks, bringing
   together leading global researchers to address urgent planetary challenges.
 title: Several climate related workshops at ECCV 2026
 ---
@@ -24,7 +24,7 @@ title: Several climate related workshops at ECCV 2026
 
 The complete lineup of 93 workshops for the European Conference on Computer Vision (ECCV 2026) in Malmö, Sweden has been [officially announced](https://eccv.ecva.net/Conferences/2026/Workshops). Among a massive roster covering foundational machine learning, generative AI, and robotics, there is a clear and inspiring momentum growing around using computer vision and machine learning to address our planet’s most pressing climate and conservation issues. 
 
-Out of the total lineup, **six** standout workshops focus directly on environmental sustainability: two dedicated primarily to Earth Observation (EO) and four dedicated to climate change and ecology. 
+Out of the total lineup, **seven (7)** standout workshops focus directly on environmental sustainability: two dedicated primarily to Earth Observation (EO) and four dedicated to climate change, ecology and/or humanitarian causes. 
 
 We are incredibly excited to announce that **Climate AI Nordics** is organizing **[AICC2: The 2nd AI for Climate and Conservation Workshop](https://sites.google.com/g.harvard.edu/aicc2eccv26/)**, which has been selected as a prominent full-day event!
 
@@ -32,7 +32,7 @@ We are incredibly excited to announce that **Climate AI Nordics** is organizing 
 
 ## Spotlighting Climate & Conservation at ECCV
 
-If you are attending ECCV in Malmö this September, these six workshops features interesting applications of computer vision for planetary health, ecology, and remote sensing.
+If you are attending ECCV in Malmö this September, these seven workshops features interesting applications of computer vision for planetary health, ecology, and remote sensing.
 
 
 ### Our feature event: 2nd Workshop on AI for Climate and Conservation (AICC-2)
