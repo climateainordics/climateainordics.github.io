@@ -73,8 +73,7 @@ See also [the event page](https://climateainordics.com/events/2026-nordic-worksh
 | No. | Speaker | Title |
 | ---- | -------------------------- | --------------------------------------------------------------- |
 | {{ presentation_number }}   | [Céline Heuzé](#celine) | [AI and the Arctic](#lucia) |
-{% assign presentation_number = presentation_number | plus: 1 -%}{% comment %} Joakim has no poster. Fixing number below. {% endcomment %}{% assign presentation_number = presentation_number | plus: 1 -%}
-{% assign presentation_number = presentation_number | plus: 1 -%}
+{% comment %} Joakim has no poster. Fixing number below. {% endcomment %}{% assign presentation_number = presentation_number | plus: 2 -%}
 | {{ presentation_number }}  | [Frida Berry Eklund](#frida) | [Radical Climate Transparency with Garbo AI](#frida) |
 {% assign presentation_number = presentation_number | plus: 1 -%}
 | {{ presentation_number }}   | [Lucia Gordon](#lucia) | [MMEarth-Bench: Global Model Adaptation via Multimodal Test-Time Training](#lucia) |
