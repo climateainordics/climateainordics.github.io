@@ -41,7 +41,7 @@ See also [the event page](https://climateainordics.com/events/2026-nordic-worksh
 | 10:15 | | Coffee break |  |
 | 10:45-11:45 | | _**Session 2**_ | *Session Chair: Olof Mogren* |
 | &nbsp;&nbsp;&nbsp;&nbsp;10:45 | Invited talk | [Joakim B Haurum](#joakim) | [Computer Vision and Multimodal AI for Ecological Monitoring](#joakim) |
-| &nbsp;&nbsp;&nbsp;&nbsp;11:15 | Selected oral #4 | [John Martinsson](#john) | A multimodal audio-video dataset for AI-based monitoring of a Baltic seabird colony under climate change |
+| &nbsp;&nbsp;&nbsp;&nbsp;11:15 | Selected oral #4 | [John Martinsson](#john) | [A multimodal audio-video dataset for AI-based monitoring of a Baltic seabird colony under climate change](#john) |
 | &nbsp;&nbsp;&nbsp;&nbsp;11:25 | Selected oral #5 | [Hui Zhang](#hui) | [A vertical vegetation structure model of the Earth](#hui) |
 | &nbsp;&nbsp;&nbsp;&nbsp;11:35 | Selected oral #6 | [Miguel Costa](#miguel) | [Learning long term climate adaptation pathways for flooding impacts using reinforcement learning](#miguel) |
 | 11:45 | | Lunch |  |
@@ -326,7 +326,7 @@ For speakers, see presentation instructions [here](speaker-instructions.html).
 [Back to top of page](#top)
 
 {% assign presentation_number = presentation_number | plus: 1 %}
-<a name="luca"></a>
+<a name="john"></a>
 **{{ presentation_number }}. John Martinsson**, RISE<br />
 **Title:** A multimodal audio-video dataset for AI-based monitoring of a Baltic seabird colony under climate change<br />
 **Presentation type:** Oral, Poster <br />
