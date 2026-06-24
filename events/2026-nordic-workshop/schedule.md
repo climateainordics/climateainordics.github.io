@@ -49,8 +49,10 @@ See also [the event page](https://climateainordics.com/events/2026-nordic-worksh
 | &nbsp;&nbsp;&nbsp;&nbsp;13:00 | Session opening |  |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;13:05 | Industry talk #1 | [Puzhao Zhang](#puzhao) | [Uncertainty-aware ML, wetland mapping, actionable decision-making](#puzhao) |
 | &nbsp;&nbsp;&nbsp;&nbsp;13:15 | Industry talk #2 | [Spyros Kondylatos](#spyros) | [Earth Observation (EO) foundation models, operational workflows, wetlands/coastal systems, uncertainty](#spyros) |
-| &nbsp;&nbsp;&nbsp;&nbsp;13:25 | Industry talk #3 | [Theodor Christensen](#theodor) | [From pixels to prices: turning Earth observation and machine learning into risk decisions banks and insurers can act on](#theodor) |
-| &nbsp;&nbsp;&nbsp;&nbsp;13:35 | Industry talk #4 | [Marta Malinowska](#marta) | [Climate stress, labor-intensive fieldwork vs. big data, AI frameworks for actionable insights, industry gaps](#marta) |
+| &nbsp;&nbsp;&nbsp;&nbsp;13:25 | Industry talk #4 | [Marta Malinowska](#marta) | [Climate stress, labor-intensive fieldwork vs. big data, AI frameworks for actionable insights, industry gaps](#marta) |
+| &nbsp;&nbsp;&nbsp;&nbsp;13:35 | Industry talk #3 | [Theodor Christensen](#theodor) | [From pixels to prices: turning Earth observation and machine learning into risk decisions banks and insurers can act on](#theodor) |
+| &nbsp;&nbsp;&nbsp;&nbsp;13:45 | Industry talk #5 | [Jack Bruce Reid](#jack) | [Connecting innovation: Funding opportunities with Clean for water and environmental solutions](#jack) |
+| &nbsp;&nbsp;&nbsp;&nbsp;14:00 | Group discussions | ||
 | 14:30 | | Coffee break |  |
 | 14:55-16:15 | | _**Session 4**_ | *Session Chair: Aleksis Pirinen* |
 | &nbsp;&nbsp;&nbsp;&nbsp;14:55 | Invited talk | [Frida Berry Eklund](#frida) | [Building Radical Climate Transparency with AI – Inside Klimatkollen’s mission to make emissions data available to citizens on Wikipedia](#frida) |
@@ -366,16 +368,6 @@ Ongoing analyses include MSc projects on detecting individual chicks, detecting 
 **Presentation type:** Oral <br />
 **Abstract:** At DHI, we actively investigate the use of EO foundation models for operational environmental applications. We have demonstrated their effectiveness in tasks such as regional tree-species mapping in Denmark and wetland mapping, highlighting their potential to complement or replace traditional satellite-based workflows. Building on this, we aim to further advance the understanding and practical deployment of these models by exploring their applicability in water-related environments (e.g., coastal systems), developing uncertainty-aware EO foundation models to enhance reliability, and systematically quantifying the data requirements needed to achieve robust performance.
 
-[Back to top of page](#top)
-
-{% assign presentation_number = presentation_number | plus: 1 %}
-<a name="theodor"></a>
-**{{ presentation_number }}. Theodor Christensen**, Envira<br />
-**Title:** From pixels to prices: turning Earth observation and machine learning into risk decisions banks and insurers can act on<br />
-**Presentation type:** Oral <br />
-**Abstract:** Envira translates satellite and radar data into commercial decision inputs for insurers, banks, and agricultural finance institutions, across crop monitoring and harvest forecasting (EnviraAgro), hail damage verification, and flood risk (Envira Flood). Our core thesis is that Earth observation data only creates value once it is modelled into something a risk manager, underwriter, or portfolio analyst can actually price and act on.
-
-This talk presents three challenges we are working on at the boundary between deep EO research and commercial deployment. First, data modelling at scale: moving from pixel-level signals to field-, portfolio-, and country-level metrics that hold up to scrutiny from quants and actuaries, where the bottleneck is rarely the raw data but the modelling layer above it. Second, building trust in the outputs: financial and insurance customers need to understand uncertainty, validation, and ground-truthing before they will embed satellite-derived numbers in pricing or capital decisions, which makes uncertainty quantification a commercial gating criterion as much as a research question. Third, hybrid digital-twin models that combine physical and process-based models of crop growth and hydrology with machine learning on EO data, where the integration is where most of the interesting questions sit. I will close on why Nordic banks and insurers, as early movers on climate risk disclosure, are an ideal first market for proving that EO-derived risk metrics can hold up in regulated decisions.
 
 
 [Back to top of page](#top)
@@ -388,4 +380,22 @@ This talk presents three challenges we are working on at the boundary between de
 **Abstract:** We are facing a growing gap between the challenges ahead and our current capabilities: drought stress and increasingly severe disease pressures are becoming more frequent, yet our ability to assess these traits reliably in the field remains limited, with current approaches still largely labour-intensive, subjective, and difficult to scale. At the same time, the data landscape is evolving rapidly, with access to large volumes of environmental and imaging data—from satellites, public sources, and emerging drone platforms, yet we lack the tools and frameworks to translate this into actionable insights. The key question is whether AI can help us unlock value from this complex, real-world data. I will highlight where the biggest gaps remain and where we see the greatest opportunity to move forward together.
 
 
+[Back to top of page](#top)
 
+{% assign presentation_number = presentation_number | plus: 1 %}
+<a name="theodor"></a>
+**{{ presentation_number }}. Theodor Christensen**, Envira<br />
+**Title:** From pixels to prices: turning Earth observation and machine learning into risk decisions banks and insurers can act on<br />
+**Presentation type:** Oral <br />
+**Abstract:** Envira translates satellite and radar data into commercial decision inputs for insurers, banks, and agricultural finance institutions, across crop monitoring and harvest forecasting (EnviraAgro), hail damage verification, and flood risk (Envira Flood). Our core thesis is that Earth observation data only creates value once it is modelled into something a risk manager, underwriter, or portfolio analyst can actually price and act on.
+
+This talk presents three challenges we are working on at the boundary between deep EO research and commercial deployment. First, data modelling at scale: moving from pixel-level signals to field-, portfolio-, and country-level metrics that hold up to scrutiny from quants and actuaries, where the bottleneck is rarely the raw data but the modelling layer above it. Second, building trust in the outputs: financial and insurance customers need to understand uncertainty, validation, and ground-truthing before they will embed satellite-derived numbers in pricing or capital decisions, which makes uncertainty quantification a commercial gating criterion as much as a research question. Third, hybrid digital-twin models that combine physical and process-based models of crop growth and hydrology with machine learning on EO data, where the integration is where most of the interesting questions sit. I will close on why Nordic banks and insurers, as early movers on climate risk disclosure, are an ideal first market for proving that EO-derived risk metrics can hold up in regulated decisions.
+
+[Back to top of page](#top)
+
+{% assign presentation_number = presentation_number | plus: 1 %}
+<a name="jack"></a>
+**Title:** Connecting innovation: Funding opportunities with Clean for water and environmental solutions<br />
+**{{ presentation_number }}. Jack Bruce Reid**, Clean - Denmark’s water and environmental cluster<br />
+**Presentation type:** Oral <br />
+**Abstract:** As Denmark’s water and environmental cluster, Clean connects companies, public authorities, and research institutions to foster green innovation and drive sustainable solutions. In this presentation, Clean will showcase their work and outline how companies and researchers can apply for funding to solve environmental challenges and accelerate their green initiatives.
