@@ -204,16 +204,6 @@ For speakers, see presentation instructions [here](speaker-instructions.html).
 
 [Back to top of page](#top)
 
-<!--
-{% assign presentation_number = presentation_number | plus: 1 %}
-<a name="aleksis"></a>
-**{{ presentation_number }}. Aleksis Pirinen**, RISE Research Institutes of Sweden, Sweden<br />
-**Title:** TBD<br />
-**Presentation type:** Poster <br />
-**Abstract:** TBD-->
-
-[Back to top of page](#top)
-
 {% assign presentation_number = presentation_number | plus: 1 %}
 <a name="venkanna"></a>
 **{{ presentation_number }}. Venkanna Babu Guthula**, University of Copenhagen, Denmark<br />
