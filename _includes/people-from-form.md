@@ -1788,3 +1788,9 @@ Computer Vision * Deep Learning * Earth Observation * Machine Learning * Marine 
 <br />
 Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Sustainable Cities * Sustainable Transport * Urban Planning * [Publications (Scholar)](https://scholar.google.com/citations?user=XSx9HqwAAAAJ&amp;hl=en)
 </div>
+
+<div class="content" markdown="1" data-tags="No Research Yet">
+<span title="I’m a software Engineering student and musician with a heart that wants to contribute to something more meaningful than companies making money. StudentGothenburg University student."><strong>Ville Vikingsson, Student, Gothenburg University student</strong></span>
+<br />
+No Research Yet
+</div>
