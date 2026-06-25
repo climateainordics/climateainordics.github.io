@@ -45,7 +45,7 @@ See also [the event page](https://climateainordics.com/events/2026-nordic-worksh
 | &nbsp;&nbsp;&nbsp;&nbsp;11:25 | Selected oral #5 | [Hui Zhang](#hui) | [A vertical vegetation structure model of the Earth](#hui) |
 | &nbsp;&nbsp;&nbsp;&nbsp;11:35 | Selected oral #6 | [Miguel Costa](#miguel) | [Learning long term climate adaptation pathways for flooding impacts using reinforcement learning](#miguel) |
 | 11:45 | | Lunch |  |
-| 13:00-14:30 | | _**Session 3: Industry**_ | *Session Chair: Ankit Kariryaa* |
+| 13:00-14:30 | | _**Session 3: Industry**_ | *Session Chair: Ankit Kariryaa*, *Camilla Maj Vang Arffmann* |
 | &nbsp;&nbsp;&nbsp;&nbsp;13:00 | Session opening |  |  |
 | &nbsp;&nbsp;&nbsp;&nbsp;13:05 | Industry talk #1 | [Puzhao Zhang](#puzhao) | [Uncertainty-aware ML, wetland mapping, actionable decision-making](#puzhao) |
 | &nbsp;&nbsp;&nbsp;&nbsp;13:15 | Industry talk #2 | [Spyros Kondylatos](#spyros) | [Earth Observation (EO) foundation models, operational workflows, wetlands/coastal systems, uncertainty](#spyros) |
@@ -59,7 +59,7 @@ See also [the event page](https://climateainordics.com/events/2026-nordic-worksh
 | &nbsp;&nbsp;&nbsp;&nbsp;15:25 | Selected oral #7 | [James White](#james) | [Green-Teaming AI: Noticing ‘the (missing) environment’ in generative AI](#james) |
 | &nbsp;&nbsp;&nbsp;&nbsp;15:35 | Selected oral #8 | [Sai Ganesh Veeravalli](#sai1) | [Making urban deprivation visible for climate adaptation planning](#sai) |
 | &nbsp;&nbsp;&nbsp;&nbsp;15:45 | Panel discussion | [Céline Heuzé](https://cheuze.com/), [Joakim B Haurum](https://joakimhaurum.github.io/), [Frida Berry Eklund](https://climate-pact.europa.eu/meet-community/climate-pact-ambassadors/frida-berry-eklund_en), [Samuel Phipps](https://dk.linkedin.com/in/samuel-phipps) | Thematic questions of 2026 workshop |
-| &nbsp;&nbsp;&nbsp;&nbsp;16:15 | Closing remarks | Aleksis Pirinen |  |
+| &nbsp;&nbsp;&nbsp;&nbsp;16:15 | Closing remarks | Olof Mogren |  |
 | 16:20 | | Posters and mingle |  |
 | 17:30 | | Relocation to social | |
 | 18:00 | | Social activity | Ferry ride in Copenhagen to the dinner |
