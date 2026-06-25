@@ -5,7 +5,7 @@ image_small: /images/external-organizations-logos/rise_small.png
 people: Olof Mogren
 permalink: null
 summary: RISE will soon be recruiting a postdoc for the Climes center to develop an advanced Earth observation (EO) machine learning (ML) framework for quantifying the impacts of climate extremes. Early expressions of interest are welcome!
-title: 'Postdoc (Upcoming): Weakly supervised ML-based Earth observation for climate extreme impact quantification'
+title: 'Postdoc: Weakly supervised ML-based Earth observation for climate extreme impact quantification'
 youtube: ''
 ---
 
