@@ -1782,3 +1782,9 @@ Sustainable Energy * Sustainable Transport * [More info (researcher profile)](ht
 <br />
 Computer Vision * Deep Learning * Earth Observation * Machine Learning * Marine Ecology * NLP * [More info (researcher profile)](https://gabrieletijunaityte.github.io) * [Research group](https://www.wur.nl/en/chair-groups/artificial-intelligence-group)
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Sustainable Cities,Sustainable Transport,Urban Planning">
+<span title="I am a researcher with more than six years of academic experience in GIS investigating how urban form, natural topography, and human settlement patterns interact with climate processes. Trained as an architect and geomatics engineer, I integrate remote sensing, geospatial analysis, and climate science to develop spatial insights that support climate-responsive planning and resilient, sustainable urban environments. I am particularly interested in data-driven approaches to addressing climate change in rapidly evolving wilderness from built-up and rural to urban using socioeconomic data analysis, geoinformatics, machine learning and digital twin modelling. PhD, ResearcherIndependent Researcher."><strong>Dyutisree Halder, PhD, Researcher, Independent Researcher</strong></span>
+<br />
+Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Sustainable Cities * Sustainable Transport * Urban Planning * [Publications (Scholar)](https://scholar.google.com/citations?user=XSx9HqwAAAAJ&amp;hl=en)
+</div>
