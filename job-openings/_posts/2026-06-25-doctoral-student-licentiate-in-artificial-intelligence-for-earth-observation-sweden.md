@@ -3,7 +3,7 @@ title: "Doctoral student (licentiate) in Artificial Intelligence for Earth Obser
 summary: "KTH Royal Institute of Technology is seeking a Doctoral student (licentiate) for advancing AI-driven Earth Observation methods applied to environmental intelligence, including wildfire emissions and pollution assessment."
 people:
 permalink:
-image: /images/external-organizations-logos/kth-royal-institute-of-technology.png
+image: /images/external-organizations-logos/kth.png
 youtube: ""
 deadline: July 09th, 2026
 ---
