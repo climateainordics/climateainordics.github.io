@@ -10,6 +10,8 @@ summary: The 2nd Nordic Workshop on AI for Climate, held in Copenhagen, brought 
 title: 2nd Nordic Workshop on AI for Climate in Copenhagen strengthens a growing Nordic community
 ---
 
+<br />
+
 The [**2nd annual Nordic Workshop on AI for Climate**](https://climateainordics.com/events/2026-nordic-workshop) took place on June 26, 2026, in Copenhagen, Denmark, bringing together a vibrant community of researchers, practitioners, and industry representatives working
 at the intersection of AI, climate, and environment. Organized within the Climate AI Nordics network, the workshop marked another important step in strengthening the Nordic collaboration around AI for climate.
 
