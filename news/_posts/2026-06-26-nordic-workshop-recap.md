@@ -38,6 +38,6 @@ We look forward to continuing to grow this community and to further strengthenin
 
 ![](/images/posts/2026-06-26-cain26workshop/ferry1.jpg)
 
-![](/images/posts/2026-06-26-cain26workshop/ferry2.jpg)
+![](/images/posts/2026-06-26-cain26workshop/ferry6.jpg)
 
 ![](/images/posts/2026-06-26-cain26workshop/6cain-peops-reffen.jpg)
