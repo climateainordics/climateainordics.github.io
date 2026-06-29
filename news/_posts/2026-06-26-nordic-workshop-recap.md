@@ -43,7 +43,7 @@ We look forward to continuing to grow this community and to further strengthenin
 
 ![](/images/posts/2026-06-26-cain26workshop/lunch-park.jpg)
 
-![](/images/posts/2026-06-26-cain26workshop/vadim-coffee.jpg)
+![](/images/posts/2026-06-26-cain26workshop/vadim-coffee.jpeg)
 
 ![](/images/posts/2026-06-26-cain26workshop/camilla-industry.jpg)
 
