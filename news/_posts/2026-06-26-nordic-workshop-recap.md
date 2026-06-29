@@ -30,11 +30,23 @@ We look forward to continuing to grow this community and to further strengthenin
 
 ![](/images/posts/2026-06-26-cain26workshop/joakim-invited.jpg)
 
+![](/images/posts/2026-06-26-cain26workshop/gabriele-talk.jpg)
+
 ![](/images/posts/2026-06-26-cain26workshop/aprilia-brainstorming.jpg)
+
+![](/images/posts/2026-06-26-cain26workshop/samuel-brainstorming.jpg)
 
 ![](/images/posts/2026-06-26-cain26workshop/frida-invited.jpg)
 
+![](/images/posts/2026-06-26-cain26workshop/panel.jpg)
+
 ![](/images/posts/2026-06-26-cain26workshop/lunch-park.jpg)
+
+![](/images/posts/2026-06-26-cain26workshop/poster2.jpg)
+
+![](/images/posts/2026-06-26-cain26workshop/lucia-et-al.jpg)
+
+![](/images/posts/2026-06-26-cain26workshop/sai-talk.jpg)
 
 ![](/images/posts/2026-06-26-cain26workshop/ferry1.jpg)
 
