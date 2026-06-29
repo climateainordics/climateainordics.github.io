@@ -1,6 +1,6 @@
 ---
-image: /images/events/cain26workshop/reffen.jpg
-image_small: /images/posts/2026-06-26-nordic-workshop/lunch-park.jpg
+image: /images/posts/2026-06-26-cain26workshop/reffen.jpg
+image_small: /images/posts/2026-06-26-cain26workshop/lunch-park.jpg
 people:
 - Nico Lang
 - Ankit Kariryaa
@@ -26,20 +26,20 @@ The strong engagement and enthusiasm seen throughout the workshop clearly demons
 
 We look forward to continuing to grow this community and to further strengthening collaboration across disciplines and sectors, with the shared goal of maximizing the positive impact of AI in addressing the climate challenge.
 
-![](/images/events/cain26workshop/celine-keynote.jpg)
+![](/images/posts/2026-06-26-cain26workshop/celine-keynote.jpg)
 
-![](/images/events/cain26workshop/poster1.jpg)
+![](/images/posts/2026-06-26-cain26workshop/poster1.jpg)
 
-![](/images/events/cain26workshop/joakim-invited.jpg)
+![](/images/posts/2026-06-26-cain26workshop/joakim-invited.jpg)
 
-![](/images/events/cain26workshop/aprilia-brainstorming.jpg)
+![](/images/posts/2026-06-26-cain26workshop/aprilia-brainstorming.jpg)
 
-![](/images/events/cain26workshop/frida-invited.jpg)
+![](/images/posts/2026-06-26-cain26workshop/frida-invited.jpg)
 
-![](/images/events/cain26workshop/lunch-park.jpg)
+![](/images/posts/2026-06-26-cain26workshop/lunch-park.jpg)
 
-![](/images/events/cain26workshop/ferry1.jpg)
+![](/images/posts/2026-06-26-cain26workshop/ferry1.jpg)
 
-![](/images/events/cain26workshop/ferry2.jpg)
+![](/images/posts/2026-06-26-cain26workshop/ferry2.jpg)
 
-![](/images/events/cain26workshop/6cain-peops-reffen.jpg)
+![](/images/posts/2026-06-26-cain26workshop/6cain-peops-reffen.jpg)
