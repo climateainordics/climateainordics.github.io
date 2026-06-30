@@ -1,10 +1,3 @@
-## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Climate Modeling,Extreme Weather Events,Machine Learning,Urban Planning,Weather Forecasting">
-<span title="PhD StudentTechnical University of Denmark DTU."><strong>Michel Mertens, PhD Student, Technical University of Denmark DTU</strong></span>
-<br />
-Climate Modeling * Extreme Weather Events * Machine Learning * Urban Planning * Weather Forecasting * [Research group](https://www.man.dtu.dk/english/about-us/department-organisation/divisions/transportation-science/intelligent-transportation-systems)
-</div>
-
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -1306,6 +1299,12 @@ Biodiversity; Sustainable Agriculture * [More info (researcher profile)](https:/
 <span title="CIO for a company with an initiative called CIOCO2 where we have a network of over 150 CIOs that we discuss sustainable IT and the impact we have and might have i the future.  Industry."><strong>Maria Hjorth, Industry</strong></span>
 <br />
 AutoML * Climate Impacts * Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * NLP * Sustainable Energy
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Extreme Weather Events,Machine Learning,Urban Planning,Weather Forecasting">
+<span title="PhD StudentTechnical University of Denmark DTU."><strong>Michel Mertens, PhD Student, Technical University of Denmark DTU</strong></span>
+<br />
+Climate Modeling * Extreme Weather Events * Machine Learning * Urban Planning * Weather Forecasting * [Research group](https://www.man.dtu.dk/english/about-us/department-organisation/divisions/transportation-science/intelligent-transportation-systems)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
