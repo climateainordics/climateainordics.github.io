@@ -30,6 +30,8 @@ year for the 2027 edition in Oslo (more info to come).
 
 Also, a friendly reminder about our **[AICC-2 workshop](https://sites.google.com/g.harvard.edu/aicc2eccv26/) at ECCV 2026 -- the submission deadline is Aug 7th.**
 
+Finally, **the next newsletter will be out in August** -- Climate AI Nordics takes a summer break during July :) We wish everyone a great summer!
+
 {% comment %} ######### PULL FIRST-PAGE HIGHLIGHTS:  ########## {% endcomment %}
 
 {% for p in site.posts %}
