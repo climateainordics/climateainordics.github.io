@@ -25,7 +25,10 @@ We connect the Nordic region’s researchers and practitioners at the intersecti
 If you know colleagues in academia, public agencies, or industry who share these interests, invite them to join us at
 [climateainordics.com/join](https://climateainordics.com/join).
 
-This month’s issue features community updates, job opportunities, and our featured member.
+This month’s issue is focused on a recap of the [2nd Nordic Workshop on AI for Climate](https://climateainordics.com/events/2026-nordic-workshop), held on June 26, 2026 in Copenhagen. Thanks to everyone attending, and see you next
+year for the 2027 edition in Oslo (more info to come).
+
+Also, a friendly reminder about our **[AICC-2 workshop](https://sites.google.com/g.harvard.edu/aicc2eccv26/) at ECCV 2026 -- the submission deadline is Aug 7th.**
 
 {% comment %} ######### PULL FIRST-PAGE HIGHLIGHTS:  ########## {% endcomment %}
 
