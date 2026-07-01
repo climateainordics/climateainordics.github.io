@@ -3,7 +3,7 @@ title: "1–2 postdoctoral researcher or doctoral researcher positions in Geospa
 summary: "University of Turku is hiring 1-2 postdoctoral or doctoral researchers for developing advanced machine learning and generative AI methods to build digital twins for environmental ecosystems."
 people:
 permalink:
-image: /images/external-organizations-logos/university-of-turku.png
+image: /images/external-organizations-logos/university-of-turku.jpg
 youtube: ""
 deadline: August 05th, 2026
 ---
