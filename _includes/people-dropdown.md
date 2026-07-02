@@ -17,8 +17,8 @@
 <option value="Bioinformatics">Bioinformatics (1)</option>
 <option value="Causal AI">Causal AI (1)</option>
 <option value="Cetacean Ecology">Cetacean Ecology (1)</option>
-<option value="Climate Impacts">Climate Impacts (71)</option>
-<option value="Climate Modeling">Climate Modeling (106)</option>
+<option value="Climate Impacts">Climate Impacts (72)</option>
+<option value="Climate Modeling">Climate Modeling (107)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
 <option value="Computer Vision">Computer Vision (108)</option>
 <option value="Conservation Policy">Conservation Policy (1)</option>
@@ -27,19 +27,19 @@
 <option value="Deep Learning">Deep Learning (164)</option>
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
-<option value="Earth Observation">Earth Observation (130)</option>
-<option value="Earth System Modeling">Earth System Modeling (48)</option>
+<option value="Earth Observation">Earth Observation (131)</option>
+<option value="Earth System Modeling">Earth System Modeling (49)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
 <option value="Ecosystem-based Adaptation">Ecosystem-based Adaptation (1)</option>
 <option value="Edna">Edna (1)</option>
 <option value="Education">Education (1)</option>
-<option value="Efficient or Sustainable AI">Efficient or Sustainable AI (88)</option>
+<option value="Efficient or Sustainable AI">Efficient or Sustainable AI (89)</option>
 <option value="Emulators">Emulators (1)</option>
 <option value="Environment Impacts of AI">Environment Impacts of AI (1)</option>
 <option value="Environmental and Ecological Statistics">Environmental and Ecological Statistics (1)</option>
 <option value="Extreme Weather">Extreme Weather (2)</option>
-<option value="Extreme Weather Events">Extreme Weather Events (49)</option>
+<option value="Extreme Weather Events">Extreme Weather Events (50)</option>
 <option value="Fluid Dynamics">Fluid Dynamics (1)</option>
 <option value="Food Microbiology">Food Microbiology (1)</option>
 <option value="Forest">Forest (1)</option>
@@ -58,7 +58,7 @@
 <option value="Knowledge Graphs">Knowledge Graphs (2)</option>
 <option value="Land System Science">Land System Science (1)</option>
 <option value="Land Use Change Modelling">Land Use Change Modelling (1)</option>
-<option value="Machine Learning">Machine Learning (195)</option>
+<option value="Machine Learning">Machine Learning (196)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (28)</option>
 <option value="Materials">Materials (1)</option>
@@ -86,7 +86,7 @@
 <option value="Stochastic Modelling and Distributions">Stochastic Modelling and Distributions (1)</option>
 <option value="Sustainability Science">Sustainability Science (1)</option>
 <option value="Sustainable Cities">Sustainable Cities (74)</option>
-<option value="Sustainable Energy">Sustainable Energy (22)</option>
+<option value="Sustainable Energy">Sustainable Energy (23)</option>
 <option value="Sustainable Heating">Sustainable Heating (1)</option>
 <option value="Sustainable Production">Sustainable Production (35)</option>
 <option value="Sustainable Space Exploration and Research">Sustainable Space Exploration and Research (1)</option>
@@ -99,9 +99,9 @@
 <option value="Use of Weather and Climate Data Outside of Academia">Use of Weather and Climate Data Outside of Academia (1)</option>
 <option value="Visual Analytics">Visual Analytics (1)</option>
 <option value="Visualization">Visualization (1)</option>
-<option value="Weather Forecasting">Weather Forecasting (30)</option>
+<option value="Weather Forecasting">Weather Forecasting (31)</option>
 <option value="Wildfire Growth Forecasting">Wildfire Growth Forecasting (1)</option>
-<option value="Wind Energy">Wind Energy (15)</option></select>
+<option value="Wind Energy">Wind Energy (16)</option></select>
 
 <script>
         document.getElementById('tagFilter').addEventListener('change', function () {

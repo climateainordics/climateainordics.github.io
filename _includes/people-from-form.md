@@ -1793,3 +1793,9 @@ Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling *
 <br />
 No Research Yet
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Sustainable Energy,Weather Forecasting,Wind Energy">
+<span title="I am the Assistant TNA Coordinator in Mongolia for the Technology Needs Assessment Project implemented by the UNEP Copenhagen Climate Centre. I have MSc in Climate Change from the University of Copenhagen. I wish to pursue PhD in climate modeling once I conclude my duties for the TNA Project in Mongolia. ResearcherGlobal TNA Project."><strong>Ijiltsetseg Dorjsuren, Researcher, Global TNA Project</strong></span>
+<br />
+Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Sustainable Energy * Weather Forecasting * Wind Energy
+</div>
