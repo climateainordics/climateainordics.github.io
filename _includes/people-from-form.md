@@ -1799,3 +1799,9 @@ No Research Yet
 <br />
 Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Sustainable Energy * Weather Forecasting * Wind Energy
 </div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Biodiversity,Climate Impacts,Climate Modeling,Computer Vision,">
+<span title="Professor."><strong>Ayanlade Ayanlade Ayanlade, Professor</strong></span>
+<br />
+Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * 
+</div>
