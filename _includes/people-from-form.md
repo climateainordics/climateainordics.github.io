@@ -1805,3 +1805,9 @@ Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling *
 <br />
 Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * 
 </div>
+
+<div class="content" markdown="1" data-tags="AutoML,Climate Impacts,Climate Modeling,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Machine Learning,Weather Forecasting">
+<span title="I am a final-year PhD candidate at the Surrey Space Centre, University of Surrey, working on physics-informed, multi-frequency SAR for depth-resolved soil moisture retrieval, combining radiative transfer modelling with machine learning. Later this year I will be joining TU Delft as a postdoctoral researcher on the ARGOS project, developing end-to-end AI for onboard SAR applications. Before my PhD, I spent seven years in industry as a geospatial data scientist, building satellite-based analytics for agriculture. My interests include SAR remote sensing, self-supervised learning and foundation models for Earth observation, and climate-relevant applications such as irrigation, forestry, and land monitoring.  Post DocTU Delft."><strong>Catherin Sebastian, Post Doc, TU Delft</strong></span>
+<br />
+AutoML * Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * Weather Forecasting * [Publications (Scholar)](https://scholar.google.com/citations?user=W3g5yB0AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4377-2169)
+</div>
