@@ -1811,3 +1811,9 @@ Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Comp
 <br />
 AutoML * Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * Weather Forecasting * [Publications (Scholar)](https://scholar.google.com/citations?user=W3g5yB0AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-4377-2169)
 </div>
+
+<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Machine Learning">
+<span title="I am a grad student pursuing Masters in Machine Learning in UMD, and am currently exploring the interesction of earth observation and AI. StudentUniversity of Maryland, College Park."><strong>Hardik Kamboj, Student, University of Maryland, College Park</strong></span>
+<br />
+Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * [More info (researcher profile)](https://github.com/hardikkamboj)
+</div>
