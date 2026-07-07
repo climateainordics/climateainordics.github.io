@@ -791,6 +791,12 @@ Climate Modeling * Deep Learning * Extreme Weather Events * Machine Learning * W
 Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * Sustainable Supply Chain Management * [Publications (Scholar)](https://scholar.google.com/citations?user=yLPaXdoAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-5166-4021)
 </div>
 
+<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Sustainable Cities,Sustainable Transport,Urban Planning">
+<span title="I am a researcher with more than six years of academic experience in GIS investigating how urban form, natural topography, and human settlement patterns interact with climate processes. Trained as an architect and geomatics engineer, I integrate remote sensing, geospatial analysis, and climate science to develop spatial insights that support climate-responsive planning and resilient, sustainable urban environments. I am particularly interested in data-driven approaches to addressing climate change in rapidly evolving wilderness from built-up and rural to urban using socioeconomic data analysis, geoinformatics, machine learning and digital twin modelling. PhD, ResearcherIndependent Researcher."><strong>Dyutisree Halder, PhD, Researcher, Independent Researcher</strong></span>
+<br />
+Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Sustainable Cities * Sustainable Transport * Urban Planning * [Publications (Scholar)](https://scholar.google.com/citations?user=XSx9HqwAAAAJ&amp;hl=en)
+</div>
+
 <div class="content" markdown="1" data-tags="">
 <span title="I&#x27;m a PhD student at the Center for Mathematical Sciences focusing on anomaly detection and machine learning in earth observations and remote sensing. PhD StudentLund University."><strong>Oskar Åström, PhD Student, Lund University</strong></span>
 <br />
@@ -1307,6 +1313,12 @@ AutoML * Climate Impacts * Computer Vision * Deep Learning * Efficient or Sustai
 Climate Modeling * Extreme Weather Events * Machine Learning * Urban Planning * Weather Forecasting * [Research group](https://www.man.dtu.dk/english/about-us/department-organisation/divisions/transportation-science/intelligent-transportation-systems)
 </div>
 
+<div class="content" markdown="1" data-tags="No Research Yet">
+<span title="I’m a software Engineering student and musician with a heart that wants to contribute to something more meaningful than companies making money. StudentGothenburg University student."><strong>Ville Vikingsson, Student, Gothenburg University student</strong></span>
+<br />
+No Research Yet
+</div>
+
 ## Supporting Affiliates (Outside Nordics)
 <div class="content" markdown="1" data-tags="Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI">
 <span title="I am a lecturer in Urban Planning at the University of Auckland, bringing over 13 years of experience in both research and practice. My focus is on addressing climate change challenges, enhancing urban resilience, promoting regeneration, and advocating for environmental justice. I am particularly interested in understanding and mitigating the risks that urban areas encounter, especially those related to climate change and natural hazards. My research examines how cities can adapt to these increasing threats, emphasising resilience, risk reduction, and sustainable planning to protect communities and infrastructure. Assistant ProfessorUniversity of Auckland."><strong>Iresh Jayawardena, Assistant Professor, University of Auckland</strong></span>
@@ -1780,18 +1792,6 @@ Sustainable Energy * Sustainable Transport * [More info (researcher profile)](ht
 <span title="I am Gabrielė Tijūnaitytė, a Research Engineer in the Artificial Intelligence group at Wageningen University, specialising in AI for Earth Observations.  With a strong foundation in Geo-Information Science, my work lies at the intersection of deep learning, computer vision, and geospatial analysis. I am dedicated to building impactful, data-driven solutions to environmental challenges. My primary expertise involves working with multi-modal satellite imagery, large vision-language models, and contrastive deep learning frameworks. ResearcherWageningen University."><strong>Gabriele Tijunaityte, Researcher, Wageningen University</strong></span>
 <br />
 Computer Vision * Deep Learning * Earth Observation * Machine Learning * Marine Ecology * NLP * [More info (researcher profile)](https://gabrieletijunaityte.github.io) * [Research group](https://www.wur.nl/en/chair-groups/artificial-intelligence-group)
-</div>
-
-<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Sustainable Cities,Sustainable Transport,Urban Planning">
-<span title="I am a researcher with more than six years of academic experience in GIS investigating how urban form, natural topography, and human settlement patterns interact with climate processes. Trained as an architect and geomatics engineer, I integrate remote sensing, geospatial analysis, and climate science to develop spatial insights that support climate-responsive planning and resilient, sustainable urban environments. I am particularly interested in data-driven approaches to addressing climate change in rapidly evolving wilderness from built-up and rural to urban using socioeconomic data analysis, geoinformatics, machine learning and digital twin modelling. PhD, ResearcherIndependent Researcher."><strong>Dyutisree Halder, PhD, Researcher, Independent Researcher</strong></span>
-<br />
-Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Sustainable Cities * Sustainable Transport * Urban Planning * [Publications (Scholar)](https://scholar.google.com/citations?user=XSx9HqwAAAAJ&amp;hl=en)
-</div>
-
-<div class="content" markdown="1" data-tags="No Research Yet">
-<span title="I’m a software Engineering student and musician with a heart that wants to contribute to something more meaningful than companies making money. StudentGothenburg University student."><strong>Ville Vikingsson, Student, Gothenburg University student</strong></span>
-<br />
-No Research Yet
 </div>
 
 <div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Sustainable Energy,Weather Forecasting,Wind Energy">
