@@ -1823,3 +1823,9 @@ Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Ef
 <br />
 AutoML * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * NLP * Sustainable Energy * Weather Forecasting * Wind Energy * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=jB6zDVkAAAAJ) * [ORCID](https://orcid.org/0000-0002-9885-8413)
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Marine Ecology,Sustainable Production,Weather Forecasting,Wind Energy">
+<span title="Post Doc."><strong>Madhuri Angel Baxla, Post Doc</strong></span>
+<br />
+Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * Sustainable Production * Weather Forecasting * Wind Energy
+</div>
