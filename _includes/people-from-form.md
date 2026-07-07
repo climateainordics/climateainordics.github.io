@@ -1817,3 +1817,9 @@ AutoML * Climate Impacts * Climate Modeling * Earth Observation * Earth System M
 <br />
 Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * [More info (researcher profile)](https://github.com/hardikkamboj)
 </div>
+
+<div class="content" markdown="1" data-tags="AutoML,Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Machine Learning,NLP,Sustainable Energy,Weather Forecasting,Wind Energy">
+<span title="Researcher."><strong>Rohit Reddy Takkala, Researcher</strong></span>
+<br />
+AutoML * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * NLP * Sustainable Energy * Weather Forecasting * Wind Energy * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=jB6zDVkAAAAJ) * [ORCID](https://orcid.org/0000-0002-9885-8413)
+</div>
