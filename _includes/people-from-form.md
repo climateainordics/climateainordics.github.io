@@ -1829,3 +1829,9 @@ AutoML * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation 
 <br />
 Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * Sustainable Production * Weather Forecasting * Wind Energy
 </div>
+
+<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Machine Learning">
+<span title="PhD StudentLund University."><strong>Shokoufa Zeinali, PhD Student, Lund University</strong></span>
+<br />
+AutoML * Bayesian Optimisation * Machine Learning
+</div>

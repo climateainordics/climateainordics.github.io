@@ -9,9 +9,9 @@
 <option value="Amortized Inference">Amortized Inference (1)</option>
 <option value="Atmospheric Composition">Atmospheric Composition (1)</option>
 <option value="Atmospheric Science">Atmospheric Science (1)</option>
-<option value="AutoML">AutoML (18)</option>
+<option value="AutoML">AutoML (19)</option>
 <option value="Bayesian Inference">Bayesian Inference (1)</option>
-<option value="Bayesian Optimisation">Bayesian Optimisation (28)</option>
+<option value="Bayesian Optimisation">Bayesian Optimisation (29)</option>
 <option value="Bioacoustics">Bioacoustics (1)</option>
 <option value="Biodiversity">Biodiversity (88)</option>
 <option value="Biodiversity; Sustainable Agriculture">Biodiversity; Sustainable Agriculture (1)</option>
@@ -59,7 +59,7 @@
 <option value="Knowledge Graphs">Knowledge Graphs (2)</option>
 <option value="Land System Science">Land System Science (1)</option>
 <option value="Land Use Change Modelling">Land Use Change Modelling (1)</option>
-<option value="Machine Learning">Machine Learning (200)</option>
+<option value="Machine Learning">Machine Learning (201)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (29)</option>
 <option value="Materials">Materials (1)</option>
