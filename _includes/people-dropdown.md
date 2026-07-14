@@ -13,13 +13,13 @@
 <option value="Bayesian Inference">Bayesian Inference (1)</option>
 <option value="Bayesian Optimisation">Bayesian Optimisation (29)</option>
 <option value="Bioacoustics">Bioacoustics (1)</option>
-<option value="Biodiversity">Biodiversity (88)</option>
+<option value="Biodiversity">Biodiversity (89)</option>
 <option value="Biodiversity; Sustainable Agriculture">Biodiversity; Sustainable Agriculture (1)</option>
 <option value="Bioinformatics">Bioinformatics (1)</option>
 <option value="Causal AI">Causal AI (1)</option>
 <option value="Cetacean Ecology">Cetacean Ecology (1)</option>
-<option value="Climate Impacts">Climate Impacts (76)</option>
-<option value="Climate Modeling">Climate Modeling (111)</option>
+<option value="Climate Impacts">Climate Impacts (77)</option>
+<option value="Climate Modeling">Climate Modeling (112)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
 <option value="Computer Vision">Computer Vision (110)</option>
 <option value="Conservation Policy">Conservation Policy (1)</option>
@@ -28,7 +28,7 @@
 <option value="Deep Learning">Deep Learning (167)</option>
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
-<option value="Earth Observation">Earth Observation (135)</option>
+<option value="Earth Observation">Earth Observation (136)</option>
 <option value="Earth System Modeling">Earth System Modeling (53)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
@@ -89,7 +89,7 @@
 <option value="Sustainable Cities">Sustainable Cities (74)</option>
 <option value="Sustainable Energy">Sustainable Energy (24)</option>
 <option value="Sustainable Heating">Sustainable Heating (1)</option>
-<option value="Sustainable Production">Sustainable Production (36)</option>
+<option value="Sustainable Production">Sustainable Production (37)</option>
 <option value="Sustainable Space Exploration and Research">Sustainable Space Exploration and Research (1)</option>
 <option value="Sustainable Supply Chain Management">Sustainable Supply Chain Management (1)</option>
 <option value="Sustainable Transport">Sustainable Transport (35)</option>
