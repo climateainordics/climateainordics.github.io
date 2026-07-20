@@ -1842,3 +1842,9 @@ Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth S
 <br />
 AutoML * Bayesian Optimisation * Machine Learning
 </div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Earth Observation,Efficient or Sustainable AI,Machine Learning,Soundscape Analysis,Bioacaustics">
+<span title="I am an Environmental Engineer and Co-founder of Lkotkote, an Indigenous-led environmental technology initiative working with the Samburu community in northern Kenya. Drawing on my engineering background, I develop technology that bridges artificial intelligence (AI) and Traditional Ecological Knowledge (TEK) for climate and biodiversity monitoring. My work includes building a bird bioacoustic monitoring pipeline that combines AI-based species detection with Samburu ecological knowledge to track seasonal and climatic change.  I recently developed a tutorial on combining AI and Indigenous knowledge for climate action for the Climate Change AI (CCAI) Virtual Summer School 2026. I am also an active member of the broader Indigenous Peoples&#x27; AI-for-climate community and Geo Indigenous Alliance, and I have extensive experience working with indigenous communities in Kenya, Ecuadorian Amazon and USA . I am based in Nairobi, Kenya.  IndustryLkotkote."><strong>Douglas Mbura, Industry, Lkotkote</strong></span>
+<br />
+Biodiversity * Climate Impacts * Earth Observation * Efficient or Sustainable AI * Machine Learning * Soundscape Analysis * Bioacaustics * [More info (researcher profile)](https://douglasmbura.github.io/) * [Research group](https://lkotkote.com/) * [ORCID](https://orcid.org/0009-0000-3880-5750)
+</div>
