@@ -1,10 +1,3 @@
-## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Earth Observation,Sustainable Production">
-<span title="I am a representative of Clean, with a MSc in Human Centered AI. We are having an increasing interest in this field, amongst many of our members, that work within the field of AI &amp; Climate adaptation. Clean and Climate AI Nordics collaborated together with KU on an AI Nordics workshop in Copenhagen. IndustryClean - Danish water &amp; environmental technology cluster."><strong>Anders Larsen, Industry, Clean - Danish water &amp; environmental technology cluster</strong></span>
-<br />
-Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Sustainable Production
-</div>
-
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -1324,6 +1317,12 @@ Climate Modeling * Extreme Weather Events * Machine Learning * Urban Planning * 
 <span title="I’m a software Engineering student and musician with a heart that wants to contribute to something more meaningful than companies making money. StudentGothenburg University student."><strong>Ville Vikingsson, Student, Gothenburg University student</strong></span>
 <br />
 No Research Yet
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Earth Observation,Sustainable Production">
+<span title="I am a representative of Clean, with a MSc in Human Centered AI. We are having an increasing interest in this field, amongst many of our members, that work within the field of AI &amp; Climate adaptation. Clean and Climate AI Nordics collaborated together with KU on an AI Nordics workshop in Copenhagen. IndustryClean - Danish water &amp; environmental technology cluster."><strong>Anders Larsen, Industry, Clean - Danish water &amp; environmental technology cluster</strong></span>
+<br />
+Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Sustainable Production
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
