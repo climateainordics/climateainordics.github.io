@@ -1847,3 +1847,9 @@ AutoML * Bayesian Optimisation * Machine Learning
 <br />
 Biodiversity * Climate Impacts * Earth Observation * Efficient or Sustainable AI * Machine Learning * Soundscape Analysis * Bioacaustics * [More info (researcher profile)](https://douglasmbura.github.io/) * [Research group](https://lkotkote.com/) * [ORCID](https://orcid.org/0009-0000-3880-5750)
 </div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Earth Observation,Extreme Weather Events,Sustainable Cities,Sustainable Energy,Sustainable Production,Urban Planning">
+<span title="I&#x27;m Anushka Patil, a third-year Biotechnology student from India with a growing interest in environmental sustainability and the role of AI in addressing climate challenges. Through my internships and research experiences, I&#x27;ve explored areas such as microbiology, food safety, and sustainability, which sparked my curiosity about how technology can support climate action. I&#x27;m excited to learn from this community, gain practical insights into AI-for-climate applications, and connect with people who are passionate about building sustainable solutions. Student."><strong>Anushka Patil, Student</strong></span>
+<br />
+Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Extreme Weather Events * Sustainable Cities * Sustainable Energy * Sustainable Production * Urban Planning
+</div>
