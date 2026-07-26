@@ -1853,3 +1853,9 @@ Biodiversity * Climate Impacts * Earth Observation * Efficient or Sustainable AI
 <br />
 Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Extreme Weather Events * Sustainable Cities * Sustainable Energy * Sustainable Production * Urban Planning
 </div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Earth Observation">
+<span title="I’m a pollinator Ecology PhD fellow. Currently working on how climate change affect pollinator interaction. PhD StudentNord university."><strong>BLESSING UMEH UMEH, PhD Student, Nord university</strong></span>
+<br />
+Biodiversity * Climate Impacts * Climate Modeling * Earth Observation
+</div>
