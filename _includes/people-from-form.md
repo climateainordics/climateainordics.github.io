@@ -1859,3 +1859,9 @@ Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Extreme 
 <br />
 Biodiversity * Climate Impacts * Climate Modeling * Earth Observation
 </div>
+
+<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Biodiversity,Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Marine Ecology,Sustainable Production">
+<span title="A passionate environmental scientis who specializes in remote sensing and GeoAI for social good. Post DocCIAT."><strong>Daniel Aja, Post Doc, CIAT</strong></span>
+<br />
+AutoML * Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * Sustainable Production
+</div>
