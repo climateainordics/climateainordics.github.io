@@ -19,8 +19,8 @@
 <option value="Bioinformatics">Bioinformatics (1)</option>
 <option value="Causal AI">Causal AI (1)</option>
 <option value="Cetacean Ecology">Cetacean Ecology (1)</option>
-<option value="Climate Impacts">Climate Impacts (81)</option>
-<option value="Climate Modeling">Climate Modeling (115)</option>
+<option value="Climate Impacts">Climate Impacts (82)</option>
+<option value="Climate Modeling">Climate Modeling (116)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
 <option value="Computer Vision">Computer Vision (110)</option>
 <option value="Conservation Policy">Conservation Policy (1)</option>
@@ -36,7 +36,7 @@
 <option value="Ecosystem-based Adaptation">Ecosystem-based Adaptation (1)</option>
 <option value="Edna">Edna (1)</option>
 <option value="Education">Education (1)</option>
-<option value="Efficient or Sustainable AI">Efficient or Sustainable AI (95)</option>
+<option value="Efficient or Sustainable AI">Efficient or Sustainable AI (96)</option>
 <option value="Emulators">Emulators (1)</option>
 <option value="Environment Impacts of AI">Environment Impacts of AI (1)</option>
 <option value="Environmental and Ecological Statistics">Environmental and Ecological Statistics (1)</option>
@@ -87,23 +87,23 @@
 <option value="Stochastic Hydrology">Stochastic Hydrology (1)</option>
 <option value="Stochastic Modelling and Distributions">Stochastic Modelling and Distributions (1)</option>
 <option value="Sustainability Science">Sustainability Science (1)</option>
-<option value="Sustainable Cities">Sustainable Cities (75)</option>
-<option value="Sustainable Energy">Sustainable Energy (25)</option>
+<option value="Sustainable Cities">Sustainable Cities (76)</option>
+<option value="Sustainable Energy">Sustainable Energy (26)</option>
 <option value="Sustainable Heating">Sustainable Heating (1)</option>
 <option value="Sustainable Production">Sustainable Production (39)</option>
 <option value="Sustainable Space Exploration and Research">Sustainable Space Exploration and Research (1)</option>
 <option value="Sustainable Supply Chain Management">Sustainable Supply Chain Management (1)</option>
-<option value="Sustainable Transport">Sustainable Transport (35)</option>
+<option value="Sustainable Transport">Sustainable Transport (36)</option>
 <option value="Uav">Uav (1)</option>
 <option value="Underwater Noise">Underwater Noise (1)</option>
 <option value="Urban Health">Urban Health (1)</option>
-<option value="Urban Planning">Urban Planning (53)</option>
+<option value="Urban Planning">Urban Planning (54)</option>
 <option value="Use of Weather and Climate Data Outside of Academia">Use of Weather and Climate Data Outside of Academia (1)</option>
 <option value="Visual Analytics">Visual Analytics (1)</option>
 <option value="Visualization">Visualization (1)</option>
 <option value="Weather Forecasting">Weather Forecasting (34)</option>
 <option value="Wildfire Growth Forecasting">Wildfire Growth Forecasting (1)</option>
-<option value="Wind Energy">Wind Energy (18)</option></select>
+<option value="Wind Energy">Wind Energy (19)</option></select>
 
 <script>
         document.getElementById('tagFilter').addEventListener('change', function () {

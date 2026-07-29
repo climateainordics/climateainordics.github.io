@@ -1865,3 +1865,9 @@ Biodiversity * Climate Impacts * Climate Modeling * Earth Observation
 <br />
 AutoML * Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * Sustainable Production
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Efficient or Sustainable AI,Sustainable Cities,Sustainable Energy,Sustainable Transport,Urban Planning,Wind Energy">
+<span title="PhD Student."><strong>Rika Safrina, PhD Student</strong></span>
+<br />
+Climate Impacts * Climate Modeling * Efficient or Sustainable AI * Sustainable Cities * Sustainable Energy * Sustainable Transport * Urban Planning * Wind Energy
+</div>
