@@ -1,8 +1,8 @@
 ## Affiliates - Recently Joined
 <div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Biodiversity,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Marine Ecology,NLP,Soundscape Analysis,Weather Forecasting,Wind Energy">
-<span title="Just finishing my double master&#x27;s degree between NTNU (Industrial Ecology) and Centrale Lyon (Computer Science, applied mathematics, fluid mechanics). Looking for new job opportunities in the Nordics in the intersection of AI, climate change, and the environment. StudentNTNU."><strong>Leo Liberkowski, Student, NTNU</strong></span>
+<span title="I&#x27;m finishing a double master&#x27;s degree between NTNU (Industrial Ecology and Climate Change Mitigation) and École Centrale de Lyon (Applied Mathematics, Computer Science, Fluid Mechanics), with a thesis on deep learning-based mapping from decades of aerial imagery. I&#x27;m genuinely passionate about applying AI and numerical modelling to climate and environmental challenges, and I&#x27;m actively looking for opportunities in this space across the Nordics. I&#x27;d love to stay connected with the community and follow relevant news, events, and job openings as I start this next chapter!. StudentNTNU."><strong>Leo Liberkowski, Student, NTNU</strong></span>
 <br />
-AutoML * Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * NLP * Soundscape Analysis * Weather Forecasting * Wind Energy
+AutoML * Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * NLP * Soundscape Analysis * Weather Forecasting * Wind Energy * [More info (researcher profile)](https://github.com/leolibe/master_thesis.git)
 </div>
 
 ## Affiliates
