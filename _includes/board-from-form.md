@@ -1,14 +1,14 @@
 ## Board
 <div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Soundscape Analysis,Urban Planning,Deep Learning,Efficient or Sustainable AI,Computer Vision,Machine Learning">
 ![Olof Mogren](/images/people/mogren.png)
-<span title="Mogren defended his PhD in computer science at Chalmers University of Technology in 2018 with the thesis Representation Learning for Natural Language. Senior researcher, head of the https://ridr.se, and responsible for deep learning research at RISE Research Institutes of Sweden. Olof develops and investigates machine learning based solutions to problems related to the environment and climate change. This includes stream flow forecasting, soundscape analysis for biodiversity monitoring, and AI-EO for nature based solutions. Research DirectorRISE Research Institutes of Sweden / Co-founder of Climate AI Nordics."><strong>Olof Mogren, Research Director, RISE Research Institutes of Sweden / Co-founder of Climate AI Nordics</strong></span>
+<span title="Mogren defended his PhD in computer science at Chalmers University of Technology in 2018 with the thesis Representation Learning for Natural Language. Senior researcher, head of the https://ridr.se, and responsible for deep learning research at RISE Research Institutes of Sweden. Olof develops and investigates machine learning based solutions to problems related to the environment and climate change. This includes stream flow forecasting, soundscape analysis for biodiversity monitoring, and AI-EO for nature based solutions. Research DirectorRISE Research Institutes of Sweden."><strong>Olof Mogren, Research Director, RISE Research Institutes of Sweden</strong></span>
 <br />
 Earth Observation * Biodiversity * Soundscape Analysis * Urban Planning * Deep Learning * Efficient or Sustainable AI * Computer Vision * Machine Learning * [More info (researcher profile)](https://mogren.ml/) * [Research group](https://ridr.se/) * [Publications (Scholar)](https://scholar.google.com/citations?user=m_n28oAAAAAJ) * [ORCID](https://orcid.org/0000-0002-9567-2218) * [BlueSky](https://bsky.app/profile/mogren.ml)
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Computer Vision,Machine Learning,Deep Learning">
 ![Aleksis Pirinen](/images/people/pirinen.jpg)
-<span title="Broadly interested in ML for environmental applications. Senior ResearcherRISE Research Institutes of Sweden / Co-founder of Climate AI Nordics."><strong>Aleksis Pirinen, Senior Researcher, RISE Research Institutes of Sweden / Co-founder of Climate AI Nordics</strong></span>
+<span title="Broadly interested in ML for environmental applications. Senior ResearcherRISE Research Institutes of Sweden."><strong>Aleksis Pirinen, Senior Researcher, RISE Research Institutes of Sweden</strong></span>
 <br />
 Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://aleksispi.github.io) * [Research group](https://ridr.se/) * [Publications (Scholar)](https://scholar.google.com/citations?user=paBGTgsAAAAJ&amp;hl=en) * [BlueSky](https://bsky.app/profile/aleksispi.bsky.social)
 </div>
