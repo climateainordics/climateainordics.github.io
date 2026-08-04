@@ -1,4 +1,11 @@
 ## Board
+<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Computer Vision,Machine Learning,Deep Learning">
+![Aleksis Pirinen](/images/people/pirinen.jpg)
+<span title="Broadly interested in ML for environmental applications. Senior ResearcherRISE Research Institutes of Sweden."><strong>Aleksis Pirinen, Senior Researcher, RISE Research Institutes of Sweden</strong></span>
+<br />
+Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://aleksispi.github.io) * [Research group](https://ridr.se/) * [Publications (Scholar)](https://scholar.google.com/citations?user=paBGTgsAAAAJ&amp;hl=en) * [BlueSky](https://bsky.app/profile/aleksispi.bsky.social)
+</div>
+
 <div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Marine Ecology,Efficient or Sustainable AI,Soundscape Analysis,Machine Learning,Deep Learning,Machine Listening">
 ![John Martinsson](/images/people/martinsson.jpg)
 <span title="My research focuses on developing machine learning methods to enable efficient and accurate monitoring of natural environments through sound. PhD StudentRISE Research Institutes of Sweden."><strong>John Martinsson, PhD Student, RISE Research Institutes of Sweden</strong></span>
@@ -46,13 +53,6 @@ Earth Observation * Climate Modeling * Biodiversity * Sustainable Cities * Compu
 <span title="I am a computational chemist specializing in atmospheric chemistry and astrochemistry. Currently, I am a postdoctoral researcher at Aalto University and the Virtual laboratory for molecular level atmospheric transformations (VILMA) center of excellence in Espoo, Finland. We study how atmospheric particles form on a molecular level to understand human impact on air quality and climate. For my research, I utilize combinations of quantum chemistry and machine learning. I am currently a guest researcher at University of  Gothenburg .  Post DocAalto University."><strong>Hilda Sandström, Post Doc, Aalto University</strong></span>
 <br />
 Climate Modeling * Machine Learning * Deep Learning * Molecular Modeling of Atmospheric Chemistry * [More info (researcher profile)](https://hilsan.github.io/) * [Research group](https://www.aalto.fi/en/department-of-applied-physics/computational-electronic-structure-theory-cest) * [Publications (Scholar)](https://scholar.google.com/citations?user=dU-qQwQAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0001-7845-1088)
-</div>
-
-<div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Computer Vision,Machine Learning,Deep Learning">
-![Aleksis Pirinen](/images/people/pirinen.jpg)
-<span title="Broadly interested in ML for environmental applications. Senior ResearcherRISE Research Institutes of Sweden."><strong>Aleksis Pirinen, Senior Researcher, RISE Research Institutes of Sweden</strong></span>
-<br />
-Earth Observation * Biodiversity * Computer Vision * Machine Learning * Deep Learning * [More info (researcher profile)](https://aleksispi.github.io) * [Research group](https://ridr.se/) * [Publications (Scholar)](https://scholar.google.com/citations?user=paBGTgsAAAAJ&amp;hl=en) * [BlueSky](https://bsky.app/profile/aleksispi.bsky.social)
 </div>
 
 <div class="content" markdown="1" data-tags="Efficient or Sustainable AI,Machine Learning,Deep Learning,Bayesian Optimisation,Climate Impacts,Extreme Weather,Sustainable Energy,Weather Forecasting,Wind Energy,AutoML">
