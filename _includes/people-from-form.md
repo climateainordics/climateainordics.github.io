@@ -1326,10 +1326,22 @@ Climate Modeling * Extreme Weather Events * Machine Learning * Urban Planning * 
 No Research Yet
 </div>
 
+<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Machine Learning">
+<span title="PhD StudentLund University."><strong>Shokoufa Zeinali, PhD Student, Lund University</strong></span>
+<br />
+AutoML * Bayesian Optimisation * Machine Learning
+</div>
+
 <div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Earth Observation,Sustainable Production">
 <span title="I am a representative of Clean, with a MSc in Human Centered AI. We are having an increasing interest in this field, amongst many of our members, that work within the field of AI &amp; Climate adaptation. Clean and Climate AI Nordics collaborated together with KU on an AI Nordics workshop in Copenhagen. IndustryClean - Danish water &amp; environmental technology cluster."><strong>Anders Larsen, Industry, Clean - Danish water &amp; environmental technology cluster</strong></span>
 <br />
 Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Sustainable Production
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Earth Observation">
+<span title="I’m a pollinator Ecology PhD fellow. Currently working on how climate change affect pollinator interaction. PhD StudentNord university."><strong>Blessing Umeh, PhD Student, Nord university</strong></span>
+<br />
+Biodiversity * Climate Impacts * Climate Modeling * Earth Observation
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
@@ -1843,12 +1855,6 @@ AutoML * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation 
 Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * Sustainable Production * Weather Forecasting * Wind Energy
 </div>
 
-<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Machine Learning">
-<span title="PhD StudentLund University."><strong>Shokoufa Zeinali, PhD Student, Lund University</strong></span>
-<br />
-AutoML * Bayesian Optimisation * Machine Learning
-</div>
-
 <div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Earth Observation,Efficient or Sustainable AI,Machine Learning,Soundscape Analysis,Bioacaustics">
 <span title="I am an Environmental Engineer and Co-founder of Lkotkote, an Indigenous-led environmental technology initiative working with the Samburu community in northern Kenya. Drawing on my engineering background, I develop technology that bridges artificial intelligence (AI) and Traditional Ecological Knowledge (TEK) for climate and biodiversity monitoring. My work includes building a bird bioacoustic monitoring pipeline that combines AI-based species detection with Samburu ecological knowledge to track seasonal and climatic change.  I recently developed a tutorial on combining AI and Indigenous knowledge for climate action for the Climate Change AI (CCAI) Virtual Summer School 2026. I am also an active member of the broader Indigenous Peoples&#x27; AI-for-climate community and Geo Indigenous Alliance, and I have extensive experience working with indigenous communities in Kenya, Ecuadorian Amazon and USA . I am based in Nairobi, Kenya.  IndustryLkotkote."><strong>Douglas Mbura, Industry, Lkotkote</strong></span>
 <br />
@@ -1859,12 +1865,6 @@ Biodiversity * Climate Impacts * Earth Observation * Efficient or Sustainable AI
 <span title="I&#x27;m Anushka Patil, a third-year Biotechnology student from India with a growing interest in environmental sustainability and the role of AI in addressing climate challenges. Through my internships and research experiences, I&#x27;ve explored areas such as microbiology, food safety, and sustainability, which sparked my curiosity about how technology can support climate action. I&#x27;m excited to learn from this community, gain practical insights into AI-for-climate applications, and connect with people who are passionate about building sustainable solutions. Student."><strong>Anushka Patil, Student</strong></span>
 <br />
 Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Extreme Weather Events * Sustainable Cities * Sustainable Energy * Sustainable Production * Urban Planning
-</div>
-
-<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Earth Observation">
-<span title="I’m a pollinator Ecology PhD fellow. Currently working on how climate change affect pollinator interaction. PhD StudentNord university."><strong>BLESSING UMEH UMEH, PhD Student, Nord university</strong></span>
-<br />
-Biodiversity * Climate Impacts * Climate Modeling * Earth Observation
 </div>
 
 <div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Biodiversity,Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Marine Ecology,Sustainable Production">
