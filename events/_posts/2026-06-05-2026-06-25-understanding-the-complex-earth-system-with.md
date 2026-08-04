@@ -15,7 +15,7 @@ event_date: 2026-06-25
 event_time: "15:00"
 event_location: ""
 image: /images/posts/2026-06-05-2026-06-25-understanding-the-complex-earth-system-with.jpg
-youtube: ""
+youtube: "lPN4aVyfbD8"
 --- 
 Welcome to this week's Learning Machines seminar.
 
@@ -39,7 +39,9 @@ In this talk I will discuss how machine learning and hybrid modelling can help b
 
 **Upcoming seminars:**
 
-* 2026-08-27: *More is different: emergent social conventions and tipping points in AI populations*, Ariel Flint Ashery, City St George’s, University of London
+* 2026-08-27: Ariel Flint Ashery, City St George’s, University of London
+* 2026-10-22: Luca Ciampi, ISTI-CNR
+* 2026-11-19: Nicola Messina, ISTI-CNR
 * All seminars are 15:00 CET.
 
 More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
