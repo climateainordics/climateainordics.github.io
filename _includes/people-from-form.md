@@ -1884,3 +1884,9 @@ Climate Impacts * Climate Modeling * Efficient or Sustainable AI * Sustainable C
 <br />
 Bayesian Optimisation * Climate Impacts * Computer Vision * Extreme Weather Events * Environmental Cognition * [More info (researcher profile)](https://www.daylightandtime.com) * [Research group](https://www.daylightandtime.com) * [Publications (Scholar)](https://scholar.google.co.uk/citations?user=fYqfyJIAAAAJ&amp;hl=en&amp;oi=ao)
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Machine Learning,Sustainable Cities,Sustainable Energy,Wind Energy">
+<span title="I am a PhD candidate at NTNU’s Department of Geosciences, researching geothermal energy applications for the Nordic region. Originally from Poland and currently based in Trondheim, Norway, I am a GIS and cartography enthusiast driven by a deep focus on climate action. My work is particularly shaped by a passion for the Arctic and a close interest in the rapid environmental changes facing the polar cryosphere. PhD StudentNTNU."><strong>Jakub Rozmus, PhD Student, NTNU</strong></span>
+<br />
+Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * Sustainable Energy * Wind Energy * [More info (researcher profile)](https://www.linkedin.com/in/jakubrozmus/) * [Research group](https://www.ntnu.edu/igv/research-engineering-geology) * [Publications (Scholar)](https://scholar.google.com/citations?user=irxpKJUAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-0753-9362)
+</div>
