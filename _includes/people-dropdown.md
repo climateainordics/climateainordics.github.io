@@ -11,7 +11,7 @@
 <option value="Atmospheric Science">Atmospheric Science (1)</option>
 <option value="AutoML">AutoML (21)</option>
 <option value="Bayesian Inference">Bayesian Inference (1)</option>
-<option value="Bayesian Optimisation">Bayesian Optimisation (31)</option>
+<option value="Bayesian Optimisation">Bayesian Optimisation (32)</option>
 <option value="Bioacaustics">Bioacaustics (1)</option>
 <option value="Bioacoustics">Bioacoustics (1)</option>
 <option value="Biodiversity">Biodiversity (94)</option>
@@ -19,10 +19,10 @@
 <option value="Bioinformatics">Bioinformatics (1)</option>
 <option value="Causal AI">Causal AI (1)</option>
 <option value="Cetacean Ecology">Cetacean Ecology (1)</option>
-<option value="Climate Impacts">Climate Impacts (83)</option>
+<option value="Climate Impacts">Climate Impacts (84)</option>
 <option value="Climate Modeling">Climate Modeling (117)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
-<option value="Computer Vision">Computer Vision (111)</option>
+<option value="Computer Vision">Computer Vision (112)</option>
 <option value="Conservation Policy">Conservation Policy (1)</option>
 <option value="Cryospheric Science">Cryospheric Science (1)</option>
 <option value="Data Assimilation">Data Assimilation (2)</option>
@@ -39,9 +39,10 @@
 <option value="Efficient or Sustainable AI">Efficient or Sustainable AI (97)</option>
 <option value="Emulators">Emulators (1)</option>
 <option value="Environment Impacts of AI">Environment Impacts of AI (1)</option>
+<option value="Environmental Cognition">Environmental Cognition (1)</option>
 <option value="Environmental and Ecological Statistics">Environmental and Ecological Statistics (1)</option>
 <option value="Extreme Weather">Extreme Weather (2)</option>
-<option value="Extreme Weather Events">Extreme Weather Events (54)</option>
+<option value="Extreme Weather Events">Extreme Weather Events (55)</option>
 <option value="Fluid Dynamics">Fluid Dynamics (1)</option>
 <option value="Food Microbiology">Food Microbiology (1)</option>
 <option value="Forest">Forest (1)</option>

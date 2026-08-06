@@ -1878,3 +1878,9 @@ AutoML * Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeli
 <br />
 Climate Impacts * Climate Modeling * Efficient or Sustainable AI * Sustainable Cities * Sustainable Energy * Sustainable Transport * Urban Planning * Wind Energy
 </div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Climate Impacts,Computer Vision,Extreme Weather Events,Environmental Cognition">
+<span title="Director of the Cognition, Brain and Behaviour Research Group, Environmental Temporal Cognition Lab Director. Research DirectorKeele University."><strong>Darren Rhodes, Research Director, Keele University</strong></span>
+<br />
+Bayesian Optimisation * Climate Impacts * Computer Vision * Extreme Weather Events * Environmental Cognition * [More info (researcher profile)](https://www.daylightandtime.com) * [Research group](https://www.daylightandtime.com) * [Publications (Scholar)](https://scholar.google.co.uk/citations?user=fYqfyJIAAAAJ&amp;hl=en&amp;oi=ao)
+</div>
