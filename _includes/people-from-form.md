@@ -1890,3 +1890,9 @@ Bayesian Optimisation * Climate Impacts * Computer Vision * Extreme Weather Even
 <br />
 Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * Sustainable Energy * Wind Energy * [More info (researcher profile)](https://www.linkedin.com/in/jakubrozmus/) * [Research group](https://www.ntnu.edu/igv/research-engineering-geology) * [Publications (Scholar)](https://scholar.google.com/citations?user=irxpKJUAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-0753-9362)
 </div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Machine Learning,NLP,Agriculture">
+<span title="Hi there! 👋 I’m Alice, a Swedish computer science student at Stanford University specializing in CS for Human and Planetary Health. My work involves developing AI satellite and remote sensing models for forest- and agricultural applications. Together with the Natural Capital Project I’ve helped optimize reforestation projects in Brazil, and together with Google DeepMind scaling agricultural insights for Indian farmers. I’m deeply committed to using AI to accelerate climate science and adaptation, where technology, community, policy, and entrepreneurship work together. Happy to chat about ML, reading nature’s signs, bouldering, biking, reading, and more!. StudentStanford University."><strong>Alice Heiman, Student, Stanford University</strong></span>
+<br />
+Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Machine Learning * NLP * Agriculture * [More info (researcher profile)](https://aliceheiman.xyz/) * [Publications (Scholar)](https://scholar.google.com/citations?authuser=1&amp;user=jBICSK8AAAAJ)
+</div>
