@@ -1896,3 +1896,9 @@ Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * E
 <br />
 Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Machine Learning * NLP * Agriculture * [More info (researcher profile)](https://aliceheiman.xyz/) * [Publications (Scholar)](https://scholar.google.com/citations?authuser=1&amp;user=jBICSK8AAAAJ)
 </div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Earth Observation,Extreme Weather Events,NLP,Sustainable Energy">
+<span title="Post DocDepartment of Remote Sensing, University of Würzburg/German Aerospace Center."><strong>Richard Lemoine-Rodríguez, Post Doc, Department of Remote Sensing, University of Würzburg/German Aerospace Center</strong></span>
+<br />
+Biodiversity * Climate Impacts * Earth Observation * Extreme Weather Events * NLP * Sustainable Energy * [More info (researcher profile)](https://www.neuphil.uni-wuerzburg.de/anglistik/academic-divisions/englische-sprachwissenschaft/team/lemoine-rodriguez/) * [Research group](https://www.phil.uni-wuerzburg.de/gls/) * [Publications (Scholar)](https://scholar.google.de/citations?user=36EolOUAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-3679-6958) * [BlueSky](https://bsky.app/profile/richardlemoine.bsky.social)
+</div>

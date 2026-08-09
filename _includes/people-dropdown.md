@@ -15,12 +15,12 @@
 <option value="Bayesian Optimisation">Bayesian Optimisation (32)</option>
 <option value="Bioacaustics">Bioacaustics (1)</option>
 <option value="Bioacoustics">Bioacoustics (1)</option>
-<option value="Biodiversity">Biodiversity (95)</option>
+<option value="Biodiversity">Biodiversity (96)</option>
 <option value="Biodiversity; Sustainable Agriculture">Biodiversity; Sustainable Agriculture (1)</option>
 <option value="Bioinformatics">Bioinformatics (1)</option>
 <option value="Causal AI">Causal AI (1)</option>
 <option value="Cetacean Ecology">Cetacean Ecology (1)</option>
-<option value="Climate Impacts">Climate Impacts (85)</option>
+<option value="Climate Impacts">Climate Impacts (86)</option>
 <option value="Climate Modeling">Climate Modeling (119)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
 <option value="Computer Vision">Computer Vision (113)</option>
@@ -30,7 +30,7 @@
 <option value="Deep Learning">Deep Learning (171)</option>
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
-<option value="Earth Observation">Earth Observation (143)</option>
+<option value="Earth Observation">Earth Observation (144)</option>
 <option value="Earth System Modeling">Earth System Modeling (56)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
@@ -43,7 +43,7 @@
 <option value="Environmental Cognition">Environmental Cognition (1)</option>
 <option value="Environmental and Ecological Statistics">Environmental and Ecological Statistics (1)</option>
 <option value="Extreme Weather">Extreme Weather (2)</option>
-<option value="Extreme Weather Events">Extreme Weather Events (55)</option>
+<option value="Extreme Weather Events">Extreme Weather Events (56)</option>
 <option value="Fluid Dynamics">Fluid Dynamics (1)</option>
 <option value="Food Microbiology">Food Microbiology (1)</option>
 <option value="Forest">Forest (1)</option>
@@ -69,7 +69,7 @@
 <option value="Metagenomics">Metagenomics (1)</option>
 <option value="Meteorology">Meteorology (1)</option>
 <option value="Molecular Modeling of Atmospheric Chemistry">Molecular Modeling of Atmospheric Chemistry (2)</option>
-<option value="NLP">NLP (45)</option>
+<option value="NLP">NLP (46)</option>
 <option value="Nature-based Solutions">Nature-based Solutions (1)</option>
 <option value="Network Dynamics">Network Dynamics (1)</option>
 <option value="No Research Yet">No Research Yet (1)</option>
@@ -90,7 +90,7 @@
 <option value="Stochastic Modelling and Distributions">Stochastic Modelling and Distributions (1)</option>
 <option value="Sustainability Science">Sustainability Science (1)</option>
 <option value="Sustainable Cities">Sustainable Cities (77)</option>
-<option value="Sustainable Energy">Sustainable Energy (27)</option>
+<option value="Sustainable Energy">Sustainable Energy (28)</option>
 <option value="Sustainable Heating">Sustainable Heating (1)</option>
 <option value="Sustainable Production">Sustainable Production (39)</option>
 <option value="Sustainable Space Exploration and Research">Sustainable Space Exploration and Research (1)</option>
