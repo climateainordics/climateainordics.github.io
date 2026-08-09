@@ -23,11 +23,11 @@
 <option value="Climate Impacts">Climate Impacts (86)</option>
 <option value="Climate Modeling">Climate Modeling (119)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
-<option value="Computer Vision">Computer Vision (113)</option>
+<option value="Computer Vision">Computer Vision (114)</option>
 <option value="Conservation Policy">Conservation Policy (1)</option>
 <option value="Cryospheric Science">Cryospheric Science (1)</option>
 <option value="Data Assimilation">Data Assimilation (2)</option>
-<option value="Deep Learning">Deep Learning (171)</option>
+<option value="Deep Learning">Deep Learning (172)</option>
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
 <option value="Earth Observation">Earth Observation (144)</option>
@@ -37,7 +37,7 @@
 <option value="Ecosystem-based Adaptation">Ecosystem-based Adaptation (1)</option>
 <option value="Edna">Edna (1)</option>
 <option value="Education">Education (1)</option>
-<option value="Efficient or Sustainable AI">Efficient or Sustainable AI (98)</option>
+<option value="Efficient or Sustainable AI">Efficient or Sustainable AI (99)</option>
 <option value="Emulators">Emulators (1)</option>
 <option value="Environment Impacts of AI">Environment Impacts of AI (1)</option>
 <option value="Environmental Cognition">Environmental Cognition (1)</option>
@@ -62,7 +62,7 @@
 <option value="Knowledge Graphs">Knowledge Graphs (2)</option>
 <option value="Land System Science">Land System Science (1)</option>
 <option value="Land Use Change Modelling">Land Use Change Modelling (1)</option>
-<option value="Machine Learning">Machine Learning (206)</option>
+<option value="Machine Learning">Machine Learning (207)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (31)</option>
 <option value="Materials">Materials (1)</option>
@@ -89,7 +89,7 @@
 <option value="Stochastic Hydrology">Stochastic Hydrology (1)</option>
 <option value="Stochastic Modelling and Distributions">Stochastic Modelling and Distributions (1)</option>
 <option value="Sustainability Science">Sustainability Science (1)</option>
-<option value="Sustainable Cities">Sustainable Cities (77)</option>
+<option value="Sustainable Cities">Sustainable Cities (78)</option>
 <option value="Sustainable Energy">Sustainable Energy (28)</option>
 <option value="Sustainable Heating">Sustainable Heating (1)</option>
 <option value="Sustainable Production">Sustainable Production (39)</option>

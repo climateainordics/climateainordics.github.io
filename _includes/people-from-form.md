@@ -1902,3 +1902,9 @@ Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learn
 <br />
 Biodiversity * Climate Impacts * Earth Observation * Extreme Weather Events * NLP * Sustainable Energy * [More info (researcher profile)](https://www.neuphil.uni-wuerzburg.de/anglistik/academic-divisions/englische-sprachwissenschaft/team/lemoine-rodriguez/) * [Research group](https://www.phil.uni-wuerzburg.de/gls/) * [Publications (Scholar)](https://scholar.google.de/citations?user=36EolOUAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-3679-6958) * [BlueSky](https://bsky.app/profile/richardlemoine.bsky.social)
 </div>
+
+<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning,Sustainable Cities">
+<span title="Machine learning researcher with a background in applied ML and GIS-based flood risk analysis in Accra, currently developing a hybrid physical-ML flood risk prediction proposal for the Climate Change AI NeurIPS 2026 workshop under mentorship from a hydrologist at UC Riverside. Interested in connecting with Nordic climate-AI researchers working on similar geospatial and disaster-risk problems, particularly around combining physical/hydrological modeling with machine learning under data-sparse conditions. StudentBowling Green State University."><strong>Elvis Kwabena Asare Nkrumah, Student, Bowling Green State University</strong></span>
+<br />
+Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * [More info (researcher profile)](https://www.datascienceportfol.io/elvisthedataevang) * [Research group](https://www.linkedin.com/in/elviskankrumah/)
+</div>
