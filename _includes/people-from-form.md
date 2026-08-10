@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Biodiversity,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Marine Ecology,NLP,Soundscape Analysis,Weather Forecasting,Wind Energy">
-<span title="I&#x27;m finishing a double master&#x27;s degree between NTNU (Industrial Ecology and Climate Change Mitigation) and École Centrale de Lyon (Applied Mathematics, Computer Science, Fluid Mechanics), with a thesis on deep learning-based mapping from decades of aerial imagery. I&#x27;m genuinely passionate about applying AI and numerical modelling to climate and environmental challenges, and I&#x27;m actively looking for opportunities in this space across the Nordics. I&#x27;d love to stay connected with the community and follow relevant news, events, and job openings as I start this next chapter!. StudentNTNU."><strong>Leo Liberkowski, Student, NTNU</strong></span>
-<br />
-AutoML * Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * NLP * Soundscape Analysis * Weather Forecasting * Wind Energy * [More info (researcher profile)](https://github.com/leolibe/master_thesis.git)
-</div>
-
 <div class="content" markdown="1" data-tags="Biodiversity,Computer Vision,Deep Learning,Machine Learning,Marine Ecology">
 <span title="Post DocAAU &amp; Pioneer Centre for AI."><strong>Malte Pedersen, Post Doc, AAU &amp; Pioneer Centre for AI</strong></span>
 <br />
@@ -1338,6 +1332,12 @@ Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Sustaina
 Biodiversity * Climate Impacts * Climate Modeling * Earth Observation
 </div>
 
+<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Biodiversity,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,Marine Ecology,NLP,Soundscape Analysis,Weather Forecasting,Wind Energy">
+<span title="I&#x27;m finishing a double master&#x27;s degree between NTNU (Industrial Ecology and Climate Change Mitigation) and École Centrale de Lyon (Applied Mathematics, Computer Science, Fluid Mechanics), with a thesis on deep learning-based mapping from decades of aerial imagery. I&#x27;m genuinely passionate about applying AI and numerical modelling to climate and environmental challenges, and I&#x27;m actively looking for opportunities in this space across the Nordics. I&#x27;d love to stay connected with the community and follow relevant news, events, and job openings as I start this next chapter!. StudentNTNU."><strong>Leo Liberkowski, Student, NTNU</strong></span>
+<br />
+AutoML * Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * NLP * Soundscape Analysis * Weather Forecasting * Wind Energy * [More info (researcher profile)](https://github.com/leolibe/master_thesis.git)
+</div>
+
 ## Supporting Affiliates (Outside Nordics)
 <div class="content" markdown="1" data-tags="Biodiversity,Urban Planning,Sustainable Transport,Sustainable Cities,Efficient or Sustainable AI">
 <span title="I am a lecturer in Urban Planning at the University of Auckland, bringing over 13 years of experience in both research and practice. My focus is on addressing climate change challenges, enhancing urban resilience, promoting regeneration, and advocating for environmental justice. I am particularly interested in understanding and mitigating the risks that urban areas encounter, especially those related to climate change and natural hazards. My research examines how cities can adapt to these increasing threats, emphasising resilience, risk reduction, and sustainable planning to protect communities and infrastructure. Assistant ProfessorUniversity of Auckland."><strong>Iresh Jayawardena, Assistant Professor, University of Auckland</strong></span>
@@ -1913,4 +1913,10 @@ AutoML * Climate Impacts
 <span title="Research and development engineer at RISE working with Earth Observation and geospatial data in different areas of application.  ResearcherRISE."><strong>Jesper Dejby, Researcher, RISE</strong></span>
 <br />
 Bayesian Optimisation * Biodiversity * Climate Impacts * Deep Learning * Earth Observation * Machine Learning * Marine Ecology * Sustainable Cities * Sustainable Energy * Sustainable Transport * Urban Planning * Stochastic Modelling and Distributions * [ORCID](https://orcid.org/0009-0003-4402-6747)
+</div>
+
+<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Biodiversity,Climate Modeling,Computer Vision,Deep Learning,Efficient or Sustainable AI,NLP,Soundscape Analysis,Sustainable Cities,Sustainable Energy,Sustainable Production,Sustainable Transport,Urban Planning,Weather Forecasting">
+<span title="ResearcherLovely Professional University."><strong>JIBY MARIYA JOSE, Researcher, Lovely Professional University</strong></span>
+<br />
+AutoML * Bayesian Optimisation * Biodiversity * Climate Modeling * Computer Vision * Deep Learning * Efficient or Sustainable AI * NLP * Soundscape Analysis * Sustainable Cities * Sustainable Energy * Sustainable Production * Sustainable Transport * Urban Planning * Weather Forecasting * [ORCID](https://orcid.org/0000-0003-4572-2966)
 </div>
