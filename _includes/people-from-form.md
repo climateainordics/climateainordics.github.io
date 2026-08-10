@@ -1908,3 +1908,9 @@ Biodiversity * Climate Impacts * Earth Observation * Extreme Weather Events * NL
 <br />
 Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * [More info (researcher profile)](https://www.datascienceportfol.io/elvisthedataevang) * [Research group](https://www.linkedin.com/in/elviskankrumah/)
 </div>
+
+<div class="content" markdown="1" data-tags="AutoML,Climate Impacts">
+<span title="ProfessorTribhuvan University."><strong>Binod Dawadi, Professor, Tribhuvan University</strong></span>
+<br />
+AutoML * Climate Impacts
+</div>

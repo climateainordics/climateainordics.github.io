@@ -10,7 +10,7 @@
 <option value="Amortized Inference">Amortized Inference (1)</option>
 <option value="Atmospheric Composition">Atmospheric Composition (1)</option>
 <option value="Atmospheric Science">Atmospheric Science (1)</option>
-<option value="AutoML">AutoML (21)</option>
+<option value="AutoML">AutoML (22)</option>
 <option value="Bayesian Inference">Bayesian Inference (1)</option>
 <option value="Bayesian Optimisation">Bayesian Optimisation (32)</option>
 <option value="Bioacaustics">Bioacaustics (1)</option>
@@ -20,7 +20,7 @@
 <option value="Bioinformatics">Bioinformatics (1)</option>
 <option value="Causal AI">Causal AI (1)</option>
 <option value="Cetacean Ecology">Cetacean Ecology (1)</option>
-<option value="Climate Impacts">Climate Impacts (86)</option>
+<option value="Climate Impacts">Climate Impacts (87)</option>
 <option value="Climate Modeling">Climate Modeling (119)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
 <option value="Computer Vision">Computer Vision (114)</option>
