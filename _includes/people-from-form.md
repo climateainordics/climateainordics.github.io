@@ -17,6 +17,12 @@ Biodiversity * Computer Vision * Deep Learning * Machine Learning * Marine Ecolo
 AutoML * Bayesian Optimisation * Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * NLP * Sustainable Cities * Sustainable Energy * Urban Planning * Weather Forecasting * Wind Energy * [More info (researcher profile)](https://www.marthazaidan.com) * [Research group](https://http://www.helsinki.fi/iron) * [Publications (Scholar)](https://scholar.google.fi/citations?user=kAZnkMoAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-6348-1230)
 </div>
 
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Computer Vision,Machine Learning,Sustainable Energy,Sustainable Production,Sustainable Materials,Autonomous Laboratories">
+<span title="Assistant professor at Chalmers University of Technology who works on the accelerated research of materials for solar cells and other sustainable applications. Post DocChalmers University of Technology."><strong>Armi Tiihonen, Post Doc, Chalmers University of Technology</strong></span>
+<br />
+Bayesian Optimisation * Computer Vision * Machine Learning * Sustainable Energy * Sustainable Production * Sustainable Materials * Autonomous Laboratories * [More info (researcher profile)](https://www.chalmers.se/en/persons/armi/) * [Publications (Scholar)](https://scholar.google.fi/citations?user=0pLOTKcAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9753-6802)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -490,12 +496,6 @@ Efficient or Sustainable AI * Computer Vision * Machine Learning * Deep Learning
 <span title="I work on climate modelling, specifically climate supermodelling, meaning I try to combine physical and AI forecast models into a hybrid model. PhD, ResearcherUniversity of Bergen."><strong>Francine Schevenhoven, PhD, Researcher, University of Bergen</strong></span>
 <br />
 Climate Modeling * Efficient or Sustainable AI * Machine Learning
-</div>
-
-<div class="content" markdown="1" data-tags="Sustainable Production,Machine Learning">
-<span title="Post DocAalto University."><strong>Armi Tiihonen, Post Doc, Aalto University</strong></span>
-<br />
-Sustainable Production * Machine Learning * [Publications (Scholar)](https://scholar.google.fi/citations?user=0pLOTKcAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9753-6802)
 </div>
 
 <div class="content" markdown="1" data-tags="Earth Observation,Biodiversity,Machine Learning,Deep Learning,Species Distribution Modelling">
