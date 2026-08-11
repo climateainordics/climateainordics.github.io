@@ -1920,3 +1920,9 @@ Bayesian Optimisation * Biodiversity * Climate Impacts * Deep Learning * Earth O
 <br />
 AutoML * Bayesian Optimisation * Biodiversity * Climate Modeling * Computer Vision * Deep Learning * Efficient or Sustainable AI * NLP * Soundscape Analysis * Sustainable Cities * Sustainable Energy * Sustainable Production * Sustainable Transport * Urban Planning * Weather Forecasting * [ORCID](https://orcid.org/0000-0003-4572-2966)
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Efficient or Sustainable AI,Sustainable Cities,Sustainable Production,Transitions Design">
+<span title="A strategic designer working with transitions, researcher and artist, who uses creativity and participatory, embodied approaches as a method. The theme connecting everything I do is How humans experience transition—emotionally, psychologically, socially—and how creativity helps us navigate change. I work internationally but my business LOBALICE Creative Studio is based in The Hague, NL.  Researcher."><strong>Alice Biolchini, Researcher</strong></span>
+<br />
+Climate Impacts * Efficient or Sustainable AI * Sustainable Cities * Sustainable Production * Transitions Design * [More info (researcher profile)](https://lobalice.squarespace.com) * [ORCID](https://orcid.org/0009-0006-3169-9637)
+</div>
