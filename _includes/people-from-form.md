@@ -1926,3 +1926,9 @@ AutoML * Bayesian Optimisation * Biodiversity * Climate Modeling * Computer Visi
 <br />
 Climate Impacts * Efficient or Sustainable AI * Sustainable Cities * Sustainable Production * Transitions Design * [More info (researcher profile)](https://lobalice.squarespace.com) * [ORCID](https://orcid.org/0009-0006-3169-9637)
 </div>
+
+<div class="content" markdown="1" data-tags="AutoML,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Extreme Weather Events,Machine Learning,Marine Ecology,Weather Forecasting">
+<span title="ResearcherNISER Bhubanswar."><strong>Mohamed Junaid, Researcher, NISER Bhubanswar</strong></span>
+<br />
+AutoML * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Extreme Weather Events * Machine Learning * Marine Ecology * Weather Forecasting
+</div>
