@@ -28,7 +28,7 @@ img {
 
 We are a [network of 250+ researchers](/people/) across the Nordics dedicated to developing and utilizing AI technologies to address the urgent global challenge of climate change. Our researchers focus on creating and promoting AI solutions that support both climate change mitigation, reducing the severity of climate change, and adaptation, adjusting to the effects of climate change. We are already in a climate emergency which is causing biodiversity loss, extreme weather events, and human suffering, and this necessitates a multifaceted approach involving both policy change, limitations on activities contributing to climate change, and bolstering societal resilience against climate-related events.
 
-Climate AI Nordics (CAIN) is registered as a Non-Governmental Organisation (NGO) in Sweden (ideell förening) and is governed by its board and its annual general meeting. As a member of the network, you can also join the organisation and influence its direction in the annual general meeting. [Look at the people page for more information about the board!](/people/)
+Climate AI Nordics (CAIN) is registered as a Non-Governmental Organisation (NGO) in Sweden (ideell förening) and the association is governed by its board and its annual general meeting. As a member of the network, you may choose to also join the association and influence its direction in the annual general meeting. [Look at the people page for more information about the board!](/people/)
 
 * Organisation number: 802557-4271
 
