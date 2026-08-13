@@ -1932,3 +1932,9 @@ Climate Impacts * Efficient or Sustainable AI * Sustainable Cities * Sustainable
 <br />
 AutoML * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Extreme Weather Events * Machine Learning * Marine Ecology * Weather Forecasting
 </div>
+
+<div class="content" markdown="1" data-tags="AutoML,Climate Impacts,Deep Learning,Earth Observation,Machine Learning,Weather Forecasting">
+<span title="Early-career researcher skilled in machine learning and data-driven modelling, aiming to apply deep learning methods to monitor and predict water challenges to support climate-resilient, sustainable water resource management. I am interested in the future postdoctoral/research associate/visiting facility position in academic sector.  Post DocHohai University."><strong>Muhammad ishfaque, Post Doc, Hohai University</strong></span>
+<br />
+AutoML * Climate Impacts * Deep Learning * Earth Observation * Machine Learning * Weather Forecasting
+</div>
