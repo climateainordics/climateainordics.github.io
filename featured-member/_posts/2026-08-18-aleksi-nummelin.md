@@ -1,7 +1,7 @@
 ---
 image: /images/people/featured/AleksiNummelin.jpg
 image_small: /images/people/featured/AleksiNummelin.jpg
-image_width: 80%
+image_width: 60%
 layout: single
 people:
 - Aleksi Nummelin
