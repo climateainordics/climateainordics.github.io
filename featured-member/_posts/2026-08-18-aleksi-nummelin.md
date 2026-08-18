@@ -25,4 +25,4 @@ I am very interested in applying ocean ML models in different science and operat
 
 **What is the best way for people to get in touch with you?**
 
-Send me an email (aleksi.nummelin@fmi.fi) and hope for the best! Most of the time, I will also answer on my phone, so don't hesitate to call me if I've managed to ignore your email. If the topic is code related, I will also reply in [GitHub](https://github.com/AleksiNummelin).
+Send me an email ([aleksi.nummelin@fmi.fi](mailto: aleksi.nummelin@fmi.fi)) and hope for the best! Most of the time, I will also answer on my phone, so don't hesitate to call me if I've managed to ignore your email. If the topic is code related, I will also reply in [GitHub](https://github.com/AleksiNummelin).
