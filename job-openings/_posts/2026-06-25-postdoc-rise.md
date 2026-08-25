@@ -37,4 +37,5 @@ At RISE, we strive to create a workplace where diverse expertise and backgrounds
 * **Location:** Gothenburg
 * **Status:** Position upcoming. While the formal application link is not yet live, interested candidates are highly encouraged to get in touch early!
 * **Contact:** For questions about the upcoming role or to express early interest, please contact Dr. Olof Mogren (olof.mogren@ri.se)
+* **Apply here:** [https://career.ri.se/en-GB/jobs/8253997-postdoc-weakly-supervised-ml-based-earth-observation-for-climate-extreme-impact-quantification/4962e3ba-1150-4c31-864c-ebdd210f462d](https://career.ri.se/en-GB/jobs/8253997-postdoc-weakly-supervised-ml-based-earth-observation-for-climate-extreme-impact-quantification/4962e3ba-1150-4c31-864c-ebdd210f462d)
 
