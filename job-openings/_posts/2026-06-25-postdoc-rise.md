@@ -1,15 +1,15 @@
 ---
-deadline: null
+deadline: 2026-09-15
 image: /images/external-organizations-logos/rise.png
 image_small: /images/external-organizations-logos/rise_small.png
 people: Olof Mogren
 permalink: null
-summary: RISE will soon be recruiting a postdoc for the Climes center to develop an advanced Earth observation (EO) machine learning (ML) framework for quantifying the impacts of climate extremes. Early expressions of interest are welcome!
+summary: RISE is recruiting a postdoc for the Climes center to develop an advanced Earth observation (EO) machine learning (ML) framework for quantifying the impacts of climate extremes.
 title: 'Postdoc: Weakly supervised ML-based Earth observation for climate extreme impact quantification'
 youtube: ''
 ---
 
-RISE will soon be officially opening applications for a postdoc position focused on developing an advanced Earth observation (EO) machine learning (ML) framework. The role involves identifying, geolocalizing, and quantitatively estimating the physical and socio-economic impacts of climate extremes such as floods, storms, wildfires, and landslides, using satellite image sequences.
+RISE is hiring a postdoc who will focus on developing an advanced Earth observation (EO) machine learning (ML) framework. The role involves identifying, geolocalizing, and quantitatively estimating the physical and socio-economic impacts of climate extremes such as floods, storms, wildfires, and landslides, using satellite image sequences.
 
 A primary bottleneck in climate adaptation is that historical impact data is plagued by annotation sparsity: detailed pixel-level ground truth of damage is rare, while rich textual data from news, insurance disclosures, and humanitarian reports is unstructured, noisy, and spatially coarse. Furthermore, models trained in data-rich regions may face data distribution shifts when deployed across different geographic, infrastructural, or socio-economic contexts.
 
@@ -35,7 +35,6 @@ At RISE, we strive to create a workplace where diverse expertise and backgrounds
 * **Duration:** 1.5 Years
 * **Hosted by:** RISE
 * **Location:** Gothenburg
-* **Status:** Position upcoming. While the formal application link is not yet live, interested candidates are highly encouraged to get in touch early!
-* **Contact:** For questions about the upcoming role or to express early interest, please contact Dr. Olof Mogren (olof.mogren@ri.se)
+* **Contact:** For questions about the upcoming role, please contact Dr. Olof Mogren (olof.mogren@ri.se)
 * **Apply here:** [https://career.ri.se/en-GB/jobs/8253997-postdoc-weakly-supervised-ml-based-earth-observation-for-climate-extreme-impact-quantification/](https://career.ri.se/en-GB/jobs/8253997-postdoc-weakly-supervised-ml-based-earth-observation-for-climate-extreme-impact-quantification/)
 
