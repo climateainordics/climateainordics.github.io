@@ -1,26 +1,8 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Biodiversity,Computer Vision,Deep Learning,Machine Learning,Marine Ecology">
-<span title="Post DocAAU &amp; Pioneer Centre for AI."><strong>Malte Pedersen, Post Doc, AAU &amp; Pioneer Centre for AI</strong></span>
+<div class="content" markdown="1" data-tags="Climate Modeling,Deep Learning,Earth System Modeling,Machine Learning">
+<span title="I&#x27;m working on regional climate modelling (to km-scale) and developing ML-based emulator for the RCM. PhD, ResearcherSMHI."><strong>Fuxing Wang, PhD, Researcher, SMHI</strong></span>
 <br />
-Biodiversity * Computer Vision * Deep Learning * Machine Learning * Marine Ecology * [More info (researcher profile)](https://mapeaau.github.io/) * [Research group](https://vap.aau.dk/) * [Publications (Scholar)](https://scholar.google.com/citations?user=RREDgy4AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-2941-9150)
-</div>
-
-<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Computer Vision,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,NLP,Sustainable Cities,Sustainable Energy,Urban Planning,Weather Forecasting,Wind Energy">
-<span title="PhD, ResearcherUniversity of Helsinki."><strong>Martha Arbayani Zaidan, PhD, Researcher, University of Helsinki</strong></span>
-<br />
-AutoML * Bayesian Optimisation * Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * NLP * Sustainable Cities * Sustainable Energy * Urban Planning * Weather Forecasting * Wind Energy * [More info (researcher profile)](https://www.marthazaidan.com) * [Research group](https://http://www.helsinki.fi/iron) * [Publications (Scholar)](https://scholar.google.fi/citations?user=kAZnkMoAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-6348-1230)
-</div>
-
-<div class="content" markdown="1" data-tags="Bayesian Optimisation,Computer Vision,Machine Learning,Sustainable Energy,Sustainable Production,Sustainable Materials,Autonomous Laboratories">
-<span title="Assistant professor at Chalmers University of Technology who works on the accelerated research of materials for solar cells and other sustainable applications. Post DocChalmers University of Technology."><strong>Armi Tiihonen, Post Doc, Chalmers University of Technology</strong></span>
-<br />
-Bayesian Optimisation * Computer Vision * Machine Learning * Sustainable Energy * Sustainable Production * Sustainable Materials * Autonomous Laboratories * [More info (researcher profile)](https://www.chalmers.se/en/persons/armi/) * [Publications (Scholar)](https://scholar.google.fi/citations?user=0pLOTKcAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9753-6802)
-</div>
-
-<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Machine Learning,Sustainable Cities,Sustainability Science,Land System Science">
-<span title="PhD, ResearcherNorwegian Institute for Nature Research (NINA)."><strong>Katarzyna Ostapowicz, PhD, Researcher, Norwegian Institute for Nature Research (NINA)</strong></span>
-<br />
-Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * Sustainability Science * Land System Science * [More info (researcher profile)](https://kasiaostapowicz.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=7dxBUIcAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-4830-8202)
+Climate Modeling * Deep Learning * Earth System Modeling * Machine Learning * [More info (researcher profile)](https://www.smhi.se/en/research/our-team/search-for-employees/fuxing-wang) * [Publications (Scholar)](https://scholar.google.com/citations?user=VUjlxHIAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0001-7582-2752)
 </div>
 
 ## Affiliates
@@ -666,12 +648,6 @@ Computer Vision * Deep Learning * Earth Observation * Machine Learning * Sustain
 Climate Impacts * Climate Modeling * Earth System Modeling * Extreme Weather Events * [More info (researcher profile)](https://www.smhi.se/en/research/research-units/climate-research-at-the-rossby-centre/contact-us-at-the-rossby-centre/yi-chi-wang) * [Publications (Scholar)](https://scholar.google.com/citations?user=eUdRCOMAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-2781-8673)
 </div>
 
-<div class="content" markdown="1" data-tags="Climate Modeling,Deep Learning,Earth System Modeling,Machine Learning">
-<span title="I&#x27;m working on regional climate modelling (to km-scale) and developing ML-based emulator for the RCM. PhD, ResearcherSwedish Meteorological and Hydrological Institute (SMHI)."><strong>Fuxing Wang, PhD, Researcher, Swedish Meteorological and Hydrological Institute (SMHI)</strong></span>
-<br />
-Climate Modeling * Deep Learning * Earth System Modeling * Machine Learning * [More info (researcher profile)](https://www.smhi.se/en/research/our-team/search-for-employees/fuxing-wang) * [Publications (Scholar)](https://scholar.google.com/citations?user=VUjlxHIAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0001-7582-2752)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Impacts,Earth Observation,Machine Learning">
 <span title="PhD, ResearcherUniversity of Oslo, Department of Geosciences."><strong>Désirée Treichler, PhD, Researcher, University of Oslo, Department of Geosciences</strong></span>
 <br />
@@ -796,6 +772,30 @@ Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Ef
 <span title="I am a researcher with more than six years of academic experience in GIS investigating how urban form, natural topography, and human settlement patterns interact with climate processes. Trained as an architect and geomatics engineer, I integrate remote sensing, geospatial analysis, and climate science to develop spatial insights that support climate-responsive planning and resilient, sustainable urban environments. I am particularly interested in data-driven approaches to addressing climate change in rapidly evolving wilderness from built-up and rural to urban using socioeconomic data analysis, geoinformatics, machine learning and digital twin modelling. PhD, ResearcherIndependent Researcher."><strong>Dyutisree Halder, PhD, Researcher, Independent Researcher</strong></span>
 <br />
 Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Sustainable Cities * Sustainable Transport * Urban Planning * [Publications (Scholar)](https://scholar.google.com/citations?user=XSx9HqwAAAAJ&amp;hl=en)
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Computer Vision,Deep Learning,Machine Learning,Marine Ecology">
+<span title="Post DocAAU &amp; Pioneer Centre for AI."><strong>Malte Pedersen, Post Doc, AAU &amp; Pioneer Centre for AI</strong></span>
+<br />
+Biodiversity * Computer Vision * Deep Learning * Machine Learning * Marine Ecology * [More info (researcher profile)](https://mapeaau.github.io/) * [Research group](https://vap.aau.dk/) * [Publications (Scholar)](https://scholar.google.com/citations?user=RREDgy4AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-2941-9150)
+</div>
+
+<div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Computer Vision,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,NLP,Sustainable Cities,Sustainable Energy,Urban Planning,Weather Forecasting,Wind Energy">
+<span title="PhD, ResearcherUniversity of Helsinki."><strong>Martha Arbayani Zaidan, PhD, Researcher, University of Helsinki</strong></span>
+<br />
+AutoML * Bayesian Optimisation * Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * NLP * Sustainable Cities * Sustainable Energy * Urban Planning * Weather Forecasting * Wind Energy * [More info (researcher profile)](https://www.marthazaidan.com) * [Research group](https://http://www.helsinki.fi/iron) * [Publications (Scholar)](https://scholar.google.fi/citations?user=kAZnkMoAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-6348-1230)
+</div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Computer Vision,Machine Learning,Sustainable Energy,Sustainable Production,Sustainable Materials,Autonomous Laboratories">
+<span title="Assistant professor at Chalmers University of Technology who works on the accelerated research of materials for solar cells and other sustainable applications. Post DocChalmers University of Technology."><strong>Armi Tiihonen, Post Doc, Chalmers University of Technology</strong></span>
+<br />
+Bayesian Optimisation * Computer Vision * Machine Learning * Sustainable Energy * Sustainable Production * Sustainable Materials * Autonomous Laboratories * [More info (researcher profile)](https://www.chalmers.se/en/persons/armi/) * [Publications (Scholar)](https://scholar.google.fi/citations?user=0pLOTKcAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0001-9753-6802)
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Machine Learning,Sustainable Cities,Sustainability Science,Land System Science">
+<span title="PhD, ResearcherNorwegian Institute for Nature Research (NINA)."><strong>Katarzyna Ostapowicz, PhD, Researcher, Norwegian Institute for Nature Research (NINA)</strong></span>
+<br />
+Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * Sustainability Science * Land System Science * [More info (researcher profile)](https://kasiaostapowicz.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=7dxBUIcAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-4830-8202)
 </div>
 
 <div class="content" markdown="1" data-tags="">
@@ -1937,4 +1937,10 @@ AutoML * Climate Modeling * Deep Learning * Earth Observation * Earth System Mod
 <span title="Early-career researcher skilled in machine learning and data-driven modelling, aiming to apply deep learning methods to monitor and predict water challenges to support climate-resilient, sustainable water resource management. I am interested in the future postdoctoral/research associate/visiting facility position in academic sector.  Post DocHohai University."><strong>Muhammad ishfaque, Post Doc, Hohai University</strong></span>
 <br />
 AutoML * Climate Impacts * Deep Learning * Earth Observation * Machine Learning * Weather Forecasting
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Efficient or Sustainable AI,Machine Learning,Sustainable Cities,Urban Planning,Weather Forecasting,Microclimate Modelling,Spatial Modelling,Time-series Analysis,Urban Climate,GIS,Land Surface Temperature,Green Landscape Planning,Explainable AI">
+<span title="I am an interdisciplinary environmental researcher specializing in the relationship between landscapes, vegetation systems, and urban climate resilience. My research integrates GIS, remote sensing, spatial modelling, and machine learning approaches to evaluate how green systems influence environmental conditions and support sustainable urban transformation. I am particularly interested in evidence-based urban landscape planning, nature-based solutions, and the integration of quantitative analysis with participatory approaches for resilient and inclusive urban environments. I hold two master&#x27;s degrees, a Master of Science in Geography, and Master of Technology in Remote Sensing and GIS. I also hold a PhD in the urban climate domain, evaluated as excellent cum laude. Post DocUniversity of Bologna, Italy."><strong>Priyanka Rao, Post Doc, University of Bologna, Italy</strong></span>
+<br />
+Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * Urban Planning * Weather Forecasting * Microclimate Modelling * Spatial Modelling * Time-series Analysis * Urban Climate * GIS * Land Surface Temperature * Green Landscape Planning * Explainable AI * [Publications (Scholar)](https://scholar.google.com/citations?user=Q5BRnDIAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-1782-0545)
 </div>
