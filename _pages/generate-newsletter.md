@@ -375,6 +375,39 @@ Finally, **the next newsletter will be out in August** -- Climate AI Nordics tak
 
 {% comment %} ######### END, OPEN POSITIONS ########## {% endcomment %}
 
+{% comment %} ######### BEGIN PARTNER_POSTS ########## {% endcomment %}
+
+# News
+
+{% comment %} NEXT, NEWS!!! {% endcomment %}
+
+{% for p in site.posts %}
+{% unless p.categories contains 'partner_posts' %}{% continue %}{% endunless %}
+{% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
+{% if posttime < newsletter_start_time %}
+{% continue %}
+{% endif %}
+
+{% capture printdate %}*{{ p.date | date: '%Y-%m-%d' }}*{% endcapture %}
+
+<br clear=all />
+
+## {{ p.title }}
+
+{% if p.image_small %}
+![](https://climateainordics.com{{ p.image_small  }})
+{% elsif p.image %}
+![](https://climateainordics.com{{ p.image }})
+{% endif %}
+
+{{printdate}} {{ p.summary }}<br />
+**[Read more!]({{ p.url }})**
+{% endfor %}
+
+{% unless items_listed %}No current partner posts.{% endunless %}
+
+{% comment %} ######### END, PARTNER POSTS ########## {% endcomment %}
+
 
 # Your news in the newsletter!
 

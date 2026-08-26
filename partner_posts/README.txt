@@ -1,0 +1,1 @@
+md files in _posts will be listed in newsletter, but not in other parts of the web page. there will be a summary field, and a url expected, and the newsletter will format these as an external link. In this way, we can link to events and things from partners.
