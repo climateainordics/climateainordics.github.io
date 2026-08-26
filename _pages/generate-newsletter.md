@@ -377,9 +377,7 @@ Finally, **the next newsletter will be out in August** -- Climate AI Nordics tak
 
 {% comment %} ######### BEGIN PARTNER_POSTS ########## {% endcomment %}
 
-# Partner posts
-
-{% assign items_listed = false %}
+{% assign items_available = false %}
 
 {% for p in site.posts %}
 {% unless p.categories contains 'partner_posts' %}{% continue %}{% endunless %}
@@ -387,7 +385,20 @@ Finally, **the next newsletter will be out in August** -- Climate AI Nordics tak
 {% if posttime < newsletter_start_time %}
 {% continue %}
 {% endif %}
-{% assign items_listed = true %}
+{% assign items_available = true %}
+{% endfor %}
+
+{% if items_available %}
+
+# Partner posts
+
+
+{% for p in site.posts %}
+{% unless p.categories contains 'partner_posts' %}{% continue %}{% endunless %}
+{% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
+{% if posttime < newsletter_start_time %}
+{% continue %}
+{% endif %}
 
 {% capture printdate %}*{{ p.date | date: '%Y-%m-%d' }}*{% endcapture %}
 
@@ -405,7 +416,7 @@ Finally, **the next newsletter will be out in August** -- Climate AI Nordics tak
 **[Read more!]({{ p.url }})**
 {% endfor %}
 
-{% unless items_listed %}No current partner posts.{% endunless %}
+{% endif %}
 
 {% comment %} ######### END, PARTNER POSTS ########## {% endcomment %}
 
