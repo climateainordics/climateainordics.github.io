@@ -377,9 +377,9 @@ Finally, **the next newsletter will be out in August** -- Climate AI Nordics tak
 
 {% comment %} ######### BEGIN PARTNER_POSTS ########## {% endcomment %}
 
-# News
+# Partner posts
 
-{% comment %} NEXT, NEWS!!! {% endcomment %}
+{% assign items_listed = false %}
 
 {% for p in site.posts %}
 {% unless p.categories contains 'partner_posts' %}{% continue %}{% endunless %}
@@ -387,6 +387,7 @@ Finally, **the next newsletter will be out in August** -- Climate AI Nordics tak
 {% if posttime < newsletter_start_time %}
 {% continue %}
 {% endif %}
+{% assign items_listed = true %}
 
 {% capture printdate %}*{{ p.date | date: '%Y-%m-%d' }}*{% endcapture %}
 
