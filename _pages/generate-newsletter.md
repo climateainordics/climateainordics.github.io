@@ -380,7 +380,7 @@ Finally, **the next newsletter will be out in August** -- Climate AI Nordics tak
 {% assign items_available = false %}
 
 {% for p in site.posts %}
-{% unless p.categories contains 'partner_posts' %}{% continue %}{% endunless %}
+{% unless p.categories contains 'external' %}{% continue %}{% endunless %}
 {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
 {% if posttime < newsletter_start_time %}
 {% continue %}
@@ -394,7 +394,7 @@ Finally, **the next newsletter will be out in August** -- Climate AI Nordics tak
 
 
 {% for p in site.posts %}
-{% unless p.categories contains 'partner_posts' %}{% continue %}{% endunless %}
+{% unless p.categories contains 'external' %}{% continue %}{% endunless %}
 {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
 {% if posttime < newsletter_start_time %}
 {% continue %}

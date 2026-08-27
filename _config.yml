@@ -82,7 +82,7 @@ publication_category:
     title: 'Newsletter'    
   events:
     title: 'Events'
-  partner_posts:
+  external:
     title: 'Partner posts'
 
 # Site Settings
