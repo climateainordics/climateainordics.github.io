@@ -413,7 +413,7 @@ Finally, **the next newsletter will be out in August** -- Climate AI Nordics tak
 {% endif %}
 
 {{printdate}} {{ p.summary }}<br />
-**[Read more!]({{ p.url }})**
+**[Read more!]({{ p.external_url }})**
 {% endfor %}
 
 {% endif %}
