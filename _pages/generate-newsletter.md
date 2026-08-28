@@ -17,7 +17,7 @@ body{font-family: arial, sans-serif;} img{ float: right; width: 8em; margin: 0.4
 Welcome to the {{ "now" | date: "%B" }} edition of the Climate AI Nordics Newsletter!
 
 {% assign current_month = 'now' | date: '%Y-%m' %}
-{% assign month_file = site.newsletters | where_exp: "item", "item.path contains current_month" | first %}
+{% assign month_file = site.newsletter_openings | where_exp: "item", "item.path contains current_month" | first %}
 
 {% if month_file %}
   {{ month_file.content | markdownify }}
