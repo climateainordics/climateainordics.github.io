@@ -1944,3 +1944,9 @@ AutoML * Climate Impacts * Deep Learning * Earth Observation * Machine Learning 
 <br />
 Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * Urban Planning * Weather Forecasting * Microclimate Modelling * Spatial Modelling * Time-series Analysis * Urban Climate * GIS * Land Surface Temperature * Green Landscape Planning * Explainable AI * [Publications (Scholar)](https://scholar.google.com/citations?user=Q5BRnDIAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-1782-0545)
 </div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Deep Learning,Earth Observation,Machine Learning">
+<span title="PhD StudentUppsala University."><strong>Adrian Baggström, PhD Student, Uppsala University</strong></span>
+<br />
+Biodiversity * Deep Learning * Earth Observation * Machine Learning * [Research group](https://biodiversity.se/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=VLKxgJEAAAAJ) * [ORCID](https://orcid.org/0009-0001-1686-4845)
+</div>

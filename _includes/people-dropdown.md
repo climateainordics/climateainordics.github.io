@@ -16,7 +16,7 @@
 <option value="Bayesian Optimisation">Bayesian Optimisation (35)</option>
 <option value="Bioacaustics">Bioacaustics (1)</option>
 <option value="Bioacoustics">Bioacoustics (1)</option>
-<option value="Biodiversity">Biodiversity (98)</option>
+<option value="Biodiversity">Biodiversity (99)</option>
 <option value="Biodiversity; Sustainable Agriculture">Biodiversity; Sustainable Agriculture (1)</option>
 <option value="Bioinformatics">Bioinformatics (1)</option>
 <option value="Causal AI">Causal AI (1)</option>
@@ -28,10 +28,10 @@
 <option value="Conservation Policy">Conservation Policy (1)</option>
 <option value="Cryospheric Science">Cryospheric Science (1)</option>
 <option value="Data Assimilation">Data Assimilation (2)</option>
-<option value="Deep Learning">Deep Learning (177)</option>
+<option value="Deep Learning">Deep Learning (178)</option>
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
-<option value="Earth Observation">Earth Observation (147)</option>
+<option value="Earth Observation">Earth Observation (148)</option>
 <option value="Earth System Modeling">Earth System Modeling (57)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
@@ -66,7 +66,7 @@
 <option value="Land Surface Temperature">Land Surface Temperature (1)</option>
 <option value="Land System Science">Land System Science (1)</option>
 <option value="Land Use Change Modelling">Land Use Change Modelling (1)</option>
-<option value="Machine Learning">Machine Learning (210)</option>
+<option value="Machine Learning">Machine Learning (211)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (32)</option>
 <option value="Materials">Materials (1)</option>
