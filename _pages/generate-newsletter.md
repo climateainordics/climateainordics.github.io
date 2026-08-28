@@ -16,19 +16,11 @@ body{font-family: arial, sans-serif;} img{ float: right; width: 8em; margin: 0.4
 
 Welcome to the {{ "now" | date: "%B" }} edition of the Climate AI Nordics Newsletter!
 
+{% comment %}
+PLEASE ADD A FILE IN _newsletter_openings named YYYY-mm.md with a text that will be displayed here.
+{% endcomment %}
 {% assign current_month = 'now' | date: '%Y-%m' %}
 {% assign month_file = site.newsletter_openings | where_exp: "item", "item.path contains current_month" | first %}
-
-<ul>
-{% if site.newsletter_openings.size > 0 %}
-{% for item in site.newsletter_openings %}
-  <li>Name: {{ item.name }} | Path: {{ item.relative_path }}</li>
-{% endfor %}
-{% else %}
-  <li>No items found in site.newsletter_openings! (Check _config.yml and folder name)</li>
-{% endif %}
-</ul>
-
 {% if month_file %}
   {{ month_file.content | markdownify }}
 {% else %}
