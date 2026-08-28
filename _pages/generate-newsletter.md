@@ -20,11 +20,13 @@ Welcome to the {{ "now" | date: "%B" }} edition of the Climate AI Nordics Newsle
 {% assign month_file = site.newsletter_openings | where_exp: "item", "item.path contains current_month" | first %}
 
 <ul>
+{% if site.newsletter_openings.size > 0 %}
 {% for item in site.newsletter_openings %}
   <li>Name: {{ item.name }} | Path: {{ item.relative_path }}</li>
-{% empty %}
-  <li>No items found in site.newsletter_openings! (Check _config.yml and folder name)</li>
 {% endfor %}
+{% else %}
+  <li>No items found in site.newsletter_openings! (Check _config.yml and folder name)</li>
+{% endif %}
 </ul>
 
 {% if month_file %}
@@ -399,6 +401,8 @@ If you know colleagues in academia, public agencies, or industry who share these
 {% if items_available %}
 
 # Partner posts
+
+The following posts are from our partner sites, and the links will take you to their sites.
 
 
 {% for p in site.posts %}
