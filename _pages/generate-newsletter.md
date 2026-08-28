@@ -16,7 +16,16 @@ body{font-family: arial, sans-serif;} img{ float: right; width: 8em; margin: 0.4
 
 Welcome to the {{ "now" | date: "%B" }} edition of the Climate AI Nordics Newsletter!
 
-This issue covers our featured member Aleksi Nummelin, updates on our upcoming workshop on AI for Climate and Conservation at ECCV in Malmö in September, our newly obtained status as an officially registered non-profit organization! Also, updates from our partners and new job opportunities.
+{% assign current_month = 'now' | date: '%Y-%m' %}
+{% assign month_file = site.newsletters | where_exp: "item", "item.path contains current_month" | first %}
+
+{% if month_file %}
+  {{ month_file.content | markdownify }}
+{% else %}
+
+Enjoy our community highlights, updates from our partners, events, and new job opportunities!
+
+{% endif %}
 
 We connect the Nordic region’s researchers and practitioners at the intersection of AI and climate action. Whether your focus is on emission mitigation, ecosystem resilience, or biodiversity, this community is built to help your work thrive.
 
