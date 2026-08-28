@@ -22,13 +22,13 @@
 <option value="Causal AI">Causal AI (1)</option>
 <option value="Cetacean Ecology">Cetacean Ecology (1)</option>
 <option value="Climate Impacts">Climate Impacts (92)</option>
-<option value="Climate Modeling">Climate Modeling (122)</option>
+<option value="Climate Modeling">Climate Modeling (123)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
-<option value="Computer Vision">Computer Vision (116)</option>
+<option value="Computer Vision">Computer Vision (117)</option>
 <option value="Conservation Policy">Conservation Policy (1)</option>
 <option value="Cryospheric Science">Cryospheric Science (1)</option>
 <option value="Data Assimilation">Data Assimilation (2)</option>
-<option value="Deep Learning">Deep Learning (178)</option>
+<option value="Deep Learning">Deep Learning (179)</option>
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
 <option value="Earth Observation">Earth Observation (148)</option>
@@ -45,7 +45,7 @@
 <option value="Environmental and Ecological Statistics">Environmental and Ecological Statistics (1)</option>
 <option value="Explainable AI">Explainable AI (1)</option>
 <option value="Extreme Weather">Extreme Weather (2)</option>
-<option value="Extreme Weather Events">Extreme Weather Events (57)</option>
+<option value="Extreme Weather Events">Extreme Weather Events (58)</option>
 <option value="Fluid Dynamics">Fluid Dynamics (1)</option>
 <option value="Food Microbiology">Food Microbiology (1)</option>
 <option value="Forest">Forest (1)</option>
@@ -66,7 +66,7 @@
 <option value="Land Surface Temperature">Land Surface Temperature (1)</option>
 <option value="Land System Science">Land System Science (1)</option>
 <option value="Land Use Change Modelling">Land Use Change Modelling (1)</option>
-<option value="Machine Learning">Machine Learning (211)</option>
+<option value="Machine Learning">Machine Learning (212)</option>
 <option value="Machine Listening">Machine Listening (2)</option>
 <option value="Marine Ecology">Marine Ecology (32)</option>
 <option value="Materials">Materials (1)</option>
@@ -113,7 +113,7 @@
 <option value="Use of Weather and Climate Data Outside of Academia">Use of Weather and Climate Data Outside of Academia (1)</option>
 <option value="Visual Analytics">Visual Analytics (1)</option>
 <option value="Visualization">Visualization (1)</option>
-<option value="Weather Forecasting">Weather Forecasting (39)</option>
+<option value="Weather Forecasting">Weather Forecasting (40)</option>
 <option value="Wildfire Growth Forecasting">Wildfire Growth Forecasting (1)</option>
 <option value="Wind Energy">Wind Energy (21)</option></select>
 
