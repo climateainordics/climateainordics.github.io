@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Climate Modeling,Deep Learning,Earth System Modeling,Machine Learning">
-<span title="I&#x27;m working on regional climate modelling (to km-scale) and developing ML-based emulator for the RCM. PhD, ResearcherSMHI."><strong>Fuxing Wang, PhD, Researcher, SMHI</strong></span>
-<br />
-Climate Modeling * Deep Learning * Earth System Modeling * Machine Learning * [More info (researcher profile)](https://www.smhi.se/en/research/our-team/search-for-employees/fuxing-wang) * [Publications (Scholar)](https://scholar.google.com/citations?user=VUjlxHIAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0001-7582-2752)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Deep Learning,Earth System Modeling,Extreme Weather Events,Machine Learning,Weather Forecasting">
 <span title="PhD, ResearcherUniversity of Bergen."><strong>Temesgen Gebremariam Asfaw, PhD, Researcher, University of Bergen</strong></span>
 <br />
@@ -808,6 +802,12 @@ Bayesian Optimisation * Computer Vision * Machine Learning * Sustainable Energy 
 <span title="PhD, ResearcherNorwegian Institute for Nature Research (NINA)."><strong>Katarzyna Ostapowicz, PhD, Researcher, Norwegian Institute for Nature Research (NINA)</strong></span>
 <br />
 Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * Sustainability Science * Land System Science * [More info (researcher profile)](https://kasiaostapowicz.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=7dxBUIcAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-4830-8202)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Deep Learning,Earth System Modeling,Machine Learning">
+<span title="I&#x27;m working on regional climate modelling (to km-scale) and developing ML-based emulator for the RCM. PhD, ResearcherSMHI."><strong>Fuxing Wang, PhD, Researcher, SMHI</strong></span>
+<br />
+Climate Modeling * Deep Learning * Earth System Modeling * Machine Learning * [More info (researcher profile)](https://www.smhi.se/en/research/our-team/search-for-employees/fuxing-wang) * [Publications (Scholar)](https://scholar.google.com/citations?user=VUjlxHIAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0001-7582-2752)
 </div>
 
 <div class="content" markdown="1" data-tags="">
