@@ -19,6 +19,14 @@ Welcome to the {{ "now" | date: "%B" }} edition of the Climate AI Nordics Newsle
 {% assign current_month = 'now' | date: '%Y-%m' %}
 {% assign month_file = site.newsletter_openings | where_exp: "item", "item.path contains current_month" | first %}
 
+<ul>
+{% for item in site.newsletter_openings %}
+  <li>Name: {{ item.name }} | Path: {{ item.relative_path }}</li>
+{% empty %}
+  <li>No items found in site.newsletter_openings! (Check _config.yml and folder name)</li>
+{% endfor %}
+</ul>
+
 {% if month_file %}
   {{ month_file.content | markdownify }}
 {% else %}
