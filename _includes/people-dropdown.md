@@ -21,7 +21,7 @@
 <option value="Bioinformatics">Bioinformatics (1)</option>
 <option value="Causal AI">Causal AI (1)</option>
 <option value="Cetacean Ecology">Cetacean Ecology (1)</option>
-<option value="Climate Impacts">Climate Impacts (91)</option>
+<option value="Climate Impacts">Climate Impacts (92)</option>
 <option value="Climate Modeling">Climate Modeling (122)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
 <option value="Computer Vision">Computer Vision (116)</option>
@@ -32,7 +32,7 @@
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
 <option value="Earth Observation">Earth Observation (148)</option>
-<option value="Earth System Modeling">Earth System Modeling (57)</option>
+<option value="Earth System Modeling">Earth System Modeling (58)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
 <option value="Ecosystem-based Adaptation">Ecosystem-based Adaptation (1)</option>

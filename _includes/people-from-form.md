@@ -5,6 +5,12 @@
 Climate Modeling * Deep Learning * Earth System Modeling * Machine Learning * [More info (researcher profile)](https://www.smhi.se/en/research/our-team/search-for-employees/fuxing-wang) * [Publications (Scholar)](https://scholar.google.com/citations?user=VUjlxHIAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0001-7582-2752)
 </div>
 
+<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Deep Learning,Earth System Modeling,Extreme Weather Events,Machine Learning,Weather Forecasting">
+<span title="PhD, ResearcherUniversity of Bergen."><strong>Temesgen Gebremariam Asfaw, PhD, Researcher, University of Bergen</strong></span>
+<br />
+Climate Impacts * Climate Modeling * Deep Learning * Earth System Modeling * Extreme Weather Events * Machine Learning * Weather Forecasting * [Publications (Scholar)](https://scholar.google.com/citations?user=1f6JD7UAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-5414-5227) * [BlueSky](https://bsky.app/profile/gtmesgen.bsky.social)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -754,12 +760,6 @@ Biodiversity * Climate Impacts * Extreme Weather Events * Soundscape Analysis * 
 <span title="Physical oceanographer and climate scientist by training, applying ML methods at the interface of satellites and simulations to better understand and predict the ocean. PhD, ResearcherFinnish Meteorological Institute."><strong>Aleksi Nummelin, PhD, Researcher, Finnish Meteorological Institute</strong></span>
 <br />
 Climate Modeling * Earth Observation * Earth System Modeling * Machine Learning * [More info (researcher profile)](https://aleksinummelin.github.io/) * [ORCID](https://orcid.org/0000-0002-7591-3504)
-</div>
-
-<div class="content" markdown="1" data-tags="Climate Modeling,Deep Learning,Extreme Weather Events,Machine Learning,Weather Forecasting">
-<span title="PhD, ResearcherUniversity of Bergen."><strong>Temesgen Gebremariam Asfaw, PhD, Researcher, University of Bergen</strong></span>
-<br />
-Climate Modeling * Deep Learning * Extreme Weather Events * Machine Learning * Weather Forecasting
 </div>
 
 <div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Machine Learning,Sustainable Supply Chain Management">
