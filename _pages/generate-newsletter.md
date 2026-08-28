@@ -408,7 +408,7 @@ If you know colleagues in academia, public agencies, or industry who share these
 {% assign domain = p.external_url | split: "://" | last | split: "/" | first | split: ":" | first  | remove_first: "www." %}
 
 {{printdate}} {{ p.summary }}<br />
-**[Read more on {{ domain }}!]({{ p.external_url }})**
+**[Read more at {{ domain }}!]({{ p.external_url }})**
 {% endfor %}
 
 {% endif %}
