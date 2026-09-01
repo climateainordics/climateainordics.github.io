@@ -11,7 +11,7 @@ event_date: 2026-08-27
 event_time: "15:00"
 event_location: ""
 image: /images/posts/2026-06-03-2026-08-27-more-is-different-emergent-social-conventions.jpg
-youtube: ""
+youtube: "Ox1zIWHTnn4"
 --- 
 Welcome to this week's Learning Machines seminar.
 
@@ -33,7 +33,7 @@ This seminar is a collaboration between RISE and Climate AI Nordics -- [climatea
 
 **Upcoming seminars:**
 
-* 2026-09-24: Anastasia Kakouri, University of Aegean
+* 2026-09-24: Ana Lucic, University of Amsterdam
 * 2026-10-08: Rangel Daroya, University of Massachusetts Amherst
 * 2026-10-22: Luca Ciampi, ISTI-CNR
 * 2026-11-19: Nicola Messina, ISTI-CNR
