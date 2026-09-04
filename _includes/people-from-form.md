@@ -1,16 +1,3 @@
-## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Bayesian Optimisation,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling">
-<span title="IndustryDHI."><strong>Spyros Kondylatos, Industry, DHI</strong></span>
-<br />
-Bayesian Optimisation * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * [More info (researcher profile)](https://skondylatos.github.io/) * [Research group](https://eo.dhigroup.com/) * [Publications (Scholar)](https://scholar.google.com/citations?view_op=list_works&amp;hl=en&amp;user=Za_CSbMAAAAJ&amp;gmla=AIqSsVsFK4er1JK93bME4s7Ya7zu-M6eXfHL5E86Gjz7WpJ4hyu7qd0TVfQ9Wx5LA7Uc643EXNYVqiTG6eU9aamIeD4HlQDAVktBOw4) * [ORCID](https://orcid.org/0000-0002-0949-8592)
-</div>
-
-<div class="content" markdown="1" data-tags="Climate Modeling,Computer Vision,Deep Learning,Extreme Weather Events,Machine Learning,Weather Forecasting">
-<span title="background on computer science and AI, interested in AI for atmospheric science. Associate ProfessorLappeenranta-Lahti University of Technology."><strong>Zhi-Song Liu, Associate Professor, Lappeenranta-Lahti University of Technology</strong></span>
-<br />
-Climate Modeling * Computer Vision * Deep Learning * Extreme Weather Events * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://holmes-alan.github.io/) * [Research group](https://amc-lahti.fi/) * [Publications (Scholar)](https://scholar.google.com/citations?user=3vm7iAwAAAAJ&amp;hl) * [ORCID](https://orcid.org/0000-0003-4507-3097)
-</div>
-
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -214,6 +201,12 @@ Bayesian Optimisation * Climate Impacts * Climate Modeling * Deep Learning * Ear
 <span title="I am the head of the DTU ITS group (formerly known as MLSM: https://mlsm.man.dtu.dk), with a background in Machine Learning and Transport. I am strongly focused different several Climate AI projects, namely MAAT (https://mlsm.man.dtu.dk/research-projects/maat/), APEX (https://mlsm.man.dtu.dk/research-projects/apex/) and other initiatives (https://arxiv.org/abs/2510.07971). ProfessorTechnical University of Denmark."><strong>Francisco Pereira, Professor, Technical University of Denmark</strong></span>
 <br />
 Climate Impacts * Climate Modeling * Deep Learning * Earth System Modeling * Extreme Weather Events * Machine Learning * Sustainable Cities * Sustainable Transport * Urban Planning * [More info (researcher profile)](https://www.linkedin.com/in/francisco-pereira-77ab103/) * [Research group](https://mlsm.man.dtu.dk) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=k7pIUY0AAAAJ) * [ORCID](https://orcid.org/0000-0001-5457-9909)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Computer Vision,Deep Learning,Extreme Weather Events,Machine Learning,Weather Forecasting">
+<span title="background on computer science and AI, interested in AI for atmospheric science. Associate ProfessorLappeenranta-Lahti University of Technology."><strong>Zhi-Song Liu, Associate Professor, Lappeenranta-Lahti University of Technology</strong></span>
+<br />
+Climate Modeling * Computer Vision * Deep Learning * Extreme Weather Events * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://holmes-alan.github.io/) * [Research group](https://amc-lahti.fi/) * [Publications (Scholar)](https://scholar.google.com/citations?user=3vm7iAwAAAAJ&amp;hl) * [ORCID](https://orcid.org/0000-0003-4507-3097)
 </div>
 
 <div class="content" markdown="1" data-tags="">
@@ -1342,6 +1335,12 @@ Biodiversity * Climate Impacts * Climate Modeling * Earth Observation
 <span title="I&#x27;m finishing a double master&#x27;s degree between NTNU (Industrial Ecology and Climate Change Mitigation) and École Centrale de Lyon (Applied Mathematics, Computer Science, Fluid Mechanics), with a thesis on deep learning-based mapping from decades of aerial imagery. I&#x27;m genuinely passionate about applying AI and numerical modelling to climate and environmental challenges, and I&#x27;m actively looking for opportunities in this space across the Nordics. I&#x27;d love to stay connected with the community and follow relevant news, events, and job openings as I start this next chapter!. StudentNTNU."><strong>Leo Liberkowski, Student, NTNU</strong></span>
 <br />
 AutoML * Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * NLP * Soundscape Analysis * Weather Forecasting * Wind Energy * [More info (researcher profile)](https://github.com/leolibe/master_thesis.git)
+</div>
+
+<div class="content" markdown="1" data-tags="Bayesian Optimisation,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling">
+<span title="IndustryDHI."><strong>Spyros Kondylatos, Industry, DHI</strong></span>
+<br />
+Bayesian Optimisation * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * [More info (researcher profile)](https://skondylatos.github.io/) * [Research group](https://eo.dhigroup.com/) * [Publications (Scholar)](https://scholar.google.com/citations?view_op=list_works&amp;hl=en&amp;user=Za_CSbMAAAAJ&amp;gmla=AIqSsVsFK4er1JK93bME4s7Ya7zu-M6eXfHL5E86Gjz7WpJ4hyu7qd0TVfQ9Wx5LA7Uc643EXNYVqiTG6eU9aamIeD4HlQDAVktBOw4) * [ORCID](https://orcid.org/0000-0002-0949-8592)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
