@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Deep Learning,Earth System Modeling,Extreme Weather Events,Machine Learning,Weather Forecasting">
-<span title="PhD, ResearcherUniversity of Bergen."><strong>Temesgen Gebremariam Asfaw, PhD, Researcher, University of Bergen</strong></span>
-<br />
-Climate Impacts * Climate Modeling * Deep Learning * Earth System Modeling * Extreme Weather Events * Machine Learning * Weather Forecasting * [Publications (Scholar)](https://scholar.google.com/citations?user=1f6JD7UAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-5414-5227) * [BlueSky](https://bsky.app/profile/gtmesgen.bsky.social)
-</div>
-
 <div class="content" markdown="1" data-tags="Bayesian Optimisation,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling">
 <span title="IndustryDHI."><strong>Spyros Kondylatos, Industry, DHI</strong></span>
 <br />
@@ -808,6 +802,12 @@ Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observa
 <span title="I&#x27;m working on regional climate modelling (to km-scale) and developing ML-based emulator for the RCM. PhD, ResearcherSMHI."><strong>Fuxing Wang, PhD, Researcher, SMHI</strong></span>
 <br />
 Climate Modeling * Deep Learning * Earth System Modeling * Machine Learning * [More info (researcher profile)](https://www.smhi.se/en/research/our-team/search-for-employees/fuxing-wang) * [Publications (Scholar)](https://scholar.google.com/citations?user=VUjlxHIAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0001-7582-2752)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Deep Learning,Earth System Modeling,Extreme Weather Events,Machine Learning,Weather Forecasting">
+<span title="PhD, ResearcherUniversity of Bergen."><strong>Temesgen Gebremariam Asfaw, PhD, Researcher, University of Bergen</strong></span>
+<br />
+Climate Impacts * Climate Modeling * Deep Learning * Earth System Modeling * Extreme Weather Events * Machine Learning * Weather Forecasting * [Publications (Scholar)](https://scholar.google.com/citations?user=1f6JD7UAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-5414-5227) * [BlueSky](https://bsky.app/profile/gtmesgen.bsky.social)
 </div>
 
 <div class="content" markdown="1" data-tags="">
