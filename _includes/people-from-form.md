@@ -1961,3 +1961,9 @@ Biodiversity * Deep Learning * Earth Observation * Machine Learning * [Research 
 <br />
 Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=7CWC9EwAAAAJ&amp;hl=it)
 </div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Extreme Weather Events,Machine Learning">
+<span title="I have a PhD in Forestry and Remote Sensing from Beijing Forestry University, and my research combines Earth observation, GIS, machine learning, and environmental modelling. My earlier work focused mainly on land-cover change and forest landscape dynamics, while my current research at IGSNRR-CAS focuses on global flood extremes and emerging flood hotspots using large-scale hydroclimatic and geospatial datasets. I am particularly interested in extending this experience toward deep-learning-based Earth observation for detecting and quantifying the impacts of climate extremes. PhD, ResearcherInstitute of Geographic Sciences and Natural Resources, Chinese Academy of Sciences, Beijing, China."><strong>Khadim Hussain, PhD, Researcher, Institute of Geographic Sciences and Natural Resources, Chinese Academy of Sciences, Beijing, China</strong></span>
+<br />
+Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Extreme Weather Events * Machine Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=O241-rsAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-3351-3438)
+</div>
