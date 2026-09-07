@@ -1283,16 +1283,16 @@ Biodiversity * Deep Learning * Machine Learning * Marine Ecology * Soundscape An
 Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Extreme Weather Events * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://bit.ly/deanna-yi-nam-xu) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=8l0Tw60AAAAJ)
 </div>
 
-<div class="content" markdown="1" data-tags="">
-<span title="PhD StudentRISE Research Institutes of Sweden."><strong>Klas Segeljakt, PhD Student, RISE Research Institutes of Sweden</strong></span>
-<br />
-[More info (researcher profile)](https://segeljakt.tilda.ws/) * [Publications (Scholar)](https://scholar.google.se/citations?user=k4bVwsIAAAAJ&amp;hl=en)
-</div>
-
 <div class="content" markdown="1" data-tags="Biodiversity; Sustainable Agriculture">
 <span title="IndustryArla Foods."><strong>Samuel Phipps, Industry, Arla Foods</strong></span>
 <br />
 Biodiversity; Sustainable Agriculture * [More info (researcher profile)](https://www.linkedin.com/in/samuel-phipps/)
+</div>
+
+<div class="content" markdown="1" data-tags="">
+<span title="PhD StudentRISE Research Institutes of Sweden."><strong>Klas Segeljakt, PhD Student, RISE Research Institutes of Sweden</strong></span>
+<br />
+[More info (researcher profile)](https://segeljakt.tilda.ws/) * [Publications (Scholar)](https://scholar.google.se/citations?user=k4bVwsIAAAAJ&amp;hl=en)
 </div>
 
 <div class="content" markdown="1" data-tags="AutoML,Climate Impacts,Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning,NLP,Sustainable Energy">
@@ -1954,4 +1954,10 @@ Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observ
 <span title="PhD StudentUppsala University."><strong>Adrian Baggström, PhD Student, Uppsala University</strong></span>
 <br />
 Biodiversity * Deep Learning * Earth Observation * Machine Learning * [Research group](https://biodiversity.se/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=VLKxgJEAAAAJ) * [ORCID](https://orcid.org/0009-0001-1686-4845)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning">
+<span title="PhD, ResearcherUniversity of Bari, &quot;Aldo Moro&quot;."><strong>Alok Kushabaha, PhD, Researcher, University of Bari, &amp;quot;Aldo Moro&amp;quot;</strong></span>
+<br />
+Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=7CWC9EwAAAAJ&amp;hl=it)
 </div>
