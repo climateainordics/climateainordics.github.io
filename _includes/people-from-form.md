@@ -1967,3 +1967,9 @@ Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Earth Sy
 <br />
 Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Extreme Weather Events * Machine Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=O241-rsAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-3351-3438)
 </div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning,NLP">
+<span title="Assistant ProfessorAalto University."><strong>Kyle Gao, Assistant Professor, Aalto University</strong></span>
+<br />
+Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * NLP * [More info (researcher profile)](https://kyle-gao.github.io/) * [Research group](https://www.aalto.fi/en/people/kyle-gao) * [Publications (Scholar)](https://scholar.google.com/citations?user=F-NPRk0AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-8320-6308)
+</div>
