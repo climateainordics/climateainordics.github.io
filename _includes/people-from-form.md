@@ -1,3 +1,10 @@
+## Affiliates - Recently Joined
+<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning">
+<span title="Student."><strong>Parna Saeidpour, Student</strong></span>
+<br />
+Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * [More info (researcher profile)](https://www.linkedin.com/in/parna-saeidpour-185a4652/)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -1263,12 +1270,6 @@ Biodiversity * Computer Vision * Deep Learning * Earth Observation * Earth Syste
 <span title="My research focuses on AI for Climate Downscaling, mainly in the Nordic region. PhD StudentUniversity of Helsinki."><strong>Helmi Toropainen, PhD Student, University of Helsinki</strong></span>
 <br />
 Climate Impacts * Climate Modeling * Deep Learning * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://helmitoropainen.github.io/climate-downscaling/) * [Research group](https://amc-lahti.fi/) * [ORCID](https://orcid.org/0009-0000-0175-3520)
-</div>
-
-<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning">
-<span title="Student."><strong>Parna Saeidpour, Student</strong></span>
-<br />
-Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * [More info (researcher profile)](https://parnasaeidpour.com/)
 </div>
 
 <div class="content" markdown="1" data-tags="Biodiversity,Deep Learning,Machine Learning,Marine Ecology,Soundscape Analysis,Bioacoustics,Passive Acoustic Monitoring,Cetacean Ecology,Underwater Noise,Conservation Policy">
