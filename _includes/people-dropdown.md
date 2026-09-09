@@ -24,7 +24,7 @@
 <option value="Climate Impacts">Climate Impacts (95)</option>
 <option value="Climate Modeling">Climate Modeling (124)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
-<option value="Computer Vision">Computer Vision (120)</option>
+<option value="Computer Vision">Computer Vision (121)</option>
 <option value="Conservation Policy">Conservation Policy (1)</option>
 <option value="Cryospheric Science">Cryospheric Science (1)</option>
 <option value="Data Assimilation">Data Assimilation (2)</option>
@@ -113,7 +113,7 @@
 <option value="Use of Weather and Climate Data Outside of Academia">Use of Weather and Climate Data Outside of Academia (1)</option>
 <option value="Visual Analytics">Visual Analytics (1)</option>
 <option value="Visualization">Visualization (1)</option>
-<option value="Weather Forecasting">Weather Forecasting (40)</option>
+<option value="Weather Forecasting">Weather Forecasting (41)</option>
 <option value="Wildfire Growth Forecasting">Wildfire Growth Forecasting (1)</option>
 <option value="Wind Energy">Wind Energy (21)</option></select>
 

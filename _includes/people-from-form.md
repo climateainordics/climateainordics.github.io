@@ -1980,3 +1980,9 @@ Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observa
 <br />
 Computer Vision * Deep Learning * Earth Observation * [More info (researcher profile)](https://www.linkedin.com/in/olivier-dietrich/) * [Research group](https://prs.igp.ethz.ch/) * [Publications (Scholar)](https://scholar.google.com/citations?user=st6IqcsAAAAJ&amp;hl=fr) * [ORCID](https://orcid.org/0009-0005-8530-2650)
 </div>
+
+<div class="content" markdown="1" data-tags="Computer Vision,Weather Forecasting">
+<span title="Associate ProfessorYonsei University."><strong>HAEGON JEON JEON, Associate Professor, Yonsei University</strong></span>
+<br />
+Computer Vision * Weather Forecasting * [More info (researcher profile)](https://sites.google.com/site/hgjeoncv/) * [Research group](https://sites.google.com/site/hgjeoncv/) * [Publications (Scholar)](https://scholar.google.co.kr/citations?hl=ko&amp;pli=1&amp;user=Ei00xroAAAAJ)
+</div>
