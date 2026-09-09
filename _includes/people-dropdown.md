@@ -24,14 +24,14 @@
 <option value="Climate Impacts">Climate Impacts (95)</option>
 <option value="Climate Modeling">Climate Modeling (124)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
-<option value="Computer Vision">Computer Vision (119)</option>
+<option value="Computer Vision">Computer Vision (120)</option>
 <option value="Conservation Policy">Conservation Policy (1)</option>
 <option value="Cryospheric Science">Cryospheric Science (1)</option>
 <option value="Data Assimilation">Data Assimilation (2)</option>
-<option value="Deep Learning">Deep Learning (182)</option>
+<option value="Deep Learning">Deep Learning (183)</option>
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
-<option value="Earth Observation">Earth Observation (151)</option>
+<option value="Earth Observation">Earth Observation (152)</option>
 <option value="Earth System Modeling">Earth System Modeling (61)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>

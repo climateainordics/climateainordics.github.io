@@ -1973,3 +1973,9 @@ Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observ
 <br />
 Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * NLP * [More info (researcher profile)](https://kyle-gao.github.io/) * [Research group](https://www.aalto.fi/en/people/kyle-gao) * [Publications (Scholar)](https://scholar.google.com/citations?user=F-NPRk0AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-8320-6308)
 </div>
+
+<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Earth Observation">
+<span title="Working at the intersection of computer vision and remote sensing (AI4EO), with a focus on humanitarian applications, and really anything that feels good for our planet and the living beings on it. PhD StudentETH Zurich."><strong>Olivier Dietrich, PhD Student, ETH Zurich</strong></span>
+<br />
+Computer Vision * Deep Learning * Earth Observation * [More info (researcher profile)](https://www.linkedin.com/in/olivier-dietrich/) * [Research group](https://prs.igp.ethz.ch/) * [Publications (Scholar)](https://scholar.google.com/citations?user=st6IqcsAAAAJ&amp;hl=fr) * [ORCID](https://orcid.org/0009-0005-8530-2650)
+</div>
