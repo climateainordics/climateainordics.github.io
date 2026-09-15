@@ -1986,3 +1986,21 @@ Computer Vision * Deep Learning * Earth Observation * [More info (researcher pro
 <br />
 Computer Vision * Weather Forecasting * [More info (researcher profile)](https://sites.google.com/site/hgjeoncv/) * [Research group](https://sites.google.com/site/hgjeoncv/) * [Publications (Scholar)](https://scholar.google.co.kr/citations?hl=ko&amp;pli=1&amp;user=Ei00xroAAAAJ)
 </div>
+
+<div class="content" markdown="1" data-tags="AutoML,Biodiversity,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Efficient or Sustainable AI,Machine Learning,Marine Ecology,Wind Energy">
+<span title="I&#x27;m a Senior Deep Learning Engineer at Qualcomm in Linköping, where I build models for image and LiDAR data using foundation models, transfer learning, and self-supervised embeddings. I hold an MSc in Data Science and AI from Chalmers. Alongside my industry work, I&#x27;ve spent the last four years applying AI to ecology. My master&#x27;s thesis developed real-time tracking and pose estimation of guillemots with AI Sweden and SLU, published in Remote Sensing in Ecology and Conservation. I still work as a data engineer for SLU&#x27;s Stora Karlsö seabird research station, and volunteer with bird ringing, species inventories, and invasive plant removal. I&#x27;m now looking to move fully into applying AI to nature and climate work, and joined to connect with others doing the same across the Nordics. Industry."><strong>Shreyash Kad, Industry</strong></span>
+<br />
+AutoML * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Efficient or Sustainable AI * Machine Learning * Marine Ecology * Wind Energy
+</div>
+
+<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,Weather Forecasting">
+<span title="I am a Professor at the Department of Mathematics and Statistics at UiT The Arctic University of Norway, and a senior researcher at NORCE Norwegian Research Centre. My research interests lie at the intersection between machine learning, dynamical systems, and complex networks. I apply my research mostly in remote sensing, climate, and energy analytics. ProfessorUiT The Arctic University of Norway."><strong>Filippo Maria Bianchi, Professor, UiT The Arctic University of Norway</strong></span>
+<br />
+Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://sites.google.com/view/filippombianchi/home) * [Research group](https://ngmlgroup.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=yb7cT1MAAAAJ&amp;hl=en)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,Weather Forecasting">
+<span title="PhD, ResearcherNORCE."><strong>Jakob Grahn, PhD, Researcher, NORCE</strong></span>
+<br />
+Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://www.norceresearch.no/en/persons/jakob-grahn/2177) * [Research group](https://www.norceresearch.no/en/research-group/jordobservasjon) * [ORCID](https://orcid.org/0000-0003-2575-9075)
+</div>
