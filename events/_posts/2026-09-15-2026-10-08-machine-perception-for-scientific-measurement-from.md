@@ -1,0 +1,59 @@
+---
+title: "Machine perception for scientific measurement from satellite imagery"
+summary: "Webinar with Rangel Daroya, University of Massachusetts Amherst. 
+
+In many scientific domains, the goal is not simply to classify an image or produce a visually plausible segmentation, but to estimate quantities that scientists and decision-makers can use: river width, water extent, sediment concentration, habitat change, or other physical variables. These tasks require models that are robust to distribution shift, efficient under limited supervision, and reliable enough to support downstream measurement. In this talk, I will discuss machine learning and computer vision methods for this setting, with a focus on geospatial imagery and hydrology.
+
+Scientific domains such as remote sensing expose several fundamental limitations of current vision systems. Models must operate across sensors, geographic regions, seasons, and acquisition conditions, often with limited labeled data and multispectral inputs that differ from standard natural image benchmarks. They must also detect small or thin structures, handle temporal variation, and avoid errors that may appear minor under conventional vision metrics but lead to substantial errors in scientific measurements.
+
+I will discuss three aspects that try to solve these problems: learning transferable representations that can adapt across tasks and datasets, developing data-efficient perception methods for multispectral and geospatial imagery, and translating model predictions into reliable physical measurements. I will highlight work on task transfer, satellite representation learning, river segmentation, and downstream estimation of river width and other hydrological variables. More broadly, this work aims to develop robust, transferable, and data-efficient machine perception systems that can turn large-scale satellite and scientific imagery into reliable measurements of the physical world."
+abstract: "In many scientific domains, the goal is not simply to classify an image or produce a visually plausible segmentation, but to estimate quantities that scientists and decision-makers can use: river width, water extent, sediment concentration, habitat change, or other physical variables. These tasks require models that are robust to distribution shift, efficient under limited supervision, and reliable enough to support downstream measurement. In this talk, I will discuss machine learning and computer vision methods for this setting, with a focus on geospatial imagery and hydrology.
+
+Scientific domains such as remote sensing expose several fundamental limitations of current vision systems. Models must operate across sensors, geographic regions, seasons, and acquisition conditions, often with limited labeled data and multispectral inputs that differ from standard natural image benchmarks. They must also detect small or thin structures, handle temporal variation, and avoid errors that may appear minor under conventional vision metrics but lead to substantial errors in scientific measurements.
+
+I will discuss three aspects that try to solve these problems: learning transferable representations that can adapt across tasks and datasets, developing data-efficient perception methods for multispectral and geospatial imagery, and translating model predictions into reliable physical measurements. I will highlight work on task transfer, satellite representation learning, river segmentation, and downstream estimation of river width and other hydrological variables. More broadly, this work aims to develop robust, transferable, and data-efficient machine perception systems that can turn large-scale satellite and scientific imagery into reliable measurements of the physical world."
+people:
+- Olof Mogren
+permalink: /events/2026-09-15-2026-10-08-machine-perception-for-scientific-measurement-from
+event_date: 2026-10-08
+event_time: "15:00"
+event_location: ""
+image: /images/posts/2026-09-15-2026-10-08-machine-perception-for-scientific-measurement-from.png
+youtube: ""
+--- 
+Welcome to this week's Learning Machines seminar.
+
+This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
+
+**Title:** Machine perception for scientific measurement from satellite imagery
+
+**Speaker:** Rangel Daroya, University of Massachusetts Amherst
+
+**Abstract:** In many scientific domains, the goal is not simply to classify an image or produce a visually plausible segmentation, but to estimate quantities that scientists and decision-makers can use: river width, water extent, sediment concentration, habitat change, or other physical variables. These tasks require models that are robust to distribution shift, efficient under limited supervision, and reliable enough to support downstream measurement. In this talk, I will discuss machine learning and computer vision methods for this setting, with a focus on geospatial imagery and hydrology.
+
+Scientific domains such as remote sensing expose several fundamental limitations of current vision systems. Models must operate across sensors, geographic regions, seasons, and acquisition conditions, often with limited labeled data and multispectral inputs that differ from standard natural image benchmarks. They must also detect small or thin structures, handle temporal variation, and avoid errors that may appear minor under conventional vision metrics but lead to substantial errors in scientific measurements.
+
+I will discuss three aspects that try to solve these problems: learning transferable representations that can adapt across tasks and datasets, developing data-efficient perception methods for multispectral and geospatial imagery, and translating model predictions into reliable physical measurements. I will highlight work on task transfer, satellite representation learning, river segmentation, and downstream estimation of river width and other hydrological variables. More broadly, this work aims to develop robust, transferable, and data-efficient machine perception systems that can turn large-scale satellite and scientific imagery into reliable measurements of the physical world.
+
+**About the speaker:** Rangel Daroya is a PhD student in Computer Science at the University of Massachusetts Amherst, where she works in the Computer Vision Lab with Prof. Subhransu Maji. Her research focuses on computer vision and machine learning, particularly transfer and multi-task learning and applications to environmental remote sensing. Her recent work includes RiverScope, a high-resolution river segmentation dataset, and WildSAT, which learns satellite representations from wildlife observations. Rangel received the 2025 AGU Remote Sensing Student Award for RiverScope and passed her PhD Portfolio with Distinction. Her work has appeared at CVPR, ICCV, WACV, AAAI, and IEEE JSTARS, including a CVPR 2024 Highlight paper.
+
+**Location:** This is an online seminar. Connect using Zoom.
+
+**Date:** 2026-10-08 15:00
+
+
+
+**Upcoming seminars:**
+
+* 2026-10-22: Luca Ciampi, ISTI-CNR
+* 2026-11-19: Nicola Messina, ISTI-CNR
+* 2026-12-17: Lester Jame Miranda, affiliation
+* 2027-03-18: Hao Wei, Technical University of Munich (TUM)
+* All seminars are 15:00 CET.
+
+More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
+
+-- The Learning Machines Team
+
+
+
