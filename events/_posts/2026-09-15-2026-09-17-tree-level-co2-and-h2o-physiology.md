@@ -1,0 +1,75 @@
+---
+title: "Towards verified tree-level CO2 and H2O physiology, resolved at 30-min resolution"
+summary: "Webinar with Jaime Caballer Revenga, University of Copenhagen. 
+
+This project addresses one major challenge in climate science: accurately quantifying how forests remove carbon dioxide (CO₂) from the atmosphere. Forests currently account for nearly one-third of the global land carbon sink, but their capacity to absorb CO₂ is increasingly threatened by climate change(s), land-use change(s), and environmental disturbance(s). At the same time, afforestation, reforestation, and carbon offset initiatives are expanding rapidly, despite persistent concerns about the reliability and transparency of the methods used to estimate carbon sequestration.
+
+The INFOSCO project (Integrating Forest Structure and Carbon Observatories) proposes a new approach by shifting the focus from forest-scale carbon assessments to continuous physiological estimates at the level of individual trees. By combining ecosystem CO₂ flux observations, laser-based measurements of forest structure, and theory of plant physiological processes, it aims to estimate the contribution of each tree to overall forest carbon uptake. This will provide a more detailed and biologically grounded understanding of carbon sequestration while remaining consistent with established micrometeorological measurements and theory.
+
+Methodologically, the research integrates data and concepts from ecosystem ecology, laser proximal sensing, plant physiology, and statistical modelling into a unified framework. The core modelling strategy uses a Bayesian hierarchical structure to quantify uncertainties at multiple levels. By means of Dirichlet regression the method ensures  that tree-level estimates are consistent with ecosystem-scale micrometeorological observations.
+
+Beyond improving carbon accounting, the project aims to bridge between detailed field-based ecological measurements and AI models scalable to biogeographic applications. By linking high-resolution observations of individual trees with ecosystem-atmosphere fluxes, it seeks to advance both our understanding of forest physiology and the development of more robust tools for monitoring and verifying nature-based climate solutions."
+abstract: "This project addresses one major challenge in climate science: accurately quantifying how forests remove carbon dioxide (CO₂) from the atmosphere. Forests currently account for nearly one-third of the global land carbon sink, but their capacity to absorb CO₂ is increasingly threatened by climate change(s), land-use change(s), and environmental disturbance(s). At the same time, afforestation, reforestation, and carbon offset initiatives are expanding rapidly, despite persistent concerns about the reliability and transparency of the methods used to estimate carbon sequestration.
+
+The INFOSCO project (Integrating Forest Structure and Carbon Observatories) proposes a new approach by shifting the focus from forest-scale carbon assessments to continuous physiological estimates at the level of individual trees. By combining ecosystem CO₂ flux observations, laser-based measurements of forest structure, and theory of plant physiological processes, it aims to estimate the contribution of each tree to overall forest carbon uptake. This will provide a more detailed and biologically grounded understanding of carbon sequestration while remaining consistent with established micrometeorological measurements and theory.
+
+Methodologically, the research integrates data and concepts from ecosystem ecology, laser proximal sensing, plant physiology, and statistical modelling into a unified framework. The core modelling strategy uses a Bayesian hierarchical structure to quantify uncertainties at multiple levels. By means of Dirichlet regression the method ensures  that tree-level estimates are consistent with ecosystem-scale micrometeorological observations.
+
+Beyond improving carbon accounting, the project aims to bridge between detailed field-based ecological measurements and AI models scalable to biogeographic applications. By linking high-resolution observations of individual trees with ecosystem-atmosphere fluxes, it seeks to advance both our understanding of forest physiology and the development of more robust tools for monitoring and verifying nature-based climate solutions."
+people:
+- Olof Mogren
+permalink: /events/2026-09-15-2026-09-17-tree-level-co2-and-h2o-physiology
+event_date: 2026-09-17
+event_time: "15:00"
+event_location: "RISE Lund Office (Scheelevägen 17)"
+image: /images/posts/2026-09-15-2026-09-17-tree-level-co2-and-h2o-physiology.jpg
+youtube: ""
+--- 
+Welcome to this week's Learning Machines seminar.
+
+This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
+
+**Title:** Towards verified tree-level CO2 and H2O physiology, resolved at 30-min resolution
+
+**Speaker:** Jaime Caballer Revenga, University of Copenhagen
+
+**Abstract:** This project addresses one major challenge in climate science: accurately quantifying how forests remove carbon dioxide (CO₂) from the atmosphere. Forests currently account for nearly one-third of the global land carbon sink, but their capacity to absorb CO₂ is increasingly threatened by climate change(s), land-use change(s), and environmental disturbance(s). At the same time, afforestation, reforestation, and carbon offset initiatives are expanding rapidly, despite persistent concerns about the reliability and transparency of the methods used to estimate carbon sequestration.
+
+The INFOSCO project (Integrating Forest Structure and Carbon Observatories) proposes a new approach by shifting the focus from forest-scale carbon assessments to continuous physiological estimates at the level of individual trees. By combining ecosystem CO₂ flux observations, laser-based measurements of forest structure, and theory of plant physiological processes, it aims to estimate the contribution of each tree to overall forest carbon uptake. This will provide a more detailed and biologically grounded understanding of carbon sequestration while remaining consistent with established micrometeorological measurements and theory.
+
+Methodologically, the research integrates data and concepts from ecosystem ecology, laser proximal sensing, plant physiology, and statistical modelling into a unified framework. The core modelling strategy uses a Bayesian hierarchical structure to quantify uncertainties at multiple levels. By means of Dirichlet regression the method ensures  that tree-level estimates are consistent with ecosystem-scale micrometeorological observations.
+
+Beyond improving carbon accounting, the project aims to bridge between detailed field-based ecological measurements and AI models scalable to biogeographic applications. By linking high-resolution observations of individual trees with ecosystem-atmosphere fluxes, it seeks to advance both our understanding of forest physiology and the development of more robust tools for monitoring and verifying nature-based climate solutions.
+
+**About the speaker:** Jaime C. Revenga was born in Madrid, Spain, and has developed his career across France, Austria, Switzerland, and Denmark. Trained as energy and environmental engineer, his previous research has focused on developing machine learning applications in biogeography, environmental remote sensing (UAV-LiDAR), and modelling of terrestrial ecosystem-atmosphere interactions. 
+
+Jaime earned his PhD in Geosciences at the University of Copenhagen (2020-2023), developing UAV-LiDAR and ML methods for biomass and carbon stock estimation in forests and croplands. 
+
+He is currently a Postdoctoral Researcher at the Statistics and Probability Theory group, at the Dept. of Mathematical Sciences, University of Copenhagen, on the INFOSCO Project, where he models time-resolved tree-level carbon metabolism and atmosphere-biosphere carbon interactions, from terrestrial laser scanning and eddy-covariance observations. 
+
+His work now focuses on (i) applications for ecosystem physiology predictive modelling and (ii) method development in environmental imaging spectroscopy.
+
+**Location:** RISE Lund Office (Scheelevägen 17), or online using Zoom.
+
+**Date:** 2026-09-17 15:00
+
+
+
+This seminar will have an in-person presence at RISE Lund Office (Scheelevägen 17). Make sure that you arrive in good time.
+
+
+
+**Upcoming seminars:**
+
+* 2026-09-24: Ana Lucic, University of Amsterdam
+* 2026-10-08: Rangel Daroya, University of Massachusetts Amherst
+* 2026-10-22: Luca Ciampi, ISTI-CNR
+* 2026-11-19: Nicola Messina, ISTI-CNR
+* All seminars are 15:00 CET.
+
+More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
+
+-- The Learning Machines Team
+
+
+
