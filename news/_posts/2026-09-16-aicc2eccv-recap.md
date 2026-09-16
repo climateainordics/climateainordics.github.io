@@ -1,6 +1,6 @@
 ---
-image: /images/posts/2026-06-26-cain26workshop/reffen.jpg
-image_small: /images/posts/2026-06-26-cain26workshop/lunch-park.jpg
+image: /images/posts/2026-09-09-aicc2/panel1.jpg
+image_small: /images/posts/2026-09-09-aicc2/hugo1.jpg
 people:
 - Nico Lang
 - Ankit Kariryaa
