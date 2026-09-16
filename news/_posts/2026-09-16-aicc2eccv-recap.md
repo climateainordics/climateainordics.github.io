@@ -1,6 +1,6 @@
 ---
 image: /images/posts/2026-09-09-aicc2/panel1.jpg
-image_small: /images/posts/2026-09-09-aicc2/hugo1.jpg
+image_small: /images/posts/2026-09-09-aicc2/panel1.jpg
 people:
 - Nico Lang
 - Ankit Kariryaa
@@ -28,8 +28,6 @@ as well as the [CV for marine vision](https://vap.aau.dk/marinevision/) and [CV4
 Jacqueline Campbell, Olof Mogren, Ankit Kariryaa, Nico Lang)! It was really great to see so many people working on these topics get together!
 
 ![](/images/posts/2026-09-09-aicc2/hugo1.jpg)
-
-![](/images/posts/2026-09-09-aicc2/panel1.jpg)
 
 ![](/images/posts/2026-09-09-aicc2/cantin1.jpg)
 
