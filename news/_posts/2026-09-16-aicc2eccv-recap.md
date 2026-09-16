@@ -9,7 +9,7 @@ people:
 - Lucia Gordon
 - Olof Mogren
 - Aleksis Pirinen
-summary: summary here
+summary: From biodiversity monitoring and Arctic change to the future role of AI in conservation, AICC-2 showcased a diverse range of perspectives on AI for planetary impact. The workshop and accompanying social event created valuable opportunities for knowledge exchange and community building at ECCV 2026.
 title: Recap of the AICC-2 workshop at ECCV 2026 in Malmö
 ---
 
