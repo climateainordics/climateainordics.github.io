@@ -1,3 +1,22 @@
+## Affiliates - Recently Joined
+<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,Weather Forecasting">
+<span title="I am a Professor at the Department of Mathematics and Statistics at UiT The Arctic University of Norway, and a senior researcher at NORCE Norwegian Research Centre. My research interests lie at the intersection between machine learning, dynamical systems, and complex networks. I apply my research mostly in remote sensing, climate, and energy analytics. ProfessorUiT The Arctic University of Norway."><strong>Filippo Maria Bianchi, Professor, UiT The Arctic University of Norway</strong></span>
+<br />
+Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://sites.google.com/view/filippombianchi/home) * [Research group](https://ngmlgroup.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=yb7cT1MAAAAJ&amp;hl=en)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,Weather Forecasting">
+<span title="PhD, ResearcherNORCE."><strong>Jakob Grahn, PhD, Researcher, NORCE</strong></span>
+<br />
+Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://www.norceresearch.no/en/persons/jakob-grahn/2177) * [Research group](https://www.norceresearch.no/en/research-group/jordobservasjon) * [ORCID](https://orcid.org/0000-0003-2575-9075)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Earth System Modeling,Extreme Weather Events,Sustainable Cities,Weather Forecasting,Seamless Multi-scales and -processes Modelling of Meteorology and Atmospheric Composition">
+<span title="University researcher at Univ Helsinki, Institute for Atmospheric and Earth System Research (INAR). PhD, ResearcherUniversity of Helsinki."><strong>Alexander Mahura, PhD, Researcher, University of Helsinki</strong></span>
+<br />
+Climate Impacts * Earth System Modeling * Extreme Weather Events * Sustainable Cities * Weather Forecasting * Seamless Multi-scales and -processes Modelling of Meteorology and Atmospheric Composition * [More info (researcher profile)](https://researchportal.helsinki.fi/en/persons/alexander-mahura/) * [Research group](https://www.helsinki.fi/en/researchgroups/multi-scale-modelling)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -803,6 +822,12 @@ Climate Modeling * Deep Learning * Earth System Modeling * Machine Learning * [M
 Climate Impacts * Climate Modeling * Deep Learning * Earth System Modeling * Extreme Weather Events * Machine Learning * Weather Forecasting * [Publications (Scholar)](https://scholar.google.com/citations?user=1f6JD7UAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-5414-5227) * [BlueSky](https://bsky.app/profile/gtmesgen.bsky.social)
 </div>
 
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning,NLP">
+<span title="Assistant ProfessorAalto University."><strong>Kyle Gao, Assistant Professor, Aalto University</strong></span>
+<br />
+Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * NLP * [More info (researcher profile)](https://kyle-gao.github.io/) * [Research group](https://www.aalto.fi/en/people/kyle-gao) * [Publications (Scholar)](https://scholar.google.com/citations?user=F-NPRk0AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-8320-6308)
+</div>
+
 <div class="content" markdown="1" data-tags="">
 <span title="I&#x27;m a PhD student at the Center for Mathematical Sciences focusing on anomaly detection and machine learning in earth observations and remote sensing. PhD StudentLund University."><strong>Oskar Åström, PhD Student, Lund University</strong></span>
 <br />
@@ -1329,6 +1354,12 @@ Biodiversity * Climate Impacts * Climate Modeling * Earth Observation
 <span title="I&#x27;m finishing a double master&#x27;s degree between NTNU (Industrial Ecology and Climate Change Mitigation) and École Centrale de Lyon (Applied Mathematics, Computer Science, Fluid Mechanics), with a thesis on deep learning-based mapping from decades of aerial imagery. I&#x27;m genuinely passionate about applying AI and numerical modelling to climate and environmental challenges, and I&#x27;m actively looking for opportunities in this space across the Nordics. I&#x27;d love to stay connected with the community and follow relevant news, events, and job openings as I start this next chapter!. StudentNTNU."><strong>Leo Liberkowski, Student, NTNU</strong></span>
 <br />
 AutoML * Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * NLP * Soundscape Analysis * Weather Forecasting * Wind Energy * [More info (researcher profile)](https://github.com/leolibe/master_thesis.git)
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Deep Learning,Earth Observation,Machine Learning">
+<span title="PhD StudentUppsala University."><strong>Adrian Baggström, PhD Student, Uppsala University</strong></span>
+<br />
+Biodiversity * Deep Learning * Earth Observation * Machine Learning * [Research group](https://biodiversity.se/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=VLKxgJEAAAAJ) * [ORCID](https://orcid.org/0009-0001-1686-4845)
 </div>
 
 <div class="content" markdown="1" data-tags="Bayesian Optimisation,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling">
@@ -1950,12 +1981,6 @@ AutoML * Climate Impacts * Deep Learning * Earth Observation * Machine Learning 
 Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * Urban Planning * Weather Forecasting * Microclimate Modelling * Spatial Modelling * Time-series Analysis * Urban Climate * GIS * Land Surface Temperature * Green Landscape Planning * Explainable AI * [Publications (Scholar)](https://scholar.google.com/citations?user=Q5BRnDIAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-1782-0545)
 </div>
 
-<div class="content" markdown="1" data-tags="Biodiversity,Deep Learning,Earth Observation,Machine Learning">
-<span title="PhD StudentUppsala University."><strong>Adrian Baggström, PhD Student, Uppsala University</strong></span>
-<br />
-Biodiversity * Deep Learning * Earth Observation * Machine Learning * [Research group](https://biodiversity.se/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=VLKxgJEAAAAJ) * [ORCID](https://orcid.org/0009-0001-1686-4845)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning">
 <span title="PhD, ResearcherUniversity of Bari, &quot;Aldo Moro&quot;."><strong>Alok Kushabaha, PhD, Researcher, University of Bari, &amp;quot;Aldo Moro&amp;quot;</strong></span>
 <br />
@@ -1966,12 +1991,6 @@ Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Earth Sy
 <span title="I have a PhD in Forestry and Remote Sensing from Beijing Forestry University, and my research combines Earth observation, GIS, machine learning, and environmental modelling. My earlier work focused mainly on land-cover change and forest landscape dynamics, while my current research at IGSNRR-CAS focuses on global flood extremes and emerging flood hotspots using large-scale hydroclimatic and geospatial datasets. I am particularly interested in extending this experience toward deep-learning-based Earth observation for detecting and quantifying the impacts of climate extremes. PhD, ResearcherInstitute of Geographic Sciences and Natural Resources, Chinese Academy of Sciences, Beijing, China."><strong>Khadim Hussain, PhD, Researcher, Institute of Geographic Sciences and Natural Resources, Chinese Academy of Sciences, Beijing, China</strong></span>
 <br />
 Biodiversity * Climate Impacts * Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Extreme Weather Events * Machine Learning * [Publications (Scholar)](https://scholar.google.com/citations?user=O241-rsAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0003-3351-3438)
-</div>
-
-<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Machine Learning,NLP">
-<span title="Assistant ProfessorAalto University."><strong>Kyle Gao, Assistant Professor, Aalto University</strong></span>
-<br />
-Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * NLP * [More info (researcher profile)](https://kyle-gao.github.io/) * [Research group](https://www.aalto.fi/en/people/kyle-gao) * [Publications (Scholar)](https://scholar.google.com/citations?user=F-NPRk0AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-8320-6308)
 </div>
 
 <div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Earth Observation">
@@ -1990,22 +2009,4 @@ Computer Vision * Weather Forecasting * [More info (researcher profile)](https:/
 <span title="I&#x27;m a Senior Deep Learning Engineer at Qualcomm in Linköping, where I build models for image and LiDAR data using foundation models, transfer learning, and self-supervised embeddings. I hold an MSc in Data Science and AI from Chalmers. Alongside my industry work, I&#x27;ve spent the last four years applying AI to ecology. My master&#x27;s thesis developed real-time tracking and pose estimation of guillemots with AI Sweden and SLU, published in Remote Sensing in Ecology and Conservation. I still work as a data engineer for SLU&#x27;s Stora Karlsö seabird research station, and volunteer with bird ringing, species inventories, and invasive plant removal. I&#x27;m now looking to move fully into applying AI to nature and climate work, and joined to connect with others doing the same across the Nordics. Industry."><strong>Shreyash Kad, Industry</strong></span>
 <br />
 AutoML * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Efficient or Sustainable AI * Machine Learning * Marine Ecology * Wind Energy
-</div>
-
-<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,Weather Forecasting">
-<span title="I am a Professor at the Department of Mathematics and Statistics at UiT The Arctic University of Norway, and a senior researcher at NORCE Norwegian Research Centre. My research interests lie at the intersection between machine learning, dynamical systems, and complex networks. I apply my research mostly in remote sensing, climate, and energy analytics. ProfessorUiT The Arctic University of Norway."><strong>Filippo Maria Bianchi, Professor, UiT The Arctic University of Norway</strong></span>
-<br />
-Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://sites.google.com/view/filippombianchi/home) * [Research group](https://ngmlgroup.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=yb7cT1MAAAAJ&amp;hl=en)
-</div>
-
-<div class="content" markdown="1" data-tags="Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,Weather Forecasting">
-<span title="PhD, ResearcherNORCE."><strong>Jakob Grahn, PhD, Researcher, NORCE</strong></span>
-<br />
-Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://www.norceresearch.no/en/persons/jakob-grahn/2177) * [Research group](https://www.norceresearch.no/en/research-group/jordobservasjon) * [ORCID](https://orcid.org/0000-0003-2575-9075)
-</div>
-
-<div class="content" markdown="1" data-tags="Climate Impacts,Earth System Modeling,Extreme Weather Events,Sustainable Cities,Weather Forecasting,Seamless Multi-scales and -processes Modelling of Meteorology and Atmospheric Composition">
-<span title="University researcher at Univ Helsinki, Institute for Atmospheric and Earth System Research (INAR). PhD, ResearcherUniversity of Helsinki."><strong>Alexander Mahura, PhD, Researcher, University of Helsinki</strong></span>
-<br />
-Climate Impacts * Earth System Modeling * Extreme Weather Events * Sustainable Cities * Weather Forecasting * Seamless Multi-scales and -processes Modelling of Meteorology and Atmospheric Composition * [More info (researcher profile)](https://researchportal.helsinki.fi/en/persons/alexander-mahura/) * [Research group](https://www.helsinki.fi/en/researchgroups/multi-scale-modelling)
 </div>
