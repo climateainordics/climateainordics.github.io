@@ -2003,3 +2003,9 @@ Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * M
 <br />
 Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://www.norceresearch.no/en/persons/jakob-grahn/2177) * [Research group](https://www.norceresearch.no/en/research-group/jordobservasjon) * [ORCID](https://orcid.org/0000-0003-2575-9075)
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Earth System Modeling,Extreme Weather Events,Sustainable Cities,Weather Forecasting,Seamless Multi-scales and -processes Modelling of Meteorology and Atmospheric Composition">
+<span title="University researcher at Univ Helsinki, Institute for Atmospheric and Earth System Research (INAR). PhD, ResearcherUniversity of Helsinki."><strong>Alexander Mahura, PhD, Researcher, University of Helsinki</strong></span>
+<br />
+Climate Impacts * Earth System Modeling * Extreme Weather Events * Sustainable Cities * Weather Forecasting * Seamless Multi-scales and -processes Modelling of Meteorology and Atmospheric Composition * [More info (researcher profile)](https://researchportal.helsinki.fi/en/persons/alexander-mahura/) * [Research group](https://www.helsinki.fi/en/researchgroups/multi-scale-modelling)
+</div>

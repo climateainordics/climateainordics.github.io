@@ -21,7 +21,7 @@
 <option value="Bioinformatics">Bioinformatics (1)</option>
 <option value="Causal AI">Causal AI (1)</option>
 <option value="Cetacean Ecology">Cetacean Ecology (1)</option>
-<option value="Climate Impacts">Climate Impacts (97)</option>
+<option value="Climate Impacts">Climate Impacts (98)</option>
 <option value="Climate Modeling">Climate Modeling (125)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
 <option value="Computer Vision">Computer Vision (124)</option>
@@ -32,7 +32,7 @@
 <option value="Disaster Management">Disaster Management (1)</option>
 <option value="Drought">Drought (1)</option>
 <option value="Earth Observation">Earth Observation (155)</option>
-<option value="Earth System Modeling">Earth System Modeling (61)</option>
+<option value="Earth System Modeling">Earth System Modeling (62)</option>
 <option value="Ecosystem Monitoring and Modelling">Ecosystem Monitoring and Modelling (1)</option>
 <option value="Ecosystem Services">Ecosystem Services (1)</option>
 <option value="Ecosystem-based Adaptation">Ecosystem-based Adaptation (1)</option>
@@ -45,7 +45,7 @@
 <option value="Environmental and Ecological Statistics">Environmental and Ecological Statistics (1)</option>
 <option value="Explainable AI">Explainable AI (1)</option>
 <option value="Extreme Weather">Extreme Weather (2)</option>
-<option value="Extreme Weather Events">Extreme Weather Events (61)</option>
+<option value="Extreme Weather Events">Extreme Weather Events (62)</option>
 <option value="Fluid Dynamics">Fluid Dynamics (1)</option>
 <option value="Food Microbiology">Food Microbiology (1)</option>
 <option value="Forest">Forest (1)</option>
@@ -86,6 +86,7 @@
 <option value="Remote Sensing">Remote Sensing (2)</option>
 <option value="Representation Learning From Biological Time Series">Representation Learning From Biological Time Series (1)</option>
 <option value="Satellite Remote Sensing">Satellite Remote Sensing (1)</option>
+<option value="Seamless Multi-scales and -processes Modelling of Meteorology and Atmospheric Composition">Seamless Multi-scales and -processes Modelling of Meteorology and Atmospheric Composition (1)</option>
 <option value="Simulation-based Inference">Simulation-based Inference (1)</option>
 <option value="Solar Energy">Solar Energy (1)</option>
 <option value="Soundscape Analysis">Soundscape Analysis (29)</option>
@@ -95,7 +96,7 @@
 <option value="Stochastic Hydrology">Stochastic Hydrology (1)</option>
 <option value="Stochastic Modelling and Distributions">Stochastic Modelling and Distributions (1)</option>
 <option value="Sustainability Science">Sustainability Science (1)</option>
-<option value="Sustainable Cities">Sustainable Cities (81)</option>
+<option value="Sustainable Cities">Sustainable Cities (82)</option>
 <option value="Sustainable Energy">Sustainable Energy (31)</option>
 <option value="Sustainable Heating">Sustainable Heating (1)</option>
 <option value="Sustainable Materials">Sustainable Materials (1)</option>
@@ -113,7 +114,7 @@
 <option value="Use of Weather and Climate Data Outside of Academia">Use of Weather and Climate Data Outside of Academia (1)</option>
 <option value="Visual Analytics">Visual Analytics (1)</option>
 <option value="Visualization">Visualization (1)</option>
-<option value="Weather Forecasting">Weather Forecasting (43)</option>
+<option value="Weather Forecasting">Weather Forecasting (44)</option>
 <option value="Wildfire Growth Forecasting">Wildfire Growth Forecasting (1)</option>
 <option value="Wind Energy">Wind Energy (22)</option></select>
 
