@@ -1302,16 +1302,16 @@ Biodiversity * Deep Learning * Machine Learning * Marine Ecology * Soundscape An
 Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Extreme Weather Events * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://bit.ly/deanna-yi-nam-xu) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=8l0Tw60AAAAJ)
 </div>
 
-<div class="content" markdown="1" data-tags="Biodiversity; Sustainable Agriculture">
-<span title="IndustryArla Foods."><strong>Samuel Phipps, Industry, Arla Foods</strong></span>
-<br />
-Biodiversity; Sustainable Agriculture * [More info (researcher profile)](https://www.linkedin.com/in/samuel-phipps/)
-</div>
-
 <div class="content" markdown="1" data-tags="">
 <span title="PhD StudentRISE Research Institutes of Sweden."><strong>Klas Segeljakt, PhD Student, RISE Research Institutes of Sweden</strong></span>
 <br />
 [More info (researcher profile)](https://segeljakt.tilda.ws/) * [Publications (Scholar)](https://scholar.google.se/citations?user=k4bVwsIAAAAJ&amp;hl=en)
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity; Sustainable Agriculture">
+<span title="IndustryArla Foods."><strong>Samuel Phipps, Industry, Arla Foods</strong></span>
+<br />
+Biodiversity; Sustainable Agriculture * [More info (researcher profile)](https://www.linkedin.com/in/samuel-phipps/)
 </div>
 
 <div class="content" markdown="1" data-tags="AutoML,Climate Impacts,Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning,NLP,Sustainable Energy">
