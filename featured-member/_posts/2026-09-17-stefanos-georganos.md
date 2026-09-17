@@ -5,7 +5,7 @@ image_width: 60%
 layout: single
 people:
 - Stefanos Georganos
-summary: Stefanos Georganos is an associate professor in Geomatics at Karlstad University, Sweden and affiliated with the Free University of Brussels, Belgium. He works on the intersection between remote sensing, machine learning, and urban geography. 
+summary: Stefanos Georganos is an associate professor in Geomatics at Karlstad University, Sweden and affiliated with the Free University of Brussels, Belgium. He works at the intersection of remote sensing, machine learning, and urban geography. 
 title: 'Featured member, September 2026: Stefanos Georganos'
 ---
 
