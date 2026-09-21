@@ -1,16 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,Weather Forecasting">
-<span title="I am a Professor at the Department of Mathematics and Statistics at UiT The Arctic University of Norway, and a senior researcher at NORCE Norwegian Research Centre. My research interests lie at the intersection between machine learning, dynamical systems, and complex networks. I apply my research mostly in remote sensing, climate, and energy analytics. ProfessorUiT The Arctic University of Norway."><strong>Filippo Maria Bianchi, Professor, UiT The Arctic University of Norway</strong></span>
-<br />
-Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://sites.google.com/view/filippombianchi/home) * [Research group](https://ngmlgroup.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=yb7cT1MAAAAJ&amp;hl=en)
-</div>
-
-<div class="content" markdown="1" data-tags="Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,Weather Forecasting">
-<span title="PhD, ResearcherNORCE."><strong>Jakob Grahn, PhD, Researcher, NORCE</strong></span>
-<br />
-Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://www.norceresearch.no/en/persons/jakob-grahn/2177) * [Research group](https://www.norceresearch.no/en/research-group/jordobservasjon) * [ORCID](https://orcid.org/0000-0003-2575-9075)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Impacts,Earth System Modeling,Extreme Weather Events,Sustainable Cities,Weather Forecasting,Seamless Multi-scales and -processes Modelling of Meteorology and Atmospheric Composition">
 <span title="University researcher at Univ Helsinki, Institute for Atmospheric and Earth System Research (INAR). PhD, ResearcherUniversity of Helsinki."><strong>Alexander Mahura, PhD, Researcher, University of Helsinki</strong></span>
 <br />
@@ -238,6 +226,12 @@ Climate Impacts * Climate Modeling * Deep Learning * Earth System Modeling * Ext
 <span title="background on computer science and AI, interested in AI for atmospheric science. Associate ProfessorLappeenranta-Lahti University of Technology."><strong>Zhi-Song Liu, Associate Professor, Lappeenranta-Lahti University of Technology</strong></span>
 <br />
 Climate Modeling * Computer Vision * Deep Learning * Extreme Weather Events * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://holmes-alan.github.io/) * [Research group](https://amc-lahti.fi/) * [Publications (Scholar)](https://scholar.google.com/citations?user=3vm7iAwAAAAJ&amp;hl) * [ORCID](https://orcid.org/0000-0003-4507-3097)
+</div>
+
+<div class="content" markdown="1" data-tags="Computer Vision,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,Weather Forecasting">
+<span title="I am a Professor at the Department of Mathematics and Statistics at UiT The Arctic University of Norway, and a senior researcher at NORCE Norwegian Research Centre. My research interests lie at the intersection between machine learning, dynamical systems, and complex networks. I apply my research mostly in remote sensing, climate, and energy analytics. ProfessorUiT The Arctic University of Norway."><strong>Filippo Maria Bianchi, Professor, UiT The Arctic University of Norway</strong></span>
+<br />
+Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://sites.google.com/view/filippombianchi/home) * [Research group](https://ngmlgroup.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?user=yb7cT1MAAAAJ&amp;hl=en)
 </div>
 
 <div class="content" markdown="1" data-tags="">
@@ -838,6 +832,12 @@ Climate Impacts * Climate Modeling * Deep Learning * Earth System Modeling * Ext
 <span title="Assistant ProfessorAalto University."><strong>Kyle Gao, Assistant Professor, Aalto University</strong></span>
 <br />
 Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Machine Learning * NLP * [More info (researcher profile)](https://kyle-gao.github.io/) * [Research group](https://www.aalto.fi/en/people/kyle-gao) * [Publications (Scholar)](https://scholar.google.com/citations?user=F-NPRk0AAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-8320-6308)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,Weather Forecasting">
+<span title="PhD, ResearcherNORCE."><strong>Jakob Grahn, PhD, Researcher, NORCE</strong></span>
+<br />
+Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://www.norceresearch.no/en/persons/jakob-grahn/2177) * [Research group](https://www.norceresearch.no/en/research-group/jordobservasjon) * [ORCID](https://orcid.org/0000-0003-2575-9075)
 </div>
 
 <div class="content" markdown="1" data-tags="">
