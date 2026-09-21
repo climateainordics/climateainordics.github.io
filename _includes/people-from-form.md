@@ -23,6 +23,12 @@ Climate Impacts * Earth System Modeling * Extreme Weather Events * Sustainable C
 Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling * Extreme Weather Events * Machine Learning * Marine Ecology * NLP * Soundscape Analysis * Sustainable Cities * Sustainable Transport * Urban Planning * Weather Forecasting * Wind Energy * Digital Twins of The Earth * Digital Twins of The Ocean and Water * [More info (researcher profile)](https://www.sintef.no/en/all-employees/employee/arne.j.berre/) * [Research group](https://www.sintef.no/en/digital/departments/sustainable-communication-technologies/smart-data/) * [Publications (Scholar)](https://scholar.google.com/citations?user=j-rZV5QAAAAJ&amp;hl=no) * [ORCID](https://orcid.org/0000-0001-9766-4441)
 </div>
 
+<div class="content" markdown="1" data-tags="Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,NLP,Sustainable Energy,Weather Forecasting">
+<span title="PhD StudentUiT The Arctic University of Norway."><strong>Andrea Federici, PhD Student, UiT The Arctic University of Norway</strong></span>
+<br />
+Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * NLP * Sustainable Energy * Weather Forecasting * [Research group](https://ngmlgroup.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=QtbZpBcAAAAJ) * [ORCID](https://orcid.org/0009-0002-8951-5491)
+</div>
+
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -1308,16 +1314,16 @@ Biodiversity * Deep Learning * Machine Learning * Marine Ecology * Soundscape An
 Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Extreme Weather Events * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://bit.ly/deanna-yi-nam-xu) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=8l0Tw60AAAAJ)
 </div>
 
-<div class="content" markdown="1" data-tags="">
-<span title="PhD StudentRISE Research Institutes of Sweden."><strong>Klas Segeljakt, PhD Student, RISE Research Institutes of Sweden</strong></span>
-<br />
-[More info (researcher profile)](https://segeljakt.tilda.ws/) * [Publications (Scholar)](https://scholar.google.se/citations?user=k4bVwsIAAAAJ&amp;hl=en)
-</div>
-
 <div class="content" markdown="1" data-tags="Biodiversity; Sustainable Agriculture">
 <span title="IndustryArla Foods."><strong>Samuel Phipps, Industry, Arla Foods</strong></span>
 <br />
 Biodiversity; Sustainable Agriculture * [More info (researcher profile)](https://www.linkedin.com/in/samuel-phipps/)
+</div>
+
+<div class="content" markdown="1" data-tags="">
+<span title="PhD StudentRISE Research Institutes of Sweden."><strong>Klas Segeljakt, PhD Student, RISE Research Institutes of Sweden</strong></span>
+<br />
+[More info (researcher profile)](https://segeljakt.tilda.ws/) * [Publications (Scholar)](https://scholar.google.se/citations?user=k4bVwsIAAAAJ&amp;hl=en)
 </div>
 
 <div class="content" markdown="1" data-tags="AutoML,Climate Impacts,Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning,NLP,Sustainable Energy">
