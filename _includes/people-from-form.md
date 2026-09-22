@@ -2028,3 +2028,9 @@ AutoML * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * D
 <br />
 Climate Modeling * Earth Observation * [More info (researcher profile)](https://www.researchgate.net/profile/Edvin-Dannaes)
 </div>
+
+<div class="content" markdown="1" data-tags="AutoML,Biodiversity,Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,NLP">
+<span title="I am an applied researcher and engineer interested in AI for climate and AI for healthcare. I hold a Master&#x27;s in Computer Science from UC San Diego. I am a problem solver at heart, and I enjoy learning whatever methods and techniques are needed to investigate a problem, build effective solutions, and translate research into real-world impact. Researcher."><strong>Sukhada Ghewari, Researcher</strong></span>
+<br />
+AutoML * Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * NLP * [Publications (Scholar)](https://scholar.google.com/citations?user=oeQF_3gAAAAJ) * [BlueSky](https://bsky.app/profile/sukhada.bsky.social)
+</div>
