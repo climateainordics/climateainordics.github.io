@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Climate Impacts,Earth System Modeling,Extreme Weather Events,Sustainable Cities,Weather Forecasting,Seamless Multi-scales and -processes Modelling of Meteorology and Atmospheric Composition">
-<span title="University researcher at Univ Helsinki, Institute for Atmospheric and Earth System Research (INAR). PhD, ResearcherUniversity of Helsinki."><strong>Alexander Mahura, PhD, Researcher, University of Helsinki</strong></span>
-<br />
-Climate Impacts * Earth System Modeling * Extreme Weather Events * Sustainable Cities * Weather Forecasting * Seamless Multi-scales and -processes Modelling of Meteorology and Atmospheric Composition * [More info (researcher profile)](https://researchportal.helsinki.fi/en/persons/alexander-mahura/) * [Research group](https://www.helsinki.fi/en/researchgroups/multi-scale-modelling)
-</div>
-
 <div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Earth Observation,Earth System Modeling,Extreme Weather Events,Machine Learning,Marine Ecology,NLP,Soundscape Analysis,Sustainable Cities,Sustainable Transport,Urban Planning,Weather Forecasting,Wind Energy,Digital Twins of The Earth,Digital Twins of The Ocean and Water">
 <span title="PhD, ResearcherSINTEF."><strong>Arne Berre, PhD, Researcher, SINTEF</strong></span>
 <br />
@@ -838,6 +832,12 @@ Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observa
 <span title="PhD, ResearcherNORCE."><strong>Jakob Grahn, PhD, Researcher, NORCE</strong></span>
 <br />
 Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * Weather Forecasting * [More info (researcher profile)](https://www.norceresearch.no/en/persons/jakob-grahn/2177) * [Research group](https://www.norceresearch.no/en/research-group/jordobservasjon) * [ORCID](https://orcid.org/0000-0003-2575-9075)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Earth System Modeling,Extreme Weather Events,Sustainable Cities,Weather Forecasting,Seamless Multi-scales and -processes Modelling of Meteorology and Atmospheric Composition">
+<span title="University researcher at Univ Helsinki, Institute for Atmospheric and Earth System Research (INAR). PhD, ResearcherUniversity of Helsinki."><strong>Alexander Mahura, PhD, Researcher, University of Helsinki</strong></span>
+<br />
+Climate Impacts * Earth System Modeling * Extreme Weather Events * Sustainable Cities * Weather Forecasting * Seamless Multi-scales and -processes Modelling of Meteorology and Atmospheric Composition * [More info (researcher profile)](https://researchportal.helsinki.fi/en/persons/alexander-mahura/) * [Research group](https://www.helsinki.fi/en/researchgroups/multi-scale-modelling)
 </div>
 
 <div class="content" markdown="1" data-tags="">
