@@ -3,7 +3,7 @@ title: "PhD Research Fellow in Climate Data Analysis and Machine Learning Emulat
 summary: "The University of Bergen is recruiting a PhD Research Fellow in Climate Data Analysis and Machine Learning Emulation of Hydrological Models to develop an AI-based hydrological model for analyzing unprecedented and compound extreme climate events within the DYNAMIC-AI project."
 people:
 permalink:
-image: /images/external-organizations-logos/university-of-bergen.png
+image: /images/external-organizations-logos/uib.png
 youtube: ""
 deadline: September 30th, 2026
 ---
