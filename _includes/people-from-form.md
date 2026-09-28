@@ -1,10 +1,3 @@
-## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,NLP,Sustainable Energy,Weather Forecasting">
-<span title="PhD StudentUiT The Arctic University of Norway."><strong>Andrea Federici, PhD Student, UiT The Arctic University of Norway</strong></span>
-<br />
-Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * NLP * Sustainable Energy * Weather Forecasting * [Research group](https://ngmlgroup.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=QtbZpBcAAAAJ) * [ORCID](https://orcid.org/0009-0002-8951-5491)
-</div>
-
 ## Affiliates
 <div class="content" markdown="1" data-tags="">
 <span title="Joakim is Professor of Computational Linguistics at Uppsala University. His research deals primarily with grammatical analysis, studying how we can analyze typologically different languages in a uniform way within the Universal Dependencies project, and how we can develop better computational models for automatic analysis within this framework. His teaching is mostly associated with the international Master&#x27;s Program in Language Technology. Joakim is also a co-PI of climes, the Swedish Centre for Impacts of Climate Extremes. ProfessorUppsala University."><strong>Joakim Nivre, Professor, Uppsala University</strong></span>
@@ -1384,6 +1377,12 @@ Bayesian Optimisation * Computer Vision * Deep Learning * Earth Observation * Ea
 <span title="Student."><strong>Parna Saeidpour, Student</strong></span>
 <br />
 Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * [More info (researcher profile)](https://www.linkedin.com/in/parna-saeidpour-185a4652/)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,NLP,Sustainable Energy,Weather Forecasting">
+<span title="PhD StudentUiT The Arctic University of Norway."><strong>Andrea Federici, PhD Student, UiT The Arctic University of Norway</strong></span>
+<br />
+Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * NLP * Sustainable Energy * Weather Forecasting * [Research group](https://ngmlgroup.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=QtbZpBcAAAAJ) * [ORCID](https://orcid.org/0009-0002-8951-5491)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
