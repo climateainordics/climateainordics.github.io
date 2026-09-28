@@ -3,7 +3,7 @@ title: "Intern for WWF's Data & AI Team"
 summary: "WWF Sweden is seeking an Intern for its Data & AI Team to explore how artificial intelligence can responsibly support an environmental organization's objectives, focusing on digital transformation, data-driven approaches, and implementing AI tools for efficiency and nature conservation benefits."
 people:
 permalink:
-image: /images/external-organizations-logos/wwf-sweden.png
+image: /images/external-organizations-logos/wwf.png
 youtube: ""
 deadline: October 12th, 2026
 ---
