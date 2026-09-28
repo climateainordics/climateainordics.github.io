@@ -3,7 +3,7 @@ title: "Fully funded PhD fellowship in Resource Efficiency for Generative AI"
 summary: "The University of Copenhagen is offering a fully funded PhD fellowship in Resource Efficiency for Generative AI to research and develop more efficient, sustainable, and accessible AI systems, focusing on reducing the computational and energy resources required for Large Language Models."
 people:
 permalink:
-image: /images/external-organizations-logos/university-of-copenhagen.png
+image: /images/external-organizations-logos/ku.png
 youtube: ""
 deadline: October 10th, 2026
 ---
