@@ -1,10 +1,4 @@
 ## Affiliates - Recently Joined
-<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Earth Observation,Earth System Modeling,Extreme Weather Events,Machine Learning,Marine Ecology,NLP,Soundscape Analysis,Sustainable Cities,Sustainable Transport,Urban Planning,Weather Forecasting,Wind Energy,Digital Twins of The Earth,Digital Twins of The Ocean and Water">
-<span title="PhD, ResearcherSINTEF."><strong>Arne Berre, PhD, Researcher, SINTEF</strong></span>
-<br />
-Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling * Extreme Weather Events * Machine Learning * Marine Ecology * NLP * Soundscape Analysis * Sustainable Cities * Sustainable Transport * Urban Planning * Weather Forecasting * Wind Energy * Digital Twins of The Earth * Digital Twins of The Ocean and Water * [More info (researcher profile)](https://www.sintef.no/en/all-employees/employee/arne.j.berre/) * [Research group](https://www.sintef.no/en/digital/departments/sustainable-communication-technologies/smart-data/) * [Publications (Scholar)](https://scholar.google.com/citations?user=j-rZV5QAAAAJ&amp;hl=no) * [ORCID](https://orcid.org/0000-0001-9766-4441)
-</div>
-
 <div class="content" markdown="1" data-tags="Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,NLP,Sustainable Energy,Weather Forecasting">
 <span title="PhD StudentUiT The Arctic University of Norway."><strong>Andrea Federici, PhD Student, UiT The Arctic University of Norway</strong></span>
 <br />
@@ -838,6 +832,12 @@ Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Extreme 
 <span title="University researcher at Univ Helsinki, Institute for Atmospheric and Earth System Research (INAR). PhD, ResearcherUniversity of Helsinki."><strong>Alexander Mahura, PhD, Researcher, University of Helsinki</strong></span>
 <br />
 Climate Impacts * Earth System Modeling * Extreme Weather Events * Sustainable Cities * Weather Forecasting * Seamless Multi-scales and -processes Modelling of Meteorology and Atmospheric Composition * [More info (researcher profile)](https://researchportal.helsinki.fi/en/persons/alexander-mahura/) * [Research group](https://www.helsinki.fi/en/researchgroups/multi-scale-modelling)
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Earth Observation,Earth System Modeling,Extreme Weather Events,Machine Learning,Marine Ecology,NLP,Soundscape Analysis,Sustainable Cities,Sustainable Transport,Urban Planning,Weather Forecasting,Wind Energy,Digital Twins of The Earth,Digital Twins of The Ocean and Water">
+<span title="PhD, ResearcherSINTEF."><strong>Arne Berre, PhD, Researcher, SINTEF</strong></span>
+<br />
+Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Earth System Modeling * Extreme Weather Events * Machine Learning * Marine Ecology * NLP * Soundscape Analysis * Sustainable Cities * Sustainable Transport * Urban Planning * Weather Forecasting * Wind Energy * Digital Twins of The Earth * Digital Twins of The Ocean and Water * [More info (researcher profile)](https://www.sintef.no/en/all-employees/employee/arne.j.berre/) * [Research group](https://www.sintef.no/en/digital/departments/sustainable-communication-technologies/smart-data/) * [Publications (Scholar)](https://scholar.google.com/citations?user=j-rZV5QAAAAJ&amp;hl=no) * [ORCID](https://orcid.org/0000-0001-9766-4441)
 </div>
 
 <div class="content" markdown="1" data-tags="">
