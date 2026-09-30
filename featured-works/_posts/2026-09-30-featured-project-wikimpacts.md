@@ -8,7 +8,7 @@ summary: Wikimpacts 1.0 is an open-access global database of extreme climate eve
 title: 'Featured project: Wikimpacts - Automated global climate impact database'
 ---
 
-**Authors:** Ni Li, Wim Thiery, Shorouq Zahra, Mariana Madruga de Brito, Koffi Worou, Murathan Kurfalı, Seppe Lampe, Paul Muñoz, Clare Flynn, Camila Trigoso, Joakim Nivre, Jakob Zscheischler, and Gabriele Messori
+**Authors:** Ni Li, Wim Thiery, *Shorouq Zahra*, Mariana Madruga de Brito, Koffi Worou, *Murathan Kurfalı*, Seppe Lampe, Paul Muñoz, Clare Flynn, Camila Trigoso, *Joakim Nivre*, Jakob Zscheischler, and *Gabriele Messori*
 
 **Project website:** [https://www.wikimpacts.eu/](https://www.wikimpacts.eu/)  
 **Data repository:** [https://bolin.su.se/data/li-2025-wikimpacts-1.0.final](https://bolin.su.se/data/li-2025-wikimpacts-1.0.final)  
