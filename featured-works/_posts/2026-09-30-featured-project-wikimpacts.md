@@ -30,8 +30,6 @@ The resulting database contains:
 * **Multi-level spatial granularity**, including 17,912 national-level records and 32,343 sub-national (regional, county, and city) impact entries.
 * **Systematic impact indicators**, capturing fatalities, injuries, displaced persons, homelessness, damaged or destroyed buildings, and economic/insured losses.
 
-![](/images/posts/wikimpacts-img.png)
-
 # The NLP and LLM pipeline
 
 Extracting reliable tabular data from unstructured free-form text requires far more than just prompting an LLM. The Wikimpacts team designed a resilient multi-stage pipeline:
