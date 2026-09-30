@@ -17,13 +17,13 @@ title: 'Featured project: Wikimpacts - Automated global climate impact database'
 
 # The climate impact data gap
 
-Understanding the socioeconomic damage caused by climate extremes—such as storms, floods, heatwaves, wildfires, and droughts—is essential for climate adaptation, loss-and-damage assessment, and disaster risk reduction. However, existing global disaster databases often suffer from significant geographical coverage gaps, reporting discrepancies, and limited spatial resolution. For instance, benchmark datasets frequently miss severe extreme events across regions such as Africa or Latin America, or report widely conflicting damage figures for the same event.
+Understanding the socioeconomic damage caused by climate extremes, such as storms, floods, heatwaves, wildfires, and droughts, is essential for climate adaptation, loss-and-damage assessment, and disaster risk reduction. However, existing global disaster databases often suffer from significant geographical coverage gaps, reporting discrepancies, and limited spatial resolution. For instance, benchmark datasets frequently miss severe extreme events across regions such as Africa or Latin America, or report widely conflicting damage figures for the same event.
 
 Traditionally, curating disaster impact records has required laborious manual human extraction from disaster reports and news articles, severely constraining how fast and comprehensively databases can be updated.
 
 # How Wikimpacts is solving it
 
-**Wikimpacts 1.0** tackles this bottleneck by utilizing Natural Language Processing (NLP) and Large Language Models (LLMs) to automatically extract, structure, and geocode disaster impact data from Wikipedia. The project is developed in collaboration with researchers **Murathan Kurfalı** and **Shorouq Zahra** from **RISE** (Research Institutes of Sweden), under the **CLIMES** Centre of Excellence (Centre of Excellence for Climate and Extreme Events)—a partner organisation to **Climate AI Nordics**.
+**Wikimpacts 1.0** tackles this bottleneck by utilizing Natural Language Processing (NLP) and Large Language Models (LLMs) to automatically extract, structure, and geocode disaster impact data from Wikipedia. Important contributions have been made by Climate AI Nordics researchers **Shorouq Zahra**, **Murathan Kurfalı**, **Joakim Nivre**, and **Gabriele Messori**, under **CLIMES** (The Swedish Centre for Impacts of Climate Extremes), a [partner organisation to **Climate AI Nordics**](/partners/).
 
 The resulting database contains:
 * **2,726 extreme climate events** spanning historical records from 1034 to 2024.
