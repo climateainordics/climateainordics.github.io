@@ -1361,6 +1361,12 @@ Biodiversity * Climate Impacts * Climate Modeling * Earth Observation
 AutoML * Bayesian Optimisation * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * Marine Ecology * NLP * Soundscape Analysis * Weather Forecasting * Wind Energy * [More info (researcher profile)](https://github.com/leolibe/master_thesis.git)
 </div>
 
+<div class="content" markdown="1" data-tags="Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Machine Learning,Sustainable Cities,Sustainable Energy,Wind Energy">
+<span title="I am a PhD candidate at NTNU’s Department of Geosciences, researching geothermal energy applications for the Nordic region. Originally from Poland and currently based in Trondheim, Norway, I am a GIS and cartography enthusiast driven by a deep focus on climate action. My work is particularly shaped by a passion for the Arctic and a close interest in the rapid environmental changes facing the polar cryosphere. PhD StudentNTNU."><strong>Jakub Rozmus, PhD Student, NTNU</strong></span>
+<br />
+Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * Sustainable Energy * Wind Energy * [More info (researcher profile)](https://www.linkedin.com/in/jakubrozmus/) * [Research group](https://www.ntnu.edu/igv/research-engineering-geology) * [Publications (Scholar)](https://scholar.google.com/citations?user=irxpKJUAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-0753-9362)
+</div>
+
 <div class="content" markdown="1" data-tags="Biodiversity,Deep Learning,Earth Observation,Machine Learning">
 <span title="PhD StudentUppsala University."><strong>Adrian Baggström, PhD Student, Uppsala University</strong></span>
 <br />
@@ -1379,10 +1385,22 @@ Bayesian Optimisation * Computer Vision * Deep Learning * Earth Observation * Ea
 Computer Vision * Deep Learning * Efficient or Sustainable AI * Machine Learning * [More info (researcher profile)](https://www.linkedin.com/in/parna-saeidpour-185a4652/)
 </div>
 
+<div class="content" markdown="1" data-tags="AutoML,Biodiversity,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Efficient or Sustainable AI,Machine Learning,Marine Ecology,Wind Energy">
+<span title="I&#x27;m a Senior Deep Learning Engineer at Qualcomm in Linköping, where I build models for image and LiDAR data using foundation models, transfer learning, and self-supervised embeddings. I hold an MSc in Data Science and AI from Chalmers. Alongside my industry work, I&#x27;ve spent the last four years applying AI to ecology. My master&#x27;s thesis developed real-time tracking and pose estimation of guillemots with AI Sweden and SLU, published in Remote Sensing in Ecology and Conservation. I still work as a data engineer for SLU&#x27;s Stora Karlsö seabird research station, and volunteer with bird ringing, species inventories, and invasive plant removal. I&#x27;m now looking to move fully into applying AI to nature and climate work, and joined to connect with others doing the same across the Nordics. IndustryQualcomm."><strong>Shreyash Kad, Industry, Qualcomm</strong></span>
+<br />
+AutoML * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Efficient or Sustainable AI * Machine Learning * Marine Ecology * Wind Energy
+</div>
+
 <div class="content" markdown="1" data-tags="Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Extreme Weather Events,Machine Learning,NLP,Sustainable Energy,Weather Forecasting">
 <span title="PhD StudentUiT The Arctic University of Norway."><strong>Andrea Federici, PhD Student, UiT The Arctic University of Norway</strong></span>
 <br />
 Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Extreme Weather Events * Machine Learning * NLP * Sustainable Energy * Weather Forecasting * [Research group](https://ngmlgroup.github.io/) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=QtbZpBcAAAAJ) * [ORCID](https://orcid.org/0009-0002-8951-5491)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Modeling,Earth Observation">
+<span title="ResearcherSINTEF Energy Research."><strong>Edvin Dannäs, Researcher, SINTEF Energy Research</strong></span>
+<br />
+Climate Modeling * Earth Observation * [More info (researcher profile)](https://www.researchgate.net/profile/Edvin-Dannaes)
 </div>
 
 ## Supporting Affiliates (Outside Nordics)
@@ -1926,12 +1944,6 @@ Climate Impacts * Climate Modeling * Efficient or Sustainable AI * Sustainable C
 Bayesian Optimisation * Climate Impacts * Computer Vision * Extreme Weather Events * Environmental Cognition * [More info (researcher profile)](https://www.daylightandtime.com) * [Research group](https://www.daylightandtime.com) * [Publications (Scholar)](https://scholar.google.co.uk/citations?user=fYqfyJIAAAAJ&amp;hl=en&amp;oi=ao)
 </div>
 
-<div class="content" markdown="1" data-tags="Climate Modeling,Deep Learning,Earth Observation,Earth System Modeling,Efficient or Sustainable AI,Machine Learning,Sustainable Cities,Sustainable Energy,Wind Energy">
-<span title="I am a PhD candidate at NTNU’s Department of Geosciences, researching geothermal energy applications for the Nordic region. Originally from Poland and currently based in Trondheim, Norway, I am a GIS and cartography enthusiast driven by a deep focus on climate action. My work is particularly shaped by a passion for the Arctic and a close interest in the rapid environmental changes facing the polar cryosphere. PhD StudentNTNU."><strong>Jakub Rozmus, PhD Student, NTNU</strong></span>
-<br />
-Climate Modeling * Deep Learning * Earth Observation * Earth System Modeling * Efficient or Sustainable AI * Machine Learning * Sustainable Cities * Sustainable Energy * Wind Energy * [More info (researcher profile)](https://www.linkedin.com/in/jakubrozmus/) * [Research group](https://www.ntnu.edu/igv/research-engineering-geology) * [Publications (Scholar)](https://scholar.google.com/citations?user=irxpKJUAAAAJ&amp;hl=en) * [ORCID](https://orcid.org/0000-0002-0753-9362)
-</div>
-
 <div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Machine Learning,NLP,Agriculture">
 <span title="Hi there! 👋 I’m Alice, a Swedish computer science student at Stanford University specializing in CS for Human and Planetary Health. My work involves developing AI satellite and remote sensing models for forest- and agricultural applications. Together with the Natural Capital Project I’ve helped optimize reforestation projects in Brazil, and together with Google DeepMind scaling agricultural insights for Indian farmers. I’m deeply committed to using AI to accelerate climate science and adaptation, where technology, community, policy, and entrepreneurship work together. Happy to chat about ML, reading nature’s signs, bouldering, biking, reading, and more!. StudentStanford University."><strong>Alice Heiman, Student, Stanford University</strong></span>
 <br />
@@ -1963,7 +1975,7 @@ Bayesian Optimisation * Biodiversity * Climate Impacts * Deep Learning * Earth O
 </div>
 
 <div class="content" markdown="1" data-tags="AutoML,Bayesian Optimisation,Biodiversity,Climate Modeling,Computer Vision,Deep Learning,Efficient or Sustainable AI,NLP,Soundscape Analysis,Sustainable Cities,Sustainable Energy,Sustainable Production,Sustainable Transport,Urban Planning,Weather Forecasting">
-<span title="ResearcherLovely Professional University."><strong>JIBY MARIYA JOSE, Researcher, Lovely Professional University</strong></span>
+<span title="ResearcherLovely Professional University."><strong>Jiby Mariya Jose, Researcher, Lovely Professional University</strong></span>
 <br />
 AutoML * Bayesian Optimisation * Biodiversity * Climate Modeling * Computer Vision * Deep Learning * Efficient or Sustainable AI * NLP * Soundscape Analysis * Sustainable Cities * Sustainable Energy * Sustainable Production * Sustainable Transport * Urban Planning * Weather Forecasting * [ORCID](https://orcid.org/0000-0003-4572-2966)
 </div>
@@ -2014,18 +2026,6 @@ Computer Vision * Deep Learning * Earth Observation * [More info (researcher pro
 <span title="Associate ProfessorYonsei University."><strong>HAEGON JEON JEON, Associate Professor, Yonsei University</strong></span>
 <br />
 Computer Vision * Weather Forecasting * [More info (researcher profile)](https://sites.google.com/site/hgjeoncv/) * [Research group](https://sites.google.com/site/hgjeoncv/) * [Publications (Scholar)](https://scholar.google.co.kr/citations?hl=ko&amp;pli=1&amp;user=Ei00xroAAAAJ)
-</div>
-
-<div class="content" markdown="1" data-tags="AutoML,Biodiversity,Climate Impacts,Climate Modeling,Computer Vision,Deep Learning,Earth Observation,Efficient or Sustainable AI,Machine Learning,Marine Ecology,Wind Energy">
-<span title="I&#x27;m a Senior Deep Learning Engineer at Qualcomm in Linköping, where I build models for image and LiDAR data using foundation models, transfer learning, and self-supervised embeddings. I hold an MSc in Data Science and AI from Chalmers. Alongside my industry work, I&#x27;ve spent the last four years applying AI to ecology. My master&#x27;s thesis developed real-time tracking and pose estimation of guillemots with AI Sweden and SLU, published in Remote Sensing in Ecology and Conservation. I still work as a data engineer for SLU&#x27;s Stora Karlsö seabird research station, and volunteer with bird ringing, species inventories, and invasive plant removal. I&#x27;m now looking to move fully into applying AI to nature and climate work, and joined to connect with others doing the same across the Nordics. Industry."><strong>Shreyash Kad, Industry</strong></span>
-<br />
-AutoML * Biodiversity * Climate Impacts * Climate Modeling * Computer Vision * Deep Learning * Earth Observation * Efficient or Sustainable AI * Machine Learning * Marine Ecology * Wind Energy
-</div>
-
-<div class="content" markdown="1" data-tags="Climate Modeling,Earth Observation">
-<span title="ResearcherSINTEF Energy Research."><strong>Edvin Dannäs, Researcher, SINTEF Energy Research</strong></span>
-<br />
-Climate Modeling * Earth Observation * [More info (researcher profile)](https://www.researchgate.net/profile/Edvin-Dannaes)
 </div>
 
 <div class="content" markdown="1" data-tags="AutoML,Biodiversity,Climate Impacts,Computer Vision,Deep Learning,Earth Observation,Extreme Weather Events,Machine Learning,NLP">
