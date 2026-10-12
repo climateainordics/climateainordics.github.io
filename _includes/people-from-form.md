@@ -1307,16 +1307,16 @@ Biodiversity * Deep Learning * Machine Learning * Marine Ecology * Soundscape An
 Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Extreme Weather Events * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://bit.ly/deanna-yi-nam-xu) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=8l0Tw60AAAAJ)
 </div>
 
-<div class="content" markdown="1" data-tags="">
-<span title="PhD StudentRISE Research Institutes of Sweden."><strong>Klas Segeljakt, PhD Student, RISE Research Institutes of Sweden</strong></span>
-<br />
-[More info (researcher profile)](https://segeljakt.tilda.ws/) * [Publications (Scholar)](https://scholar.google.se/citations?user=k4bVwsIAAAAJ&amp;hl=en)
-</div>
-
 <div class="content" markdown="1" data-tags="Biodiversity; Sustainable Agriculture">
 <span title="IndustryArla Foods."><strong>Samuel Phipps, Industry, Arla Foods</strong></span>
 <br />
 Biodiversity; Sustainable Agriculture * [More info (researcher profile)](https://www.linkedin.com/in/samuel-phipps/)
+</div>
+
+<div class="content" markdown="1" data-tags="">
+<span title="PhD StudentRISE Research Institutes of Sweden."><strong>Klas Segeljakt, PhD Student, RISE Research Institutes of Sweden</strong></span>
+<br />
+[More info (researcher profile)](https://segeljakt.tilda.ws/) * [Publications (Scholar)](https://scholar.google.se/citations?user=k4bVwsIAAAAJ&amp;hl=en)
 </div>
 
 <div class="content" markdown="1" data-tags="AutoML,Climate Impacts,Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning,NLP,Sustainable Energy">
@@ -2032,4 +2032,10 @@ Computer Vision * Weather Forecasting * [More info (researcher profile)](https:/
 <span title="I am an applied researcher and engineer interested in AI for climate and AI for healthcare. I hold a Master&#x27;s in Computer Science from UC San Diego. I am a problem solver at heart, and I enjoy learning whatever methods and techniques are needed to investigate a problem, build effective solutions, and translate research into real-world impact. Researcher."><strong>Sukhada Ghewari, Researcher</strong></span>
 <br />
 AutoML * Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Earth Observation * Extreme Weather Events * Machine Learning * NLP * [Publications (Scholar)](https://scholar.google.com/citations?user=oeQF_3gAAAAJ) * [BlueSky](https://bsky.app/profile/sukhada.bsky.social)
+</div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Weather Forecasting">
+<span title="I am passionate about working on impacts of compound climate extremes using AI. PhD StudentChinese Academy of Science."><strong>Abebe Kiflie Kabtih, PhD Student, Chinese Academy of Science</strong></span>
+<br />
+Climate Impacts * Climate Modeling * Weather Forecasting * [Publications (Scholar)](https://scholar.google.com/citations?user=1yGqFMcAAAAJ&amp;hl=en)
 </div>

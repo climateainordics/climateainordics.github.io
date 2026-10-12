@@ -21,8 +21,8 @@
 <option value="Bioinformatics">Bioinformatics (1)</option>
 <option value="Causal AI">Causal AI (1)</option>
 <option value="Cetacean Ecology">Cetacean Ecology (1)</option>
-<option value="Climate Impacts">Climate Impacts (100)</option>
-<option value="Climate Modeling">Climate Modeling (128)</option>
+<option value="Climate Impacts">Climate Impacts (101)</option>
+<option value="Climate Modeling">Climate Modeling (129)</option>
 <option value="Climate Policy">Climate Policy (1)</option>
 <option value="Computer Vision">Computer Vision (126)</option>
 <option value="Conservation Policy">Conservation Policy (1)</option>
@@ -116,7 +116,7 @@
 <option value="Use of Weather and Climate Data Outside of Academia">Use of Weather and Climate Data Outside of Academia (1)</option>
 <option value="Visual Analytics">Visual Analytics (1)</option>
 <option value="Visualization">Visualization (1)</option>
-<option value="Weather Forecasting">Weather Forecasting (46)</option>
+<option value="Weather Forecasting">Weather Forecasting (47)</option>
 <option value="Wildfire Growth Forecasting">Wildfire Growth Forecasting (1)</option>
 <option value="Wind Energy">Wind Energy (23)</option></select>
 
