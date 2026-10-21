@@ -1,6 +1,6 @@
 ---
-image: /images/people/featured/MelisandeTeng.JPG
-image_small: /images/people/featured/MelisandeTeng.JPG
+image: /images/people/featured/MelisandeTeng.jpg
+image_small: /images/people/featured/MelisandeTeng.jpg
 image_width: 60%
 layout: single
 people:
