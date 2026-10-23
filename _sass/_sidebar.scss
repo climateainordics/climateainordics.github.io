@@ -38,7 +38,7 @@
 
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
-    font-family: $sans-serif-narrow;
+    font-family: $brand-display;
   }
 
   h3, h4 {
@@ -46,7 +46,7 @@
   }
 
   p, li {
-    font-family: $sans-serif;
+    font-family: $brand-sans;
     font-size: $type-size-6;
     line-height: 1.5;
   }
@@ -124,8 +124,10 @@
   }
 }
 .sidebar .author__name {
-  font-family: $sans-serif;
+  font-family: $brand-display;
   font-size: $type-size-5;
+  font-weight: 800;
+  color: $brand-dark;
 }
 
 .sidebar .author__desktop {
@@ -157,7 +159,7 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $sans-serif;
+  font-family: $brand-sans;
   z-index: 10;
   position: relative;
   cursor: pointer;
@@ -255,6 +257,67 @@
 
     &:hover {
       text-decoration: underline;
+    }
+  }
+}
+
+/*
+   Brand look (left sidebar on inner pages)
+   ========================================================================== */
+
+/* On phones and tablets the logo, bio and links duplicate the masthead and
+   footer, and only push the page content down, so the sidebar is hidden there. */
+@media screen and (max-width: #{$sidebar-screen-min-width - 1px}) {
+  .sidebar {
+    display: none;
+  }
+}
+
+.sidebar {
+  .author__avatar img {
+    max-width: 120px;
+    padding: 0;
+    border: 0;
+  }
+
+  .author__name {
+    margin-top: 0.8em;
+    margin-bottom: 0.4em;
+    line-height: 1.25;
+  }
+
+  .author__bio {
+    margin-top: 0;
+    margin-bottom: 1.4em;
+    color: $dark-gray;
+  }
+
+  .author__urls {
+    padding-top: 1.1em !important;
+    border-top: 1px solid $brand-light !important;
+
+    li {
+      margin-bottom: 0.15em;
+      color: $gray;
+    }
+
+    a {
+      color: $darker-gray;
+      font-size: 1em; // the <li> already sets the small size
+      font-weight: 500;
+
+      &:hover {
+        color: $brand-color;
+        text-decoration: none;
+      }
+    }
+
+    /* one calm brand colour for every icon instead of each network's own colour */
+    .fa, .fas, .fab, .fa-solid, .ai {
+      width: 1.25em;
+      margin-right: 0.5em;
+      color: $brand-color !important;
+      text-align: center;
     }
   }
 }
