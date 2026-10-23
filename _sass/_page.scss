@@ -14,6 +14,12 @@
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
+
+  /* the sidebar is position: fixed on wide screens; keep short pages tall enough
+     that the footer doesn't slide over it */
+  @media screen and (min-width: $sidebar-screen-min-width) {
+    min-height: 36em;
+  }
 }
 
 .page {

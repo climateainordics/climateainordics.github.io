@@ -1,25 +1,40 @@
 {% include base_path %}
 
-{% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-    {% if site.author.github %}
-      <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
-    {% if site.author.bitbucket %}
-      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-    {% endif %}
-    {% if site.atom_feed.hide != true %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-    {% endif %}
-  </ul>
-</div>
-{% endif %}
+<div class="site-footer">
+  <div class="site-footer__brand">
+    <a href="{{ base_path }}/" aria-label="{{ site.title }} home">
+      <img class="site-footer__logo" src="{{ base_path }}/images/climateainordics-logo-with-text-on-side-no-url-white-text-1200x600.png" alt="{{ site.title }}" width="220" height="110">
+    </a>
+    <p>{{ site.author.bio }}</p>
+    <a class="site-footer__join" href="{{ base_path }}/join/">Join the network</a>
+  </div>
 
-<div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
-  Site last updated {{ "now" | date: '%Y-%m-%d' %}}
+  <nav class="site-footer__col" aria-label="Footer">
+    <h2 class="site-footer__heading">Explore</h2>
+    <ul>
+      {% for link in site.data.navigation.main %}
+        <li><a href="{{ base_path }}{{ link.url }}">{{ link.title }}</a></li>
+      {% endfor %}
+      <li><a href="{{ base_path }}/featured-works/">Featured works</a></li>
+      <li><a href="{{ base_path }}/job-openings/">Job openings</a></li>
+      <li><a href="{{ base_path }}/newsletter/">Newsletter</a></li>
+    </ul>
+  </nav>
+
+  <div class="site-footer__col">
+    <h2 class="site-footer__heading">Get in touch</h2>
+    <ul>
+      {% if site.author.email %}<li><a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.author.email }}</a></li>{% endif %}
+      {% if site.author.linkedin %}<li><a href="{{ site.author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>{% endif %}
+      {% if site.author.bluesky %}<li><a href="https://bsky.app/profile/{{ site.author.bluesky }}"><i class="fab fa-fw fa-bluesky" aria-hidden="true"></i> Bluesky</a></li>{% endif %}
+      {% if site.author.youtube %}<li><a href="https://www.youtube.com/@{{ site.author.youtube }}"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a></li>{% endif %}
+      {% if site.author.github %}<li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>{% endif %}
+      {% if site.atom_feed.hide != true %}<li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fas fa-fw fa-rss" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>{% endif %}
+    </ul>
+  </div>
+</div>
+
+<div class="site-footer__bottom">
+  <span>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} · Non-profit association registered in Sweden</span>
+  <span><a href="{{ base_path }}/sitemap/">Sitemap</a> · Site last updated {{ "now" | date: '%Y-%m-%d' }} · Built with <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io" rel="nofollow">AcademicPages</a></span>
 </div>
