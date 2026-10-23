@@ -10,7 +10,7 @@ summary: "This month's Climate AI Nordics featured paper is \"TopoFlow: topograp
 title: 'Featured paper: TopoFlow: topography-aware pollutant Flow learning for high-resolution air quality prediction'
 ---
 
-Authors: Ammar Kheder, Helmi Toropainen, Wenqing Peng, Samuel Antão, Jia Chen, Michael Boy*, Zhi-Song Liu
+Authors: Ammar Kheder, Helmi Toropainen, Wenqing Peng, Samuel Antão, Jia Chen, Michael Boy, Zhi-Song Liu
 
 The latest Climate AI Nordics featured paper is [_TopoFlow: Topography-Aware Pollutant Flow Learning for High-Resolution Air Quality Prediction_](https://doi.org/10.1038/s41612-026-01417-5),
 published in NPJ Climate and Atmospheric Science.
