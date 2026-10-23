@@ -51,8 +51,11 @@ function updateNav() {
   // Keep counter updated
   $btn.attr("count", breaks.length);
 
-  // Recur if the visible list is still overflowing the nav
+  // Recur if the visible list is still overflowing the nav,
+  // or if there is still room to bring back more hidden items (e.g. after widening the window)
   if($vlinks.width() > availableSpace) {
+    updateNav();
+  } else if(breaks.length && availableSpace > breaks[breaks.length-1]) {
     updateNav();
   }
 
