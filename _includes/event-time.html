@@ -1,0 +1,14 @@
+{%- comment -%}
+  Prints an event time as written in front matter. Unquoted YAML times like
+  `event_time: 09:00` are parsed as minutes (540), so convert those back to HH:MM.
+  Usage: {% include event-time.html time=page.event_time %}
+{%- endcomment -%}
+{%- assign t = include.time | append: "" -%}
+{%- if t != "" -%}
+  {%- unless t contains ":" -%}
+    {%- assign hh = include.time | divided_by: 60 | floor | prepend: "0" | slice: -2, 2 -%}
+    {%- assign mm = include.time | modulo: 60 | floor | prepend: "0" | slice: -2, 2 -%}
+    {%- assign t = hh | append: ":" | append: mm -%}
+  {%- endunless -%}
+{%- endif -%}
+{{- t -}}

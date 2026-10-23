@@ -81,13 +81,7 @@ layout: home
   <div class="home-grid">
     {% if upcoming.size > 0 %}
       {% for p in upcoming limit: 3 %}
-        {% comment %} Unquoted YAML times like 09:00 arrive as minutes (540); turn them back into HH:MM. {% endcomment %}
-        {% assign t = p.event_time | append: "" %}
-        {% if t != "" %}{% unless t contains ":" %}
-          {% assign hh = p.event_time | divided_by: 60 | floor | prepend: "0" | slice: -2, 2 %}
-          {% assign mm = p.event_time | modulo: 60 | floor | prepend: "0" | slice: -2, 2 %}
-          {% assign t = hh | append: ":" | append: mm %}
-        {% endunless %}{% endif %}
+        {% capture t %}{% include event-time.html time=p.event_time %}{% endcapture %}
         {% capture d %}{{ p.event_date | date: "%-d %b %Y" }}{% if p.event_date_end %} – {{ p.event_date_end | date: "%-d %b %Y" }}{% endif %}{% if t != "" %} · {{ t }}{% endif %}{% endcapture %}
         {% include home/card.html post=p date=d cta="Event details" %}
       {% endfor %}
