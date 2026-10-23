@@ -6,8 +6,7 @@ people:
 - Helmi Toropainen
 - Michael Boy
 - Zhi-Song Liu
-summary: 'This month's Climate AI Nordics featured paper is "TopoFlow: topography-aware pollutant Flow learning for high-resolution air quality prediction".
-  This work introduces a physics-guided transformer that incorporates wind and topography directly into the model to improve air quality forecasting.'
+summary: "This month's Climate AI Nordics featured paper is \"TopoFlow: topography-aware pollutant Flow learning for high-resolution air quality prediction\". This work introduces a physics-guided transformer that incorporates wind and topography directly into the model to improve air quality forecasting."
 title: 'Featured paper: TopoFlow: topography-aware pollutant Flow learning for high-resolution air quality prediction'
 ---
 
