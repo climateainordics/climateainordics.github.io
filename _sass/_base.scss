@@ -315,3 +315,42 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+/* responsive embeds and form controls: nothing may be wider than a phone screen */
+
+iframe,
+embed,
+object,
+video,
+select {
+  max-width: 100%;
+}
+
+iframe[src*="youtube.com"],
+iframe[src*="youtube-nocookie.com"],
+iframe[src*="vimeo.com"] {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+}
+
+/* embedded Google Forms get taller when narrow; give them room so less inner scrolling is needed */
+@media (max-width: 600px) {
+  iframe[src*="docs.google.com/forms"] {
+    height: 2000px;
+  }
+}
+
+/* Mailchimp signup embed (/follow/) has a fixed 600px width in its inline style */
+#mc_embed_signup {
+  width: auto !important;
+  max-width: 600px;
+}
+
+/* long URLs used as link text would otherwise push the page wider than a phone */
+.page__content,
+.archive {
+  overflow-wrap: break-word;
+
+  a { overflow-wrap: anywhere; }
+}
