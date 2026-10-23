@@ -7,7 +7,10 @@ layout: home
 
 {% capture people_nordics %}{% include people_from_form_count_number_only_nordics.md %}{% endcapture %}
 {% capture people_orgs %}{% include people_from_form_count_number_organizations.md %}{% endcapture %}
-{% capture people_outside %}{% include people_from_form_count_number_outside_nordics.md %}{% endcapture %}
+{% assign people_nordics_rounded = people_nordics | strip | plus: 0 | divided_by: 10 | times: 10 %}
+{% comment %} Partners + sponsors: counts the logos on the partners page, so it updates when one is added there. {% endcomment %}
+{% assign partners_page = site.pages | where: "url", "/partners/" | first %}
+{% assign partner_count = partners_page.content | split: 'class="logo"' | size | minus: 1 %}
 
 <section class="home-hero" aria-labelledby="home-hero-title">
   <div class="home-hero__inner">
@@ -26,9 +29,9 @@ layout: home
 </section>
 
 <section class="home-stats" aria-label="The network in numbers">
-  <a class="home-stat" href="/people/"><span class="home-stat__num">{{ people_nordics | strip }}</span><span class="home-stat__label">researchers in the Nordics</span></a>
-  <a class="home-stat" href="/people/"><span class="home-stat__num">{{ people_orgs | strip }}</span><span class="home-stat__label">organisations</span></a>
-  <a class="home-stat" href="/people/"><span class="home-stat__num">{{ people_outside | strip }}</span><span class="home-stat__label">supporting affiliates worldwide</span></a>
+  <a class="home-stat" href="/people/"><span class="home-stat__num">{{ people_nordics_rounded }}+</span><span class="home-stat__label">researchers in the Nordics</span></a>
+  <a class="home-stat" href="/people/"><span class="home-stat__num">{{ people_orgs | strip }}</span><span class="home-stat__label">organisations across the network</span></a>
+  <a class="home-stat" href="/partners/"><span class="home-stat__num">{{ partner_count }}</span><span class="home-stat__label">partner &amp; sponsor organisations</span></a>
 </section>
 
 <section class="home-about">
@@ -136,7 +139,7 @@ layout: home
 
 <section class="home-cta">
   <div>
-    <h2>Work on AI and climate in the Nordics?</h2>
+    <h2>Working on AI and climate in the Nordics?</h2>
     <p>Join the network to connect with researchers, hear about events and get your work featured.</p>
   </div>
   <a class="home-btn home-btn--light" href="/join/">Join Climate AI Nordics</a>
