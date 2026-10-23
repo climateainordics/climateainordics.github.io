@@ -1307,16 +1307,16 @@ Biodiversity * Deep Learning * Machine Learning * Marine Ecology * Soundscape An
 Biodiversity * Climate Impacts * Climate Modeling * Earth Observation * Extreme Weather Events * Sustainable Cities * Urban Planning * [More info (researcher profile)](https://bit.ly/deanna-yi-nam-xu) * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=8l0Tw60AAAAJ)
 </div>
 
-<div class="content" markdown="1" data-tags="">
-<span title="PhD StudentRISE Research Institutes of Sweden."><strong>Klas Segeljakt, PhD Student, RISE Research Institutes of Sweden</strong></span>
-<br />
-[More info (researcher profile)](https://segeljakt.tilda.ws/) * [Publications (Scholar)](https://scholar.google.se/citations?user=k4bVwsIAAAAJ&amp;hl=en)
-</div>
-
 <div class="content" markdown="1" data-tags="Biodiversity; Sustainable Agriculture">
 <span title="IndustryArla Foods."><strong>Samuel Phipps, Industry, Arla Foods</strong></span>
 <br />
 Biodiversity; Sustainable Agriculture * [More info (researcher profile)](https://www.linkedin.com/in/samuel-phipps/)
+</div>
+
+<div class="content" markdown="1" data-tags="">
+<span title="PhD StudentRISE Research Institutes of Sweden."><strong>Klas Segeljakt, PhD Student, RISE Research Institutes of Sweden</strong></span>
+<br />
+[More info (researcher profile)](https://segeljakt.tilda.ws/) * [Publications (Scholar)](https://scholar.google.se/citations?user=k4bVwsIAAAAJ&amp;hl=en)
 </div>
 
 <div class="content" markdown="1" data-tags="AutoML,Climate Impacts,Computer Vision,Deep Learning,Efficient or Sustainable AI,Machine Learning,NLP,Sustainable Energy">
@@ -2038,4 +2038,16 @@ AutoML * Biodiversity * Climate Impacts * Computer Vision * Deep Learning * Eart
 <span title="I am passionate about working on impacts of compound climate extremes using AI. PhD StudentChinese Academy of Science."><strong>Abebe Kiflie Kabtih, PhD Student, Chinese Academy of Science</strong></span>
 <br />
 Climate Impacts * Climate Modeling * Weather Forecasting * [Publications (Scholar)](https://scholar.google.com/citations?user=1yGqFMcAAAAJ&amp;hl=en)
+</div>
+
+<div class="content" markdown="1" data-tags="Deep Learning,Earth System Modeling,Physics AI,Differentiable Simulators">
+<span title="- Main author and maintainer of (differentiable, GPU-native) ocean model Veros - Leading industry research in Physics AI and differentiable simulation - PhD from NBI Copenhagen in Oceanography - Based in Malmö, Sweden. PhD, ResearcherPasteur Labs."><strong>Dion Häfner, PhD, Researcher, Pasteur Labs</strong></span>
+<br />
+Deep Learning * Earth System Modeling * Physics AI * Differentiable Simulators * [More info (researcher profile)](https://dionhaefner.github.io/) * [Research group](https://simulation.science/) * [Publications (Scholar)](https://scholar.google.com/citations?user=18FFsOsAAAAJ&amp;hl=en&amp;oi=ao) * [ORCID](https://orcid.org/0000-0002-4465-7317)
+</div>
+
+<div class="content" markdown="1" data-tags="Biodiversity,Climate Impacts,Efficient or Sustainable AI,Extreme Weather Events,NLP">
+<span title="I am a sustainability scientist researching climate- and nature-related risks. In my new project we will advance the use of NLP/LLM-based tools to address systemic risks to critical infrastructure.  PhD, ResearcherStockholm Resilience Centre, Stockholm University."><strong>Emmy Wassénius, PhD, Researcher, Stockholm Resilience Centre, Stockholm University</strong></span>
+<br />
+Biodiversity * Climate Impacts * Efficient or Sustainable AI * Extreme Weather Events * NLP * [Publications (Scholar)](https://scholar.google.com/citations?user=HQMk7QwAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0002-8756-1649)
 </div>
