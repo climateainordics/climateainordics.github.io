@@ -7,7 +7,9 @@ layout: home
 
 {% capture people_nordics %}{% include people_from_form_count_number_only_nordics.md %}{% endcapture %}
 {% capture people_orgs %}{% include people_from_form_count_number_organizations.md %}{% endcapture %}
+{% comment %} Counts are rounded down to the nearest 10 ("270+"), so they update as the auto-generated counts grow. {% endcomment %}
 {% assign people_nordics_rounded = people_nordics | strip | plus: 0 | divided_by: 10 | times: 10 %}
+{% assign people_orgs_rounded = people_orgs | strip | plus: 0 | divided_by: 10 | times: 10 %}
 {% comment %} Partners + sponsors: counts the logos on the partners page, so it updates when one is added there. {% endcomment %}
 {% assign partners_page = site.pages | where: "url", "/partners/" | first %}
 {% assign partner_count = partners_page.content | split: 'class="logo"' | size | minus: 1 %}
@@ -30,7 +32,7 @@ layout: home
 
 <section class="home-stats" aria-label="The network in numbers">
   <a class="home-stat" href="/people/"><span class="home-stat__num">{{ people_nordics_rounded }}+</span><span class="home-stat__label">researchers in the Nordics</span></a>
-  <a class="home-stat" href="/people/"><span class="home-stat__num">{{ people_orgs | strip }}</span><span class="home-stat__label">organisations across the network</span></a>
+  <a class="home-stat" href="/people/"><span class="home-stat__num">{{ people_orgs_rounded }}+</span><span class="home-stat__label">organisations across the network</span></a>
   <a class="home-stat" href="/partners/"><span class="home-stat__num">{{ partner_count }}</span><span class="home-stat__label">partner &amp; sponsor organisations</span></a>
 </section>
 
