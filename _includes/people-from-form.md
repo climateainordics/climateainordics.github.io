@@ -2051,3 +2051,9 @@ Deep Learning * Earth System Modeling * Physics AI * Differentiable Simulators *
 <br />
 Biodiversity * Climate Impacts * Efficient or Sustainable AI * Extreme Weather Events * NLP * [Publications (Scholar)](https://scholar.google.com/citations?user=HQMk7QwAAAAJ&amp;hl=sv) * [ORCID](https://orcid.org/0000-0002-8756-1649)
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Earth Observation,Efficient or Sustainable AI,Sustainable Production">
+<span title="I am the Product Lead for Trase, an open data platform on sustainable supply chains, and Senior Fellow in Stockholm Environment Institute. ResearcherStockholm Environment Institute."><strong>Shirish Bhattarai, Researcher, Stockholm Environment Institute</strong></span>
+<br />
+Climate Impacts * Earth Observation * Efficient or Sustainable AI * Sustainable Production * [Research group](https://trase.earth/)
+</div>
