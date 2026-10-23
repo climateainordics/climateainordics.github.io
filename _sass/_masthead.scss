@@ -19,8 +19,8 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
+    padding: 0.75em 1em;
+    font-family: $brand-sans;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -37,6 +37,15 @@
 }
 
 .masthead__menu {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+
+  .greedy-nav {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+
 
   ul {
     margin: 0;
@@ -52,7 +61,48 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
+    padding-right: 1.5em;
     font-weight: 700;
   }
+}
+
+/* Logo + site name */
+.masthead__brand {
+  display: flex !important;
+  align-items: center;
+  gap: 0.6em;
+  font-family: $brand-display;
+  font-size: 1.1em;
+  font-weight: 800;
+  color: $brand-dark !important;
+  white-space: nowrap;
+
+  &:before { display: none !important; }
+}
+
+.masthead__logo {
+  width: 34px;
+  height: 34px;
+  float: none !important;
+}
+
+/* "Join" call-to-action button, always visible at the right */
+.masthead__cta {
+  flex: none;
+  padding: 0.5em 1.2em;
+  border-radius: 999px;
+  background: $brand-color;
+  color: #fff;
+  font-family: $brand-display;
+  font-weight: 700;
+  white-space: nowrap;
+  text-decoration: none;
+  transition: background-color 0.15s ease;
+
+  &:hover,
+  &:visited,
+  &:focus { color: #fff; }
+
+  &:hover,
+  &.is-active { background: $brand-dark; }
 }
