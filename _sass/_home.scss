@@ -1,0 +1,391 @@
+/* ==========================================================================
+   HOMEPAGE (_pages/home.html, _layouts/home.html, _includes/home/card.html)
+   ========================================================================== */
+
+.home {
+  @include container;
+  max-width: 1120px;
+  margin-top: 1.5em;
+  padding-left: 1em;
+  padding-right: 1em;
+  animation: intro 0.3s both;
+  animation-delay: 0.35s;
+
+  h2 {
+    margin: 0;
+    font-size: $type-size-3;
+  }
+}
+
+/* Buttons and links
+   ========================================================================== */
+
+.home-btn {
+  display: inline-block;
+  padding: 0.7em 1.3em;
+  border: 2px solid transparent;
+  border-radius: 999px;
+  font-family: $brand-display;
+  font-weight: 700;
+  font-size: $type-size-5;
+  line-height: 1.2;
+  text-decoration: none;
+  transition: transform 0.15s ease, background-color 0.15s ease, box-shadow 0.15s ease;
+
+  &:hover {
+    transform: translateY(-1px);
+    text-decoration: none;
+  }
+
+  &--primary {
+    background: $brand-color;
+    color: #fff;
+    box-shadow: 0 4px 14px rgba($brand-dark, 0.25);
+
+    &:hover, &:visited { color: #fff; }
+    &:hover { background: $brand-dark; }
+  }
+
+  &--ghost {
+    border-color: rgba(#fff, 0.85);
+    color: #fff;
+
+    &:hover, &:visited { color: #fff; }
+    &:hover { background: rgba(#fff, 0.15); }
+  }
+
+  &--light {
+    background: #fff;
+    color: $brand-dark;
+
+    &:hover, &:visited { color: $brand-dark; }
+    &:hover { background: $brand-light; }
+  }
+}
+
+.home-link {
+  font-weight: 600;
+  color: $brand-color;
+  text-decoration: none;
+  white-space: nowrap;
+
+  &:hover { text-decoration: underline; }
+}
+
+/* Hero
+   ========================================================================== */
+
+.home-hero {
+  display: flex;
+  align-items: flex-end;
+  min-height: 420px;
+  border-radius: 20px;
+  overflow: hidden;
+  color: #fff;
+  background:
+    linear-gradient(90deg, rgba($brand-dark, 0.92) 0%, rgba($brand-dark, 0.7) 45%, rgba($brand-dark, 0.15) 100%),
+    url(/images/backgrounds/hero.jpg) center 60% / cover no-repeat;
+
+  &__inner {
+    max-width: 760px;
+    padding: 3em 2.5em;
+  }
+
+  &__kicker {
+    margin: 0 0 0.5em;
+    font-weight: 600;
+    font-size: $type-size-6;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: $brand-accent;
+  }
+
+  &__title {
+    margin: 0 0 0.4em;
+    font-size: 2.6em;
+    font-weight: 800;
+    line-height: 1.1;
+    color: #fff;
+  }
+
+  &__lead {
+    margin: 0 0 1.6em;
+    font-size: $type-size-4;
+    line-height: 1.5;
+    color: rgba(#fff, 0.92);
+  }
+
+  &__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75em;
+  }
+
+  // on dark ground the primary button is white, the ghosts stay outlined
+  .home-btn--primary {
+    background: #fff;
+    color: $brand-dark;
+
+    &:hover, &:visited { color: $brand-dark; }
+    &:hover { background: $brand-light; }
+  }
+
+  @media (max-width: 600px) {
+    min-height: 0;
+    border-radius: 14px;
+    background:
+      linear-gradient(180deg, rgba($brand-dark, 0.55) 0%, rgba($brand-dark, 0.92) 70%),
+      url(/images/backgrounds/hero.jpg) center / cover no-repeat;
+
+    &__inner { padding: 6em 1.4em 1.8em; }
+    &__title { font-size: 2em; }
+    &__lead { font-size: $type-size-5; }
+    .home-btn { flex: 1 1 100%; text-align: center; }
+  }
+}
+
+/* Stats strip
+   ========================================================================== */
+
+.home-stats {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1em;
+  margin: 1.5em 0 0;
+
+  @media (max-width: 600px) { grid-template-columns: 1fr; gap: 0.6em; }
+}
+
+.home-stat {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6em;
+  padding: 1.1em 1.3em;
+  border-radius: 14px;
+  background: $brand-light;
+  color: $brand-dark;
+  text-decoration: none;
+  transition: background-color 0.15s ease;
+
+  &:hover, &:visited { color: $brand-dark; }
+  &:hover { background: darken($brand-light, 4%); }
+
+  &__num {
+    font-family: $brand-display;
+    font-size: 2em;
+    font-weight: 800;
+    line-height: 1;
+    color: $brand-color;
+  }
+
+  &__label {
+    font-size: $type-size-6 * 1.2;
+    font-weight: 500;
+    line-height: 1.3;
+  }
+}
+
+/* About
+   ========================================================================== */
+
+.home-about {
+  display: flex;
+  align-items: center;
+  gap: 3em;
+  margin: 4em 0 1em;
+
+  &__text {
+    flex: 1;
+    max-width: 720px;
+
+    h2 { margin-bottom: 0.5em; }
+
+    p {
+      font-size: $type-size-5 * 1.1;
+      line-height: 1.7;
+    }
+  }
+
+  &__logo {
+    flex: none;
+    width: 200px;
+    height: auto;
+  }
+
+  @media (max-width: 768px) {
+    &__logo { display: none; }
+  }
+}
+
+/* Spotlight (posts with first_page: true)
+   ========================================================================== */
+
+.home-spotlight {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(0, 3fr);
+  margin: 3em 0 0;
+  border-radius: 20px;
+  overflow: hidden;
+  background: $brand-light;
+
+  &__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  &__body { padding: 2em; }
+
+  &__title {
+    margin: 0 0 0.5em !important;
+
+    a { color: $brand-dark; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  }
+
+  @media (max-width: 768px) { grid-template-columns: 1fr; }
+}
+
+/* Sections and card grid
+   ========================================================================== */
+
+.home-section {
+  margin: 4em 0 0;
+
+  &__head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5em 1em;
+    margin-bottom: 1.25em;
+    padding-bottom: 0.6em;
+    border-bottom: 2px solid $brand-light;
+  }
+}
+
+.home-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5em;
+
+  @media (max-width: 900px) { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  @media (max-width: 600px) { grid-template-columns: 1fr; }
+}
+
+.home-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rgba($brand-dark, 0.1);
+  border-radius: 14px;
+  overflow: hidden;
+  background: #fff;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 28px rgba($brand-dark, 0.12);
+  }
+
+  &__media {
+    display: block;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    background: $brand-light;
+
+    img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.3s ease;
+    }
+
+    &--contain img,
+    &--fallback img {
+      object-fit: contain;
+      padding: 1.25em;
+    }
+
+    &--contain { background: #fff; border-bottom: 1px solid rgba($brand-dark, 0.08); }
+    &--fallback img { opacity: 0.35; }
+  }
+
+  &:hover &__media img { transform: scale(1.03); }
+  &:hover &__media--contain img,
+  &:hover &__media--fallback img { transform: none; }
+
+  &__body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 1.1em 1.25em 1.25em;
+  }
+
+  &__meta {
+    margin: 0 0 0.4em;
+    font-size: $type-size-6;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: $brand-color;
+  }
+
+  &__title {
+    margin: 0 0 0.5em;
+    font-size: $type-size-5 * 1.1;
+    line-height: 1.35;
+
+    a {
+      color: $brand-dark;
+      text-decoration: none;
+
+      &:hover { text-decoration: underline; }
+    }
+  }
+
+  &__summary {
+    margin: 0 0 0.8em;
+    font-size: $type-size-6 * 1.2;
+    line-height: 1.55;
+    color: $dark-gray;
+  }
+
+  &__cta {
+    margin-top: auto;
+    font-size: $type-size-6 * 1.2;
+    font-weight: 600;
+    color: $brand-color;
+    text-decoration: none;
+
+    &:hover { text-decoration: underline; }
+  }
+}
+
+/* Closing call to action
+   ========================================================================== */
+
+.home-cta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1.5em;
+  margin: 4.5em 0 1em;
+  padding: 2.2em 2.5em;
+  border-radius: 20px;
+  background: linear-gradient(120deg, $brand-dark, $brand-color);
+  color: rgba(#fff, 0.9);
+
+  h2 {
+    margin: 0 0 0.3em !important;
+    color: #fff;
+  }
+
+  p { margin: 0; }
+
+  @media (max-width: 600px) {
+    padding: 1.8em 1.4em;
+    .home-btn { flex: 1 1 100%; text-align: center; }
+  }
+}

@@ -1,0 +1,143 @@
+---
+permalink: /
+title: "Climate AI Nordics"
+excerpt: "Nordic network for collaborations around tackling climate change using AI and machine learning."
+layout: home
+---
+
+{% capture people_nordics %}{% include people_from_form_count_number_only_nordics.md %}{% endcapture %}
+{% capture people_orgs %}{% include people_from_form_count_number_organizations.md %}{% endcapture %}
+{% capture people_outside %}{% include people_from_form_count_number_outside_nordics.md %}{% endcapture %}
+
+<section class="home-hero" aria-labelledby="home-hero-title">
+  <div class="home-hero__inner">
+    <p class="home-hero__kicker">Climate AI Nordics</p>
+    <h1 id="home-hero-title" class="home-hero__title">AI for climate action across the Nordics</h1>
+    <p class="home-hero__lead">
+      A non-profit network of Nordic researchers developing and using AI and machine learning
+      for climate change mitigation and adaptation.
+    </p>
+    <div class="home-hero__actions">
+      <a class="home-btn home-btn--primary" href="/join/">Join the network</a>
+      <a class="home-btn home-btn--ghost" href="/events/">Upcoming events</a>
+      <a class="home-btn home-btn--ghost" href="/people/">Meet the people</a>
+    </div>
+  </div>
+</section>
+
+<section class="home-stats" aria-label="The network in numbers">
+  <a class="home-stat" href="/people/"><span class="home-stat__num">{{ people_nordics | strip }}</span><span class="home-stat__label">researchers in the Nordics</span></a>
+  <a class="home-stat" href="/people/"><span class="home-stat__num">{{ people_orgs | strip }}</span><span class="home-stat__label">organisations</span></a>
+  <a class="home-stat" href="/people/"><span class="home-stat__num">{{ people_outside | strip }}</span><span class="home-stat__label">supporting affiliates worldwide</span></a>
+</section>
+
+<section class="home-about">
+  <div class="home-about__text">
+    <h2>Who we are</h2>
+    <p>
+      We are already in a climate emergency, causing biodiversity loss, extreme weather and human suffering.
+      Climate AI Nordics connects researchers across the Nordic countries to share expertise and resources,
+      and to develop AI-based tools that inform the decisions needed for a sustainable future: from
+      rewilding and rewetting to reducing emissions and the reliance on fossil fuels.
+    </p>
+    <p><a class="home-link" href="/about/">More about Climate AI Nordics <span aria-hidden="true">&rarr;</span></a></p>
+  </div>
+  <img class="home-about__logo" src="/images/climateainordics-logo-globeonly-600x600.png" alt="" width="200" height="200">
+</section>
+
+{% assign pinned = site.posts | where: "first_page", true %}
+{% for p in pinned %}
+<section class="home-spotlight">
+  {% assign img = p.image_small | default: p.image %}
+  {% if img %}<img class="home-spotlight__img" src="{{ img }}" alt="">{% endif %}
+  <div class="home-spotlight__body">
+    <p class="home-card__meta">Highlight</p>
+    <h2 class="home-spotlight__title"><a href="{{ p.url }}">{{ p.title }}</a></h2>
+    {% if p.summary %}<p>{{ p.summary | markdownify | strip_html | truncatewords: 45 }}</p>{% endif %}
+    <a class="home-btn home-btn--primary" href="{{ p.url }}">Read more</a>
+  </div>
+</section>
+{% endfor %}
+
+{% comment %} Upcoming events: sorted by date, ending today or later; falls back to the most recent ones. {% endcomment %}
+{% assign today = site.time | date: "%Y%m%d" | plus: 0 %}
+{% assign events_sorted = site.categories.events | sort: "event_date", "last" %}
+{% assign upcoming = "" | split: "" %}
+{% for p in events_sorted %}
+  {% assign end = p.event_date_end | default: p.event_date | date: "%Y%m%d" | plus: 0 %}
+  {% if end >= today %}{% assign upcoming = upcoming | push: p %}{% endif %}
+{% endfor %}
+
+<section class="home-section">
+  <header class="home-section__head">
+    <h2>Upcoming events</h2>
+    <a class="home-link" href="/events/">All events <span aria-hidden="true">&rarr;</span></a>
+  </header>
+  <div class="home-grid">
+    {% if upcoming.size > 0 %}
+      {% for p in upcoming limit: 3 %}
+        {% comment %} Unquoted YAML times like 09:00 arrive as minutes (540); turn them back into HH:MM. {% endcomment %}
+        {% assign t = p.event_time | append: "" %}
+        {% if t != "" %}{% unless t contains ":" %}
+          {% assign hh = p.event_time | divided_by: 60 | floor | prepend: "0" | slice: -2, 2 %}
+          {% assign mm = p.event_time | modulo: 60 | floor | prepend: "0" | slice: -2, 2 %}
+          {% assign t = hh | append: ":" | append: mm %}
+        {% endunless %}{% endif %}
+        {% capture d %}{{ p.event_date | date: "%-d %b %Y" }}{% if p.event_date_end %} – {{ p.event_date_end | date: "%-d %b %Y" }}{% endif %}{% if t != "" %} · {{ t }}{% endif %}{% endcapture %}
+        {% include home/card.html post=p date=d cta="Event details" %}
+      {% endfor %}
+    {% else %}
+      {% for p in site.categories.events limit: 3 %}
+        {% capture d %}{{ p.event_date | default: p.date | date: "%-d %b %Y" }}{% endcapture %}
+        {% include home/card.html post=p date=d cta="Event details" %}
+      {% endfor %}
+    {% endif %}
+  </div>
+</section>
+
+<section class="home-section">
+  <header class="home-section__head">
+    <h2>News</h2>
+    <a class="home-link" href="/news/">All news <span aria-hidden="true">&rarr;</span></a>
+  </header>
+  <div class="home-grid">
+    {% for p in site.categories.news limit: 3 %}
+      {% capture d %}{{ p.date | date: "%-d %b %Y" }}{% endcapture %}
+      {% include home/card.html post=p date=d summary=true %}
+    {% endfor %}
+  </div>
+</section>
+
+<section class="home-section">
+  <header class="home-section__head">
+    <h2>Featured works</h2>
+    <a class="home-link" href="/featured-works/">All featured works <span aria-hidden="true">&rarr;</span></a>
+  </header>
+  <div class="home-grid">
+    {% for p in site.categories.featured-works limit: 3 %}
+      {% capture d %}{{ p.date | date: "%B %Y" }}{% endcapture %}
+      {% include home/card.html post=p date=d %}
+    {% endfor %}
+  </div>
+</section>
+
+<section class="home-section">
+  <header class="home-section__head">
+    <h2>Job openings</h2>
+    <a class="home-link" href="/job-openings/">All job openings <span aria-hidden="true">&rarr;</span></a>
+  </header>
+  <div class="home-grid">
+    {% for p in site.categories.job-openings limit: 3 %}
+      {% capture d %}Posted {{ p.date | date: "%-d %b %Y" }}{% endcapture %}
+      {% include home/card.html post=p date=d cta="View opening" fit="contain" %}
+    {% endfor %}
+  </div>
+</section>
+
+<section class="home-cta">
+  <div>
+    <h2>Work on AI and climate in the Nordics?</h2>
+    <p>Join the network to connect with researchers, hear about events and get your work featured.</p>
+  </div>
+  <a class="home-btn home-btn--light" href="/join/">Join Climate AI Nordics</a>
+</section>

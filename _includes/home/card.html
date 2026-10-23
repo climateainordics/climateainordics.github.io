@@ -1,0 +1,24 @@
+{% comment %}
+  Homepage post card.
+  Params: post (required), date (shown as meta line), cta (link text),
+          fit ("contain" for logos, e.g. job openings), summary (true/false).
+{% endcomment %}
+{% assign p = include.post %}
+{% assign img = p.image_small | default: p.image %}
+<article class="home-card">
+  <a class="home-card__media{% if include.fit == 'contain' %} home-card__media--contain{% endif %}{% unless img %} home-card__media--fallback{% endunless %}" href="{{ p.url }}" tabindex="-1" aria-hidden="true">
+    {% if img %}
+      <img src="{{ img }}" alt="" loading="lazy">
+    {% else %}
+      <img src="/images/climateainordics-logo-globeonly-600x600-greyscale.png" alt="" loading="lazy">
+    {% endif %}
+  </a>
+  <div class="home-card__body">
+    {% if include.date %}<p class="home-card__meta">{{ include.date }}</p>{% endif %}
+    <h3 class="home-card__title"><a href="{{ p.url }}">{{ p.title }}</a></h3>
+    {% if include.summary and p.summary %}
+      <p class="home-card__summary">{{ p.summary | markdownify | strip_html | strip_newlines | truncatewords: 22 }}</p>
+    {% endif %}
+    <a class="home-card__cta" href="{{ p.url }}">{{ include.cta | default: "Read more" }} <span aria-hidden="true">&rarr;</span></a>
+  </div>
+</article>
