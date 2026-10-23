@@ -60,8 +60,10 @@
 
   &__logo {
     display: block;
-    width: 220px;
+    float: none !important; // ignore inline `img { ... }` rules on some pages
+    width: 220px !important;
     height: auto;
+    padding: 0 !important;
   }
 
   a.site-footer__join {

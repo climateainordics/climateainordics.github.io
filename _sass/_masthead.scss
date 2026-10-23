@@ -81,8 +81,9 @@
 }
 
 .masthead__logo {
-  width: 34px;
+  width: 34px !important;
   height: 34px;
+  padding: 0 !important; // some pages carry a global `img { ... }` rule in an inline <style>
   float: none !important;
 }
 

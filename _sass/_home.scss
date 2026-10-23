@@ -295,8 +295,10 @@
 
     img {
       display: block;
-      width: 100%;
+      float: none !important; // ignore inline `img { ... }` rules on some pages
+      width: 100% !important;
       height: 100%;
+      padding: 0;
       object-fit: cover;
       transition: transform 0.3s ease;
     }
@@ -304,7 +306,7 @@
     &--contain img,
     &--fallback img {
       object-fit: contain;
-      padding: 1.25em;
+      padding: 1.25em !important;
     }
 
     &--contain { background: #fff; border-bottom: 1px solid rgba($brand-dark, 0.08); }
