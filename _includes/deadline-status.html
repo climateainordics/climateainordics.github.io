@@ -1,0 +1,15 @@
+{%- comment -%}
+  Sets deadline_num (YYYYMMDD, or 0 when there is no real date, e.g. "Rolling") and
+  deadline_past (true when the deadline was before the build day) for a job opening.
+  `deadline` may be written as 2026-04-30 or "September 30th, 2026".
+  Usage: {% include deadline-status.html post=page %}
+{%- endcomment -%}
+{%- assign deadline_num = 0 -%}
+{%- assign deadline_past = false -%}
+{%- assign deadline_raw = include.post.deadline | append: "" | strip -%}
+{%- if deadline_raw != "" -%}
+  {%- assign deadline_num = deadline_raw | date: "%Y%m%d" | plus: 0 -%}
+  {%- if deadline_num < 19000101 -%}{%- assign deadline_num = 0 -%}{%- endif -%}
+  {%- assign deadline_today = site.time | date: "%Y%m%d" | plus: 0 -%}
+  {%- if deadline_num > 0 and deadline_num < deadline_today -%}{%- assign deadline_past = true -%}{%- endif -%}
+{%- endif -%}

@@ -8,12 +8,17 @@
 {% assign p = include.post %}
 {% comment %} Card-sized copy from _scripts/make_card_images.py when there is one (many image_small files are tiny and look blurry). {% endcomment %}
 {% assign img = site.data.card_images[p.path] | default: p.image_small | default: p.image %}
-{% comment %} Events that ended before the build day get a "This event has passed" note after the date {% endcomment %}
+{% comment %} Events that ended, and job openings whose deadline passed, before the build day get a note after the date {% endcomment %}
 {% assign card_past = false %}
 {% if include.date and p.event_date and p.categories contains "events" %}
   {% assign card_end = p.event_date_end | default: p.event_date | date: "%Y%m%d" | plus: 0 %}
   {% assign card_today = site.time | date: "%Y%m%d" | plus: 0 %}
   {% if card_end < card_today %}{% assign card_past = true %}{% endif %}
+{% endif %}
+{% assign card_deadline_past = false %}
+{% if include.date and p.categories contains "job-openings" %}
+  {% include deadline-status.html post=p %}
+  {% assign card_deadline_past = deadline_past %}
 {% endif %}
 <article class="home-card"{% if include.cat %} data-cat="{{ include.cat }}"{% endif %}>
   <a class="home-card__media{% if include.fit == 'contain' %} home-card__media--contain{% endif %}{% unless img %} home-card__media--fallback{% endunless %}" href="{{ p.url }}" tabindex="-1" aria-hidden="true">
@@ -25,7 +30,7 @@
     {% if include.badge %}<span class="home-card__badge">{{ include.badge }}</span>{% endif %}
   </a>
   <div class="home-card__body">
-    {% if include.date %}<p class="home-card__meta">{{ include.date }}{% if card_past %} <span class="home-card__past">· This event has passed</span>{% endif %}</p>{% endif %}
+    {% if include.date %}<p class="home-card__meta">{{ include.date }}{% if card_past %} <span class="home-card__past">· This event has passed</span>{% endif %}{% if card_deadline_past %} <span class="home-card__past">· Deadline passed</span>{% endif %}</p>{% endif %}
     <h3 class="home-card__title"><a href="{{ p.url }}">{{ include.title | default: p.title }}</a></h3>
     {% if include.summary and p.summary %}
       <p class="home-card__summary">{{ p.summary | markdownify | strip_html | normalize_whitespace | truncatewords: 22 }}</p>
