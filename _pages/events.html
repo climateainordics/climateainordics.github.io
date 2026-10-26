@@ -1,0 +1,58 @@
+---
+title: Events
+permalink: /events/
+layout: home
+---
+{% comment %}
+  New events are added as posts in events/_posts. This file only controls how they are presented.
+{% endcomment %}
+
+<header class="list-header">
+  <h1 class="list-header__title">Events</h1>
+  <p class="list-header__lead">
+    Seminars, workshops and other events from Climate AI Nordics and our partners.
+    Missed a talk? See the <a href="/recorded-events/">recordings of previous seminars</a>.
+  </p>
+</header>
+
+{% assign today = site.time | date: "%Y%m%d" | plus: 0 %}
+{% assign events_sorted = site.categories.events | sort: "event_date", "last" %}
+{% assign upcoming = "" | split: "" %}
+{% assign past = "" | split: "" %}
+{% for p in events_sorted %}
+  {% assign end = p.event_date_end | default: p.event_date | default: p.date | date: "%Y%m%d" | plus: 0 %}
+  {% if end >= today %}{% assign upcoming = upcoming | push: p %}{% else %}{% assign past = past | push: p %}{% endif %}
+{% endfor %}
+{% assign past = past | reverse %}
+
+<section class="home-section list-section">
+  <header class="home-section__head"><h2>Upcoming</h2></header>
+  {% if upcoming.size > 0 %}
+  <div class="home-grid">
+    {% for p in upcoming %}
+      {% capture t %}{% include event-time.html time=p.event_time %}{% endcapture %}
+      {% capture d %}{{ p.event_date | date: "%-d %b %Y" }}{% if p.event_date_end and p.event_date_end != p.event_date %} – {{ p.event_date_end | date: "%-d %b %Y" }}{% endif %}{% if t != "" %} · {{ t }}{% endif %}{% endcapture %}
+      {% include home/card.html post=p date=d summary=true cta="Event details" %}
+    {% endfor %}
+  </div>
+  {% else %}
+  <p class="list-empty">No upcoming events right now. <a href="/join/">Join the network</a> to hear about new ones first.</p>
+  {% endif %}
+</section>
+
+<section class="home-section list-section">
+  <header class="home-section__head">
+    <h2>Past events</h2>
+    <a class="home-link" href="/recorded-events/">Recordings <span aria-hidden="true">&rarr;</span></a>
+  </header>
+  <div class="home-grid">
+    {% for p in past %}
+      {% capture d %}{{ p.event_date | default: p.date | date: "%-d %b %Y" }}{% endcapture %}
+      {% if p.youtube and p.youtube != "" %}
+        {% include home/card.html post=p date=d cta="Watch the recording" badge="Recording" %}
+      {% else %}
+        {% include home/card.html post=p date=d cta="Event details" %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>

@@ -11,6 +11,7 @@ main:
 
   - title: "Join"
     url: /join/
+    cta: true # shown as a button at the right of the menu, not in the link list
 
   - title: "Follow"
     url: /follow/

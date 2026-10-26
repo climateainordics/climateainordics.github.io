@@ -1,0 +1,38 @@
+---
+title: Recorded events
+permalink: /recorded-events/
+layout: home
+---
+{% comment %}
+  Recordings come from the `youtube` field of posts in events/_posts. This file only controls how they are presented.
+{% endcomment %}
+
+<header class="list-header">
+  <h1 class="list-header__title">Recorded events</h1>
+  <p class="list-header__lead">
+    Recordings of previous Climate AI Nordics seminars. See <a href="/events/">upcoming events</a>,
+    or watch everything in our <a href="https://www.youtube.com/playlist?list=PLqLiVcF3GKy0-jZFGg-VqLzh51LqCfduN">YouTube playlist</a>.
+  </p>
+</header>
+
+{% assign events_sorted = site.categories.events | sort: "event_date", "last" | reverse %}
+{% assign recorded = "" | split: "" %}
+{% for p in events_sorted %}{% unless p.youtube == blank %}{% assign recorded = recorded | push: p %}{% endunless %}{% endfor %}
+
+<div class="video-grid">
+  {% for p in recorded %}
+    {% assign id_with_rest = p.youtube | split: 'v=' | last %}
+    {% assign video_id = id_with_rest | split: '&' | first | split: '/' | last %}
+    {% capture t %}{% include event-time.html time=p.event_time %}{% endcapture %}
+    <article class="video-card">
+      <div class="video-card__player">
+        <iframe src="https://www.youtube.com/embed/{{ video_id }}" title="{{ p.title | escape }}" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+      <div class="home-card__body">
+        <p class="home-card__meta">{{ p.event_date | default: p.date | date: "%-d %b %Y" }}</p>
+        <h3 class="home-card__title"><a href="{{ p.url }}">{{ p.title }}</a></h3>
+        <a class="home-card__cta" href="{{ p.url }}">About this talk <span aria-hidden="true">&rarr;</span></a>
+      </div>
+    </article>
+  {% endfor %}
+</div>

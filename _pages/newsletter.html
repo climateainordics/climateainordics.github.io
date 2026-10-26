@@ -1,0 +1,24 @@
+---
+title: "Climate AI Nordics Newsletter"
+excerpt: "Climate AI Nordics Newsletter"
+permalink: /newsletter/
+layout: home
+---
+{% comment %}
+  New items are added as posts in newsletter/_posts. This file only controls how they are presented.
+{% endcomment %}
+
+<header class="list-header">
+  <h1 class="list-header__title">Newsletter archive</h1>
+  <p class="list-header__lead">
+    The Climate AI Nordics newsletter goes out to all members, with news, events, featured works and job openings.
+    <a href="/join/">Join Climate AI Nordics</a> to receive it.
+  </p>
+</header>
+
+<div class="home-grid list-grid">
+  {% for p in site.categories.newsletter %}
+    {% capture d %}{{ p.date | date: "%B %Y" }}{% endcapture %}
+    {% include home/card.html post=p date=d cta="Read more" summary=true %}
+  {% endfor %}
+</div>

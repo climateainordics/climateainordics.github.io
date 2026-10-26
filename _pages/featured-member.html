@@ -1,0 +1,25 @@
+---
+title: Featured members
+permalink: /featured-member/
+layout: home
+---
+{% comment %}
+  New items are added as posts in featured-member/_posts. This file only controls how they are presented.
+{% endcomment %}
+
+<header class="list-header">
+  <h1 class="list-header__title">Featured members</h1>
+  <p class="list-header__lead">
+    Every month we introduce one member of Climate AI Nordics and their work.
+    Features also go out in our newsletter: <a href="/join/">join us to receive it</a>,
+    or browse the <a href="/newsletter/">newsletter archive</a>.
+  </p>
+</header>
+
+<div class="home-grid list-grid">
+  {% for p in site.categories.featured-member %}
+    {% assign person = p.people | first | default: p.title %}
+    {% capture d %}{{ p.date | date: "%B %Y" }}{% endcapture %}
+    {% include home/card.html post=p date=d cta="Meet them" summary=true title=person %}
+  {% endfor %}
+</div>
