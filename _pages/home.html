@@ -130,12 +130,36 @@ layout: home
     <h2>Job openings</h2>
     <a class="home-link" href="/job-openings/">All job openings <span aria-hidden="true">&rarr;</span></a>
   </header>
+  {% comment %}
+    Open positions only: deadline not passed. Posts without a real deadline (none, or "Rolling")
+    count as open for 3 months after posting.
+  {% endcomment %}
+  {% assign jobs_cutoff = site.time | date: "%s" | minus: 7776000 | date: "%Y%m%d" | plus: 0 %}
+  {% assign open_jobs = "" | split: "" %}
+  {% for p in site.categories.job-openings %}
+    {% include deadline-status.html post=p %}
+    {% if deadline_num > 0 %}
+      {% unless deadline_past %}{% assign open_jobs = open_jobs | push: p %}{% endunless %}
+    {% else %}
+      {% assign posted = p.date | date: "%Y%m%d" | plus: 0 %}
+      {% if posted >= jobs_cutoff %}{% assign open_jobs = open_jobs | push: p %}{% endif %}
+    {% endif %}
+  {% endfor %}
+  {% if open_jobs.size > 0 %}
   <div class="home-grid">
-    {% for p in site.categories.job-openings limit: 3 %}
-      {% capture d %}Posted {{ p.date | date: "%-d %b %Y" }}{% endcapture %}
+    {% for p in open_jobs limit: 3 %}
+      {% include deadline-status.html post=p %}
+      {% if deadline_num > 0 %}
+        {% capture d %}Apply by {{ deadline_raw | date: "%-d %b %Y" }}{% endcapture %}
+      {% else %}
+        {% capture d %}Posted {{ p.date | date: "%-d %b %Y" }}{% endcapture %}
+      {% endif %}
       {% include home/card.html post=p date=d cta="View opening" fit="contain" %}
     {% endfor %}
   </div>
+  {% else %}
+  <p class="list-empty">No open positions right now. Have a look at <a href="/job-openings/">earlier job openings</a>, or <a href="/follow/">follow us</a> to hear about new ones.</p>
+  {% endif %}
 </section>
 
 <section class="home-cta">
