@@ -1,7 +1,7 @@
 ---
 title: "Join Climate AI Nordics"
 excerpt: "Join Climate AI Nordics"
-author_profile: true
+author_profile: false
 permalink: /join/
 ---
 
