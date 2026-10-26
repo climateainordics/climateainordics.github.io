@@ -53,7 +53,7 @@ layout: home
 {% assign pinned = site.posts | where: "first_page", true %}
 {% for p in pinned %}
 <section class="home-spotlight">
-  {% assign img = p.image_small | default: p.image %}
+  {% assign img = site.data.card_images[p.path] | default: p.image_small | default: p.image %}
   {% if img %}<img class="home-spotlight__img" src="{{ img }}" alt="">{% endif %}
   <div class="home-spotlight__body">
     <p class="home-card__meta">Highlight</p>

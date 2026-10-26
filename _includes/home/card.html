@@ -6,7 +6,8 @@
           cat (sets data-cat, used by the filter chips on /news/).
 {% endcomment %}
 {% assign p = include.post %}
-{% assign img = p.image_small | default: p.image %}
+{% comment %} Card-sized copy from _scripts/make_card_images.py when there is one (many image_small files are tiny and look blurry). {% endcomment %}
+{% assign img = site.data.card_images[p.path] | default: p.image_small | default: p.image %}
 <article class="home-card"{% if include.cat %} data-cat="{{ include.cat }}"{% endif %}>
   <a class="home-card__media{% if include.fit == 'contain' %} home-card__media--contain{% endif %}{% unless img %} home-card__media--fallback{% endunless %}" href="{{ p.url }}" tabindex="-1" aria-hidden="true">
     {% if img %}
