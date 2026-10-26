@@ -18,15 +18,9 @@ image: /images/events/cain-may2025.png
 #![](/images/peopls/kariryaa.jpg)
 ---
 
-<style>
-img {
-  width: 8em;
-  float: right;
-  padding: 1em 0em 1em 1em;
-}
-</style>
-
-We are a [network of 250+ researchers](/people/) across the Nordics dedicated to developing and utilizing AI technologies to address the urgent global challenge of climate change. Our researchers focus on creating and promoting AI solutions that support both climate change mitigation, reducing the severity of climate change, and adaptation, adjusting to the effects of climate change. We are already in a climate emergency which is causing biodiversity loss, extreme weather events, and human suffering, and this necessitates a multifaceted approach involving both policy change, limitations on activities contributing to climate change, and bolstering societal resilience against climate-related events.
+{% capture people_nordics %}{% include people_from_form_count_number_only_nordics.md %}{% endcapture %}
+{% assign people_nordics_rounded = people_nordics | strip | plus: 0 | divided_by: 10 | times: 10 %}
+We are a [network of {{ people_nordics_rounded }}+ researchers](/people/) across the Nordics dedicated to developing and utilizing AI technologies to address the urgent global challenge of climate change. Our researchers focus on creating and promoting AI solutions that support both climate change mitigation, reducing the severity of climate change, and adaptation, adjusting to the effects of climate change. We are already in a climate emergency which is causing biodiversity loss, extreme weather events, and human suffering, and this necessitates a multifaceted approach involving both policy change, limitations on activities contributing to climate change, and bolstering societal resilience against climate-related events.
 
 Climate AI Nordics (CAIN) is registered as a non-profit association in Sweden (ideell förening) and the association is governed by its board and its annual general meeting. As a member of the network, you may choose to also join the association and influence its direction in the annual general meeting. [Look at the people page for more information about the board!](/people/)
 
@@ -36,9 +30,10 @@ Climate AI Nordics promotes the development of AI-based analytical tools and opt
 
 By bringing together researchers in the Nordic countries, Climate AI Nordics aims to accelerate progress in this critical field, enabling the sharing of expertise and resources to develop impactful AI solutions for climate change mitigation and adaptation.
 
-[Join Climate AI Nordics now!](/join/)
-
-[Meet the people of Climate AI Nordics!](/people/)
+<div class="page-actions">
+  <a class="home-btn home-btn--primary" href="/join/">Join Climate AI Nordics</a>
+  <a class="home-btn home-btn--outline" href="/people/">Meet the people</a>
+</div>
 
 The CAIN board (see below) plans events, collects information for and runs our webpage, takes care of our social media channels, and compiles and edits our newsletters. 
 

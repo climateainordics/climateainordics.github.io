@@ -1,0 +1,90 @@
+/* ==========================================================================
+   Content pages (About, Join, Follow, Partners): shared building blocks
+   used inside markdown pages, replacing their inline <style> blocks.
+   ========================================================================== */
+
+/* Row of buttons inside normal page text */
+.page-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75em;
+  margin: 1.5em 0 2em;
+
+  .home-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.45em;
+  }
+  .home-btn,
+  .home-btn:hover { text-decoration: none; } // beat the underline on links in page text
+
+  @media (max-width: 600px) {
+    .home-btn { flex: 1 1 100%; text-align: center; }
+  }
+}
+
+/* Soft tinted box for notes and calls to action */
+.callout {
+  margin: 1.5em 0 2em;
+  padding: 1.1em 1.4em;
+  border-left: 4px solid $brand-color;
+  border-radius: 0 12px 12px 0;
+  background: $brand-light;
+
+  > :first-child { margin-top: 0; }
+  > :last-child { margin-bottom: 0; }
+
+  .page-actions { margin: 1em 0 0; }
+}
+
+/* Board / people blocks (auto-generated includes): photo floated right of the text */
+.page__content .content {
+  overflow: auto; // contain the floated photo
+
+  img {
+    width: 8em;
+    float: right;
+    padding: 1em 0 1em 1em;
+  }
+}
+
+/* Partners page */
+.partner-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25em;
+  margin: 1.5em 0 2.5em;
+
+  @media (max-width: 760px) { grid-template-columns: minmax(0, 1fr); }
+}
+
+.partner-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1.5em;
+  border: 1px solid mix($brand-light, #d8e0e2, 50%);
+  border-radius: 16px;
+  background: #fff;
+
+  .logo {
+    display: block;
+    width: auto !important;  // beat any global inline `img { ... }` rule
+    max-width: 12em;
+    height: 5em;
+    margin: 0 auto 1.25em !important;
+    padding: 0 !important;
+    float: none !important;
+    object-fit: contain;
+  }
+
+  p { font-size: $type-size-6; }
+
+  .partner-card__body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+  }
+
+  .page-actions { margin: auto 0 0; padding-top: 0.5em; }
+}

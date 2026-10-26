@@ -71,22 +71,6 @@
   }
 }
 
-/* Row of buttons inside normal page text (e.g. /follow/) */
-.follow-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75em;
-  margin: 1.5em 0 2em;
-
-  .home-btn,
-  .home-btn:hover { text-decoration: none; } // beat the underline on links in page text
-  .fab, .fas { margin-right: 0.35em; }
-
-  @media (max-width: 600px) {
-    .home-btn { flex: 1 1 100%; text-align: center; }
-  }
-}
-
 .home-link {
   font-weight: 600;
   color: $brand-color;
