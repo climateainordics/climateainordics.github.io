@@ -13,10 +13,10 @@
   position: 50% 55%
 - src: /images/hero/lunch-park.webp
   alt: Participants having lunch on the grass in a park
-  position: 50% 70%
-- src: /images/hero/ferry.webp
-  alt: Participants on the quay before a ferry trip
-  position: 50% 70%
+  position: 50% 60%
+- src: /images/hero/coffee.webp
+  alt: Coffee break at the inaugural Nordic workshop
+  position: 40% 60%
 - src: /images/hero/evening.webp
   alt: Evening social under a tent with string lights
   position: 50% 60%
