@@ -68,6 +68,7 @@ layout: default
               </div>
               {% endif %}
             </dl>
+            {% unless event_end < build_day %}{% include event-actions.html %}{% endunless %}
           {% elsif page.date and cat_label %}
             <p class="post-header__date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time></p>
           {% endif %}

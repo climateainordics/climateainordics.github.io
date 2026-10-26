@@ -1,0 +1,96 @@
+{%- comment -%}
+  Buttons under the date box of an upcoming event: "Register" (when the post has
+  `registration_url`) and "Add to calendar" (Google Calendar link + an .ics file
+  for Apple Calendar, Outlook and others, embedded as a data: link).
+
+  Times are Swedish/Nordic local time (Europe/Stockholm). The end time comes from
+  `event_time: 09:00-17:00`, else `event_end_time: "17:00"`, else start + 1 hour.
+  No time at all, or a multi-day event: an all-day calendar entry.
+  Usage: {% include event-actions.html %} (on an event post)
+{%- endcomment -%}
+{%- assign ev_date = page.event_date | date: "%Y%m%d" -%}
+{%- capture ev_time %}{% include event-time.html time=page.event_time %}{% endcapture -%}
+{%- assign ev_time = ev_time | strip -%}
+{%- assign ev_allday = true -%}
+{%- if ev_time != "" and page.event_date_end == nil -%}
+  {%- assign ev_parts = ev_time | replace: "–", "-" | split: "-" -%}
+  {%- assign ev_start = ev_parts[0] | strip | split: ":" -%}
+  {%- assign ev_sh = ev_start[0] | plus: 0 -%}
+  {%- assign ev_sm = ev_start[1] | default: "0" | plus: 0 -%}
+  {%- assign ev_end_str = ev_parts[1] | default: page.event_end_time -%}
+  {%- if ev_end_str -%}
+    {%- assign ev_end = ev_end_str | append: "" | strip | split: ":" -%}
+    {%- assign ev_eh = ev_end[0] | plus: 0 -%}
+    {%- assign ev_em = ev_end[1] | default: "0" | plus: 0 -%}
+  {%- else -%}
+    {%- assign ev_eh = ev_sh | plus: 1 -%}
+    {%- assign ev_em = ev_sm -%}
+  {%- endif -%}
+  {%- assign ev_allday = false -%}
+  {%- assign ev_dtstart = ev_sh | prepend: "0" | slice: -2, 2 | prepend: "T" | prepend: ev_date -%}
+  {%- assign ev_dtstart = ev_sm | prepend: "0" | slice: -2, 2 | append: "00" | prepend: ev_dtstart -%}
+  {%- assign ev_dtend = ev_eh | prepend: "0" | slice: -2, 2 | prepend: "T" | prepend: ev_date -%}
+  {%- assign ev_dtend = ev_em | prepend: "0" | slice: -2, 2 | append: "00" | prepend: ev_dtend -%}
+{%- else -%}
+  {%- assign ev_last = page.event_date_end | default: page.event_date -%}
+  {%- assign ev_dtstart = ev_date -%}
+  {%- assign ev_dtend = ev_last | date: "%s" | plus: 86400 | date: "%Y%m%d" -%}
+{%- endif -%}
+{%- assign ev_title = page.title | strip_html | strip -%}
+{%- assign ev_where = page.event_location | default: "" | strip -%}
+{%- assign ev_url = page.url | prepend: site.url -%}
+{%- assign ev_details = "Details: " | append: ev_url -%}
+
+{%- comment -%} Google Calendar link {%- endcomment -%}
+{%- capture gcal -%}https://calendar.google.com/calendar/render?action=TEMPLATE&text={{ ev_title | url_encode }}&dates={{ ev_dtstart }}/{{ ev_dtend }}{% unless ev_allday %}&ctz=Europe/Stockholm{% endunless %}&details={{ ev_details | url_encode }}{% if ev_where != "" %}&location={{ ev_where | url_encode }}{% endif %}{%- endcapture -%}
+
+{%- comment -%} .ics file: one line per array item, joined with CRLF; text values escaped per RFC 5545 {%- endcomment -%}
+{%- assign ics_title = ev_title | replace: "\", "\\" | replace: ",", "\," | replace: ";", "\;" -%}
+{%- assign ics_where = ev_where | replace: "\", "\\" | replace: ",", "\," | replace: ";", "\;" -%}
+{%- capture ics -%}
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Climate AI Nordics//climateainordics.com//EN
+CALSCALE:GREGORIAN
+{%- unless ev_allday %}
+BEGIN:VTIMEZONE
+TZID:Europe/Stockholm
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+{%- endunless %}
+BEGIN:VEVENT
+UID:{{ page.id | slugify }}@climateainordics.com
+DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
+{% if ev_allday %}DTSTART;VALUE=DATE:{{ ev_dtstart }}
+DTEND;VALUE=DATE:{{ ev_dtend }}{% else %}DTSTART;TZID=Europe/Stockholm:{{ ev_dtstart }}
+DTEND;TZID=Europe/Stockholm:{{ ev_dtend }}{% endif %}
+SUMMARY:{{ ics_title }}
+{% if ics_where != "" %}LOCATION:{{ ics_where }}
+{% endif %}URL:{{ ev_url }}
+DESCRIPTION:{{ ev_details }}
+END:VEVENT
+END:VCALENDAR
+{%- endcapture -%}
+{%- assign ics_lines = ics | strip | newline_to_br | split: "<br />" -%}
+{%- capture ics_href -%}data:text/calendar;charset=utf-8,{% for l in ics_lines %}{{ l | strip | url_encode | replace: "+", "%20" }}{% unless forloop.last %}%0D%0A{% endunless %}{% endfor %}{%- endcapture -%}
+
+<div class="page-actions event-actions">
+  {% if page.registration_url and page.registration_url != "" %}
+  <a class="home-btn home-btn--primary" href="{{ page.registration_url }}"><i class="fas fa-fw fa-pen-to-square" aria-hidden="true"></i> Register</a>
+  {% endif %}
+  <a class="home-btn home-btn--outline" href="{{ gcal }}" target="_blank" rel="noopener"><i class="fab fa-fw fa-google" aria-hidden="true"></i> Google Calendar</a>
+  <a class="home-btn home-btn--outline" href="{{ ics_href }}" download="{{ page.slug | default: 'event' }}.ics"><i class="fas fa-fw fa-calendar-plus" aria-hidden="true"></i> Apple / Outlook (.ics)</a>
+</div>

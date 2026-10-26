@@ -88,6 +88,18 @@
   }
 }
 
+/* Register / add-to-calendar buttons under the date box (_includes/event-actions.html) */
+.event-actions {
+  margin: 1em 0 0;
+
+  .home-btn { padding: 0.55em 1.1em; font-size: $type-size-6; }
+
+  // phones: Register on its own row, the two calendar buttons side by side
+  @media (max-width: 600px) {
+    .home-btn.home-btn--outline { flex: 1 1 0; padding-left: 0.6em; padding-right: 0.6em; }
+  }
+}
+
 /* Header image: never taller than a screenful, keeps its proportions */
 .page__content > .post-image,
 .post-image {
