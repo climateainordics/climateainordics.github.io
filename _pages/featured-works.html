@@ -1,0 +1,24 @@
+---
+title: Featured projects and papers
+permalink: /featured-works/
+layout: home
+---
+{% comment %}
+  New items are added as posts in featured-works/_posts. This file only controls how they are presented.
+{% endcomment %}
+
+<header class="list-header">
+  <h1 class="list-header__title">Featured projects and papers</h1>
+  <p class="list-header__lead">
+    Every month we feature one project or paper from members of Climate AI Nordics.
+    New features also go out in our newsletter: <a href="/join/">join us to receive it</a>,
+    or browse the <a href="/newsletter/">newsletter archive</a>.
+  </p>
+</header>
+
+<div class="home-grid list-grid">
+  {% for p in site.categories.featured-works %}
+    {% capture d %}{{ p.date | date: "%B %Y" }}{% endcapture %}
+    {% include home/card.html post=p date=d cta="Read more" summary=true %}
+  {% endfor %}
+</div>

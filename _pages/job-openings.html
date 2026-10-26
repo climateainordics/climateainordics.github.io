@@ -1,0 +1,24 @@
+---
+title: Job openings
+permalink: /job-openings/
+layout: home
+---
+{% comment %}
+  New items are added as posts in job-openings/_posts. This file only controls how they are presented.
+{% endcomment %}
+
+<header class="list-header">
+  <h1 class="list-header__title">Job openings</h1>
+  <p class="list-header__lead">
+    AI, climate and environment jobs across the Nordics, as posted by Climate AI Nordics.
+    We do <strong>not</strong> maintain the links, so they may stop working once application deadlines pass.
+    Openings are also shared in our newsletter: <a href="/join/">join us to receive it</a>.
+  </p>
+</header>
+
+<div class="home-grid list-grid">
+  {% for p in site.categories.job-openings %}
+    {% capture d %}{{ p.date | date: "%-d %b %Y" }}{% endcapture %}
+    {% include home/card.html post=p date=d cta="View opening" fit="contain" %}
+  {% endfor %}
+</div>

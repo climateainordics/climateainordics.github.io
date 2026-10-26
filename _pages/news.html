@@ -1,0 +1,65 @@
+---
+title: News
+permalink: /news/
+layout: home
+---
+{% comment %}
+  New items are added as posts in news/_posts (and job-openings/, featured-member/, featured-works/).
+  This file only controls how they are presented.
+{% endcomment %}
+
+<header class="list-header">
+  <h1 class="list-header__title">News</h1>
+  <p class="list-header__lead">
+    News from Climate AI Nordics and its members, including job openings, featured works and featured members.
+    Each month we collect recent news in a newsletter: <a href="/join/">join us to receive it</a>,
+    or browse the <a href="/newsletter/">newsletter archive</a>.
+  </p>
+</header>
+
+<div class="list-filters" role="group" aria-label="Filter news">
+  <button type="button" class="list-filter is-active" data-filter="all" aria-pressed="true">All</button>
+  <button type="button" class="list-filter" data-filter="news" aria-pressed="false">News</button>
+  <button type="button" class="list-filter" data-filter="featured-works" aria-pressed="false">Featured works</button>
+  <button type="button" class="list-filter" data-filter="featured-member" aria-pressed="false">Featured members</button>
+  <button type="button" class="list-filter" data-filter="job-openings" aria-pressed="false">Job openings</button>
+</div>
+
+<div class="home-grid list-grid" id="news-grid">
+{% for p in site.posts %}
+  {% assign cat = p.categories | first %}
+  {% if cat == "news" or cat == "job-openings" or cat == "featured-member" or cat == "featured-works" %}
+    {% case cat %}
+      {% when "job-openings" %}{% assign label = "Job opening" %}
+      {% when "featured-member" %}{% assign label = "Featured member" %}
+      {% when "featured-works" %}{% assign label = "Featured work" %}
+      {% else %}{% assign label = "News" %}
+    {% endcase %}
+    {% capture d %}{{ label }} · {{ p.date | date: "%-d %b %Y" }}{% endcapture %}
+    {% if cat == "job-openings" %}
+      {% include home/card.html post=p date=d cta="View opening" fit="contain" cat=cat %}
+    {% else %}
+      {% include home/card.html post=p date=d summary=true cat=cat %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</div>
+
+<script>
+  (function () {
+    var buttons = document.querySelectorAll('.list-filter');
+    var cards = document.querySelectorAll('#news-grid .home-card');
+    buttons.forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var f = btn.getAttribute('data-filter');
+        buttons.forEach(function (b) {
+          b.classList.toggle('is-active', b === btn);
+          b.setAttribute('aria-pressed', b === btn ? 'true' : 'false');
+        });
+        cards.forEach(function (c) {
+          c.hidden = !(f === 'all' || c.getAttribute('data-cat') === f);
+        });
+      });
+    });
+  })();
+</script>

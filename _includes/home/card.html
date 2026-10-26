@@ -1,23 +1,26 @@
 {% comment %}
-  Homepage post card.
+  Post card, used on the homepage, list pages and under posts.
   Params: post (required), date (shown as meta line), cta (link text),
-          fit ("contain" for logos, e.g. job openings), summary (true/false).
+          fit ("contain" for logos, e.g. job openings), summary (true/false),
+          title (overrides the post title), badge (small label on the image),
+          cat (sets data-cat, used by the filter chips on /news/).
 {% endcomment %}
 {% assign p = include.post %}
 {% assign img = p.image_small | default: p.image %}
-<article class="home-card">
+<article class="home-card"{% if include.cat %} data-cat="{{ include.cat }}"{% endif %}>
   <a class="home-card__media{% if include.fit == 'contain' %} home-card__media--contain{% endif %}{% unless img %} home-card__media--fallback{% endunless %}" href="{{ p.url }}" tabindex="-1" aria-hidden="true">
     {% if img %}
       <img src="{{ img }}" alt="" loading="lazy">
     {% else %}
       <img src="/images/climateainordics-logo-globeonly-600x600-greyscale.png" alt="" loading="lazy">
     {% endif %}
+    {% if include.badge %}<span class="home-card__badge">{{ include.badge }}</span>{% endif %}
   </a>
   <div class="home-card__body">
     {% if include.date %}<p class="home-card__meta">{{ include.date }}</p>{% endif %}
-    <h3 class="home-card__title"><a href="{{ p.url }}">{{ p.title }}</a></h3>
+    <h3 class="home-card__title"><a href="{{ p.url }}">{{ include.title | default: p.title }}</a></h3>
     {% if include.summary and p.summary %}
-      <p class="home-card__summary">{{ p.summary | markdownify | strip_html | strip_newlines | truncatewords: 22 }}</p>
+      <p class="home-card__summary">{{ p.summary | markdownify | strip_html | normalize_whitespace | truncatewords: 22 }}</p>
     {% endif %}
     <a class="home-card__cta" href="{{ p.url }}">{{ include.cta | default: "Read more" }} <span aria-hidden="true">&rarr;</span></a>
   </div>
