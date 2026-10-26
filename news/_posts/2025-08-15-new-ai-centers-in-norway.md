@@ -1,7 +1,4 @@
 ---
-event_date: 2025-08-26
-event_location: Online
-event_time: '10:00'
 image: /images/posts/2025-08-26-norway-ai-centers.webp
 image_small: /images/posts/2025-08-26-norway-ai-centers_small.webp
 people: []
