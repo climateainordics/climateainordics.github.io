@@ -8,11 +8,11 @@ permalink: /follow/
 Use the form below to join our mailing list! If you instead want to become a full member (affiliate) of Climate AI Nordics, [click here!](/join/)
 By joining Climate AI Nordics (CAIN), you can mark your affiliation with us by showing your name on our [people](/people/) page. You will also be able to share relevant news, job openings and events to the network through our webpage and our newsletter, and also communicate with others in the network, e.g. via our Slack workspace.
 
-[Click here to join the newsletter!](http://eepurl.com/i4SljY)
-
-[Click here to follow us on LinkedIn!](https://www.linkedin.com/company/climate-ai-nordics/)
-
-[Click here to follow us on BlueSky!](https://bsky.app/profile/climateainordics.com)
+<div class="follow-actions">
+  <a class="home-btn home-btn--primary" href="http://eepurl.com/i4SljY"><i class="fas fa-envelope" aria-hidden="true"></i> Join the newsletter</a>
+  <a class="home-btn home-btn--outline" href="https://www.linkedin.com/company/climate-ai-nordics/"><i class="fab fa-linkedin" aria-hidden="true"></i> Follow us on LinkedIn</a>
+  <a class="home-btn home-btn--outline" href="https://bsky.app/profile/climateainordics.com"><i class="fab fa-bluesky" aria-hidden="true"></i> Follow us on Bluesky</a>
+</div>
 
 If you have news, job openings or events relevant to AI for climate- and environment-related applications in the Nordic region, [feel free to inform us about this.](/contact/)
 
