@@ -23,10 +23,15 @@
 }
 
 .page {
+  // No sidebar anywhere since 2026-10: one centred column at a comfortable reading width
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    float: none;
+    width: 100%;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0;
+    padding-right: 0;
   }
 
   .page__inner-wrap {

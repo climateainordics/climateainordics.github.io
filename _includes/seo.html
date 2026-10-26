@@ -20,7 +20,8 @@
 
 <title>{{ seo_title | default: site.title }}{% if paginator %}{% unless paginator.page == 1 %} {{ site.title_separator }} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}{% endif %}</title>
 
-{% assign seo_description = page.description | default: page.excerpt | default: site.description %}
+{% comment %} Link-preview text: prefer the post's `summary` (written as a teaser) over its first paragraph. {% endcomment %}
+{% assign seo_description = page.description | default: page.summary | default: page.excerpt | default: site.description %}
 {% if seo_description %}
   {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}
@@ -48,7 +49,7 @@
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}
 
-{% if page.excerpt %}
+{% if page.summary or page.description or page.excerpt %}
   <meta property="og:description" name="description" content="{{ seo_description }}">
 {% endif %}
 

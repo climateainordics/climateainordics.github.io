@@ -25,10 +25,9 @@
 
 <meta http-equiv="cleartype" content="on">
 
-{% if page.social_media_image %}
-<meta property="og:image" name="image" content="{{ page.social_media_image }}">
-{% elsif page.image %}
-<meta property="og:image" name="image" content="{{ page.image }}">
-{% else %}
-<meta property="og:image" name="image" content="/images/climateainordics-logo-with-text-on-side-white-bg-1200x600.png">
-{% endif %}
+{% comment %} Link-preview image: platforms (LinkedIn, Facebook, Slack, ...) need a full https:// address. {% endcomment %}
+{% assign og_image = page.social_media_image | default: page.image | default: "/images/climateainordics-logo-with-text-on-side-white-bg-1200x600.png" %}
+{% unless og_image contains "://" %}{% assign og_image = og_image | prepend: site.url %}{% endunless %}
+<meta property="og:image" name="image" content="{{ og_image }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ og_image }}">
