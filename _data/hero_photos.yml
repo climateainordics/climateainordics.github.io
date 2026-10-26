@@ -1,0 +1,22 @@
+# Photos in the homepage hero collage (_pages/home.html), in tile order:
+# the first photo gets the large tile. Each is a ~640px-wide WebP in images/hero/
+# (the large one ~1000px). `position` is the CSS object-position: which part of
+# the photo stays visible when a tile crops it.
+- src: /images/hero/reffen.webp
+  alt: Workshop participants gathered outdoors at Reffen, Copenhagen
+  position: 50% 75%
+- src: /images/hero/panel.webp
+  alt: Panel discussion at the 2nd Workshop on AI for Climate & Conservation
+  position: 50% 60%
+- src: /images/hero/audience.webp
+  alt: Audience at a workshop talk
+  position: 50% 55%
+- src: /images/hero/lunch-park.webp
+  alt: Participants having lunch on the grass in a park
+  position: 50% 70%
+- src: /images/hero/ferry.webp
+  alt: Participants on the quay before a ferry trip
+  position: 50% 70%
+- src: /images/hero/evening.webp
+  alt: Evening social under a tent with string lights
+  position: 50% 60%

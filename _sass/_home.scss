@@ -84,18 +84,17 @@
    ========================================================================== */
 
 .home-hero {
-  display: flex;
-  align-items: flex-end;
-  min-height: 420px;
+  // split hero: text on a dark teal panel (left), photo collage (right)
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr);
+  min-height: 440px;
   border-radius: 20px;
   overflow: hidden;
   color: #fff;
-  background:
-    linear-gradient(90deg, rgba($brand-dark, 0.92) 0%, rgba($brand-dark, 0.7) 45%, rgba($brand-dark, 0.15) 100%),
-    url(/images/backgrounds/hero.jpg) center 60% / cover no-repeat;
+  background: $brand-dark;
 
   &__inner {
-    max-width: 760px;
+    align-self: center;
     padding: 3em 2.5em;
   }
 
@@ -129,6 +128,32 @@
     gap: 0.75em;
   }
 
+  // 3x3 grid: the first photo takes a 2x2 tile at the top left
+  &__collage {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-rows: repeat(3, minmax(0, 1fr));
+    gap: 6px;
+    padding: 8px 8px 8px 0;
+
+    img {
+      display: block;
+      width: 100% !important;  // shield from any global inline `img { ... }` rule
+      height: 100%;
+      min-height: 0;
+      margin: 0 !important;
+      padding: 0 !important;
+      float: none !important;
+      object-fit: cover;
+      border-radius: 12px;
+    }
+
+    img:first-child {
+      grid-column: 1 / span 2;
+      grid-row: 1 / span 2;
+    }
+  }
+
   // on dark ground the primary button is white, the ghosts stay outlined
   .home-btn--primary {
     background: #fff;
@@ -138,14 +163,26 @@
     &:hover { background: $brand-light; }
   }
 
-  @media (max-width: 600px) {
+  // narrower screens: collage on top, text below
+  @media (max-width: 1279px) { // below the $x-large breakpoint the text column gets too narrow
+    grid-template-columns: minmax(0, 1fr);
     min-height: 0;
-    border-radius: 14px;
-    background:
-      linear-gradient(180deg, rgba($brand-dark, 0.55) 0%, rgba($brand-dark, 0.92) 70%),
-      url(/images/backgrounds/hero.jpg) center / cover no-repeat;
 
-    &__inner { padding: 6em 1.4em 1.8em; }
+    &__collage {
+      order: -1;
+      height: clamp(220px, 42vw, 420px);
+      padding: 8px 8px 0;
+    }
+
+    &__inner { padding: 2em 2.5em 2.5em; }
+  }
+
+  @media (max-width: 600px) {
+    border-radius: 14px;
+
+    &__collage { height: 62vw; gap: 4px; padding: 6px 6px 0; }
+    &__collage img { border-radius: 8px; }
+    &__inner { padding: 1.6em 1.4em 1.8em; }
     &__title { font-size: 2em; }
     &__lead { font-size: $type-size-5; }
     .home-btn { flex: 1 1 100%; text-align: center; }

@@ -28,6 +28,11 @@ layout: home
       <a class="home-btn home-btn--ghost" href="/people/">Meet the people</a>
     </div>
   </div>
+  <div class="home-hero__collage">
+    {% for photo in site.data.hero_photos limit: 6 %}
+      <img src="{{ photo.src }}" alt="{{ photo.alt }}"{% if photo.position %} style="object-position: {{ photo.position }}"{% endif %}{% if forloop.first %} fetchpriority="high"{% endif %}>
+    {% endfor %}
+  </div>
 </section>
 
 <section class="home-stats" aria-label="The network in numbers">

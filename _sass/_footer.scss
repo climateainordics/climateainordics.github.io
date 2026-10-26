@@ -107,6 +107,7 @@
   li {
     margin: 0 0 0.55em;
     font-size: $type-size-6 * 1.2;
+    overflow-wrap: anywhere; // long email address on tablet widths
   }
 
   .fas,
