@@ -1,4 +1,5 @@
 ---
+float_photos: true # speaker photos float right of the text (see _sass/_post.scss)
 image: /images/nordic-workshop-1200x846.png
 image_small: /images/nordic-workshop-1200x846_small.png
 people:
@@ -12,13 +13,6 @@ summary: The 2025 Nordic Workshop on AI for Climate Change will gather researche
 title: 2025 Nordic Workshop on AI for Climate Change
 ---
 
-<style>
-img {
-  width: 12em;
-  float: right;
-  padding: 1em 0em 1em 1em;
-}
-</style>
 
 
 ## Schedule

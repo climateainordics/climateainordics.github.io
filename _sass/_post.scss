@@ -100,6 +100,15 @@
   }
 }
 
+/* Pages with `float_photos: true` (workshop pages): speaker photos float right of their bios */
+.page__content--float-photos p > img {
+  float: right;
+  width: 12em;
+  padding: 1em 0 1em 1em;
+
+  @media (max-width: 600px) { width: 8em; }
+}
+
 /* Header image: never taller than a screenful, keeps its proportions */
 .page__content > .post-image,
 .post-image {

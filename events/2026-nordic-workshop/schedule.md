@@ -1,4 +1,5 @@
 ---
+float_photos: true # speaker photos float right of the text (see _sass/_post.scss)
 image: /images/posts/workshop-2026-for-schedule.png
 image_small: /images/posts/workshop-2026-for-schedule_small.png
 people:
@@ -15,13 +16,6 @@ summary: The 2026 Nordic Workshop on AI for Climate will gather researchers from
 title: 2026 Nordic Workshop on AI for Climate
 ---
 
-<style>
-img {
-  width: 12em;
-  float: right;
-  padding: 1em 0em 1em 1em;
-}
-</style>
 
 See also [the event page](https://climateainordics.com/events/2026-nordic-workshop) for additional information incl. on registration!
 

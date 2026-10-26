@@ -12,13 +12,6 @@ summary: The 2026 Nordic Workshop on AI for Climate Change will gather researche
 title: 2026 Nordic Workshop on AI for Climate Change
 ---
 
-<style>
-img {
-  width: 12em;
-  float: right;
-  padding: 1em 0em 1em 1em;
-}
-</style>
 
 
 ## Speaker instructions
