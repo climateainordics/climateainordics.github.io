@@ -53,5 +53,5 @@ In the long-term, there may be a digital 3D representation of this artificial cl
 
 To explore the AukLab project further and view the 3D model of the artificial rock shelf, please visit the AukLab webpage: [http://www.balticseabird.com/auklab/](http://www.balticseabird.com/auklab/). You can also find more about the acoustic monitoring setup at John Martinsson’s research webpage: [https://johnmartinsson.org](https://johnmartinsson.org).
 
-![The installation of cameras, microphones, cables, and switches in the Auklab.](/images/posts/2025-04-30-featured-project/cables.png)
+![The installation of cameras, microphones, cables, and switches in the Auklab.](/images/posts/2025-04-30-featured-project/cables.jpg)
 ![PA working on the installation of recorders in the Auklab.](/images/posts/2025-04-30-featured-project/pa-installing.png)

@@ -49,7 +49,7 @@ We look forward to continuing to grow this community and to further strengthenin
 
 ![](/images/posts/2026-06-26-cain26workshop/poster2.jpg)
 
-![](/images/posts/2026-06-26-cain26workshop/lucia-et-al.jpg)
+![](/images/posts/2026-06-26-cain26workshop/lucia-et-al.jpeg)
 
 ![](/images/posts/2026-06-26-cain26workshop/sai-talk.jpg)
 
