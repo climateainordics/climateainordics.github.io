@@ -10,6 +10,9 @@ $(document).ready(function(){
     didResize = false;
 
   bumpIt();
+  // Re-measure once web fonts and images have loaded, as they change the footer's height
+  $(window).on("load", bumpIt);
+  if (document.fonts) { document.fonts.ready.then(bumpIt); }
 
   $(window).resize(function() {
     didResize = true;

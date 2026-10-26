@@ -78,6 +78,15 @@
   white-space: nowrap;
 
   &:before { display: none !important; }
+
+  // Narrow phones: keep logo + name + menu button + Join on one line
+  @media (max-width: 420px) {
+    gap: 0.45em;
+    font-size: 0.95em;
+  }
+  @media (max-width: 340px) {
+    font-size: 0.85em;
+  }
 }
 
 .masthead__logo {
@@ -106,4 +115,6 @@
 
   &:hover,
   &.is-active { background: $brand-dark; }
+
+  @media (max-width: 420px) { padding: 0.45em 0.95em; }
 }

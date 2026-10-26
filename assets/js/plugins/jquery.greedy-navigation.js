@@ -16,14 +16,16 @@ function updateNav() {
 
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 
-  // The visible list is overflowing the nav
-  if($vlinks.width() > availableSpace) {
+  var $movable = $vlinks.children('*:not(.masthead__menu-item--lg)');
+
+  // The visible list is overflowing the nav (and there is still an item left to hide)
+  if($vlinks.width() > availableSpace && $movable.length) {
 
     // Record the width of the list
     breaks.push($vlinks.width());
 
     // Move item to the hidden list
-    $vlinks.children('*:not(.masthead__menu-item--lg)').last().prependTo($hlinks);
+    $movable.last().prependTo($hlinks);
 
     // Show the dropdown btn
     if($btn.hasClass('hidden')) {
@@ -34,7 +36,7 @@ function updateNav() {
   } else {
 
     // There is space for another item in the nav
-    if(availableSpace > breaks[breaks.length-1]) {
+    if(breaks.length && availableSpace > breaks[breaks.length-1]) {
 
       // Move the item to the visible list
       $hlinks.children().first().appendTo($vlinks);
@@ -51,11 +53,12 @@ function updateNav() {
   // Keep counter updated
   $btn.attr("count", breaks.length);
 
-  // Recur if the visible list is still overflowing the nav,
-  // or if there is still room to bring back more hidden items (e.g. after widening the window)
-  if($vlinks.width() > availableSpace) {
+  // Recur if the visible list is still overflowing the nav and something can still be hidden,
+  // or if there is still room to bring back more hidden items (e.g. after widening the window).
+  // The guards stop endless recursion when nothing is left to move (e.g. on a very narrow phone).
+  if($vlinks.width() > availableSpace && $vlinks.children('*:not(.masthead__menu-item--lg)').length) {
     updateNav();
-  } else if(breaks.length && availableSpace > breaks[breaks.length-1]) {
+  } else if(breaks.length && $hlinks.children().length && availableSpace > breaks[breaks.length-1]) {
     updateNav();
   }
 
