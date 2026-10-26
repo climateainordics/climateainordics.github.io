@@ -66,6 +66,26 @@
     font-weight: 700;
     color: $brand-dark;
   }
+
+  // events that are over: grey box, with a "This event has passed" line on top
+  &--past {
+    background: $lighter-gray;
+
+    dt { color: $dark-gray; }
+  }
+
+  &__item--status {
+    flex: 1 1 100%;
+
+    dd {
+      display: inline-block;
+      padding: 0.3em 0.8em;
+      border-radius: 999px;
+      background: $brand-dark;
+      color: #fff;
+      font-size: $type-size-6;
+    }
+  }
 }
 
 /* Header image: never taller than a screenful, keeps its proportions */

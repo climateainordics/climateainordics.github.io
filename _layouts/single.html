@@ -41,7 +41,16 @@ layout: default
 
           {% if page.event_date %}
             {% capture event_time %}{% include event-time.html time=page.event_time %}{% endcapture %}
-            <dl class="event-facts">
+            {% comment %} Past = ended before the day the site was built (the site rebuilds on every push) {% endcomment %}
+            {% assign event_end = page.event_date_end | default: page.event_date | date: "%Y%m%d" | plus: 0 %}
+            {% assign build_day = site.time | date: "%Y%m%d" | plus: 0 %}
+            <dl class="event-facts{% if event_end < build_day %} event-facts--past{% endif %}">
+              {% if event_end < build_day %}
+              <div class="event-facts__item event-facts__item--status">
+                <dt class="screen-reader-text">Status</dt>
+                <dd><i class="fas fa-fw fa-clock-rotate-left" aria-hidden="true"></i> This event has passed{% if page.youtube and page.youtube != "" %}. Watch the recording below.{% endif %}</dd>
+              </div>
+              {% endif %}
               <div class="event-facts__item">
                 <dt><i class="fas fa-fw fa-calendar" aria-hidden="true"></i> Date</dt>
                 <dd>{{ page.event_date | date: "%a %-d %B %Y" }}{% if page.event_date_end and page.event_date_end != page.event_date %} – {{ page.event_date_end | date: "%a %-d %B %Y" }}{% endif %}</dd>
