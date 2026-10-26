@@ -69,4 +69,4 @@ Here's to the next year of AI for climate action across the Nordics, and see you
 
 ### A note on AI use
 
-In the spirit of transparency: much of the work behind the new website was done with the help of an AI coding assistant ([Claude Code](https://claude.com/claude-code) by Anthropic). It wrote most of the code for the new layout and styles, fixed bugs, prepared the image versions and screenshots, and helped draft this post. All design decisions were ours: we chose the direction, tried every change on a separate test version of the site, asked for many adjustments, and approved each change before it went live. The photos on the website are real photos from our own events.
+In the spirit of transparency: much of the work behind the new website was done with the help of an AI coding assistant, which wrote most of the code for the new layout and styles, fixed bugs, prepared the image versions and screenshots. All design decisions were ours: we chose the direction, tried every change on a separate test version of the site, asked for many adjustments, and approved each change before it went live. The photos on the website are real photos from our own events.
