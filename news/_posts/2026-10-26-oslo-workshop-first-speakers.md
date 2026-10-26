@@ -27,6 +27,6 @@ Talk titles and abstracts will follow on the [workshop page](/events/2027-nordic
 
 The workshop will feature a mix of keynotes, oral presentations and posters on AI for tackling climate change, including Earth observation, biodiversity monitoring, the green transition and sustainable AI. Work in progress and descriptions of ongoing projects are very welcome too. When registering, you can say whether you would like to bring a poster, and also opt to give a short oral presentation about it. Registration is not open yet; follow our [news](/news/) or [sign up for the newsletter](/follow/) to hear when it opens.
 
-The workshop is the third in our annual series, following [Gothenburg in 2025](/news/2025-05-20-nordic-workshop/) and [Copenhagen in 2026](/news/2026-06-26-nordic-workshop-recap/). It is organized by Alouette van Hove (University of Oslo), Laura Helene Rasmussen (University of Copenhagen), and Aleksis Pirinen and Olof Mogren (RISE Research Institutes of Sweden).
+The workshop is the third in our annual series, following [Gothenburg in 2025](/news/2025-05-20-nordic-workshop/) and [Copenhagen in 2026](/news/2026-06-26-nordic-workshop-recap/).
 
 **Save the date, 22 April 2027, and see you in Oslo!**
