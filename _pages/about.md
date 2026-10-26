@@ -3,7 +3,7 @@ permalink: /about/
 title: "About Climate AI Nordics"
 excerpt: "About Climate AI Nordics"
 author_profile: false
-image: /images/events/cain-may2025.png
+image: /images/posts/2025-05-20-nordic-workshop/audience.jpg
 
 #Core team members:
 #

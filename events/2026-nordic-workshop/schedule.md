@@ -118,7 +118,7 @@ For speakers, see presentation instructions [here](speaker-instructions.html).
 {% assign presentation_number = 1 %}
 
 <a name="celine"></a>
-![](celine.png)
+![](/events/2026-nordic-workshop/celine.png)
 **{{ presentation_number }}. Céline Heuzé**, University of Gothenburg, Sweden<br />
 **Title:** AI and the Arctic<br />
 **Presentation type:** Keynote, Poster <br />
@@ -130,7 +130,7 @@ For speakers, see presentation instructions [here](speaker-instructions.html).
 [Back to top of page](#top)
 
 {% assign presentation_number = presentation_number | plus: 1 %}
-![](joakim.jpg)
+![](/events/2026-nordic-workshop/joakim.jpg)
 <a name="joakim"></a>
 **{{ presentation_number }}. Joakim Haurum**, University of Southern Denmark & Pioneer Centre for AI, Denmark<br />
 **Title:** Computer Vision and Multimodal AI for Ecological Monitoring<br />
@@ -142,7 +142,7 @@ For speakers, see presentation instructions [here](speaker-instructions.html).
 [Back to top of page](#top)
 
 {% assign presentation_number = presentation_number | plus: 1 %}
-![](BerryEklund.png)
+![](/events/2026-nordic-workshop/BerryEklund.png)
 <a name="frida"></a>
 **{{ presentation_number }}. Frida Berry Eklund**, Klimatkollen, Sweden<br />
 **Title:** Radical Climate Transparency with Garbo AI<br />
