@@ -10,7 +10,7 @@ permalink: /partners/
 The following organizations are partners to Climate AI Nordics. We share similar goals and objectives and collaborate on selected activities.
 
 <div class="callout" markdown="1">
-**Would you like to partner with us?** Get in touch! [contact@climateainordics.com](mailto:contact@climateainordics.com)
+**Would you like to partner with us, or become a sponsor?** Get in touch! [contact@climateainordics.com](mailto:contact@climateainordics.com)
 
 <div class="page-actions">
   <a class="home-btn home-btn--primary" href="mailto:contact@climateainordics.com"><i class="fas fa-envelope" aria-hidden="true"></i> Email us</a>
