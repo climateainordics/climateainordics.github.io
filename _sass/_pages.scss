@@ -38,17 +38,6 @@
   .page-actions { margin: 1em 0 0; }
 }
 
-/* Board / people blocks (auto-generated includes): photo floated right of the text */
-.page__content .content {
-  overflow: auto; // contain the floated photo
-
-  img {
-    width: 8em;
-    float: right;
-    padding: 1em 0 1em 1em;
-  }
-}
-
 /* Partners page */
 .partner-grid {
   display: grid;
