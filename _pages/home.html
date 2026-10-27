@@ -120,6 +120,21 @@ layout: home
   </div>
 </section>
 
+{% comment %} Featured members: the three latest, shown like on /featured-member/ (person's name as the title) {% endcomment %}
+<section class="home-section">
+  <header class="home-section__head">
+    <h2>Featured members</h2>
+    <a class="home-link" href="/featured-member/">All featured members <span aria-hidden="true">&rarr;</span></a>
+  </header>
+  <div class="home-grid">
+    {% for p in site.categories.featured-member limit: 3 %}
+      {% assign person = p.people | first | default: p.title %}
+      {% capture d %}{{ p.date | date: "%B %Y" }}{% endcapture %}
+      {% include home/card.html post=p date=d cta="Meet them" summary=true title=person %}
+    {% endfor %}
+  </div>
+</section>
+
 {% comment %}
   Open positions only: same rule as "Current job openings" on /job-openings/ (see _includes/deadline-status.html).
   The section is hidden when there are none.
