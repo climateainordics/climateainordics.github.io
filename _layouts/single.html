@@ -100,6 +100,11 @@ layout: default
   {% if page.youtube and page.youtube != "" %}
         <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.youtube }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         <br />
+  {% elsif page.image_grid %}
+        {% comment %} 2x2 photo grid in place of the header image (page.image stays the link-preview image) {% endcomment %}
+        <div class="post-image-grid">
+          {% for img in page.image_grid limit: 4 %}<img src="{{ img.src }}" alt="{{ img.alt }}">{% endfor %}
+        </div>
   {% elsif page.image %}
 	<img class="post-image" src="{{ page.image }}"{% if page.image_width %} style="width: {{ page.image_width }};"{% endif %} alt="{{ page.imagealt }}" />
 		  

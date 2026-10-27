@@ -4,6 +4,15 @@ title: "About Climate AI Nordics"
 excerpt: "About Climate AI Nordics"
 author_profile: false
 image: /images/posts/2025-05-20-nordic-workshop/audience.jpg
+image_grid: # 2x2 photo grid at the top (the single `image` above is used for link previews)
+  - src: /images/about/audience.jpg
+    alt: Audience at the 1st Nordic Workshop on AI for Climate in Gothenburg, 2025
+  - src: /images/about/panel.jpg
+    alt: Panel discussion at the AICC-2 workshop at ECCV 2026 in Malmö
+  - src: /images/about/devis.jpg
+    alt: Talk at the AICC-2 workshop at ECCV 2026 in Malmö
+  - src: /images/about/brainstorming.jpg
+    alt: Brainstorming session at the 2nd Nordic Workshop on AI for Climate in Copenhagen, 2026
 
 #Core team members:
 #

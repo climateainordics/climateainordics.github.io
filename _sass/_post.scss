@@ -123,6 +123,30 @@
   border-radius: 14px;
 }
 
+/* 2x2 photo grid instead of a header image (front matter `image_grid`, e.g. About).
+   Same box as .post-image with a 4:3 photo: full width, at most 28em tall. */
+.post-image-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 6px;
+  width: 100%;
+  max-width: 28em * 4 / 3;
+  aspect-ratio: 4 / 3;
+  margin: 0 0 1.5em;
+  border-radius: 14px;
+  overflow: hidden;
+
+  img {
+    display: block;
+    width: 100% !important;  // shield from global inline `img { ... }` rules
+    height: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
+    float: none !important;
+    object-fit: cover;
+  }
+}
+
 /* Readable body text */
 .page__content {
   p, li {
