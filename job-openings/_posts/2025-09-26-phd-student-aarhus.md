@@ -1,4 +1,5 @@
 ---
+deadline: 2025-11-01
 image: /images/external-organizations-logos/aarhus.png
 image_small: /images/external-organizations-logos/aarhus_small.png
 people:

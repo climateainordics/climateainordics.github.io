@@ -1,4 +1,5 @@
 ---
+deadline: 2025-09-12
 image: /images/external-organizations-logos/lund-university.png
 image_small: /images/external-organizations-logos/lund-university_small.png
 people:

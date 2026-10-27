@@ -1,5 +1,5 @@
 ---
-deadline: ''
+deadline: Rolling
 image: /images/external-organizations-logos/ccai.png
 image_small: /images/external-organizations-logos/ccai_small.png
 people:

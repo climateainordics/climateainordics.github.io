@@ -1,4 +1,5 @@
 ---
+deadline: 2026-07-03
 image: /images/external-organizations-logos/uio.png
 image_small: /images/external-organizations-logos/uio.png
 people:

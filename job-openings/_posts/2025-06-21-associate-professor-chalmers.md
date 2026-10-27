@@ -1,4 +1,5 @@
 ---
+deadline: 2025-08-24
 image: /images/external-organizations-logos/chalmers.png
 image_small: /images/external-organizations-logos/chalmers_small.png
 people:

@@ -1,4 +1,5 @@
 ---
+deadline: Rolling
 image: /images/external-organizations-logos/rise-margins.png
 image_small: /images/external-organizations-logos/rise-margins_small.png
 people:
