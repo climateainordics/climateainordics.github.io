@@ -3,7 +3,8 @@
   Params: post (required), date (shown as meta line), cta (link text),
           fit ("contain" for logos, e.g. job openings), summary (true/false),
           title (overrides the post title), badge (small label on the image),
-          cat (sets data-cat, used by the filter chips on /news/).
+          cat (sets data-cat, used by the filter chips on /news/),
+          highlight (true: teal outline and a "Flagship event" badge, for events with `highlight: true`).
 {% endcomment %}
 {% assign p = include.post %}
 {% comment %} Card-sized copy from _scripts/make_card_images.py when there is one (many image_small files are tiny and look blurry). {% endcomment %}
@@ -22,14 +23,16 @@
   {% assign card_deadline_past = deadline_past %}
   {% assign card_job_stale = job_stale %}
 {% endif %}
-<article class="home-card"{% if include.cat %} data-cat="{{ include.cat }}"{% endif %}>
+{% assign card_badge = include.badge %}
+{% if include.highlight %}{% assign card_badge = include.badge | default: "Flagship event" %}{% endif %}
+<article class="home-card{% if include.highlight %} home-card--highlight{% endif %}"{% if include.cat %} data-cat="{{ include.cat }}"{% endif %}>
   <a class="home-card__media{% if include.fit == 'contain' %} home-card__media--contain{% endif %}{% unless img %} home-card__media--fallback{% endunless %}" href="{{ p.url }}" tabindex="-1" aria-hidden="true">
     {% if img %}
       <img src="{{ img }}" alt="" loading="lazy">
     {% else %}
       <img src="/images/climateainordics-logo-globeonly-600x600-greyscale.png" alt="" loading="lazy">
     {% endif %}
-    {% if include.badge %}<span class="home-card__badge">{{ include.badge }}</span>{% endif %}
+    {% if card_badge %}<span class="home-card__badge">{{ card_badge }}</span>{% endif %}
   </a>
   <div class="home-card__body">
     {% if include.date %}<p class="home-card__meta">{{ include.date }}{% if card_past %} <span class="home-card__past">· This event has passed</span>{% endif %}{% if card_deadline_past %} <span class="home-card__past">· Deadline passed</span>{% endif %}{% if card_job_stale %} <span class="home-card__past">· Likely closed</span>{% endif %}</p>{% endif %}

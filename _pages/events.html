@@ -24,6 +24,10 @@ layout: home
   {% if end >= today %}{% assign upcoming = upcoming | push: p %}{% else %}{% assign past = past | push: p %}{% endif %}
 {% endfor %}
 {% assign past = past | reverse %}
+{% comment %} Events with `highlight: true` come first under Upcoming ("Flagship event") {% endcomment %}
+{% assign upcoming_flagship = upcoming | where: "highlight", true %}
+{% assign upcoming_rest = upcoming | where_exp: "p", "p.highlight != true" %}
+{% assign upcoming = upcoming_flagship | concat: upcoming_rest %}
 
 <section class="home-section list-section">
   <header class="home-section__head"><h2>Upcoming</h2></header>
@@ -32,7 +36,7 @@ layout: home
     {% for p in upcoming %}
       {% capture t %}{% include event-time.html time=p.event_time %}{% endcapture %}
       {% capture d %}{{ p.event_date | date: "%-d %b %Y" }}{% if p.event_date_end and p.event_date_end != p.event_date %} – {{ p.event_date_end | date: "%-d %b %Y" }}{% endif %}{% if t != "" %} · {{ t }}{% endif %}{% endcapture %}
-      {% include home/card.html post=p date=d summary=true cta="Event details" %}
+      {% include home/card.html post=p date=d summary=true cta="Event details" highlight=p.highlight %}
     {% endfor %}
   </div>
   {% else %}

@@ -55,21 +55,10 @@ layout: home
   <img class="home-about__logo" src="/images/climateainordics-logo-globeonly-600x600.png" alt="" width="200" height="200">
 </section>
 
-{% assign pinned = site.posts | where: "first_page", true %}
-{% for p in pinned %}
-<section class="home-spotlight">
-  {% assign img = site.data.card_images[p.path] | default: p.image_small | default: p.image %}
-  {% if img %}<img class="home-spotlight__img" src="{{ img }}" alt="">{% endif %}
-  <div class="home-spotlight__body">
-    <p class="home-card__meta">Highlight</p>
-    <h2 class="home-spotlight__title"><a href="{{ p.url }}">{{ p.title }}</a></h2>
-    {% if p.summary %}<p>{{ p.summary | markdownify | strip_html | truncatewords: 45 }}</p>{% endif %}
-    <a class="home-btn home-btn--primary" href="{{ p.url }}">Read more</a>
-  </div>
-</section>
-{% endfor %}
-
-{% comment %} Upcoming events: sorted by date, ending today or later. The section is hidden when there are none. {% endcomment %}
+{% comment %}
+  Upcoming events: sorted by date, ending today or later; events with `highlight: true` come first
+  ("Flagship event"). The section is hidden when there are none.
+{% endcomment %}
 {% assign today = site.time | date: "%Y%m%d" | plus: 0 %}
 {% assign events_sorted = site.categories.events | sort: "event_date", "last" %}
 {% assign upcoming = "" | split: "" %}
@@ -77,6 +66,9 @@ layout: home
   {% assign end = p.event_date_end | default: p.event_date | date: "%Y%m%d" | plus: 0 %}
   {% if end >= today %}{% assign upcoming = upcoming | push: p %}{% endif %}
 {% endfor %}
+{% assign upcoming_flagship = upcoming | where: "highlight", true %}
+{% assign upcoming_rest = upcoming | where_exp: "p", "p.highlight != true" %}
+{% assign upcoming = upcoming_flagship | concat: upcoming_rest %}
 
 {% if upcoming.size > 0 %}
 <section class="home-section">
@@ -88,7 +80,7 @@ layout: home
     {% for p in upcoming limit: 3 %}
       {% capture t %}{% include event-time.html time=p.event_time %}{% endcapture %}
       {% capture d %}{{ p.event_date | date: "%-d %b %Y" }}{% if p.event_date_end %} – {{ p.event_date_end | date: "%-d %b %Y" }}{% endif %}{% if t != "" %} · {{ t }}{% endif %}{% endcapture %}
-      {% include home/card.html post=p date=d cta="Event details" %}
+      {% include home/card.html post=p date=d cta="Event details" highlight=p.highlight %}
     {% endfor %}
   </div>
 </section>
