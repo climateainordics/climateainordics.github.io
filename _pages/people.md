@@ -20,7 +20,7 @@ layout: home
 <header class="list-header">
   <h1 class="list-header__title">People</h1>
   <p class="list-header__lead">
-    We're a network of practitioners across the Nordics who work on problems related to tackling
+    We're a network of researchers & practitioners across the Nordics who work on problems related to tackling
     climate change using AI and machine learning. Climate AI Nordics acts as a hub, hosting and
     announcing news, seminars and workshops.
   </p>
