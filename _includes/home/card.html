@@ -24,7 +24,6 @@
   {% assign card_job_stale = job_stale %}
 {% endif %}
 {% assign card_badge = include.badge %}
-{% if include.highlight %}{% assign card_badge = include.badge | default: "Flagship event" %}{% endif %}
 <article class="home-card{% if include.highlight %} home-card--highlight{% endif %}"{% if include.cat %} data-cat="{{ include.cat }}"{% endif %}>
   <a class="home-card__media{% if include.fit == 'contain' %} home-card__media--contain{% endif %}{% unless img %} home-card__media--fallback{% endunless %}" href="{{ p.url }}" tabindex="-1" aria-hidden="true">
     {% if img %}
@@ -40,6 +39,14 @@
     {% if include.summary and p.summary %}
       <p class="home-card__summary">{{ p.summary | markdownify | strip_html | normalize_whitespace | truncatewords: 22 }}</p>
     {% endif %}
-    <a class="home-card__cta" href="{{ p.url }}">{{ include.cta | default: "Read more" }} <span aria-hidden="true">&rarr;</span></a>
+    {% if include.highlight %}
+      {% comment %} Flagship label in the white area, right of the link (not on the image, where it can cover text in posters) {% endcomment %}
+      <div class="home-card__foot">
+        <a class="home-card__cta" href="{{ p.url }}">{{ include.cta | default: "Read more" }} <span aria-hidden="true">&rarr;</span></a>
+        <span class="home-card__flag">Flagship event</span>
+      </div>
+    {% else %}
+      <a class="home-card__cta" href="{{ p.url }}">{{ include.cta | default: "Read more" }} <span aria-hidden="true">&rarr;</span></a>
+    {% endif %}
   </div>
 </article>

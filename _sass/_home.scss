@@ -307,8 +307,30 @@
   &--highlight {
     border: 2px solid $brand-color;
     box-shadow: 0 6px 20px rgba($brand-dark, 0.12);
+  }
 
-    .home-card__badge { background: $brand-accent; color: $brand-dark; }
+  // bottom row of a highlighted card: link on the left, "Flagship event" label on the right
+  &__foot {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5em;
+    margin-top: auto;
+
+    .home-card__cta { margin-top: 0; }
+  }
+
+  &__flag {
+    padding: 0.25em 0.7em;
+    border-radius: 999px;
+    background: $brand-accent;
+    color: $brand-dark;
+    font-size: $type-size-7;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    white-space: nowrap;
   }
 
   &__media {
