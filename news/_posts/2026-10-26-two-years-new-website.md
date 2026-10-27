@@ -50,6 +50,12 @@ The [Events](/events/) page is now split into **Upcoming** and **Past events**, 
 
 ![An event page before and after: the new design shows the date, weekday and time in a clear box](/images/posts/2026-10-26-two-years/event-before-after.jpg)
 
+### Find people in the network
+
+The [People](/people/) page is now easier to explore. The board is shown with photos, and all members are listed in a compact directory with their organisation, research topics and links to their profiles. You can **search by name, organisation or topic**, or pick one of the most common topics, such as Earth Observation or Biodiversity, to find people working on it.
+
+![The People page with a search box and topic buttons, here showing everyone working on biodiversity](/images/posts/2026-10-26-two-years/people-directory.jpg)
+
 ### Designed for your phone, too
 
 Many of you read our news on your phone, so every page has been checked on small screens. The menu folds into a compact button, the pages no longer scroll sideways, and the old sidebar no longer pushes the content down.
@@ -60,6 +66,9 @@ Many of you read our news on your phone, so every page has been checked on small
 
 - **Sharper images** throughout the news and event lists.
 - A **"More news / More events"** section at the end of each post, with related posts.
+- **Add events to your calendar** with one click (Google Calendar, or a file for Apple Calendar and Outlook).
+- Past events and job openings whose deadline has passed are now **clearly marked**, and the [Job openings](/job-openings/) page is split into current and past positions.
+- **Faster pages:** many images are now much smaller, so pages load quicker, especially on phones.
 - A new **footer** with quick links, contact details and our social media channels.
 - Cleaner [About](/about/), [Join](/join/), [Follow](/follow/) and [Partners](/partners/) pages, with clear buttons and a card for each of our partners.
 
