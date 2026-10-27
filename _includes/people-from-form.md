@@ -2057,3 +2057,9 @@ Biodiversity * Climate Impacts * Efficient or Sustainable AI * Extreme Weather E
 <br />
 Climate Impacts * Earth Observation * Efficient or Sustainable AI * Sustainable Production * [Research group](https://trase.earth/)
 </div>
+
+<div class="content" markdown="1" data-tags="Climate Impacts,Climate Modeling,Deep Learning,Extreme Weather Events,Machine Learning">
+<span title="Associate ProfessorIAP-CAS."><strong>Victor Dike, Associate Professor, IAP-CAS</strong></span>
+<br />
+Climate Impacts * Climate Modeling * Deep Learning * Extreme Weather Events * Machine Learning * [Publications (Scholar)](https://scholar.google.com/citations?hl=en&amp;user=a8D5OKQAAAAJ) * [ORCID](https://orcid.org/0000-0003-2268-5859)
+</div>
