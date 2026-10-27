@@ -69,7 +69,7 @@ layout: home
 </section>
 {% endfor %}
 
-{% comment %} Upcoming events: sorted by date, ending today or later; falls back to the most recent ones. {% endcomment %}
+{% comment %} Upcoming events: sorted by date, ending today or later. The section is hidden when there are none. {% endcomment %}
 {% assign today = site.time | date: "%Y%m%d" | plus: 0 %}
 {% assign events_sorted = site.categories.events | sort: "event_date", "last" %}
 {% assign upcoming = "" | split: "" %}
@@ -78,26 +78,21 @@ layout: home
   {% if end >= today %}{% assign upcoming = upcoming | push: p %}{% endif %}
 {% endfor %}
 
+{% if upcoming.size > 0 %}
 <section class="home-section">
   <header class="home-section__head">
     <h2>Upcoming events</h2>
     <a class="home-link" href="/events/">All events <span aria-hidden="true">&rarr;</span></a>
   </header>
   <div class="home-grid">
-    {% if upcoming.size > 0 %}
-      {% for p in upcoming limit: 3 %}
-        {% capture t %}{% include event-time.html time=p.event_time %}{% endcapture %}
-        {% capture d %}{{ p.event_date | date: "%-d %b %Y" }}{% if p.event_date_end %} – {{ p.event_date_end | date: "%-d %b %Y" }}{% endif %}{% if t != "" %} · {{ t }}{% endif %}{% endcapture %}
-        {% include home/card.html post=p date=d cta="Event details" %}
-      {% endfor %}
-    {% else %}
-      {% for p in site.categories.events limit: 3 %}
-        {% capture d %}{{ p.event_date | default: p.date | date: "%-d %b %Y" }}{% endcapture %}
-        {% include home/card.html post=p date=d cta="Event details" %}
-      {% endfor %}
-    {% endif %}
+    {% for p in upcoming limit: 3 %}
+      {% capture t %}{% include event-time.html time=p.event_time %}{% endcapture %}
+      {% capture d %}{{ p.event_date | date: "%-d %b %Y" }}{% if p.event_date_end %} – {{ p.event_date_end | date: "%-d %b %Y" }}{% endif %}{% if t != "" %} · {{ t }}{% endif %}{% endcapture %}
+      {% include home/card.html post=p date=d cta="Event details" %}
+    {% endfor %}
   </div>
 </section>
+{% endif %}
 
 <section class="home-section">
   <header class="home-section__head">
@@ -125,18 +120,21 @@ layout: home
   </div>
 </section>
 
+{% comment %}
+  Open positions only: same rule as "Current job openings" on /job-openings/ (see _includes/deadline-status.html).
+  The section is hidden when there are none.
+{% endcomment %}
+{% assign open_jobs = "" | split: "" %}
+{% for p in site.categories.job-openings %}
+  {% include deadline-status.html post=p %}
+  {% unless job_closed %}{% assign open_jobs = open_jobs | push: p %}{% endunless %}
+{% endfor %}
+{% if open_jobs.size > 0 %}
 <section class="home-section">
   <header class="home-section__head">
     <h2>Job openings</h2>
     <a class="home-link" href="/job-openings/">All job openings <span aria-hidden="true">&rarr;</span></a>
   </header>
-  {% comment %} Open positions only: same rule as "Current job openings" on /job-openings/ (see _includes/deadline-status.html) {% endcomment %}
-  {% assign open_jobs = "" | split: "" %}
-  {% for p in site.categories.job-openings %}
-    {% include deadline-status.html post=p %}
-    {% unless job_closed %}{% assign open_jobs = open_jobs | push: p %}{% endunless %}
-  {% endfor %}
-  {% if open_jobs.size > 0 %}
   <div class="home-grid">
     {% for p in open_jobs limit: 3 %}
       {% include deadline-status.html post=p %}
@@ -148,10 +146,8 @@ layout: home
       {% include home/card.html post=p date=d cta="View opening" fit="contain" %}
     {% endfor %}
   </div>
-  {% else %}
-  <p class="list-empty">No open positions right now. Have a look at <a href="/job-openings/">earlier job openings</a>, or <a href="/follow/">follow us</a> to hear about new ones.</p>
-  {% endif %}
 </section>
+{% endif %}
 
 <section class="home-cta">
   <div>
