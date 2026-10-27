@@ -130,20 +130,11 @@ layout: home
     <h2>Job openings</h2>
     <a class="home-link" href="/job-openings/">All job openings <span aria-hidden="true">&rarr;</span></a>
   </header>
-  {% comment %}
-    Open positions only: deadline not passed. Posts without a real deadline (none, or "Rolling")
-    count as open for 3 months after posting.
-  {% endcomment %}
-  {% assign jobs_cutoff = site.time | date: "%s" | minus: 7776000 | date: "%Y%m%d" | plus: 0 %}
+  {% comment %} Open positions only: same rule as "Current job openings" on /job-openings/ (see _includes/deadline-status.html) {% endcomment %}
   {% assign open_jobs = "" | split: "" %}
   {% for p in site.categories.job-openings %}
     {% include deadline-status.html post=p %}
-    {% if deadline_num > 0 %}
-      {% unless deadline_past %}{% assign open_jobs = open_jobs | push: p %}{% endunless %}
-    {% else %}
-      {% assign posted = p.date | date: "%Y%m%d" | plus: 0 %}
-      {% if posted >= jobs_cutoff %}{% assign open_jobs = open_jobs | push: p %}{% endif %}
-    {% endif %}
+    {% unless job_closed %}{% assign open_jobs = open_jobs | push: p %}{% endunless %}
   {% endfor %}
   {% if open_jobs.size > 0 %}
   <div class="home-grid">

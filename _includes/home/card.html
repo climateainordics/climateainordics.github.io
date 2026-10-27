@@ -16,9 +16,11 @@
   {% if card_end < card_today %}{% assign card_past = true %}{% endif %}
 {% endif %}
 {% assign card_deadline_past = false %}
+{% assign card_job_stale = false %}
 {% if include.date and p.categories contains "job-openings" %}
   {% include deadline-status.html post=p %}
   {% assign card_deadline_past = deadline_past %}
+  {% assign card_job_stale = job_stale %}
 {% endif %}
 <article class="home-card"{% if include.cat %} data-cat="{{ include.cat }}"{% endif %}>
   <a class="home-card__media{% if include.fit == 'contain' %} home-card__media--contain{% endif %}{% unless img %} home-card__media--fallback{% endunless %}" href="{{ p.url }}" tabindex="-1" aria-hidden="true">
@@ -30,7 +32,7 @@
     {% if include.badge %}<span class="home-card__badge">{{ include.badge }}</span>{% endif %}
   </a>
   <div class="home-card__body">
-    {% if include.date %}<p class="home-card__meta">{{ include.date }}{% if card_past %} <span class="home-card__past">· This event has passed</span>{% endif %}{% if card_deadline_past %} <span class="home-card__past">· Deadline passed</span>{% endif %}</p>{% endif %}
+    {% if include.date %}<p class="home-card__meta">{{ include.date }}{% if card_past %} <span class="home-card__past">· This event has passed</span>{% endif %}{% if card_deadline_past %} <span class="home-card__past">· Deadline passed</span>{% endif %}{% if card_job_stale %} <span class="home-card__past">· Likely closed</span>{% endif %}</p>{% endif %}
     <h3 class="home-card__title"><a href="{{ p.url }}">{{ include.title | default: p.title }}</a></h3>
     {% if include.summary and p.summary %}
       <p class="home-card__summary">{{ p.summary | markdownify | strip_html | normalize_whitespace | truncatewords: 22 }}</p>

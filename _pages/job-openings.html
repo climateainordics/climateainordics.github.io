@@ -5,6 +5,8 @@ layout: home
 ---
 {% comment %}
   New items are added as posts in job-openings/_posts. This file only controls how they are presented.
+  Current = deadline not passed; posts without a deadline date count as current for 3 months
+  (see _includes/deadline-status.html).
 {% endcomment %}
 
 <header class="list-header">
@@ -16,9 +18,38 @@ layout: home
   </p>
 </header>
 
-<div class="home-grid list-grid">
-  {% for p in site.categories.job-openings %}
-    {% capture d %}{{ p.date | date: "%-d %b %Y" }}{% endcapture %}
-    {% include home/card.html post=p date=d cta="View opening" fit="contain" %}
-  {% endfor %}
-</div>
+{% assign current_jobs = "" | split: "" %}
+{% assign past_jobs = "" | split: "" %}
+{% for p in site.categories.job-openings %}
+  {% include deadline-status.html post=p %}
+  {% if job_closed %}{% assign past_jobs = past_jobs | push: p %}{% else %}{% assign current_jobs = current_jobs | push: p %}{% endif %}
+{% endfor %}
+
+<section class="home-section list-section">
+  <header class="home-section__head"><h2>Current job openings</h2></header>
+  {% if current_jobs.size > 0 %}
+  <div class="home-grid">
+    {% for p in current_jobs %}
+      {% include deadline-status.html post=p %}
+      {% if deadline_num > 0 %}
+        {% capture d %}Apply by {{ deadline_raw | date: "%-d %b %Y" }}{% endcapture %}
+      {% else %}
+        {% capture d %}Posted {{ p.date | date: "%-d %b %Y" }}{% endcapture %}
+      {% endif %}
+      {% include home/card.html post=p date=d cta="View opening" fit="contain" %}
+    {% endfor %}
+  </div>
+  {% else %}
+  <p class="list-empty">No open positions right now. <a href="/follow/">Follow us</a> or <a href="/join/">join the network</a> to hear about new ones first.</p>
+  {% endif %}
+</section>
+
+<section class="home-section list-section">
+  <header class="home-section__head"><h2>Past job openings</h2></header>
+  <div class="home-grid">
+    {% for p in past_jobs %}
+      {% capture d %}{{ p.date | date: "%-d %b %Y" }}{% endcapture %}
+      {% include home/card.html post=p date=d cta="View opening" fit="contain" %}
+    {% endfor %}
+  </div>
+</section>

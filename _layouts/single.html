@@ -72,18 +72,22 @@ layout: default
             {% unless event_end < build_day %}{% include event-actions.html %}{% endunless %}
           {% elsif page.date and cat_label %}
             <p class="post-header__date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time></p>
-            {% if post_cat == "job-openings" and deadline_raw != "" %}
-            <dl class="event-facts{% if deadline_past %} event-facts--past{% endif %}">
-              {% if deadline_past %}
+            {% assign show_job_box = false %}
+            {% if post_cat == "job-openings" %}{% if deadline_raw != "" or job_stale %}{% assign show_job_box = true %}{% endif %}{% endif %}
+            {% if show_job_box %}
+            <dl class="event-facts{% if job_closed %} event-facts--past{% endif %}">
+              {% if job_closed %}
               <div class="event-facts__item event-facts__item--status">
                 <dt class="screen-reader-text">Status</dt>
-                <dd><i class="fas fa-fw fa-clock-rotate-left" aria-hidden="true"></i> The application deadline has passed</dd>
+                <dd><i class="fas fa-fw fa-clock-rotate-left" aria-hidden="true"></i> {% if deadline_past %}The application deadline has passed{% else %}Posted more than 3 months ago, likely closed{% endif %}</dd>
               </div>
               {% endif %}
+              {% if deadline_raw != "" %}
               <div class="event-facts__item">
                 <dt><i class="fas fa-fw fa-hourglass-half" aria-hidden="true"></i> Application deadline</dt>
                 <dd>{% if deadline_num > 0 %}{{ deadline_raw | date: "%a %-d %B %Y" }}{% else %}{{ deadline_raw }}{% endif %}</dd>
               </div>
+              {% endif %}
             </dl>
             {% endif %}
           {% endif %}
