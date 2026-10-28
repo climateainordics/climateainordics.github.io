@@ -23,7 +23,7 @@ event_date: 2026-09-17
 event_time: "15:00"
 event_location: "RISE Lund Office (Scheelevägen 17)"
 image: /images/posts/2026-09-15-2026-09-17-tree-level-co2-and-h2o-physiology.jpg
-youtube: ""
+youtube: "YyWUYAdqK6s"
 --- 
 Welcome to this week's Learning Machines seminar.
 
@@ -67,7 +67,7 @@ This seminar will have an in-person presence at RISE Lund Office (Scheelevägen 
 * 2026-11-05: Anastasia Kakouri, University of Aegean
 * All seminars are 15:00 CET.
 
-More information and coming seminars: [https://ri.se/lm-sem](https://ri.se/lm-sem)
+More information and coming seminars: [https://learningmachines.se](https://learningmachines.se)
 
 -- The Learning Machines Team
 
