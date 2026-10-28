@@ -19,7 +19,7 @@ event_date: 2026-10-08
 event_time: "15:00"
 event_location: ""
 image: /images/posts/2026-09-15-2026-10-08-machine-perception-for-scientific-measurement-from.png
-youtube: ""
+youtube: "6xryrxiLMS"
 --- 
 Welcome to this week's Learning Machines seminar.
 
