@@ -1,6 +1,6 @@
 ---
-title: "Master's Thesis: Robust and Uncertainty-Aware Urban Land-Cover Mapping at Property Scale"
-summary: "IVL Swedish Environmental Research Institute seeks a master's student to work on a thesis project focused on improving urban land-cover mapping using AI, aerial imagery, and GIS data."
+title: "Master's thesis: Robust and uncertainty-aware urban land-cover mapping at property scale"
+summary: "A master's student is sought to work on a real-world research challenge at IVL Svenska Miljöinstitutet, focusing on urban land-cover mapping using AI, aerial imagery, and GIS to support climate and biodiversity planning."
 people:
 permalink:
 image: 
@@ -9,10 +9,10 @@ deadline: November 30th, 2026
 ---
 
 
-<!-- CAIN relevance: 85/100; ai_ml 25/35; climate_environment 30/35; nordic 20/20; research 10/10. Editorial triage score, not a verified qualification. -->
-This master's thesis project involves using AI, aerial imagery, and GIS data to develop robust and uncertainty-aware methods for urban land-cover mapping at the property scale. The goal is to improve the reliability of climate and biodiversity planning by creating detailed land-cover maps that can be used for urban heat, permeability, and water runoff assessments. The project builds on existing models, data, and mapping workflows, and explores methods to enhance model robustness under challenging conditions such as seasonal changes, shadows, and tree canopies.
+<!-- CAIN relevance: 88/100; ai_ml 30/35; climate_environment 30/35; nordic 20/20; research 8/10. Editorial triage score, not a verified qualification. -->
+This thesis project involves using AI and remote sensing data to improve the accuracy and robustness of urban land-cover mapping at property scale. The work will explore methods to enhance segmentation under challenging conditions and develop detailed classifications of hard surfaces for environmental applications. The project is part of the Krontech initiative, which aims to create a practical tool for property-level land-cover analysis.
 
-The thesis can be carried out in Stockholm, Gothenburg, or Malmö, Sweden. It is a hybrid position with flexible start dates and is part of the Krontech research project, which involves collaboration with IVL Swedish Environmental Research Institute and its project partners.
+The thesis can be carried out in Stockholm, Gothenburg, or Malmö, Sweden. It is a hybrid position, allowing for a combination of on-site and remote work.
 
 Key qualifications:
 - Experience in programming in Python.
@@ -21,4 +21,4 @@ Key qualifications:
 
 **Deadline:** November 30th, 2026
 
-[View the official job posting](https://career.ivl.se/en-GB/jobs/8512589-master-s-thesis-robust-and-uncertainty-aware-urban-land-cover-mapping-at-property-scale?utm_source=LinkedIn)
+[Apply through the official recruitment system](https://career.ivl.se/en-GB/jobs/8512589-master-s-thesis-robust-and-uncertainty-aware-urban-land-cover-mapping-at-property-scale?utm_source=LinkedIn)
