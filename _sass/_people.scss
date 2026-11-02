@@ -214,6 +214,63 @@
   .people-entry__topics { display: none; } // keep the cards compact; topics still work in the filters
 }
 
+/* About page board: one row per person, photo left and text right.
+   All photos get the same height and keep their own proportions (no cropping). */
+.about-board {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1em 1.25em;
+  margin: 0 0 2.5em;
+
+  h2 {
+    grid-column: 1 / -1;
+    margin: 0.5em 0 0;
+    font-size: $type-size-3;
+  }
+
+  .content {
+    padding: 1em;
+    border: 1px solid rgba($brand-dark, 0.1);
+    border-radius: 14px;
+    background: #fff;
+    overflow-wrap: anywhere;
+  }
+
+  .content > p {
+    display: grid;
+    grid-template-columns: 7.5em minmax(0, 1fr); // photo column, text column
+    column-gap: 1em;
+    align-items: start;
+    margin: 0;
+  }
+
+  img,
+  .people-entry__photo {
+    grid-row: 1 / span 3;
+    display: block;
+    justify-self: center;
+    width: auto !important;
+    max-width: 100% !important;
+    height: auto;
+    max-height: 7.5em;
+    margin: 0 !important;
+    padding: 0 !important;
+    float: none !important;
+    border-radius: 10px;
+  }
+
+  .people-entry__head,
+  .people-entry__topics,
+  .people-entry__links { grid-column: 2; }
+
+  @media (max-width: 760px) {
+    grid-template-columns: minmax(0, 1fr);
+
+    .content > p { grid-template-columns: 5.5em minmax(0, 1fr); }
+    img, .people-entry__photo { max-height: 5.5em; }
+  }
+}
+
 /* Members: compact two-column directory */
 .people-list {
   display: grid;

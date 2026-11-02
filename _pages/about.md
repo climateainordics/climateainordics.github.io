@@ -46,7 +46,15 @@ By bringing together researchers in the Nordic countries, Climate AI Nordics aim
 
 The CAIN board (see below) plans events, collects information for and runs our webpage, takes care of our social media channels, and compiles and edits our newsletters. 
 
+{% comment %} The board list is auto-generated (never edit it): styled by .about-board in _sass/_people.scss,
+   tidied by assets/js/people-directory.js. Photos keep their own proportions. {% endcomment %}
+<div class="about-board" markdown="1">
+
 {% include board-from-form.md %}
+
+</div>
+
+{% include base_path %}<script src="{{ base_path }}/assets/js/people-directory.js?v={{ site.time | date: '%s' }}" defer></script>
 
 ## What are the Nordics?
 

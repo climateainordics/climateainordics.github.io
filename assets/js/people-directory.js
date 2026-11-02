@@ -1,5 +1,6 @@
 /* People page (/people/): tidies the auto-generated board and member entries and adds
    search + topic filters. Without JavaScript the page still shows the plain lists.
+   The About page (/about/) uses it too, for its board list (.about-board), without the filters.
 
    Each generated entry looks like:
    <div class="content" data-tags="A,B">
@@ -21,7 +22,7 @@
     { match: /github/i, icon: 'fab fa-github', label: 'GitHub' }
   ];
 
-  var entries = Array.prototype.slice.call(document.querySelectorAll('.people-board .content, .people-list .content'));
+  var entries = Array.prototype.slice.call(document.querySelectorAll('.people-board .content, .people-list .content, .about-board .content'));
   if (!entries.length) return;
 
   function el(tag, cls, text) {
@@ -98,6 +99,7 @@
 
   var bar = document.getElementById('people-topics');
   var search = document.getElementById('people-search');
+  if (!bar || !search) return; // About page: entries tidied, no filters
   var count = document.getElementById('people-count');
   var empty = document.getElementById('people-empty');
   var active = 'all';
