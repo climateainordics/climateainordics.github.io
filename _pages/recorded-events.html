@@ -19,14 +19,18 @@ layout: home
 {% assign recorded = "" | split: "" %}
 {% for p in events_sorted %}{% unless p.youtube == blank %}{% assign recorded = recorded | push: p %}{% endunless %}{% endfor %}
 
-<div class="video-grid">
+<div class="video-grid" data-load-more="8">
   {% for p in recorded %}
     {% assign id_with_rest = p.youtube | split: 'v=' | last %}
     {% assign video_id = id_with_rest | split: '&' | first | split: '/' | last %}
     {% capture t %}{% include event-time.html time=p.event_time %}{% endcapture %}
     <article class="video-card">
+      {% comment %} A thumbnail with a play button; the YouTube player only loads when clicked (27 players up front made the page slow) {% endcomment %}
       <div class="video-card__player">
-        <iframe src="https://www.youtube.com/embed/{{ video_id }}" title="{{ p.title | escape }}" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <a class="video-card__thumb" href="https://www.youtube.com/watch?v={{ video_id }}" data-video="{{ video_id }}" data-title="{{ p.title | escape }}" aria-label="Play video: {{ p.title | escape }}">
+          <img src="https://i.ytimg.com/vi/{{ video_id }}/hqdefault.jpg" alt="" loading="lazy">
+          <span class="video-card__play" aria-hidden="true"><i class="fas fa-play"></i></span>
+        </a>
       </div>
       <div class="home-card__body">
         <p class="home-card__meta">{{ p.event_date | default: p.date | date: "%-d %b %Y" }}</p>
@@ -36,3 +40,23 @@ layout: home
     </article>
   {% endfor %}
 </div>
+
+<script>
+  // click a thumbnail: swap it for the YouTube player (autoplay); without JS the link opens YouTube
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest('.video-card__thumb');
+    if (!a) return;
+    e.preventDefault();
+    var f = document.createElement('iframe');
+    f.src = 'https://www.youtube.com/embed/' + a.getAttribute('data-video') + '?autoplay=1';
+    f.title = a.getAttribute('data-title');
+    f.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+    f.referrerPolicy = 'strict-origin-when-cross-origin';
+    f.allowFullscreen = true;
+    f.setAttribute('frameborder', '0');
+    a.parentNode.replaceChild(f, a);
+    f.focus();
+  });
+</script>
+
+{% include load-more.html %}

@@ -16,10 +16,12 @@ layout: home
   </p>
 </header>
 
-<div class="home-grid list-grid">
+<div class="home-grid list-grid" data-load-more="12">
   {% for p in site.categories.featured-member %}
     {% assign person = p.people | first | default: p.title %}
     {% capture d %}{{ p.date | date: "%B %Y" }}{% endcapture %}
     {% include home/card.html post=p date=d cta="Meet them" summary=true title=person %}
   {% endfor %}
 </div>
+
+{% include load-more.html %}

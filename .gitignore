@@ -18,3 +18,5 @@ backup_events/
 .venv/
 .syncthing*
 
+CLAUDE.md
+claude-docs/

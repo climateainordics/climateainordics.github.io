@@ -98,7 +98,9 @@
   background: #fff;
 
   &__player {
+    position: relative;
     aspect-ratio: 16 / 9;
+    overflow: hidden;
     background: $brand-dark;
 
     iframe {
@@ -107,7 +109,72 @@
       height: 100%;
     }
   }
+
+  // thumbnail + play button in place of the player, until clicked
+  &__thumb {
+    position: absolute;
+    inset: 0;
+    display: block;
+
+    img {
+      display: block;
+      width: 100% !important;
+      height: 100%;
+      margin: 0 !important;
+      object-fit: cover; // YouTube thumbnails are 4:3 with black bars; crop to 16:9
+    }
+  }
+
+  &__play {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 4em;
+    height: 4em;
+    margin: -2em 0 0 -2em;
+    border-radius: 50%;
+    background: rgba($brand-dark, 0.85);
+    color: #fff;
+    font-size: $type-size-5;
+    transition: background-color 0.15s ease, transform 0.15s ease;
+
+    i { margin-left: 0.15em; } // the triangle looks centred
+  }
+
+  &__thumb:hover &__play,
+  &__thumb:focus &__play { background: $brand-color; transform: scale(1.08); }
 }
+
+.video-card[hidden] { display: none; }
+
+/* "Load more" under long lists (assets/js/load-more.js) */
+.load-more {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.6em;
+  margin: 2em 0 0;
+
+  &__status {
+    margin: 0;
+    font-size: $type-size-6 * 1.1;
+    color: $dark-gray;
+  }
+
+  &__btn {
+    background: #fff;
+    cursor: pointer;
+  }
+
+  @media (max-width: 600px) {
+    .load-more__btn { width: 100%; }
+  }
+}
+
+.load-more[hidden] { display: none; }
 
 /* cards hidden by the filter chips (display: flex would otherwise win over [hidden]) */
 .home-card[hidden] { display: none; }
