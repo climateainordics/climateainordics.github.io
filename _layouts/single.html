@@ -110,7 +110,7 @@ layout: default
           {% for img in page.image_grid limit: 4 %}<img src="{{ img.src }}" alt="{{ img.alt }}">{% endfor %}
         </div>
   {% elsif page.image %}
-	<img class="post-image" src="{{ page.image }}"{% if page.image_width %} style="width: {{ page.image_width }};"{% endif %} alt="{{ page.imagealt }}" />
+	<img class="post-image" src="{{ page.image }}"{% if page.image_width %} style="max-width: {{ page.image_width }};"{% endif %} alt="{{ page.imagealt }}" />
 		  
 	{% comment %}
     Attempt to adjust image size

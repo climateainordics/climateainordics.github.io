@@ -108,6 +108,7 @@ img {
   max-width: 100%; /* part 1: Set a maximum relative to the parent*/
   width: auto\9; /* IE7-8 need help adjusting responsive images*/
   height: auto; /* part 2: Scale the height according to the width, otherwise you get stretching*/
+  object-fit: contain; /* never distort: if width and height are both forced, letterbox instead of stretching */
 
   vertical-align: middle;
   border: 0;

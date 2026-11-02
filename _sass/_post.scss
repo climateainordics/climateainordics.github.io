@@ -109,7 +109,9 @@
   @media (max-width: 600px) { width: 8em; }
 }
 
-/* Header image: never taller than a screenful, keeps its proportions */
+/* Header image: never taller than a screenful, keeps its proportions.
+   `image_width` in front matter becomes a max-width (not a width), so the height cap
+   and the width cap shrink the photo together instead of squashing it. */
 .page__content > .post-image,
 .post-image {
   display: block;
