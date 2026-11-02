@@ -46,10 +46,12 @@ layout: home
 
 <section class="home-section list-section">
   <header class="home-section__head"><h2>Past job openings</h2></header>
-  <div class="home-grid">
+  <div class="home-grid" data-load-more="12">
     {% for p in past_jobs %}
       {% capture d %}{{ p.date | date: "%-d %b %Y" }}{% endcapture %}
       {% include home/card.html post=p date=d cta="View opening" fit="contain" %}
     {% endfor %}
   </div>
 </section>
+
+{% include load-more.html %}

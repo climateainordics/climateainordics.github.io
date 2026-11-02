@@ -49,7 +49,7 @@ layout: home
     <h2>Past events</h2>
     <a class="home-link" href="/recorded-events/">Recordings <span aria-hidden="true">&rarr;</span></a>
   </header>
-  <div class="home-grid">
+  <div class="home-grid" data-load-more="12">
     {% for p in past %}
       {% capture d %}{{ p.event_date | default: p.date | date: "%-d %b %Y" }}{% endcapture %}
       {% if p.youtube and p.youtube != "" %}
@@ -60,3 +60,5 @@ layout: home
     {% endfor %}
   </div>
 </section>
+
+{% include load-more.html %}

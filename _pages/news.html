@@ -25,7 +25,7 @@ layout: home
   <button type="button" class="list-filter" data-filter="job-openings" aria-pressed="false">Job openings</button>
 </div>
 
-<div class="home-grid list-grid" id="news-grid">
+<div class="home-grid list-grid" id="news-grid" data-load-more="12">
 {% for p in site.posts %}
   {% assign cat = p.categories | first %}
   {% if cat == "news" or cat == "job-openings" or cat == "featured-member" or cat == "featured-works" %}
@@ -48,7 +48,8 @@ layout: home
 <script>
   (function () {
     var buttons = document.querySelectorAll('.list-filter');
-    var cards = document.querySelectorAll('#news-grid .home-card');
+    var grid = document.getElementById('news-grid');
+    var cards = grid.querySelectorAll('.home-card');
     buttons.forEach(function (btn) {
       btn.addEventListener('click', function () {
         var f = btn.getAttribute('data-filter');
@@ -57,9 +58,14 @@ layout: home
           b.setAttribute('aria-pressed', b === btn ? 'true' : 'false');
         });
         cards.forEach(function (c) {
-          c.hidden = !(f === 'all' || c.getAttribute('data-cat') === f);
+          var out = !(f === 'all' || c.getAttribute('data-cat') === f);
+          if (out) c.setAttribute('data-filtered-out', ''); else c.removeAttribute('data-filtered-out');
+          c.hidden = out;
         });
+        if (grid.loadMoreRefresh) grid.loadMoreRefresh(); // back to the first 12 matching cards
       });
     });
   })();
 </script>
+
+{% include load-more.html %}
