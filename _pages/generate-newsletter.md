@@ -347,9 +347,15 @@ If you know colleagues in academia, public agencies, or industry who share these
   {% for p in site.posts %}
     {% unless p.categories contains 'job-openings' %}{% continue %}{% endunless %}
     {% capture posttime %}{{ p.date | date: '%s'}}{% endcapture %}
-    {% if p.deadline %}{% capture deadlinetime %}{{ p.deadline | date: '%s'}}{% endcapture %}{% else %}{% assign deadlinetime = "1970-01-01" | date: '%s' %}{% endif %}
-    {% if posttime < newsletter_start_time and deadlinetime < nowtime %}
-      {% continue %}
+    {% comment %}
+      Older job openings are repeated only while they have a real deadline that hasn't passed.
+      "Rolling" or a missing deadline counts as no date: such openings appear once, in the first
+      newsletter after they were posted. (Before, "Rolling" slipped through and repeated forever.)
+    {% endcomment %}
+    {% include deadline-status.html post=p %}
+    {% if deadline_num > 0 %}{% capture deadlinetime %}{{ p.deadline | date: '%s'}}{% endcapture %}{% else %}{% assign deadlinetime = "1970-01-01" | date: '%s' %}{% endif %}
+    {% if posttime < newsletter_start_time %}
+      {% if deadline_num == 0 or deadline_past %}{% continue %}{% endif %}
     {% endif %}
 
     {% assign items_listed = true %}
@@ -367,7 +373,7 @@ If you know colleagues in academia, public agencies, or industry who share these
 {{ p.summary }}<br />
 
 {% capture oneweektime %}{{ nowtime | plus: 604800 }}{% endcapture %}
-{% if p.deadline != null and p.deadline != "" %}{% if deadlinetime < oneweektime %}<span style="font-weight: bold; color: #f00;">{% endif %}Deadline: {{ p.deadline }}{% if deadlinetime < oneweektime %}</span>{% endif %}<br />{% endif %}
+{% if p.deadline != null and p.deadline != "" %}{% if deadline_num > 0 and deadlinetime < oneweektime %}<span style="font-weight: bold; color: #f00;">{% endif %}Deadline: {{ p.deadline }}{% if deadline_num > 0 and deadlinetime < oneweektime %}</span>{% endif %}<br />{% endif %}
 
 **[Read more!](https://climateainordics.com{{ p.url }})**
     {% endif %}
