@@ -19,6 +19,8 @@ youtube: ""
 --- 
 Welcome to this week's Learning Machines seminar.
 
+This seminar is a collaboration between RISE and Climate AI Nordics -- [climateainordics.com](https://climateainordics.com/).
+
 **Title:** Learning when and where to adapt: Reinforcement learning for climate-resilient urban transport
 
 **Speaker:** Miguel Costa, Technical University of Denmark
