@@ -185,6 +185,34 @@ exclude:
   - README
   - tmp
   - vendor
+  # leftover AcademicPages template pages and files (not linked from the site; removed 2026-11-03)
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/events-without-sorting.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/sitemap.md
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/teaching.html
+  - _pages/terms.md
+  - _pages/year-archive.html
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - files/slides1.pdf
+  - files/slides2.pdf
+  - files/slides3.pdf
+  - markdown_generator
+  - CONTRIBUTING.md
+  # internal notes, gitignored anyway; never publish them
+  - CLAUDE.md
+  - claude-docs
 keep_files:
   - .git
   - .svn
@@ -220,6 +248,18 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # drafts (drafts/_posts, previewed at /drafts/): reachable by link, but kept out of
+  # search engines and the sitemap. `noindex` is read in _includes/head/custom.html.
+  - scope:
+      path: "drafts"
+    values:
+      sitemap: false
+      noindex: true
+  # images (e.g. the core-team graphic page) stay out of the sitemap
+  - scope:
+      path: "images"
+    values:
+      sitemap: false
   # _posts
   - scope:
       path: ""

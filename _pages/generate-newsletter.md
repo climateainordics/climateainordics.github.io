@@ -1,4 +1,6 @@
 ---
+sitemap: false # internal page: not in the sitemap or search engines
+noindex: true
 title: "Climate AI Nordics Newsletter"
 excerpt: "Climate AI Nordics Newsletter"
 permalink: /generate-newsletter/

@@ -1,4 +1,6 @@
 ---
+sitemap: false # internal page: not in the sitemap or search engines
+noindex: true
 permalink: /drafts/
 title: "Climate AI Nordics Drafts"
 excerpt: "Climate AI Nordics Drafts"
