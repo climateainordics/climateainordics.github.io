@@ -55,8 +55,8 @@ layout: home
 <p class="list-empty" id="news-empty" hidden>Nothing matches your search. Try other words, or pick another filter above.</p>
 
 <script>
-  // Filter chips + search box. Both mark non-matching cards with data-filtered-out;
-  // load-more.js then shows the first 12 matches. ?q=... in the URL fills the search box.
+  /* Filter chips + search box. Both mark non-matching cards with data-filtered-out; */
+  /* load-more.js then shows the first 12 matches. ?q=... in the URL fills the search box. */
   (function () {
     var grid = document.getElementById('news-grid');
     var cards = grid.querySelectorAll('.home-card');
@@ -79,7 +79,7 @@ layout: home
       empty.hidden = any;
       count.hidden = !words.length || !any;
       count.textContent = n === 1 ? '1 match' : n + ' matches';
-      if (grid.loadMoreRefresh) grid.loadMoreRefresh(); // back to the first 12 matching cards
+      if (grid.loadMoreRefresh) grid.loadMoreRefresh(); /* back to the first 12 matching cards */
     }
 
     buttons.forEach(function (btn) {
