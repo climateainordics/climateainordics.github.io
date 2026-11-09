@@ -17,6 +17,11 @@ layout: home
   </p>
 </header>
 
+<label class="list-search">
+  <i class="fas fa-magnifying-glass" aria-hidden="true"></i>
+  <input type="search" id="news-search" placeholder="Search news, e.g. workshop 2025" aria-label="Search news" autocomplete="off">
+</label>
+
 <div class="list-filters" role="group" aria-label="Filter news">
   <button type="button" class="list-filter is-active" data-filter="all" aria-pressed="true">All</button>
   <button type="button" class="list-filter" data-filter="news" aria-pressed="false">News</button>
@@ -24,6 +29,8 @@ layout: home
   <button type="button" class="list-filter" data-filter="featured-member" aria-pressed="false">Featured members</button>
   <button type="button" class="list-filter" data-filter="job-openings" aria-pressed="false">Job openings</button>
 </div>
+
+<p class="list-count" id="news-count" aria-live="polite" hidden></p>
 
 <div class="home-grid list-grid" id="news-grid" data-load-more="12">
 {% for p in site.posts %}
@@ -37,34 +44,58 @@ layout: home
     {% endcase %}
     {% capture d %}{{ label }} · {{ p.date | date: "%-d %b %Y" }}{% endcapture %}
     {% if cat == "job-openings" %}
-      {% include home/card.html post=p date=d cta="View opening" fit="contain" cat=cat %}
+      {% include home/card.html post=p date=d cta="View opening" fit="contain" cat=cat search=true %}
     {% else %}
-      {% include home/card.html post=p date=d summary=true cat=cat %}
+      {% include home/card.html post=p date=d summary=true cat=cat search=true %}
     {% endif %}
   {% endif %}
 {% endfor %}
 </div>
 
+<p class="list-empty" id="news-empty" hidden>Nothing matches your search. Try other words, or pick another filter above.</p>
+
 <script>
+  // Filter chips + search box. Both mark non-matching cards with data-filtered-out;
+  // load-more.js then shows the first 12 matches. ?q=... in the URL fills the search box.
   (function () {
-    var buttons = document.querySelectorAll('.list-filter');
     var grid = document.getElementById('news-grid');
     var cards = grid.querySelectorAll('.home-card');
+    var buttons = document.querySelectorAll('.list-filter');
+    var search = document.getElementById('news-search');
+    var empty = document.getElementById('news-empty');
+    var count = document.getElementById('news-count');
+    var filter = 'all';
+
+    function apply() {
+      var words = search.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+      var any = false, n = 0;
+      cards.forEach(function (c) {
+        var text = c.getAttribute('data-search') || '';
+        var ok = (filter === 'all' || c.getAttribute('data-cat') === filter) &&
+          words.every(function (w) { return text.indexOf(w) !== -1; });
+        if (ok) { c.removeAttribute('data-filtered-out'); any = true; n++; } else c.setAttribute('data-filtered-out', '');
+        c.hidden = !ok;
+      });
+      empty.hidden = any;
+      count.hidden = !words.length || !any;
+      count.textContent = n === 1 ? '1 match' : n + ' matches';
+      if (grid.loadMoreRefresh) grid.loadMoreRefresh(); // back to the first 12 matching cards
+    }
+
     buttons.forEach(function (btn) {
       btn.addEventListener('click', function () {
-        var f = btn.getAttribute('data-filter');
+        filter = btn.getAttribute('data-filter');
         buttons.forEach(function (b) {
           b.classList.toggle('is-active', b === btn);
           b.setAttribute('aria-pressed', b === btn ? 'true' : 'false');
         });
-        cards.forEach(function (c) {
-          var out = !(f === 'all' || c.getAttribute('data-cat') === f);
-          if (out) c.setAttribute('data-filtered-out', ''); else c.removeAttribute('data-filtered-out');
-          c.hidden = out;
-        });
-        if (grid.loadMoreRefresh) grid.loadMoreRefresh(); // back to the first 12 matching cards
+        apply();
       });
     });
+    search.addEventListener('input', apply);
+
+    var q = new URLSearchParams(window.location.search).get('q');
+    if (q) { search.value = q; apply(); }
   })();
 </script>
 

@@ -4,6 +4,7 @@
           fit ("contain" for logos, e.g. job openings), summary (true/false),
           title (overrides the post title), badge (small label on the image),
           cat (sets data-cat, used by the filter chips on /news/),
+          search (true: data-search with title, summary, people and date, for the search box on /news/),
           highlight (true: teal outline and a "Flagship event" badge, for events with `highlight: true`).
 {% endcomment %}
 {% assign p = include.post %}
@@ -24,7 +25,8 @@
   {% assign card_job_stale = job_stale %}
 {% endif %}
 {% assign card_badge = include.badge %}
-<article class="home-card{% if include.highlight %} home-card--highlight{% endif %}"{% if include.cat %} data-cat="{{ include.cat }}"{% endif %}>
+{% if include.search %}{% capture card_search %}{{ include.title | default: p.title }} {{ p.summary | markdownify | strip_html }} {{ p.people | join: " " }} {{ include.date }} {{ p.date | date: "%B %Y" }}{% endcapture %}{% endif %}
+<article class="home-card{% if include.highlight %} home-card--highlight{% endif %}"{% if include.cat %} data-cat="{{ include.cat }}"{% endif %}{% if include.search %} data-search="{{ card_search | normalize_whitespace | downcase | escape }}"{% endif %}>
   <a class="home-card__media{% if include.fit == 'contain' %} home-card__media--contain{% endif %}{% unless img %} home-card__media--fallback{% endunless %}" href="{{ p.url }}" tabindex="-1" aria-hidden="true">
     {% if img %}
       <img src="{{ img }}" alt="" loading="lazy">

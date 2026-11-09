@@ -57,7 +57,8 @@
 /* Search box, topic buttons, result count */
 .people-filter { margin: 0 0 2em; }
 
-.people-search {
+.people-search,
+.list-search { // also the search box on /news/ (_pages/news.html)
   display: flex;
   align-items: center;
   gap: 0.6em;

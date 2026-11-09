@@ -34,6 +34,13 @@
   color: $brand-dark;
 }
 
+/* Search result count (/news/) */
+.list-count {
+  margin: -0.75em 0 1.25em;
+  font-size: $type-size-6 * 1.1;
+  color: $dark-gray;
+}
+
 /* Filter chips (/news/) */
 .list-filters {
   display: flex;
