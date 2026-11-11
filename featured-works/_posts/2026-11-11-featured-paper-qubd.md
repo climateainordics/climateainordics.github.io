@@ -15,11 +15,11 @@ summary: "This month's Climate AI Nordics featured paper is \"Characterizing Lea
 title: 'Featured paper: Characterizing Learning in Deep Neural Networks using Tractable Algorithmic Complexity Analysis'
 ---
 
-Authors: Pedram Bakhtiarifard, Sophia N. Wilson, Mahmoud H. A. Afifi, Jonathan Wenshøj, **Raghavendra Selvan**<br />
+Authors: Pedram Bakhtiarifard, Sophia N. Wilson, Mahmoud H. A. Afifi, Jonathan Wenshøj, Raghavendra Selvan<br />
 University of Copenhagen and The American University in Cairo
 
 The latest Climate AI Nordics featured paper is [_Characterizing Learning in Deep Neural Networks using Tractable Algorithmic Complexity Analysis_](https://arxiv.org/abs/2605.15551),
-which will be presented at **NeurIPS 2026** in December. The work comes from the SAINTS Lab at the University of Copenhagen and was led by Pedram Bakhtiarifard, together with Climate AI Nordics member **Raghavendra Selvan** and colleagues.
+which will be presented at [NeurIPS 2026](https://neurips.cc/) in December. The work comes from the [SAINTS Lab](https://saintslab.github.io/) at the University of Copenhagen.
 
 Training large deep learning models requires energy-intensive data centers with a considerable environmental footprint. A common remedy is to **compress** trained models: pruning away most
 of their weights, or quantizing them down to just a few bits, often with only small drops in performance. But _why_ can modern neural networks be compressed so drastically in the first place?
