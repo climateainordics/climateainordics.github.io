@@ -23,7 +23,7 @@ event_date: 2026-11-05
 event_time: "15:00"
 event_location: ""
 image: /images/posts/2026-10-07-2026-11-05-atmostem-from-high-resolution-emission-mapping-to.png
-youtube: ""
+youtube: "BYWEPaIN_8s"
 --- 
 Welcome to this week's Learning Machines seminar.
 
