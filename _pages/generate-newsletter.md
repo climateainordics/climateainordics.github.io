@@ -152,9 +152,10 @@ If you know colleagues in academia, public agencies, or industry who share these
 
 {% assign items_listed = false %}
 
-{% comment %} FIRST, first_page ITEMS!!! {% endcomment %}
+{% comment %} The items are captured first, so the News heading only appears if there is at least one. {% endcomment %}
+{% capture news_items %}
 
-# News
+{% comment %} FIRST, first_page ITEMS!!! {% endcomment %}
 
 {% for p in site.posts %}
 {% unless p.categories contains 'news' %}{% continue %}{% endunless %}
@@ -211,7 +212,13 @@ If you know colleagues in academia, public agencies, or industry who share these
 {% endunless %}
 {% endfor %}
 
-{% unless items_listed %}No current news.{% endunless %}
+{% endcapture %}
+
+{% if items_listed %}
+# News
+
+{{ news_items }}
+{% endif %}
 
 {% comment %} ######### END, NEWS ########## {% endcomment %}
 
